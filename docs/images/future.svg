@@ -1,0 +1,6 @@
+<?xml-stylesheet type="text/css" href="../css/main.css" ?>
+<svg onclick="window.open('../projects.html#fow');" id="Layer_1" height='100px' width='100px'  fill="#000000" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 100 100" x="0px" y="0px"><title>38</title><g data-name="Group">
+<path class="st0" data-name="Compound Path" d="M3.3,37.9H22.2v4.5H14.4v4H34.1v-4H26.2V37.9H45.1V9.1H3.3Zm4-24.8H41.1V33.9H7.3Z"></path>
+<path class="st0" data-name="Compound Path" d="M96.7,91.9A18.9,18.9,0,0,0,84.3,74.2a11.6,11.6,0,1,0-12.9,0A18.9,18.9,0,0,0,58.9,91.9v3.7H96.7Zm-18.9-35a7.6,7.6,0,1,1-7.6,7.6A7.6,7.6,0,0,1,77.8,56.9ZM62.9,91.5a14.9,14.9,0,0,1,29.8,0Z"></path>
+<polygon class="st0" data-name="Path" points="65.9 3.4 52.3 17 65.9 30.6 68.7 27.8 59.9 19 86.1 19 86.1 45 90.1 45 90.1 15 59.9 15 68.7 6.2 65.9 3.4"></polygon>
+<polygon  class="st0" data-name="Path" points="34.4 69.4 31.5 72.2 40.3 81 14.1 81 14.1 55 10.1 55 10.1 85 40.3 85 31.5 93.8 34.4 96.6 47.9 83 34.4 69.4"></polygon></g></svg>
