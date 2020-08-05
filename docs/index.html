@@ -630,65 +630,7 @@ function myFunction() {
     x.style.display = "block";
   }
 }</script>
-<script>
 
-  window.watsonAssistantChatOptions = {
-
-  integrationID: "16e7bcda-0b62-4cd4-ae66-d30980d80bbb",
-
-  region: "us-east",
-
-  // OVERRIDE the Covid project strings.
-
-  covidStrings: {
-
-  greeting: "Hello, I&apos;m the",
-
-  watson_assistant: "Watson Assistant for New Jersey",
-
-  disclaimer_title: "Disclaimer for New Jersey",
-
-  disclaimer_body: "This tool provides information from the New Jersey COVID-19 Information Hub (covid19.nj.gov) to answer questions about COVID-19 and resources and policies in New Jersey. It is not intended for the diagnosis or treatment of disease and you should not provide any personally identifying or private health information. This tool is in beta and is a work in progress.",
-
-  disclaimer_accept: "I accept",
-
-  disclaimer_no_accept: "I do not accept",
-
-  // Only used for "large" or "reveal" launchers.
-
-  launcher_title: "Coronavirus questions?",
-
-  // Only used for "large" or "reveal" launchers.
-
-  launcher_body: "Chat with <b>our virtual assistant</b>",
-
-  launcher_alt_text:
-
-  "Watson Assistant can help you learn move about COVID-19",
-
-  },
-
-  // You can choose a 'small', 'large' or a 'reveal' launcher. On a phone sized device we will always show the 'small' launcher.
-
-  // The 'reveal' launcher introduces itself in 'large' mode, and then animates down to 'small' mode after a period of time. Defaults to 'small', but 'reveal' and 'large' are recommended.
-
-  covidLauncherVersion: 'reveal',
-
-  // OVERRIDE THE Z-INDEX OF THE LAUNCHER if it is underneath things or above things it shouldn't be.
-
-  covidLauncherZIndex: 99999,
-
-  onLoad: function (instance) {
-
-  instance.render();
-
-  },
-
-  };
-
-  setTimeout(function(){const t=document.createElement('script');t.src='https://web-chat.global.assistant.watson.appdomain.cloud/covid/webchat.js';document.head.appendChild(t);});
-
-  </script>
 
 
 </html>
