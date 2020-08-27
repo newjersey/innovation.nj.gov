@@ -19,7 +19,7 @@
     background-color: rgb(0,0,0); /* Fallback color */
     background-color: rgba(0,0,0,0); /* Black w/ opacity */
   }
-  
+
   /* Modal Content */
   .modal-content {
     background-color: rgb(206, 226, 238);
@@ -31,7 +31,7 @@
   .modal-content h1{
     font-size: 2rem;
   }
-  
+
   a.modal-button-link{
     color: #1B8BCF;
   }
@@ -40,7 +40,7 @@
     margin-right: auto;
     width: 60%;
   }
-  
+
   /* The Close Button */
   .close {
     color: #1B8BCF;
@@ -48,7 +48,7 @@
     font-size: 28px;
     font-weight: bold;
   }
-  
+
   .close:hover,
   .close:focus {
     color: #000;
@@ -280,13 +280,13 @@ a.fa:hover{
 }
 
 .title{
-  display: flex; 
+  display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
   padding-top: 8rem;
   padding-bottom: 3rem;
-  
+
 }
 
 .title a{
@@ -317,7 +317,7 @@ a.fa:hover{
 
 .menu{
   width: 100%;
-  display: flex; 
+  display: flex;
   flex-direction: row;
   justify-content: center;
   padding-bottom: 1.5rem;
@@ -329,7 +329,7 @@ a.fa:hover{
 .menu-item{
  /* border-top: 1px solid #1B8BCF;*/
  border-top: 1px solid #858585;
-  display: flex; 
+  display: flex;
   align-items: center;
   text-align:center;
   justify-content: center;
@@ -459,7 +459,7 @@ a.menu-item{
   padding-top: 1.4rem;
   font-size: 1.4rem;
   color: #000000;
- 
+
 }
 
 .what-we-do p{
@@ -817,7 +817,7 @@ input[type=text]{
   height:  100%;
   display: flex;
   flex-direction: row;
-  
+
 }
 
 .address-col{
@@ -930,7 +930,7 @@ input[type=text]{
   font-weight: 200;
   content: 'keyboard_arrow_down';
 }
-.active .material-icons:before { 
+.active .material-icons:before {
   font-weight: 200;
   content: 'keyboard_arrow_up';
 }
@@ -973,7 +973,7 @@ color: #1B8BCF;
   position: relative;
   align-items: center;
   justify-content: center;
-  
+
 }
 
 #team{
@@ -1037,13 +1037,13 @@ width: auto;
   align-items: left;
   padding-left: 10%;
   padding-right: 10%;
- 
+
 }
 
 .join-us h3{
   font-weight: 200;
-  padding-top: 4rem;
-  margin-bottom: 4rem;
+  padding-top: 3rem;
+  margin-bottom: 2rem;
   font-size: 3.375rem;;
   color:#1B8BCF;
   font-family: 'Roboto', sans-serif;
@@ -1065,7 +1065,7 @@ width: auto;
 .join-us-button{
   margin-top: 2rem;
   margin-bottom: 2rem;
-  padding-left: 20rem; 
+  padding-left: 20rem;
   padding-right: 20rem;
 }
 
@@ -1078,7 +1078,7 @@ background-color:rgba(27, 138, 207, 0.144);
 p#join-sub-heading {
   font-weight: 200;
   font-size: 1.2rem;
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
 }
 #reach-us{
   background-color: rgba(27, 138, 207, 0.089);
@@ -1160,20 +1160,20 @@ text-align:left;
 }
 
 .pro-list  ul{
-  list-style: none; 
+  list-style: none;
 }
 .pro-list li{
   font-weight:  200;
   line-height: 2rem;
 }
 .pro-list  ul li::before {
-  content: "\2022"; 
-  color: #1B8BCF; 
+  content: "\2022";
+  color: #1B8BCF;
   font-weight: bold;
-  display: inline-block; 
+  display: inline-block;
   width: 1.5em;
-  margin-left: -1.5em; 
-  
+  margin-left: -1.5em;
+
 }
 .pro-list .icon-items{
     display: flex;
@@ -1228,7 +1228,7 @@ width: 40%;
 }
 .join-us-button{
 
-  padding-left: 10rem; 
+  padding-left: 10rem;
   padding-right: 10rem;
 }
 
@@ -1245,7 +1245,7 @@ padding-top: 1rem;
 .stay-in-touch{
   display: flex;
   flex-direction: column;
-  
+
 }
 .stay-in-touch .contact-form{
   width: 100%;
@@ -1262,7 +1262,7 @@ padding-top: 1rem;
     }
     .stay-in-touch .image img{
       width: 100%;
-      
+
     }
 }
 @media screen and (min-width: 981px) and (max-width: 1200px){
@@ -1286,7 +1286,7 @@ padding-top: 1rem;
     margin-right: 2rem;
   }
   p.guv{
-    padding-bottom: 2rem; 
+    padding-bottom: 2rem;
     font-size: 1rem;
     padding-top:0rem;
   }
@@ -1298,7 +1298,7 @@ padding-top: 1rem;
   .hero p{
   font-weight: 200;
   padding-top: 2rem;
-  
+
   }
   .hero h3{
     font-size: 3rem;
@@ -1306,7 +1306,7 @@ padding-top: 1rem;
 
   }
   .join-us-button{
-    padding-left: 5rem; 
+    padding-left: 5rem;
     padding-right: 5rem;
   }
   .col-48{
@@ -1344,7 +1344,7 @@ padding-top: 1rem;
 .stay-in-touch{
   display: flex;
   flex-direction: column;
-  
+
 }
 .stay-in-touch .contact-form{
   width: 100%;
@@ -1360,14 +1360,14 @@ padding-top: 1rem;
     background-color:rgba(27, 138, 207, 0.089);
     }
     .stay-in-touch .image img{
-      width: 100%;   
+      width: 100%;
 }
 
 .bio{
   padding: 2rem 0rem;
   display: flex;
   flex-direction: column;
- 
+
 }
 .bio .image{
   width: 100%;
@@ -1404,7 +1404,7 @@ padding-top: 1rem;
     height: 300px;
   }
   .join-us-button{
-    padding-left: 5rem; 
+    padding-left: 5rem;
     padding-right: 5rem;
   }
 .double{
@@ -1477,7 +1477,7 @@ font-weight: 300;
  .stay-in-touch{
    display: flex;
    flex-direction: column;
-   
+
  }
  .stay-in-touch .contact-form{
    width: 100%;
@@ -1493,7 +1493,7 @@ font-weight: 300;
      background-color:rgba(27, 138, 207, 0.089);
      }
      .stay-in-touch .image img{
-       width: 100%;   
+       width: 100%;
  }
  .address{
   padding: 3rem 1rem;
@@ -1519,7 +1519,7 @@ font-weight: 300;
   padding: 2rem 0rem;
   display: flex;
   flex-direction: column;
- 
+
 }
 .bio .image{
   width: 100%;
@@ -1565,7 +1565,7 @@ margin-top: 1rem;
 
 }
 p.guv{
-  padding-bottom: 0rem; 
+  padding-bottom: 0rem;
   padding-top:0rem;
 }
 .hero{
@@ -1662,7 +1662,7 @@ a.mob-menu-item{
     padding:10px;
   }
   .join-us-button{
-    padding-left: 0rem; 
+    padding-left: 0rem;
     padding-right: 0rem;
   }
 
@@ -1745,7 +1745,7 @@ a.mob-menu-item{
  .stay-in-touch{
    display: flex;
    flex-direction: column;
-   
+
  }
 
  .stay-in-touch .contact-form{
@@ -1762,7 +1762,7 @@ a.mob-menu-item{
      background-color:rgba(27, 138, 207, 0.089);
      }
      .stay-in-touch .image img{
-       width: 100%;   
+       width: 100%;
  }
  .address{
   padding: 3rem 1rem;
@@ -1788,7 +1788,7 @@ a.mob-menu-item{
   padding: 2rem 0rem;
   display: flex;
   flex-direction: column;
- 
+
 }
 .bio .image{
   width: 100%;
@@ -1834,7 +1834,7 @@ margin-top: 1rem;
 
 }
 p.guv{
-  padding-bottom: 0rem; 
+  padding-bottom: 0rem;
   padding-top:0rem;
 }
 .hero{
