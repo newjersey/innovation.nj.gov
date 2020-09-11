@@ -1164,7 +1164,7 @@ text-align:left;
 }
 .pro-list li{
   font-weight:  200;
-  line-height: 2rem;
+  line-height: 1.5rem;
 }
 .pro-list  ul li::before {
   content: "\2022";
@@ -1805,6 +1805,7 @@ a.mob-menu-item{
 .bio-desc h6{
   text-align: center;
 }
+
 .accordion{
   text-align: center;
 }
