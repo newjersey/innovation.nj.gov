@@ -717,11 +717,11 @@ p.news-description{
 .read-more-button{
   background-color: rgba(27, 138, 207, 0.233);
   padding: 0.5rem 0.7rem;
+  display: inline-block;
 }
 
 .read-more-button:hover{
   background-color: rgba(27, 138, 207, 0.322);
-  padding: 0.6rem 0.9rem;
 }
 .read-more a{
   text-decoration:none;
@@ -741,7 +741,6 @@ p.news-description{
 
 .more-news-items .read-more-button:hover{
   background-color: rgba(27, 138, 207, 0.363);
-  padding: 1.1rem 1.3rem;
 }
 
 .stay-in-touch{
@@ -921,6 +920,12 @@ input[type=text]{
 .jobs .active:before {
   content: "COLLAPSE";
 }
+.jobs .accordion {
+  margin-bottom: 1rem;
+}
+.jobs .read-more-button {
+  margin-bottom: 1rem;
+}
 
 .active:before {
   content: "LESS";
@@ -957,6 +962,9 @@ input[type=text]{
   font-weight: 200;
 font-size:  2rem;
 color: #1B8BCF;
+}
+.jobs h5 {
+  margin-top: 2rem;
 }
 .bio{
   padding: 2rem 0rem;
@@ -1035,9 +1043,8 @@ width: auto;
   text-align:center;
   justify-content: center;
   align-items: left;
-  padding-left: 10%;
-  padding-right: 10%;
-
+  max-width: 45rem;
+  margin: 0 auto;
 }
 
 .join-us h3{
@@ -1049,12 +1056,20 @@ width: auto;
   font-family: 'Roboto', sans-serif;
   /*border-bottom: 5px solid #1B8BCF;*/
 }
+.join-us h4 {
+  margin: 2rem 0 1rem;
+}
 .join-us h5{
   font-weight: 300;
   color:#1B8BCF;
   font-family: 'Roboto', sans-serif;
+  text-align: left;
   /*border-bottom: 5px solid #1B8BCF;*/
 }
+.join-us h6{
+  text-align: left;
+}
+
 .join-us p{
   font-weight: 200;
   padding-bottom: 4rem;
@@ -1075,10 +1090,14 @@ color:rgb(7, 50, 77);
 background-color:rgba(27, 138, 207, 0.144);
 }
 
+.join-us.description {
+  text-align: left;
+}
+
 p#join-sub-heading {
   font-weight: 200;
   font-size: 1.2rem;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
 }
 #reach-us{
   background-color: rgba(27, 138, 207, 0.089);
@@ -1204,6 +1223,12 @@ color: #1B8BCF;
 .color-bg{
   background-color: rgba(27, 138, 207, 0.089);
   margin-bottom: 2rem;
+}
+a.anchor {
+  display: block;
+  position: relative;
+  top: -96px;
+  visibility: hidden;
 }
 @media screen and (min-width: 1201px) and (max-width: 1450px){
 .thumbnail{
