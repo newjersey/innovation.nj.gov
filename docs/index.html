@@ -93,7 +93,18 @@
         <a href="index.html#contact" class="menu-item">Contact Us</a>
         <a href="join.html" class="menu-item">Join Us</a>
       </div>
-
+      <div id="alert-banner" class="alert-section">
+        <h3>Apply to the Future of Work Accelerator</h3>
+        <div class="alert-description">
+          <p>Do you have an idea, solution, or initiative that improves job quality and economic security for working- and
+            middle-class families? Get connections to funders, custom coaching, and opportunities to pilot, or scale your
+            idea in New Jersey through the Future of Work Accelerator.<br>To apply or get additional information, visit accelerator.fow.nj.gov</p>
+        </div>
+        <div class="main-button">
+          <a target="_blank" href="https://accelerator.fow.nj.gov"> visit accelerator.fow.nj.gov</a>
+          <a id="close-button" onclick="close_alert()">Close</a>
+        </div>
+      </div>
     <div class="hero">
       <h3> CREATING A MORE INNOVATIVE STATE FOR THE PEOPLE OF NEW JERSEY</h3>
       <p><i><b>A stronger New Jersey will be built on the back of innovation.</b></i></p>
@@ -640,7 +651,12 @@ function myFunction() {
     x.style.display = "block";
   }
 }</script>
-
+<script>
+  function close_alert() {
+    var x = document.getElementById("alert-banner");
+    x.style.display = "none";
+  }
+</script>
 <!-- Add global signup script -->
 <script src="https://beta.nj.gov/global-signup/embed.js?v=1"></script>
 
