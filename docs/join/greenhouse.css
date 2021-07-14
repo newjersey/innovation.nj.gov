@@ -1,0 +1,23 @@
+#content,
+#board_title,
+#logo,
+h1 {
+  display: none !important;
+}
+
+#main,
+#wrapper {
+  padding: 0 !important;
+}
+
+.opening a {
+  color: rgb(27, 139, 207);
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 24px;
+}
+
+br + br {
+  display: none;
+}
