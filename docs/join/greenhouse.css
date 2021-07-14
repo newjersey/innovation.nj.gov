@@ -1,13 +1,15 @@
-#content,
-#board_title,
 #logo,
 h1 {
-  display: none !important;
+  display: none;
+}
+h1.app-title {
+  display: block;
 }
 
 #main,
 #wrapper {
   padding: 0 !important;
+  max-width: none;
 }
 
 .opening a {
