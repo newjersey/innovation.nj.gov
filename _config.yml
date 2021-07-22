@@ -52,6 +52,8 @@ github_username: newjersey
 #   - vendor/gems/
 #   - vendor/ruby/
 
+permalink: pretty
+
 collections:
   projects:
     output: false
@@ -60,22 +62,21 @@ collections:
     output: false
     sort_by: date
   team:
-    permalink: /:collection/:title
+    permalink: /:collection/:title/
     sort_by: order
     output: true
 
 defaults:
-  -
-    scope:
+  - scope:
+      path: ""
       type: "team"
     values:
       layout: "team"
       menu:
-      - title: Our Team
-        url: /about
-        collection: team
-  -
-    scope:
+        - title: Our Team
+          url: /about/
+          collection: team
+  - scope:
       path: ""
     values:
       layout: "page"

@@ -1,10 +1,10 @@
 - text: Home
   link: /
 - text: About Us
-  link: /about
+  link: /about/
 - text: Our Work
-  link: /projects
+  link: /projects/
 - text: News
-  link: /news
+  link: /news/
 - text: Join Our Team
-  link: /join
+  link: /join/

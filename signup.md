@@ -1,3 +1,7 @@
+---
+title: Sign up
+---
+
 <script
   src="https://public.govdelivery.com/assets/Signup.js"
   data-account-code="NJGOV"

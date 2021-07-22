@@ -1,6 +1,5 @@
 ---
 title: Join Our Team
-permalink: /join
 ---
 
 <p class="usa-intro">Interested in improving the lives of New Jerseyans by designing and delivering modern policies and services?</p>

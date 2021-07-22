@@ -1,7 +1,6 @@
 ---
 title: Home
 layout: home
-permalink: /
 hero: Creating a more innovative state for the people of New Jersey
 ---
 
