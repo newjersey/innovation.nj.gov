@@ -1,0 +1,55 @@
+<div class="usa-overlay"></div>
+<header class="usa-header usa-header--extended">
+  <div class="usa-navbar minh-8">
+    <div class="usa-logo" id="extended-logo">
+      <em class="usa-logo__text"
+        ><a
+          href="/"
+          title="Home"
+          aria-label="Home"
+          class="display-flex flex-row flex-align-center"
+        >
+          <img
+            class="height-8 padding-05 desktop:padding-0 margin-right-2"
+            src="{{ baseurl }}/assets/images/nj-state-logo.png"
+            alt="State of New Jersey"
+          />
+          {{ site.title}}</a
+        ></em
+      >
+    </div>
+    <button class="usa-menu-btn minh-8">Menu</button>
+  </div>
+  <nav aria-label="Primary navigation" class="usa-nav">
+    <div class="usa-nav__inner">
+      <button class="usa-nav__close">
+        <img
+          src="{{ baseurl }}/assets/njwds/img/close.svg"
+          role="img"
+          alt="close"
+        />
+      </button>
+      <ul class="usa-nav__primary usa-accordion">
+        {% for item in site.data.menu %}
+        <li class="usa-nav__primary-item">
+          <a
+            class="
+              usa-nav__link
+              {%
+              if
+              item.link
+              ==
+              page.url
+              %}usa-current{%
+              endif
+              %}
+            "
+            href="{{item.link}}"
+            ><span>{{item.text}}</span></a
+          >
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>
+</header>

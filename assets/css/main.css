@@ -1,0 +1,39 @@
+/* Cards */
+@media (min-width: 40em) {
+  .tablet\:grid-col-6.usa-card.usa-card--flag .usa-card__media {
+    width: 10rem;
+  }
+  .tablet\:grid-col-6.usa-card--flag .usa-card__body,
+  .tablet\:grid-col-6.usa-card--flag .usa-card__footer,
+  .tablet\:grid-col-6.usa-card--flag .usa-card__header {
+    margin-left: 10rem;
+  }
+}
+.usa-card__img--square {
+  background-position: center;
+  background-size: cover;
+}
+
+/* Links */
+
+a.text-primary-darker {
+  color: #243413;
+}
+.usa-graphic-list.usa-section--dark a {
+  color: #73b3e7;
+}
+.usa-graphic-list__heading a {
+  text-decoration: none;
+}
+.usa-graphic-list__heading a:hover,
+.usa-graphic-list__heading a:focus {
+  text-decoration: underline;
+}
+
+/* SVG */
+.st0 {
+  fill: #1b8bcf;
+}
+svg {
+  background: transparent;
+}

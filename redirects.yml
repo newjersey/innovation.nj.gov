@@ -1,0 +1,6 @@
+- source: /accelerator
+  target: "https://accelerator.fow.nj.gov/"
+- source: /fow/*
+  target: "https://fowtf.innovation.nj.gov/"
+- source: /skills/*
+  target: "https://skills.innovation.nj.gov/"
