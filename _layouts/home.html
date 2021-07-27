@@ -6,16 +6,13 @@ layout: default
   <section
     class="usa-hero"
     aria-label="Introduction"
-    style="background-image: url(/assets/images/hero.jpg)"
+    style="background-image: url({{page.hero.image}})"
   >
     <div class="grid-container">
       <div class="usa-hero__callout">
-        <h1 class="usa-hero__heading">{{ page.hero }}</h1>
-        <p>
-          We create innovative policies and technologies that address complex
-          public problems.
-        </p>
-        <a class="usa-button" href="/projects">See Our Work</a>
+        <h1 class="usa-hero__heading">{{page.hero.headline}}</h1>
+        <p>{{page.hero.content}}</p>
+        <a class="usa-button" href="{{page.cta.link}}">{{page.cta.text}}</a>
       </div>
     </div>
   </section>
@@ -24,10 +21,10 @@ layout: default
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-4">
         <h2 class="font-heading-xl margin-top-0 tablet:margin-bottom-0">
-          “A stronger New Jersey will be built on the back of innovation.”
+          “{{page.tagline.quote}}”
         </h2>
         <p class="margin-bottom-4 tablet:margin-bottom-0">
-          <em>Governor Phil Murphy</em>
+          <em>{{page.tagline.attribution}}</em>
         </p>
       </div>
       <div class="tablet:grid-col-8 usa-prose">
