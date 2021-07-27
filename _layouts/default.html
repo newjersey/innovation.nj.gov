@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
+    {% include analytics.html %}
     <link
       rel="preload"
       href="/assets/njwds/fonts/public-sans/PublicSans-Regular.woff2"
@@ -22,16 +23,21 @@
       type="font/woff2"
       crossorigin
     />
+    {% if page.description %} {% assign description = page.description %} {%
+    else %} {% assign description = page.content | strip_html |
+    normalize_whitespace | truncatewords: '30' %} {% endif %} {% capture title
+    %}{% if page.title %}{{ page.title }} | {% endif %}{{ site.long_title }}{%
+    endcapture %}
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta
-      name="description"
-      content="{{page.content | strip_html | normalize_whitespace | truncatewords: '30'}}"
-    />
-    <title>
-      {% if page.title %}{{ page.title }} | {% endif %}{{ site.long_title }}
-    </title>
+    <meta name="description" content="{{description}}" />
+    <title>{{title}}</title>
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{title}}" />
+    <meta property="og:description" content="{{description}}" />
+    <meta property="og:image" content="/assets/images/favicon.png" />
     <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
     <link
       rel="stylesheet"

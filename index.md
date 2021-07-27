@@ -2,6 +2,7 @@
 title: Home
 layout: home
 hero: Creating a more innovative state for the people of New Jersey
+description: The Official Website of the New Jersey State Office of Innovation | Creating a more innovative state for the people of New Jersey.
 ---
 
 The Office of Innovation works collaboratively with government,
