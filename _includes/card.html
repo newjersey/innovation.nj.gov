@@ -1,18 +1,22 @@
 <ul class="usa-card-group padding-top-2">
   {% if include.promoted %} {% assign list = site.[include.collection] |
   where_exp:"item", "item.promoted > 0" | sort: "promoted" %} {% elsif
-  include.news %} {% assign list = site.[include.collection] | reverse %} {% else %} {% assign list = site.[include.collection] %} {% endif %} {% for item in list %} {% if include.summarize
-  %} {% assign colwidth = "6" %} {% else %} {% assign colwidth = "12" %} {%
-  endif %}
+  include.news %} {% assign list = site.[include.collection] | reverse %} {%
+  else %} {% assign list = site.[include.collection] %} {% endif %} {% for item
+  in list %} {% if include.summarize %} {% assign colwidth = "6" %} {% else %}
+  {% assign colwidth = "12" %} {% endif %}
   <li
     class="tablet:grid-col-{{colwidth}} usa-card usa-card--flag"
     id="{{item.title |slugify}}"
   >
     <div class="usa-card__container">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading" id="{{item.title |slugify}}_heading">{{item.title}}</h2>
-        {% if item.role %}<h3 class="margin-top-05">{{item.role}}</h3>{% endif %}
-        {% if include.news %}
+        <h2 class="usa-card__heading" id="{{item.title |slugify}}_heading">
+          {{item.title}}
+        </h2>
+        {% if item.role %}
+        <h3 class="margin-top-05">{{item.role}}</h3>
+        {% endif %} {% if include.news %}
         <div class="text-uppercase text-base margin-top-1">
           <span class="border-right margin-right-1 padding-right-1"
             >{{item.date | date: '%B %d, %Y' }}</span
@@ -24,6 +28,12 @@
       <div class="usa-card__media">
         <div
           class="
+            {%
+            if
+            include.news
+            %}bg-white{%
+            endif
+            %}
             usa-card__img
             width-full
             padding-left-5 padding-right-5 padding-top-3
@@ -47,29 +57,28 @@
       </div>
       {% endif %}
       <div class="usa-card__body usa-prose">
-        {% if include.excerpt %} 
-        {{item.excerpt }} 
-        {% elsif include.summarize %}
-        {{item.content | strip_html | truncatewords: 30, "&#8230;"}}
-        {% else %} 
-        {{item.content}} 
-        {% endif %}
+        {% if include.excerpt %} {{item.excerpt }} {% elsif include.summarize %}
+        {{item.content | strip_html | truncatewords: 30, "&#8230;"}} {% else %}
+        {{item.content}} {% endif %}
       </div>
       <div class="usa-card__footer">
-        {% if include.summarize or include.excerpt %}
-        {% assign collection = site.collections | where: "label", include.collection | first %}
-        {% if collection.output == true %}
-        {% assign url = item.url %}
-        {% else %}
-        {% capture url %}/{{include.collection}}/#{{item.title | slugify}}{% endcapture %}
-        {% endif %}
+        {% if include.summarize or include.excerpt %} {% assign collection =
+        site.collections | where: "label", include.collection | first %} {% if
+        collection.output == true %} {% assign url = item.url %} {% else %} {%
+        capture url %}/{{include.collection}}/#{{item.title | slugify}}{%
+        endcapture %} {% endif %}
+        <a class="usa-button margin-top-2" href="{{url}}">Continue Reading</a>
+        {% elsif item.cta %} {% if item.cta.link %}
         <a
           class="usa-button margin-top-2"
-          href="{{url}}"
-          >Continue Reading</a
-        >
-        {% elsif item.cta %} {% if item.cta.link %}
-        <a class="usa-button margin-top-2" href="{{item.cta.link}}"
+          href="{{item.cta.link}}"
+          {%
+          if
+          include.news
+          %}target="_blank"
+          {%
+          endif
+          %}
           >{{item.cta.text}}</a
         >
         {% else %}

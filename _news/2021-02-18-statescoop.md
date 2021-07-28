@@ -1,6 +1,5 @@
 ---
 image: /assets/images/news/statescoop.png
-promoted: 2
 title: "REPORT: How New Jersey tracked COVID-19 when no data was available"
 date: February 18, 2021
 source: StateScoop
