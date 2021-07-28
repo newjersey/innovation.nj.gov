@@ -49,6 +49,9 @@
     <a class="usa-skipnav" href="#main-content">Skip to main content</a>
     {% include banner.html %} {% include header.html %} {{ content }} {% include
     footer.html %} {% include identifier.html %}
+    <!-- Add global signup script -->
+    <script src="https://beta.nj.gov/global-signup/embed.js"></script>
     <script src="{{ site.baseurl }}/assets/njwds/js/uswds.min.js"></script>
+    {% include modal.html %}
   </body>
 </html>

@@ -11,11 +11,11 @@
   >
     <div class="usa-card__container">
       <header class="usa-card__header">
-        <h2 class="usa-card__heading" id="{{item.title |slugify}}_heading">
+        <h3 class="usa-card__heading" id="{{item.title |slugify}}_heading">
           {{item.title}}
-        </h2>
+        </h3>
         {% if item.role %}
-        <h3 class="margin-top-05">{{item.role}}</h3>
+        <h4 class="margin-top-05">{{item.role}}</h4>
         {% endif %} {% if include.news %}
         <div class="text-uppercase text-base margin-top-1">
           <span class="border-right margin-right-1 padding-right-1"

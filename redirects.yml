@@ -4,3 +4,5 @@
   target: "https://fowtf.innovation.nj.gov/"
 - source: /skills/*
   target: "https://skills.innovation.nj.gov/"
+- source: /attribution
+  target: /tos/
