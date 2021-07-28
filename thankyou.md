@@ -1,11 +1,9 @@
 ---
-title: Thank you
+title: Thanks for signing up!
 ---
 
-### YOUR RESPONSE HAS BEEN RECORDED.
+We’ll be in touch with news and updates, including our monthly innovation newsletter.
 
-##### THANK YOU FOR SIGNING UP FOR UPDATES.
-
-##### To stop receiving updates, please send an email to [team@innovation.nj.gov.](mailto:team@innovation.nj.gov)
+To stop receiving updates, please [click here](https://public.govdelivery.com/accounts/NJGOV/subscriber/new).
 
 [Return to home page](index.html)

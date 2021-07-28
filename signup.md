@@ -1,5 +1,5 @@
 ---
-title: Sign up
+title: Sign up for updates from the Office of Innovation
 ---
 
 <script
