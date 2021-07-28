@@ -7,18 +7,27 @@ layout: default
     <div class="grid-row grid-gap">
       {% if page.menu %}
       <div class="usa-layout-docs__sidenav desktop:grid-col-3">
-      {% include menu.html menu=page.menu %}
+        {% include menu.html menu=page.menu %}
       </div>
       {% endif %}
 
       <main
         class="
-          {% if page.menu %}
+          {%
+          if
+          page.menu
+          %}
           usa-layout-docs__main
           desktop:grid-col-9
           usa-layout-docs
-          {% endif %}
-          usa-prose 
+          {%
+          else
+          %}
+          width-full
+          {%
+          endif
+          %}
+          usa-prose
         "
         id="main-content"
       >
