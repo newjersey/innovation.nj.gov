@@ -1,5 +1,6 @@
 ---
 title: Privacy Notice
+permalink: /tos/
 ---
 
 **Introduction to this Privacy Notice**  

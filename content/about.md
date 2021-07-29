@@ -1,5 +1,6 @@
 ---
 title: About Us
+permalink: /about/
 menu:
   - title: Our Team
     url: /about/

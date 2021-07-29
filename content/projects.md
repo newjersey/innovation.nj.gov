@@ -1,5 +1,6 @@
 ---
 title: Our Work
+permalink: /projects/
 ---
 
 <p class="usa-intro">The Office of Innovation works with and across New Jersey State departments and agencies to design and develop products and services by using modern, data-driven, human-centered design, and agile development processes.

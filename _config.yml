@@ -62,8 +62,9 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-permalink: pretty
+permalink: /:title/
 
+collections_dir: content
 collections:
   projects:
     output: false
@@ -76,7 +77,7 @@ collections:
     sort_by: order
     output: true
   redirects:
-    permalink: /:title/
+    permalink: /:slug/
     output: true
 
 defaults:
@@ -85,18 +86,17 @@ defaults:
       type: "team"
     values:
       layout: "team"
+      order: 1000
       menu:
         - title: Our Team
           url: /about/
           collection: team
-
   - scope:
       path: ""
       type: "redirects"
     values:
       layout: "redirect"
       sitemap: false
-
   - scope:
       path: ""
     values:
