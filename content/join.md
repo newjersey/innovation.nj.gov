@@ -1,7 +1,6 @@
 ---
 title: Join Our Team
 permalink: /join/
-
 ---
 
 <div id="grnhse_app"></div>

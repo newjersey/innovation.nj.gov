@@ -51,7 +51,7 @@
       {% else %}
       <div class="usa-card__media usa-card__media--inset">
         <div
-          class="usa-card__img usa-card__img--square add-aspect-1x1 width-full"
+          class="usa-card__img usa-card__img--square {%if include.cover %}usa-card__img--square-cover{% endif %} add-aspect-1x1 width-full"
           style="background-image: url({{item.image}});"
         ></div>
       </div>
