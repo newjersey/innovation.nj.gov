@@ -833,9 +833,12 @@ template {
   font-style: normal;
   font-weight: 300;
   font-display: fallback;
-  src: url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-300.woff2) format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-300.woff) format("woff"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-300.ttf) format("truetype");
+  src: url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-300.woff2)
+      format("woff2"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-300.woff)
+      format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-300.ttf)
+      format("truetype");
 }
 @font-face {
   font-family: Roboto Mono Web;
@@ -844,7 +847,8 @@ template {
   font-display: fallback;
   src: url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-regular.woff2)
       format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-regular.woff) format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-regular.woff)
+      format("woff"),
     url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-regular.ttf)
       format("truetype");
 }
@@ -853,9 +857,12 @@ template {
   font-style: normal;
   font-weight: 700;
   font-display: fallback;
-  src: url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-700.woff2) format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-700.woff) format("woff"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-700.ttf) format("truetype");
+  src: url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-700.woff2)
+      format("woff2"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-700.woff)
+      format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-700.ttf)
+      format("truetype");
 }
 @font-face {
   font-family: Roboto Mono Web;
@@ -864,7 +871,8 @@ template {
   font-display: fallback;
   src: url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-300italic.woff2)
       format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-300italic.woff) format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-300italic.woff)
+      format("woff"),
     url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-300italic.ttf)
       format("truetype");
 }
@@ -875,8 +883,10 @@ template {
   font-display: fallback;
   src: url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-italic.woff2)
       format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-italic.woff) format("woff"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-italic.ttf) format("truetype");
+    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-italic.woff)
+      format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-italic.ttf)
+      format("truetype");
 }
 @font-face {
   font-family: Roboto Mono Web;
@@ -885,7 +895,8 @@ template {
   font-display: fallback;
   src: url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-700italic.woff2)
       format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-700italic.woff) format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-700italic.woff)
+      format("woff"),
     url(https://innovation.nj.gov/assets/njwds/fonts/roboto-mono/roboto-mono-v5-latin-700italic.ttf)
       format("truetype");
 }
@@ -894,63 +905,84 @@ template {
   font-style: normal;
   font-weight: 300;
   font-display: fallback;
-  src: url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Light.woff2) format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Light.woff) format("woff"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Light.ttf) format("truetype");
+  src: url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Light.woff2)
+      format("woff2"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Light.woff)
+      format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Light.ttf)
+      format("truetype");
 }
 @font-face {
   font-family: Public Sans Web;
   font-style: normal;
   font-weight: 400;
   font-display: fallback;
-  src: url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Regular.woff2) format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Regular.woff) format("woff"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Regular.ttf) format("truetype");
+  src: url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Regular.woff2)
+      format("woff2"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Regular.woff)
+      format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Regular.ttf)
+      format("truetype");
 }
 @font-face {
   font-family: Public Sans Web;
   font-style: normal;
   font-weight: 700;
   font-display: fallback;
-  src: url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Bold.woff2) format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Bold.woff) format("woff"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Bold.ttf) format("truetype");
+  src: url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Bold.woff2)
+      format("woff2"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Bold.woff)
+      format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Bold.ttf)
+      format("truetype");
 }
 @font-face {
   font-family: Public Sans Web;
   font-style: italic;
   font-weight: 300;
   font-display: fallback;
-  src: url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-LightItalic.woff2) format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-LightItalic.woff) format("woff"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-LightItalic.ttf) format("truetype");
+  src: url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-LightItalic.woff2)
+      format("woff2"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-LightItalic.woff)
+      format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-LightItalic.ttf)
+      format("truetype");
 }
 @font-face {
   font-family: Public Sans Web;
   font-style: italic;
   font-weight: 400;
   font-display: fallback;
-  src: url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Italic.woff2) format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Italic.woff) format("woff"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Italic.ttf) format("truetype");
+  src: url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Italic.woff2)
+      format("woff2"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Italic.woff)
+      format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-Italic.ttf)
+      format("truetype");
 }
 @font-face {
   font-family: Public Sans Web;
   font-style: italic;
   font-weight: 700;
   font-display: fallback;
-  src: url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-BoldItalic.woff2) format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-BoldItalic.woff) format("woff"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-BoldItalic.ttf) format("truetype");
+  src: url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-BoldItalic.woff2)
+      format("woff2"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-BoldItalic.woff)
+      format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/public-sans/PublicSans-BoldItalic.ttf)
+      format("truetype");
 }
 @font-face {
   font-family: Merriweather Web;
   font-style: normal;
   font-weight: 300;
   font-display: fallback;
-  src: url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Light.woff2) format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Light.woff) format("woff"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Light.ttf) format("truetype");
+  src: url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Light.woff2)
+      format("woff2"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Light.woff)
+      format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Light.ttf)
+      format("truetype");
 }
 @font-face {
   font-family: Merriweather Web;
@@ -959,17 +991,22 @@ template {
   font-display: fallback;
   src: url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Regular.woff2)
       format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Regular.woff) format("woff"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Regular.ttf) format("truetype");
+    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Regular.woff)
+      format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Regular.ttf)
+      format("truetype");
 }
 @font-face {
   font-family: Merriweather Web;
   font-style: normal;
   font-weight: 700;
   font-display: fallback;
-  src: url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Bold.woff2) format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Bold.woff) format("woff"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Bold.ttf) format("truetype");
+  src: url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Bold.woff2)
+      format("woff2"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Bold.woff)
+      format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Bold.ttf)
+      format("truetype");
 }
 @font-face {
   font-family: Merriweather Web;
@@ -990,8 +1027,10 @@ template {
   font-display: fallback;
   src: url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Italic.woff2)
       format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Italic.woff) format("woff"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Italic.ttf) format("truetype");
+    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Italic.woff)
+      format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-Italic.ttf)
+      format("truetype");
 }
 @font-face {
   font-family: Merriweather Web;
@@ -1000,7 +1039,8 @@ template {
   font-display: fallback;
   src: url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-BoldItalic.woff2)
       format("woff2"),
-    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-BoldItalic.woff) format("woff"),
+    url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-BoldItalic.woff)
+      format("woff"),
     url(https://innovation.nj.gov/assets/njwds/fonts/merriweather/Latin-Merriweather-BoldItalic.ttf)
       format("truetype");
 }
@@ -1432,8 +1472,14 @@ body {
 h1 {
   display: none;
 }
-h1.app-title {
+#app_body h1.app-title {
   display: block;
+  margin-bottom: 1rem; 
+}
+
+.location {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
 }
 
 li {
@@ -1453,4 +1499,20 @@ li {
 .level-0 > br,
 br + br {
   display: none;
+}
+
+#main_fields div.field input[type="text"],
+#main_fields div.field textarea,
+#eeoc_fields div.field input[type="text"],
+#eeoc_fields div.field textarea {
+  width: auto;
+}
+#custom_fields div.field input[type="text"],
+#custom_fields div.field textarea,
+#custom_fields div.field .text-field,
+#custom_fields div.field .select2-container-multi {
+  max-width: 100%;
+}
+#submit_buttons {
+  text-align: left;
 }
