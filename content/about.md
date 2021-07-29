@@ -21,4 +21,4 @@ The Office of Innovation works collaboratively with government, academic, non-pr
 
 ## Our Team
 
-{% include card.html collection="team" excerpt=true %}
+{% include card.html collection="team" excerpt=true cover=true %}
