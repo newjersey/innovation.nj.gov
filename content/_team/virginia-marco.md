@@ -1,6 +1,6 @@
 ---
 title: Virginia Folgado Marco
-image: /assets/images/team/virginia.jpeg
+image: /assets/images/team/virginia.jpg
 ---
 
 Virginia Folgado Marco is an Eagleton Science and Politics Fellow with the Office of Innovation. She is a biomedical scientist with a broader background in health care and education. In her role at the Office of Innovation, Virginia is evaluating the State of New Jersey’s COVID-19 contact tracing program, with a focus on identifying areas of improvement to ensure the State has the best tools available to reduce the spread of the virus.
