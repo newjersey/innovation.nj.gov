@@ -68,8 +68,17 @@
         capture url %}/{{include.collection}}/#{{item.title | slugify}}{%
         endcapture %} {% endif %}
         <a class="usa-button margin-top-2" href="{{url}}">Continue Reading</a>
-        {% elsif item.cta %} {% if item.cta.link %}
+        {% elsif item.cta %} {% if item.cta.link %} {% assign link_test =
+        item.cta.link | slice: 0 %}
         <a
+          {%
+          if
+          link_test
+          !="/"
+          %}rel="noopener"
+          {%
+          endif
+          %}
           class="usa-button margin-top-2"
           href="{{item.cta.link}}"
           {%
