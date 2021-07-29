@@ -17,7 +17,7 @@ Founded with the mandate to improve the lives of New Jerseyans by designing and 
 
 The Office of Innovation works collaboratively with government, academic, non-profit, and private sector institutions to drive innovation in the Garden State and improve the design and delivery of policies and services to the state's residents, businesses, and institutions.
 
-<a class="usa-button" href="/news">See Our Work</a>
+<a class="usa-button" href="/projects/">See Our Work</a>
 
 ## Our Team
 
