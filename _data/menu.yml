@@ -1,0 +1,12 @@
+- text: Home
+  link: /
+- text: About Us
+  link: /about/
+- text: Our Work
+  link: /projects/
+- text: News
+  link: /news/
+- text: Join Our Team
+  link: /join/
+- text: Stay in Touch
+  link: /signup/

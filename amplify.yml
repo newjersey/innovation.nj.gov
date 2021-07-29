@@ -1,0 +1,16 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - bundle install
+    build:
+      commands:
+        - bundle exec jekyll b
+  artifacts:
+    # IMPORTANT - Please verify your build output directory
+    baseDirectory: _site
+    files:
+      - "**/*"
+  cache:
+    paths: []
