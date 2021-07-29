@@ -75,6 +75,9 @@ collections:
     permalink: /:collection/:title/
     sort_by: order
     output: true
+  redirects:
+    permalink: /:title/
+    output: true
 
 defaults:
   - scope:
@@ -86,6 +89,14 @@ defaults:
         - title: Our Team
           url: /about/
           collection: team
+
+  - scope:
+      path: ""
+      type: "redirects"
+    values:
+      layout: "redirect"
+      sitemap: false
+
   - scope:
       path: ""
     values:

@@ -1,5 +1,6 @@
 ---
 title: Thanks for signing up!
+sitemap: false
 ---
 
 We’ll be in touch with news and updates, including our monthly innovation newsletter.
