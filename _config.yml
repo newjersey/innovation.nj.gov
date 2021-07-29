@@ -49,7 +49,6 @@ exclude:
   - README.md
   - amplify.yml
   - build.js
-  - CNAME
 
 #   - .sass-cache/
 #   - .jekyll-cache/
