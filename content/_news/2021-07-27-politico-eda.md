@@ -1,5 +1,5 @@
 ---
-image: /assets/images/news/politico.png
+image: /assets/images/news/politico.jpg
 title: "EDA: New Jersey ranks 3rd in distributing grants to small business"
 promoted: 2
 date: July 27, 2021
