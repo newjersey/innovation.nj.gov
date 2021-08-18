@@ -15,7 +15,7 @@ Founded with the mandate to improve the lives of New Jerseyans by designing and 
 
 Our team is made up of dedicated and energetic individuals with experience in government, business, civic tech, policy, and engagement. We are passionate about transforming the way government operates, and we support State agencies in innovating and improving the lives of all New Jerseyans. We partner with teams throughout the state to design and deploy world-class, innovative, and inclusive policies and services that solve pressing public interest challenges.
 
-## Principles we innovate by
+## Principles We Innovate By
 
 - Innovate with, rather than for, New Jerseyans - using participatory and data-driven methods to improve people’s lives
 - Define concrete and specific problems that matter to real people
