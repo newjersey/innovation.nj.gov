@@ -9,9 +9,23 @@ menu:
 
 <p class="usa-intro">Our mission is to improve the lives of New Jerseyans by solving public problems differently.</p>
 
-The New Jersey State Office of Innovation was created by Governor Phil Murphy in August, 2018 with the appointment of Dr. Beth Simone Noveck as the State's first-ever Chief Innovation Officer.
+The New Jersey State Office of Innovation was created by Governor Phil Murphy in 2018 with the appointment of Dr. Beth Simone Noveck as the State’s first-ever Chief Innovation Officer.
 
-Founded with the mandate to improve the lives of New Jerseyans by designing and deploying more effective and efficient government services, the Office of Innovation works in partnership with the Governor’s Office and State agencies to create innovative policies and technologies that address complex public problems by working differently. We apply data science and public engagement to understand problems, and use modern digital technologies combined with strategic policies to develop solutions that improve services while also reducing costs for the State and the taxpaying public.
+Founded with the mandate to improve the lives of New Jerseyans by designing and deploying more effective and efficient government services, the Office of Innovation works in partnership with the Governor’s Office and State agencies to create innovative policies and technologies that address complex public problems by working alongside New Jerseyans. We apply data science and public engagement to understand problems, and use modern digital technologies combined with strategic policies to develop solutions that improve services for the public, while also reducing costs for the State and taxpayers.
+
+Our team is made up of dedicated and energetic individuals with experience in government, business, civic tech, policy, and engagement. We are passionate about transforming the way government operates, and we support State agencies in innovating and improving the lives of all New Jerseyans. We partner with teams throughout the state to design and deploy world-class, innovative, and inclusive policies and services that solve pressing public interest challenges.
+
+## Principles we innovate by:
+
+- Innovate with, rather than for, New Jerseyans - using participatory and data-driven methods to improve people’s lives
+- Define concrete and specific problems that matter to real people
+- Design and release solutions iteratively to allow us to measure results, learn fast, and deliver impact as soon as possible
+- Collaborate with public, private and nonprofit sectors to enhance our impact
+- Build with diverse New Jerseyans, putting them at the center of our work
+- Solve problems using a multidisciplinary approach by providing strong domain expertise, breaking down silos, and forming partnerships - across teams, departments, agencies, levels of government, and nongovernmental partners
+- Deliver accessible solutions and policies that meet the needs of real people and organizations
+- Succeed in a highly ambiguous environment with little definition or structure
+
 
 ## How We Work + What We Do
 
