@@ -6,7 +6,7 @@ date: October 4, 2021
 source: Medium
 cta:
   text: Continue Reading
-  link: "https://medium.com/njinnovation/innovating-an-inclusive-open-innovation-challenge-a4a6aa5fa0e6?source=friends_link&sk=093f1c6bcc2003256a40f5435634d333"
+  link: "https://medium.com/njinnovation/finding-a-path-through-civic-tech-asking-what-technology-can-do-for-our-world-d10673704a60"
 ---
 
 As a Media Arts & Sciences major — an interdisciplinary program that combines computer science and studio art and art history courses — this summer I set out to explore a field I’d previously only caught a glimpse of in my classes: civic technology.
