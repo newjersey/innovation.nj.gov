@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/fow-news.jpg
 title: "More Than Innovation, Sparking A Movement To Support Workers"
-promoted: 3
+promoted: 
 date: July 27, 2021
 source: Medium
 cta:
