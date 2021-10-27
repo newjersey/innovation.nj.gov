@@ -1,6 +1,6 @@
 ---
 title: Neha Bharambe
-image: /assets/images/team/neha.jpeg
+image: /assets/images/team/neha.jpg
 ---
 
 Neha Bharambe works on data analytics and impact analysis with the Office of Innovation. Her work focuses on identifying and measuring key performance indicators through quantitative and qualitative analysis. She harnesses the power of data and analytics to maximize their impact for the betterment of society.
