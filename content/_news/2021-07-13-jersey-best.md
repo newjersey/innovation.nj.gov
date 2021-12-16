@@ -1,6 +1,6 @@
 ---
 image: /assets/images/news/jersey-best-image.jpeg
-title: "N.J. small businesses revamp and reinvent to keep doors open during crisis"
+title: "COVERAGE: N.J. small businesses revamp and reinvent to keep doors open during crisis"
 date: July 13, 2021
 source: JerseyBest.com
 cta:

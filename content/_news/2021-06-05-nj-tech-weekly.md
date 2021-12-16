@@ -1,6 +1,6 @@
 ---
 image: /assets/images/news/NJTechWeekly.jpg
-title: "Have a Future of Work Solution? There’s a New Jersey Accelerator for that!"
+title: "COVERAGE: Have a Future of Work Solution? There’s a New Jersey Accelerator for that!"
 date: June 5, 2021
 source: NJ Tech Weekly
 cta:
