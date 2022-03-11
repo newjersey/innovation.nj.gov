@@ -1,0 +1,4 @@
+---
+permalink: /
+target: /skills/
+---
