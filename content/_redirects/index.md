@@ -1,4 +1,4 @@
 ---
 permalink: /
-target: /skills/
+target: /fow/
 ---
