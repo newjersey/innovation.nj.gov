@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/insidernj-logo.png
 title: "New Jersey Selected as Pilot State for Federal Unemployment Improvement Project"
-promoted: 1
+promoted: 2
 date: December 14, 2021
 source: InsiderNJ
 cta:
