@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/FOW-report-pic.png
 title: "RELEASE: Governor Murphy Announces the New Jersey State Future of Work Task Force’s Roadmap and Recommendations"
-promoted: 2
+promoted: 
 date: February 17, 2022
 source: NJGov
 cta:
