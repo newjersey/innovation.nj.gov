@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/NJ-spotlight.png
 title: "COVERAGE: Workers need help facing uncertain future, task force says"
-promoted: 3
+promoted: 
 date: February 17, 2022
 source: SpotlightNJ
 cta:

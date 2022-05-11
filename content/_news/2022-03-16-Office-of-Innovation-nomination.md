@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/state-scoop-awards.png
 title: "RECOGNITION: New Jersey's COVID-19 Information Hub nominated by StateScoop for State IT Innovation of the Year"
-promoted: 1
+promoted: 3
 date: March 14, 2022
 source: StateScoop
 cta:
