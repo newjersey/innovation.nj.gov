@@ -1,5 +1,5 @@
 ---
-image: /assets/images/news/njdol.jpeg
+image: /assets/images/news/njdol.jpg
 title: "PRESS RELEASE: NJDOL Commissioner Announces New Maternity Coverage Tool to Guide Expecting Parents on Available Leave Benefits"
 promoted: 1
 date: July 7, 2022
