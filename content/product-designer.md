@@ -4,18 +4,18 @@ layout: page
 ---
 # Product Designer
 
-Location: flexible
+### Location: flexible
 
-# Our Team
+## Our Team
 The State of New Jersey Office of Innovation is looking for diverse and experienced team members to deploy world-class innovative and digital services that solve pressing public interest challenges for the people of New Jersey. We use data-driven, agile, and human-centered and equitable design practices to deliver innovative solutions involving tech, talent, process, and policy with the support of Governor Murphy and his Administration, the Chief Innovation Officer Beth Simone Noveck, and other senior leadership.
 
 Our team operates as a startup within government, and our team members wear many hats, contributing to both the execution of core projects and the evolution of the Office of Innovation. We kickstart new initiatives and assist teammates and partners when urgent challenges arise. We use data and modern research, design, and development methods to inform our decision making, and we collaborate with stakeholders within and outside of government to understand and solve challenges. To learn more about the New Jersey Office of Innovation, visit our about us page. If you have any questions, please contact us at team@innovation.nj.gov.
 
-# Product Designer
+### Product Designer
 
 We are seeking a nimble product designer with at least 5 years of experience who is ready to both lead and dive into all parts of product design. You should be comfortable working in a startup environment where you think independently and operate with a high degree of autonomy. We’re looking for self-starters who are skilled at driving projects forward while communicating and collaborating closely with the team.
 
-# As a part of the team, you will:
+### As a part of the team, you will:
 
 - Deliver solutions that meet the needs of diverse users across New Jersey
 - Lead end-to-end research planning and execution using modern practices and tools to arrive at key insights and solutions that can be iteratively developed by the team and tested with users
@@ -30,7 +30,7 @@ We are seeking a nimble product designer with at least 5 years of experience who
 - Drive user adoption and engagement
 - Take part in office-wide initiatives and stand-ups to enable collaboration and support across projects
 
-# Preferred Technical Experience, Skills and Abilities
+### Preferred Technical Experience, Skills and Abilities
 
 Applicants will be assessed based on an ability to excel at one or more product design disciplines: user experience design, user interface design, visual design, and content design.  
 

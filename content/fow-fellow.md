@@ -4,14 +4,14 @@ layout: page
 ---
 # Future of Work Policy and Engagement Fellow
 
-Location: flexible
+### Location: flexible
 
-# Our Team
+## Our Team
 The State of New Jersey Office of Innovation is looking for diverse and experienced team members to deploy world-class innovative and digital services that solve pressing public interest challenges for the people of New Jersey. We use data-driven, agile, and human-centered and equitable design practices to deliver innovative solutions involving tech, talent, process, and policy with the support of Governor Murphy and his Administration, the Chief Innovation Officer Beth Simone Noveck, and other senior leadership.
 
 Our team operates as a startup within government, and our team members wear many hats, contributing to both the execution of core projects and the evolution of the Office of Innovation. We kickstart new initiatives and assist teammates and partners when urgent challenges arise. We use data and modern research, design, and development methods to inform our decision making, and we collaborate with stakeholders within and outside of government to understand and solve challenges. To learn more about the New Jersey Office of Innovation, visit our about us page. If you have any questions, please contact us at team@innovation.nj.gov.
 
-# Future of Work Policy and Engagement Fellow
+### Future of Work Policy and Engagement Fellow
 
 The New Jersey State Office of Innovation, in collaboration with the New Jersey Department of Labor and Workforce Development (NJDOL), the NJ Higher Education Student Assistance Authority (HESAA), and the Heldrich Center for Workforce Development at Rutgers University (HCWD), is seeking to hire a Policy and Engagement Fellow to advance the implementation of policy and programs related to the Future of Work. Central to this work will be the implementation of a lifelong learning account pilot for the State of New Jersey. This program will support creating lifelong learning accounts (LiLAs), and funding those accounts for disadvantaged, low-wage workers. Additional core policy areas that this position will address will include: upskilling; worker rights and benefits; and worker health and safety.
 
@@ -21,7 +21,7 @@ This role will report to the Office of Innovation’s Chief of Staff, and collab
 
 The role will involve:
 
-# As a part of the team, you will:
+### As a part of the team, you will:
 
 - Collaborate with various state agencies and other stakeholders to design, implement, and evaluate pilot programs and initiatives;
 - Serve as a product and project manager to lead the collaboration among Treasury, OMB, DOL, and HESAA to develop cost models for implementation and build procedures for LiLA creation and monitoring to account for State and private funds deposited into individual LiLAs;
