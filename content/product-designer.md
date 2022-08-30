@@ -1,5 +1,4 @@
 ---
-title: Join Our Team
 permalink: /product-designer/
 layout: page
 ---
@@ -61,4 +60,6 @@ We do not discriminate against any candidate because of color, race, age, religi
 
 **Eligibility**
 
-You must be authorized to work in the United States. Candidates may be required to pass a background check and complete additional steps as part of the application and onboarding process. You will be considered an “at-will” employee, meaning both employer and employee have the right to terminate employment with or without cause or notice.   
+You must be authorized to work in the United States. Candidates may be required to pass a background check and complete additional steps as part of the application and onboarding process. You will be considered an “at-will” employee, meaning both employer and employee have the right to terminate employment with or without cause or notice.  
+
+<a class="usa-button" href="/fow-fellow/">Apply Now</a>
