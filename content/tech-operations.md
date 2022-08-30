@@ -4,18 +4,18 @@ layout: page
 ---
 # Technology Operations Engineer
 
-Location: flexible
+### Location: flexible
 
-# Our Team
+## Our Team
 The State of New Jersey Office of Innovation is looking for diverse and experienced team members to deploy world-class innovative and digital services that solve pressing public interest challenges for the people of New Jersey. We use data-driven, agile, and human-centered and equitable design practices to deliver innovative solutions involving tech, talent, process, and policy with the support of Governor Murphy and his Administration, the Chief Innovation Officer Beth Simone Noveck, and other senior leadership.
 
 Our team operates as a startup within government, and our team members wear many hats, contributing to both the execution of core projects and the evolution of the Office of Innovation. We kickstart new initiatives and assist teammates and partners when urgent challenges arise. We use data and modern research, design, and development methods to inform our decision making, and we collaborate with stakeholders within and outside of government to understand and solve challenges. To learn more about the New Jersey Office of Innovation, visit our about us page. If you have any questions, please contact us at team@innovation.nj.gov.
 
-# Technology Operations Engineer
+### Technology Operations Engineer
 
 We are seeking a tech operations engineer with at least 5 years of experience in managing web applications and software as a service platforms, with a focus on security. You should be comfortable working in a startup environment where you think independently and operate with a high degree of autonomy. We’re looking for self-starters who are skilled at driving projects forward while communicating and collaborating closely with the team.
 
-# As a part of the team, you will:
+### As a part of the team, you will:
 
 - Be the primary administrator of Office of Innovation technology platforms and systems, including Google Workspace, Github, AWS, Slack, and more
 - Develop processes and controls, in consultation with the Office of Innovation leadership, to ensure Office systems are secure and properly configured
@@ -32,7 +32,7 @@ Time permitting, the role will take on functions of a full-stack engineer, inclu
 - Coordinate and work with in-house department and agency technical teams, including those who support legacy systems, to execute on development projects and ensure that they are setup to succeed
 - Take part in office-wide initiatives and stand-ups to enable collaboration and support across projects
 
-# Preferred Technical Experience, Skills and Abilities
+### Preferred Technical Experience, Skills and Abilities
 
 Applicants will be assessed based on an ability to excel at one or more software engineering disciplines: front-end engineering, back-end engineering, infrastructure engineering.
 
