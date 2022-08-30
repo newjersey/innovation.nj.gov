@@ -1,5 +1,4 @@
 ---
-title: Join Our Team
 permalink: /fow-fellow/
 layout: page
 ---

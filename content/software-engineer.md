@@ -1,5 +1,4 @@
 ---
-title: Join Our Team
 permalink: /software-engineer/
 layout: page
 ---

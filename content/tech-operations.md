@@ -1,5 +1,4 @@
 ---
-title: Join Our Team
 permalink: /tech-operations/
 layout: page
 ---
