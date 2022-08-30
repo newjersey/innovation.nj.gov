@@ -3,17 +3,16 @@ title: Join Our Team
 permalink: /creative-lead/
 layout: page
 ---
-#Communications + Engagement Creative Lead
-New Jersey State Office of Innovation [View all jobs](https://www.example.com)
+# Communications + Engagement Creative Lead
 
-*flexible location*
+Location: flexible
 
-#Our Team
+# Our Team
 The State of New Jersey Office of Innovation is looking for diverse and experienced team members to deploy world-class innovative and digital services that solve pressing public interest challenges for the people of New Jersey. We use data-driven, agile, and human-centered and equitable design practices to deliver innovative solutions involving tech, talent, process, and policy with the support of Governor Murphy and his Administration, the Chief Innovation Officer Beth Simone Noveck, and other senior leadership.
 
 Our team operates as a startup within government, and our team members wear many hats, contributing to both the execution of core projects and the evolution of the Office of Innovation. We kickstart new initiatives and assist teammates and partners when urgent challenges arise. We use data and modern research, design, and development methods to inform our decision making, and we collaborate with stakeholders within and outside of government to understand and solve challenges. To learn more about the New Jersey Office of Innovation, visit our about us page. If you have any questions, please contact us at team@innovation.nj.gov.
 
-#Communications + Engagement Creative Lead
+# Communications + Engagement Creative Lead
 
 We are seeking to hire an experienced advertising and marketing strategy professional looking to use their skills to serve. This role will co-lead an exciting new initiative to build a best-in-class team to transform the delivery and promotion of key government services, programs, and initiatives through the use of research- and data-driven best practices. This position will help lead the creation of a new team empowered to strengthen the State’s ability to reach its diverse constituents by honing and delivering messaging with greater speed and agility, crafting creative and effective messaging that resonates with the public, and yielding more impactful outcomes.
 
@@ -21,7 +20,7 @@ As a member of a small team, this is both a leadership and strategy role as well
 
 This is a full-time role with hybrid and remote work opportunities.
 
-#As a part of the team, you will:
+# As a part of the team, you will:
 
 - Help lead the creation of a new team empowered to strengthen the State’s ability to reach its diverse constituents by honing and delivering compelling, trustworthy information with speed and agility, crafting creative and effective messaging that resonates with the public, and yielding more impactful outcomes
 - First and foremost, be a creator and a writer that crafts compelling concepts and copy that drive action and outcomes
@@ -33,7 +32,7 @@ This is a full-time role with hybrid and remote work opportunities.
 - Work with inter- and cross-agency teams to develop project budgets and timelines
 - Conduct other duties as required
 
-#You should possess the following:
+# You should possess the following:
 
 - Creative genius and the track record to prove it: a minimum of 7+ years experience in creative direction, copywriting, content creation, marketing, strategic branding, editorial writing, speechwriting and copy editing; advertising, marketing, and/or public affairs agency experience greatly preferred; senior executives are also encouraged to apply
 - The ability to translate information into equitable impact: demonstrated success in taking informed strategic approaches and transforming them into compelling work product that resonates with and moves diverse target audiences
