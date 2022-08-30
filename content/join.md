@@ -7,26 +7,26 @@ Interested in improving the lives of New Jerseyans by designing and delivering m
 
 ## Current Job Openings
 
-[Communications + Engagement Creative Lead](https://www.example.com)
+[Communications + Engagement Creative Lead](https://innovation.nj.gov/creative-lead)
 
 Flexible Location
 
-[Full-Stack Software Engineer](https://www.example.com)
+[Full-Stack Software Engineer](https://innovation.nj.gov/software-engineer))
 
 Flexible Location
 
-[Future of Work Policy and Engagement Fellow](https://www.example.com)
+[Future of Work Policy and Engagement Fellow](https://innovation.nj.gov/fow-fellow))
 
 Flexible Location
 
-[Product Designer](https://www.example.com)
+[Product Designer](https://innovation.nj.gov/product-designer))
 
 Flexible Location
 
-[Technology Operations Engineer](https://www.example.com)
+[Technology Operations Engineer](https://innovation.nj.gov/tech-operations))
 
 Flexible Location
 
-[General Application](https://www.example.com)
+[General Application](https://innovation.nj.gov/creative-lead))
 
 Interested in joining, but don't see an open posting? Submit your application here.
