@@ -1,6 +1,6 @@
 ---
 title: AnJu Hyppolite
-image: /assets/images/team/anju.jpg 
+image: /assets/images/team/anju.jpgg
 ---
 
 AnJu Hyppolite is a software engineer on the Business First Stop initiative team with the Office of Innovation. She works on developing the Navigator, a one-stop application that improves the user experience for entrepreneurs looking to start, operate, and grow their businesses in New Jersey.
