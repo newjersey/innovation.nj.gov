@@ -3,7 +3,7 @@ title: Maita Navarro
 image: /assets/images/team/maita.jpg
 ---
 
-Maita Navarro is a Digital Design Graduate Research Fellow with the Office of Innovation's Communications and Engagement lab, where she works to research, design, and implement solutions to better connect residents with State government benefits, programs, services, and products.
+Maita Navarro is a digital design graduate research fellow with the Office of Innovation's Communications and Engagement lab, where she works to research, design, and implement solutions to better connect residents with State government benefits, programs, services, and products.
 
 Maita draws from various experiences in her work—investigating the use of community-based inclusive design practices to reimagine technology systems, researching web literacy at the Wellesley Cred Lab, improving the experience of prospective small business owners as a Software Engineering Civic Innovation Corps Member with the Office in 2021, and community organizing on-campus throughout her undergraduate years.
 
