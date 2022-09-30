@@ -3,6 +3,5 @@ title: Join Our Team
 permalink: /join/
 layout: page
 ---
-<div id="grnhse_app"></div>
-<a href="#" id="current_openings"></a>
-<script src="https://boards.greenhouse.io/embed/job_board/js?for=newjerseyinnovation"></script>
+
+Thanks for your interest in our team. We are planning to open new roles in the coming weeks. If you are interested in joining our team, [send us an email](mailto:team@innovation.nj.gov) with your resume and interests, and we'll be in touch if there is a fit.
