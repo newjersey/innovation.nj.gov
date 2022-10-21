@@ -4,11 +4,7 @@ permalink: /join/
 layout: page
 ---
 
-Thanks for your interest in our team. We list open roles with our team on this page. We are planning to open additional new roles in the coming weeks. If you are interested in joining our team, [send us an email](mailto:team@innovation.nj.gov) with your resume and interests, and we'll be in touch if there is a fit.
-
-# Talent Acquisition Partner
-
-[How to apply](#how-to-apply)
+Thanks for your interest in our team. See here for [our current open roles](#open-opportunities). We are planning to open additional new roles in the coming weeks. If you are interested in joining our team, [send us an email](mailto:team@innovation.nj.gov) with your resume and interests, and we'll be in touch if there is a fit.
 
 ## Our Team
 
@@ -16,7 +12,9 @@ The State of New Jersey Office of Innovation is looking for diverse and experien
 
 Our team operates as a startup within government, and our team members wear many hats, contributing to both the execution of core projects and the evolution of the Office of Innovation. We kickstart new initiatives and assist teammates and partners when urgent challenges arise. We use data and modern research, design, and development methods to inform our decision making, and we collaborate with stakeholders within and outside of government to understand and solve challenges. To learn more about the New Jersey Office of Innovation, visit our about us page. If you have any questions, please contact us at team@innovation.nj.gov.
 
-**Talent Acquisition Partner**
+## Open Opportunities
+
+**Talent Acquisition Partner** ([How to apply](#how-to-apply))
 
 As a Talent Acquisition Partner, you will play a key role to source, present, and hire mission-driven, forward thinking leaders and problem-solvers who will lead projects and initiatives that positively impact the lives of New Jerseyans. You’ll be responsible for full-cycle recruitment for a range of disciplines, with a particular emphasis on technical roles: design (UX, product, and content strategy), engineering (back end, full stack, cloud, infrastructure and site reliability), data analysis, and product management. You’ll partner with team leadership and work with hiring committees to drive recruitment strategies. 
 
