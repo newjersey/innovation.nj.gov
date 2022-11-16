@@ -20,7 +20,7 @@ As a part of the team, you will be responsible for the following:
 -- Conduct initial screening of application materials for hiring committee review
 - **Operations**: ensuring that there’s an effective and efficient execution of our evaluation and hiring processes
 -- Schedule and coordinate interviews with internal participants and candidates; oversees preparation of interview questions and other hiring and selection materials; brief hiring committee members in advance of interviews
--- Configure and administer an Applicant Tracking System (ATS) (currently Greenhouse) to support the hiring process
+-- Configure and administer an Applicant Tracking System (ATS) to support the hiring process
 
 **Preferred Technical Experience, Skills and Abilities**
 
