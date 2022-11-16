@@ -65,6 +65,10 @@ permalink: /:title/
 
 collections_dir: content
 collections:
+  join:
+    permalink: /:collection/:title/
+    output: true
+    sort_by: order
   projects:
     output: false
     sort_by: order
@@ -100,3 +104,8 @@ defaults:
       path: ""
     values:
       layout: "page"
+  - scope:
+      path: ""
+      type: "join"
+    values:
+      layout: "join"
