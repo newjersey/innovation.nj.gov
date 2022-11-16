@@ -2,7 +2,7 @@
 image: /assets/images/news/medium-logo.png
 title: "POST: How we used a simple survey tool to elevate public engagement"
 promoted: 1
-date: November 16, 2022
+date: November 14, 2022
 source: Medium
 cta:
   text: Continue Reading
