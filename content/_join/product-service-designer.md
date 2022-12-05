@@ -4,7 +4,7 @@ form: https://innovatenj.jotform.com/223213652093954
 published: true
 ---
 
-We are seeking a product or service designer with at least 5 years of experience who is apply design practices to improving digital service delivery in New Jersey.
+We are seeking a product or service designer with at least 5 years of experience who is dedicated to applying design practices to improve government digital service delivery for the State of New Jersey.
 
 As a part of the team, your responsibilities may include:
 
