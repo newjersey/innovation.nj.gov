@@ -1,0 +1,42 @@
+---
+title: Product or Service Designer
+form: https://innovatenj.jotform.com/223213652093954
+published: true
+---
+
+We are seeking a product or service designer with at least 5 years of experience who is dedicated to applying design practices to improve government digital service delivery for the State of New Jersey.
+
+As a part of the team, your responsibilities may include:
+
+- Deliver solutions that meet the needs of diverse users across New Jersey
+- Lead end-to-end research planning and execution using modern practices and tools to arrive at key insights and solutions that can be iteratively developed by the team and tested with users
+- Partner closely with engineers, product managers, and other team members to translate UX/UI design into iteratively developed products that meet the needs of our users
+- Solve complex problems through the use of human-centered design, open-source development and innovation, data-driven decision making, and agile development practices
+- Create and execute research and testing plans for each phase of the project
+- Use both equitable human-centered and data-driven research methodologies to generate insights and key learnings
+- Design mockups, wireframes, user stories, and other guides that inform the development of products and can be shared with team members and stakeholders
+- Develop and iterate on content that meets the needs of our users
+- Collaborate with diverse stakeholders and subject matter experts to define new features and iterate existing capabilities
+- Serve as a coach and catalyst for leveraging modern data-driven and human-centered design practices across the team and the State in the areas of design research, interaction design, service design, visual design, and information architecture
+- Drive user adoption and engagement
+- Take part in office-wide initiatives and stand-ups to enable collaboration and support across projects
+
+**Preferred Technical Experience, Skills and Abilities**
+
+Applicants will be assessed based on an ability to excel at one or more design disciplines: user experience design, user interface design, visual design, and content design.
+
+We are seeking individuals with the following experience, skills, and abilities:
+
+- Leading user experience design and research to iteratively develop digital products or services within large or complex environments as part of a cross-functional team
+- Conducting rapid evidence reviews, research, and field scans
+- Defining user needs and experience goals using such frameworks as personas, storyboards, scenarios, and flowcharts
+- Designing and specifying user interfaces and information architecture, reusing design patterns where relevant
+- Developing accessible content
+- Leveraging technologies such as Sketch, Adobe Creative Cloud, and equivalent interaction design tools; InVision, Quartz Composer, or equivalent prototyping tools; and modern CSS and HTML.
+- Prototyping designs at varying levels of fidelity using static mocks, click-through prototypes, basic CSS and HTML
+- Working closely with engineers to translate wireframes and prototypes into functional working front-end code
+- Setting up and facilitating user research sessions to assess the usability of designs or live code
+- Communicating research findings, design rationale, and goals both verbally and visually
+- Leveraging global web design standards
+
+**Compensation**: Up to $130,000 (depending on experience) + Full benefits
