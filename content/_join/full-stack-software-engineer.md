@@ -9,22 +9,22 @@ We are seeking full-stack software engineers with at least 5 years of experience
 As a part of the team, your responsibilities may include:
 
 - Deliver solutions that meet the needs of diverse users across New Jersey
-- Operate as a solution architect, taking problems that may be poorly specified and finding the best software solutions, including evaluating custom developed vs. SAAS options
-- Own features end-to-end, from planning to structuring data models to designing and building front-end interfaces
-- Apply leading industry development practices to solve complex problems through the use of human-centered design, open-source development and innovation, data-driven decision making, and agile development practices
+    - Own features end-to-end, from planning to structuring data models to designing and building front-end interfaces
+    - Apply leading industry development practices to solve complex problems through the use of human-centered design, open-source development and innovation, data-driven decision making, and agile development practices
+    - Operate as a solution architect, taking problems that may be poorly specified and finding the best software solutions, including evaluating custom developed vs. SAAS options
+    - Solve challenges using a wide toolkit that includes writing code, building the technical capacity of the team and State, translating user needs into technical decisions, mapping out technical options and architecture, and coaching and presenting to colleagues
+    - Deliver projects with complex requirements, multiple stakeholders with disparate views, or high levels of bureaucracy
 - Lead a team of engineers and/or the engineering process
-- Deliver projects with complex requirements, multiple stakeholders with disparate views, or high levels of bureaucracy
-- Deliver public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
-- Deliver tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
-- Work closely with product managers, designers, experts, leadership, and diverse stakeholders to translate findings and designs into product
-- Iteratively release new product that can be tested with users
-- Coordinate development activities (including the establishment of development processes) and make technical decisions that reflect the ideal solution and practical realities
-- Build and maintain the underlying technical architecture and processes -- including a cloud environment as well as continuous integration, automated testing, and source control processes -- that will enable the team’s success across initiatives
-- Develop technical documentation that can support the completion of state requirements
-- Provide counsel on technical matters in plain language to our team and stakeholders
-- Solve challenges using a wide toolkit that includes writing code, building the technical capacity of the team and State, translating user needs into technical decisions, mapping out technical options and architecture, and coaching and presenting to colleagues
-- Coordinate and work with in-house department and agency technical teams, including those who support legacy systems, to execute on development projects and ensure that they are setup to succeed
-- Take part in office-wide initiatives and stand-ups to enable collaboration and support across projects
+    - Deliver public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
+    - Deliver tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
+    - Build and maintain the underlying technical architecture and processes -- including a cloud environment as well as continuous integration, automated testing, and source control processes -- that will enable the team’s success across initiatives
+    - Develop technical documentation that can support the completion of state requirements
+- Collaborate 
+    - Work closely with product managers, designers, experts, leadership, and diverse stakeholders to translate findings and designs into product
+    - Coordinate development activities (establish development processes) and make technical decisions that reflect the ideal solution and practical realities
+    - Provide counsel on technical matters in plain language to our team and stakeholders
+    - Coordinate and work with in-house department and agency technical teams, including those who support legacy systems, to execute on development projects and ensure that they are setup to succeed
+    - Take part in office-wide initiatives and stand-ups to enable collaboration and support across projects
 
 **Preferred Technical Experience, Skills and Abilities**
 
