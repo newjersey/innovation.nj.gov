@@ -9,16 +9,16 @@ We are seeking a product manager with at least 5 years of experience leading cro
 As a part of the team, your responsibilities may include:
 
 - Deliver solutions that meet the needs of diverse users across New Jersey
-- Lead end-to-end product and project management activities to enable the delivery of modern solutions that meet the needs of users for a key project
-- Take problems that may be poorly specified and find the best software solutions, including evaluating custom developed vs. SAAS options
-- Identify and engage with external experts and resources that can inform, improve, and accelerate our products
+    - Lead end-to-end product and project management activities to enable the delivery of modern solutions that meet the needs of users for a key project
+    - Take problems that may be poorly specified and find the best software solutions, including evaluating custom developed vs. SAAS options
+    - Identify and engage with external experts and resources that can inform, improve, and accelerate our products
 - Establish the project environment necessary to operate as a high performing cross-functional team in partnership with diverse stakeholders
-- Develop and communicate the vision, strategy, and product roadmap
-- Manage state requirements in the delivery of products and services
+    - Develop and communicate the vision, strategy, and product roadmap
+    - Manage state requirements in the delivery of products and services
+    - Support team members by helping them clear any challenges they may encounter
 - Communicate and collaborate with partners throughout the state to ensure we are enabling their long-term success
-- Support team members by helping them clear any challenges they may encounter
-- Drive open communication regarding the project with the public (e.g., blog posts)
-- Take part in office-wide initiatives, such as stand-ups, to enable collaboration and support across projects
+    - Drive open communication regarding the project with the public (e.g., blog posts)
+    - Take part in office-wide initiatives, such as stand-ups, to enable collaboration and support across projects
 
 **Preferred Technical Experience, Skills and Abilities**
 
