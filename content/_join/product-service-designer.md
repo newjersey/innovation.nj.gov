@@ -3,8 +3,11 @@ title: Product or Service Designer
 form: https://innovatenj.jotform.com/223213652093954
 published: true
 ---
+The State of New Jersey Office of Innovation is looking for diverse and experienced team members to deploy world-class innovative and digital services that solve pressing public interest challenges for the people of New Jersey. Our work spans numerous issue and policy areas, and is focused on making an impact in the lives of the New Jerseyans that we serve: we’ve decreased the amount of time it takes to apply for Unemployment Insurance, made it easier to start, operate, and grow a business in the Garden State, and connected millions of New Jerseyans to government programs, services, and benefits. 
 
-We are seeking a product or service designer with at least 5 years of experience who is dedicated to applying design practices to improve government digital service delivery for the State of New Jersey.
+Our team members wear many hats, contributing to both the execution of core projects and the evolution of the Office of Innovation. We use data and modern research, design, and development methods to inform our decision making, and we collaborate with stakeholders within and outside of government to understand and solve challenges. To learn more about the New Jersey Office of Innovation, visit our [about us]({% link content/about.md %}) page. If you have any questions, please contact us at team@innovation.nj.gov.
+
+For this role, we are seeking a product or service designer with at least 5 years of experience who is dedicated to applying design practices to improve government digital service delivery for the State of New Jersey.
 
 As a part of the team, your responsibilities may include:
 

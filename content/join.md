@@ -10,6 +10,8 @@ Thanks for your interest in our team. Check out our [current open roles](#open-o
 
 The State of New Jersey Office of Innovation is looking for diverse and experienced team members to deploy world-class innovative and digital services that solve pressing public interest challenges for the people of New Jersey. We use data-driven, agile, and human-centered and equitable design practices to deliver innovative solutions and digital services involving tech, talent, process, and policy with the support of Governor Murphy and his Administration, the Chief Innovation Officer Beth Simone Noveck, and other senior leadership.
 
+Our work spans numerous issue and policy areas, and is focused on making an impact in the lives of the New Jerseyans that we serve: we’ve decreased the amount of time it takes to apply for Unemployment Insurance, made it easier to start, operate, and grow a business in the Garden State, and connected millions of New Jerseyans to government programs, services, and benefits. 
+
 Our team operates as a startup within government, and our team members wear many hats, contributing to both the execution of core projects and the evolution of the Office of Innovation. We kickstart new initiatives and assist teammates and partners when urgent challenges arise. We use data and modern research, design, and development methods to inform our decision making, and we collaborate with stakeholders within and outside of government to understand and solve challenges. To learn more about the New Jersey Office of Innovation, visit our [about us](/about) page. If you have any questions, please contact us at team@innovation.nj.gov.
 
 {% if site.join and site.join.size > 0 %}
