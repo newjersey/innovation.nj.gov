@@ -2,6 +2,7 @@
 title: Thanks for applying!
 permalink: /join/submitted/
 layout: page
+sitemap: false
 ---
 
 Thank you for your submission.
