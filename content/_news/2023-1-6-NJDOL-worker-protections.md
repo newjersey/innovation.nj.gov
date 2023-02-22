@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/njdol.jpg
 title: "RELEASE: NJDOL Reflects on a Year of Enhanced Worker Protections, Improved Unemployment Application as Garden State Touts More Workers, Employers Than Ever Before"
-promoted: 3
+promoted: 2
 date: January 6, 2023
 source: NJDOL
 cta:
