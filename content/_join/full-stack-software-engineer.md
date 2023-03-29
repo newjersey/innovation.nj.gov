@@ -4,7 +4,7 @@ form: https://innovatenj.jotform.com/223213586061955
 published: true
 ---
 
-The New Jersey State Office of Innovation is looking for diverse and experienced team members to deploy world-class innovative and digital services that solve pressing public interest challenges for the people of New Jersey. Our work spans numerous issue and policy areas, and is focused on making an impact in the lives of the New Jerseyans that we serve: we’ve decreased the amount of time it takes to apply for Unemployment Insurance, made it easier to start, operate, and grow a business in the Garden State, and connected millions of New Jerseyans to government programs, services, and benefits. 
+The New Jersey State Office of Innovation is looking for diverse and experienced team members to deploy world-class innovative and digital services that solve pressing public interest challenges for the people of New Jersey. Our work spans numerous issue and policy areas, and is focused on making an impact in the lives of the New Jerseyans that we serve: we’ve decreased the amount of time it takes to apply for Unemployment Insurance, made it easier to start, operate, and grow a business in the Garden State, and connected millions of New Jerseyans to government programs, services, and benefits.
 
 Our team members wear many hats, contributing to both the execution of core projects and the evolution of the Office of Innovation. We use data and modern research, design, and development methods to inform our decision making, and we collaborate with stakeholders within and outside of government to understand and solve challenges. To learn more about the New Jersey Office of Innovation, visit our [about us]({% link content/about.md %}) page. If you have any questions, please contact us at [team@innovation.nj.gov](mailto:team@innovation.nj.gov).
 
@@ -13,22 +13,22 @@ For this role, we are seeking full-stack software engineers with at least 5 year
 As a part of the team, your responsibilities may include:
 
 - Deliver solutions that meet the needs of diverse users across New Jersey
-    - Own features end-to-end, from planning to structuring data models to designing and building front-end interfaces
-    - Apply leading industry development practices to solve complex problems through the use of human-centered design, open-source development and innovation, data-driven decision making, and agile development practices
-    - Operate as a solution architect, taking problems that may be poorly specified and finding the best software solutions, including evaluating custom developed vs. SAAS options
-    - Solve challenges using a wide toolkit that includes writing code, building the technical capacity of the team and State, translating user needs into technical decisions, mapping out technical options and architecture, and coaching and presenting to colleagues
-    - Deliver projects with complex requirements, multiple stakeholders with disparate views, or high levels of bureaucracy
+  - Own features end-to-end, from planning to structuring data models to designing and building front-end interfaces
+  - Apply leading industry development practices to solve complex problems through the use of human-centered design, open-source development and innovation, data-driven decision making, and agile development practices
+  - Operate as a solution architect, taking problems that may be poorly specified and finding the best software solutions, including evaluating custom developed vs. SAAS options
+  - Solve challenges using a wide toolkit that includes writing code, building the technical capacity of the team and State, translating user needs into technical decisions, mapping out technical options and architecture, and coaching and presenting to colleagues
+  - Deliver projects with complex requirements, multiple stakeholders with disparate views, or high levels of bureaucracy
 - Lead a team of engineers and/or the engineering process
-    - Deliver public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
-    - Deliver tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
-    - Build and maintain the underlying technical architecture and processes -- including a cloud environment as well as continuous integration, automated testing, and source control processes -- that will enable the team’s success across initiatives
-    - Develop technical documentation that can support the completion of state requirements
-- Collaborate 
-    - Work closely with product managers, designers, experts, leadership, and diverse stakeholders to translate findings and designs into product
-    - Coordinate development activities (establish development processes) and make technical decisions that reflect the ideal solution and practical realities
-    - Provide counsel on technical matters in plain language to our team and stakeholders
-    - Coordinate and work with in-house department and agency technical teams, including those who support legacy systems, to execute on development projects and ensure that they are setup to succeed
-    - Take part in office-wide initiatives and stand-ups to enable collaboration and support across projects
+  - Deliver public-facing products or features on public-facing products with a large number of users (i.e. 100,000+)
+  - Deliver tools or products with high uptime or availability requirements (i.e. SLAs of 99.9%+)
+  - Build and maintain the underlying technical architecture and processes -- including a cloud environment as well as continuous integration, automated testing, and source control processes -- that will enable the team’s success across initiatives
+  - Develop technical documentation that can support the completion of state requirements
+- Collaborate
+  - Work closely with product managers, designers, experts, leadership, and diverse stakeholders to translate findings and designs into product
+  - Coordinate development activities (establish development processes) and make technical decisions that reflect the ideal solution and practical realities
+  - Provide counsel on technical matters in plain language to our team and stakeholders
+  - Coordinate and work with in-house department and agency technical teams, including those who support legacy systems, to execute on development projects and ensure that they are setup to succeed
+  - Take part in office-wide initiatives and stand-ups to enable collaboration and support across projects
 
 **Preferred Technical Experience, Skills and Abilities**
 
