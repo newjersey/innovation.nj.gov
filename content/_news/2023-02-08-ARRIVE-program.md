@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: Governor Murphy Proposes $10M Investment to Expand ARRIVE Together Law Enforcement-Mental Health Collaboration Statewide"
-promoted: 3
+promoted: 
 date: February 8, 2023
 source: NJGOV
 cta:
