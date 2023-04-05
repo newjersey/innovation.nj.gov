@@ -1,12 +1,12 @@
 ---
-image: /assets/images/news/njcomlogo.png
-title: "COVERAGE: New N.J. website aims to help transgender and non-binary residents"
+image: /assets/images/news/transgender-nj-gov.png
+title: "COVERAGE: New Jersey Launches Information Hub for Trans Individuals"
 promoted: 1
-date: April 2, 2023
-source: NJ.com
+date: April 4, 2023
+source: Government Technology
 cta:
   text: Continue Reading
-  link: "https://www.nj.com/politics/2023/04/new-nj-website-aims-to-help-transgender-and-non-binary-residents.html"
+  link: "https://www.govtech.com/gov-experience/new-jersey-launches-information-hub-for-trans-individuals"
 ---
 
-New Jersey‘s government has launched a website to help the state’s more than 30,000 transgender and non-binary residents find information about programs and services they can use.
+State officials marked International Transgender Day of Visibility last week with the launch of the first version of its new centralized information hub to support transgender and non-binary constituents.
