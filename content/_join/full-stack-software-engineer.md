@@ -54,4 +54,4 @@ Applicants will be assessed based on an ability to excel at one or more software
 - Ensuring system uptime and performance
 - Monitoring and notifying appropriate officials in the case of security and data breaches
 
-**Compensation**: Up to $130,000 (depending on experience) + Full benefits
+**Compensation**: Up to $136,500 (depending on experience) + Full benefits
