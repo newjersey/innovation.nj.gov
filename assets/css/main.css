@@ -20,13 +20,6 @@
 }
 
 /* Links */
-
-a.text-primary-darker {
-  color: #243413;
-}
-.usa-graphic-list.usa-section--dark a {
-  color: #73b3e7;
-}
 .usa-graphic-list__heading a {
   text-decoration: none;
 }
