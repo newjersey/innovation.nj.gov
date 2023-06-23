@@ -7,24 +7,10 @@
       <ul class="grid-row grid-gap">
         {% for item in site.data.menu %}
         <li
-          class="
-            mobile-lg:grid-col-4
-            desktop:grid-col-auto
-            usa-footer__primary-content
-          "
+          class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content"
         >
           <a
-            class="
-              usa-footer__primary-link
-              {%
-              if
-              item.link
-              ==
-              page.url
-              %}text-primary-darker{%
-              endif
-              %}
-            "
+            class="usa-footer__primary-link {% if item.link == page.url %}text-primary-darker{% endif %}"
             href="{{item.link}}"
             >{{item.text}}</a
           >
@@ -38,11 +24,7 @@
     <div class="grid-container">
       <div class="grid-row grid-gap">
         <div
-          class="
-            usa-footer__logo
-            grid-row
-            mobile-lg:grid-col-6 mobile-lg:grid-gap-2
-          "
+          class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2"
         >
           <div class="mobile-lg:grid-col-auto">
             <h3 class="usa-footer__logo-heading">{{ site.title }}</h3>
@@ -63,40 +45,44 @@
           <div class="usa-footer__social-links grid-row grid-gap-1">
             <div class="grid-col-auto">
               <a
-                class="usa-social-link usa-link-github"
+                class="usa-social-link"
                 rel="noopener"
                 target="_blank"
                 href="https://github.com/newjersey"
               >
-                <svg
-                  class="usa-icon width-full height-full padding-1"
-                  aria-hidden="true"
-                  focusable="false"
-                  role="img"
-                >
-                  <use xlink:href="/assets/njwds/img/sprite.svg#github"></use>
-                </svg>
-                <span>Github</span>
+                <img
+                  class="usa-social-link__icon"
+                  src="https://pr-37.d6umhtb6a6pvv.amplifyapp.com/dist/img/usa-icons/github.svg"
+                  alt="GitHub"
+                />
               </a>
             </div>
             <div class="grid-col-auto">
               <a
-                class="usa-social-link usa-social-link--facebook"
+                class="usa-social-link"
                 rel="noopener"
                 target="_blank"
                 href="https://www.facebook.com/NJGov/"
               >
-                <span>Facebook</span>
+                <img
+                  class="usa-social-link__icon"
+                  src="https://pr-37.d6umhtb6a6pvv.amplifyapp.com/dist/img/usa-icons/facebook.svg"
+                  alt="Facebook"
+                />
               </a>
             </div>
             <div class="grid-col-auto">
               <a
-                class="usa-social-link usa-social-link--twitter"
+                class="usa-social-link"
                 rel="noopener"
                 target="_blank"
                 href="https://twitter.com/njgov"
               >
-                <span>Twitter</span>
+                <img
+                  class="usa-social-link__icon"
+                  src="https://pr-37.d6umhtb6a6pvv.amplifyapp.com/dist/img/usa-icons/twitter.svg"
+                  alt="Twitter"
+                />
               </a>
             </div>
             <div class="grid-col-auto">
@@ -116,10 +102,11 @@
                   viewBox="0 0 510 510"
                   style="enable-background: new 0 0 510 510"
                   xml:space="preserve"
-                  class="usa-icon width-full height-full padding-105"
+                  class="usa-icon width-full height-full padding-05"
                   aria-hidden="true"
                   focusable="false"
                   role="img"
+                  alt="LinkedIn"
                 >
                   <g>
                     <g id="post-linkedin">
@@ -132,18 +119,20 @@
                     </g>
                   </g>
                 </svg>
-
-                <span>LinkedIn</span>
               </a>
             </div>
             <div class="grid-col-auto">
               <a
-                class="usa-social-link usa-social-link--instagram"
+                class="usa-social-link"
                 rel="noopener"
                 target="_blank"
                 href="https://www.instagram.com/njgov/"
               >
-                <span>Instagram</span>
+                <img
+                  class="usa-social-link__icon"
+                  src="https://pr-37.d6umhtb6a6pvv.amplifyapp.com/dist/img/usa-icons/instagram.svg"
+                  alt="Instagram"
+                />
               </a>
             </div>
           </div>
@@ -159,7 +148,7 @@
                   role="img"
                 >
                   <use
-                    xlink:href="/assets/njwds/img/sprite.svg#mail"
+                    xlink:href="https://pr-37.d6umhtb6a6pvv.amplifyapp.com/njwds/img/sprite.svg#mail"
                   ></use></svg
                 >Sign up for updates</a
               >
