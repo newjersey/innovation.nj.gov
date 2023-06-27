@@ -1,7 +1,7 @@
 ---
 title: Content Lead
 form: https://innovatenj.jotform.com/231324641595961
-published: true
+published: false
 ---
 
 The New Jersey State Office of Innovation is looking for a content lead to deploy world-class digital services that solve pressing public interest challenges for the business community in New Jersey. The Content Lead will support the Business Experience Initiative which is making it easier for businesses to start, operate, and grow in New Jersey. Current products related to this initiative include a custom application, a static website, a chat interface, and a newsletter. Through content strategy, content creation, and research, you will support the growth and evolution of more than 1 million businesses and the Garden State’s economy.
