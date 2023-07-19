@@ -7,24 +7,10 @@
       <ul class="grid-row grid-gap">
         {% for item in site.data.menu %}
         <li
-          class="
-            mobile-lg:grid-col-4
-            desktop:grid-col-auto
-            usa-footer__primary-content
-          "
+          class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content"
         >
           <a
-            class="
-              usa-footer__primary-link
-              {%
-              if
-              item.link
-              ==
-              page.url
-              %}text-primary-darker{%
-              endif
-              %}
-            "
+            class="usa-footer__primary-link {% if item.link == page.url %}text-primary-darker{% endif %}"
             href="{{item.link}}"
             >{{item.text}}</a
           >
@@ -38,11 +24,7 @@
     <div class="grid-container">
       <div class="grid-row grid-gap">
         <div
-          class="
-            usa-footer__logo
-            grid-row
-            mobile-lg:grid-col-6 mobile-lg:grid-gap-2
-          "
+          class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2"
         >
           <div class="mobile-lg:grid-col-auto">
             <h3 class="usa-footer__logo-heading">{{ site.title }}</h3>
@@ -74,7 +56,9 @@
                   focusable="false"
                   role="img"
                 >
-                  <use xlink:href="/assets/njwds/img/sprite.svg#github"></use>
+                  <use
+                    xlink:href="/node_modules/@newjersey/njwds/dist/img/sprite.svg#github"
+                  ></use>
                 </svg>
                 <span>Github</span>
               </a>
@@ -159,7 +143,7 @@
                   role="img"
                 >
                   <use
-                    xlink:href="/assets/njwds/img/sprite.svg#mail"
+                    xlink:href="/node_modules/@newjersey/njwds/dist/img/sprite.svg#mail"
                   ></use></svg
                 >Sign up for updates</a
               >

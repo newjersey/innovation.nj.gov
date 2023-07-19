@@ -26,7 +26,7 @@
     <div class="usa-nav__inner">
       <button class="usa-nav__close">
         <img
-          src="{{ baseurl }}/assets/njwds/img/close.svg"
+          src="{{ baseurl }}/node_modules/@newjersey/njwds/dist/img/close.svg"
           role="img"
           alt="close"
         />
@@ -35,17 +35,7 @@
         {% for item in site.data.menu %}
         <li class="usa-nav__primary-item">
           <a
-            class="
-              usa-nav__link
-              {%
-              if
-              item.link
-              ==
-              page.url
-              %}usa-current{%
-              endif
-              %}
-            "
+            class="usa-nav__link {% if item.link == page.url %}usa-current{% endif %}"
             href="{{item.link}}"
             ><span>{{item.text}}</span></a
           >

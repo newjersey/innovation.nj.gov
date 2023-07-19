@@ -1,15 +1,15 @@
-var uncss = require("uncss");
-var cleancss = require("clean-css");
-var glob = require("glob");
-var fs = require("fs");
+const uncss = require("uncss");
+const cleancss = require("clean-css");
+const glob = require("glob");
+const fs = require("fs");
 
-var stylesheetLocation = "_site/assets/njwds/css/";
-var stylesheetSourceLocation = "assets/njwds/css/";
-var stylesheetName = "styles.css";
-var stylesheetMinName = "styles.min.css";
+const stylesheetLocation = "./node_modules/@newjersey/njwds/dist/css/";
+const stylesheetSourceLocation = "assets/njwds/css/";
+const stylesheetName = "styles.css";
+const stylesheetMinName = "styles.min.css";
 
-var jekyllUncss = function () {
-  var css = fs.readFileSync(stylesheetLocation + stylesheetName, "utf8");
+const jekyllUncss = function () {
+  const css = fs.readFileSync(stylesheetLocation + stylesheetName, "utf8");
 
   glob("_site/**/*.html", function (err, files) {
     if (err) {
