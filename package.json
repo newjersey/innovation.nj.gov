@@ -3,6 +3,8 @@
     "@newjersey/njwds": "^1.0.0"
   },
   "scripts": {
-    "build": "./importNJWDS.sh && bundle exec jekyll build"
+    "import-njwds": "./importNJWDS.sh",
+    "build": "npm run import-njwds && bundle exec jekyll build",
+    "serve": "npm run import-njwds && bundle exec jekyll serve"
   }
 }
