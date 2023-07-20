@@ -25,11 +25,11 @@
   <nav aria-label="Primary navigation" class="usa-nav">
     <div class="usa-nav__inner">
       <button class="usa-nav__close">
-        <img
-          src="{{ baseurl }}/node_modules/@newjersey/njwds/dist/img/close.svg"
-          role="img"
-          alt="close"
-        />
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+          <use
+            xlink:href="{{ baseurl }}/assets/njwds/dist/img/sprite.svg#close"
+          ></use>
+        </svg>
       </button>
       <ul class="usa-nav__primary usa-accordion">
         {% for item in site.data.menu %}
