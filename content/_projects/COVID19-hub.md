@@ -1,10 +1,6 @@
 ---
 title: New Jersey COVID-19 Information Hub
-order: 2
-image: /assets/images/njinfohub.svg
-cta:
-  text: Visit the COVID-19 Information Hub
-  link: https://covid19.nj.gov/
+menu-group: COVID Response
 ---
 
 At the onset of the public health crisis, the Office of Innovation rapidly created a new website to serve as a central information hub on all matters related to COVID-19. The site features constantly updated information in English and Spanish on what resources are available to help New Jerseyans through the pandemic, the latest on business regulations and safety guidance, and [scientific content](https://covid19.fas.org/) from the Federation of American Scientists. This project was developed in partnership with Yext, which has offered its services to the Office of Innovation on a pro bono basis.

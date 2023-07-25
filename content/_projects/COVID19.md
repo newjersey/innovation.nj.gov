@@ -1,10 +1,6 @@
 ---
 title: COVID-19 Response
-order: 1
-promoted: 8
-image: /assets/images/covid_response.svg
-cta:
-  text: Email [team@innovation.nj.gov](mailto:team@innovation.nj.gov) to learn more about the Office of Innovation's COVID-19 response
+menu-group: COVID Response
 ---
 
 In collaboration with numerous State departments and agencies, the Office of Innovation has undertaken an array of projects to support the State of New Jersey’s response to the COVID-19 pandemic and improve the delivery of information and services to New Jerseyans, and the businesses and institutions of the Garden State. Collectively, these Office of Innovation's projects have reached millions of New Jerseyans, and served hundreds of thousands of businesses across the Garden State.

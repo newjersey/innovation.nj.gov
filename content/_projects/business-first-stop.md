@@ -1,11 +1,6 @@
 ---
 title: Business First Stop
-promoted: 3
-order: 6
-image: /assets/images/business.svg
-cta:
-  text: Visit the new Business.NJ.gov
-  link: https://business.nj.gov/
+menu-group: Business Experience
 ---
 
 The Business First Stop initiative was developed to address Governor Murphy’s goal of making government work more effectively to enable inclusive business growth, and is a strategic component of the Governor’s Stronger and Fairer Economic Plan. Developed in partnership with the New Jersey's Business Action Center (NJBAC) and the Economic Development Authority (EDA), this initiative is intended to simplify and streamline access to the information, resources, and services that aspiring entrepreneurs and business owners need to start, operate, and grow their business in the Garden State.

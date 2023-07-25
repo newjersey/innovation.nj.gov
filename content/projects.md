@@ -1,6 +1,10 @@
 ---
 title: Our Work
 permalink: /projects/
+menu:
+  - title: Projects
+    url: /projects/
+    collection: projects
 ---
 
 <p class="usa-intro">The Office of Innovation works with and across New Jersey State departments and agencies to design and develop products and services by using modern, data-driven, human-centered design, and agile development processes.
@@ -22,5 +26,3 @@ Since our creation, we have engaged in a wide variety of projects, including:
 - Exploring policy innovations on issue areas such as economic development, technology governance, open data, open governance, autonomous vehicles, broadband, workforce development and more
 
 Learn more about our key initiatives below.
-
-{% include card.html collection="projects" %}

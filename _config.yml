@@ -70,7 +70,8 @@ collections:
     output: true
     sort_by: order
   projects:
-    output: false
+    permalink: /:collection/:title/
+    output: true
     sort_by: order
   news:
     output: false
@@ -90,6 +91,7 @@ defaults:
     values:
       layout: "team"
       order: 1000
+      menu-group: Our Team
       menu:
         - title: Our Team
           url: /about/
@@ -109,3 +111,11 @@ defaults:
       type: "join"
     values:
       layout: "join"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      menu:
+        - title: Projects
+          url: /projects/
+          collection: projects

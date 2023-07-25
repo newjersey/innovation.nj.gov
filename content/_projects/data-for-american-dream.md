@@ -1,10 +1,6 @@
 ---
 title: Data for the American Dream
-order: 8
-image: /assets/images/d4ad.svg
-cta:
-  text: Learn more about the New Jersey Data for the American Dream Project
-  link: https://medium.com/njinnovation/d4ad/home
+menu-group: Data+Policy
 ---
 
 The New Jersey Data for the American Dream (D4AD) initiative seeks to empower those in under-resourced communities with the right tools and guidance to get a job, propel their careers, safeguard their progress, and limit unnecessary costs.

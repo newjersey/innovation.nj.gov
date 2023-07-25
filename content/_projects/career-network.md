@@ -1,11 +1,6 @@
 ---
 title: New Jersey Career Network
-promoted: 4
-order: 7
-image: /assets/images/career.svg
-cta:
-  text: Learn more about the New Jersey Career Network
-  link: https://njcareers.org/
+menu-group: Business Experience
 ---
 
 New Jersey Career Network ([NJCN](https://njcareers.org/)) is an initiative developed in partnership with the New Jersey Department of Labor and the John J. Heldrich Center for Workforce Development at Rutgers University. NJCN is an intelligent platform that is backed by academic research, validation by expert coaches, and user research that builds job seekers’ skills and confidence. NJCN guides job seekers through their day to-day job search process in order to find a meaningful career by providing personalized structure, tools, resources, and access to interventions.

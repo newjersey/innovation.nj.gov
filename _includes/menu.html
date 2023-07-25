@@ -1,19 +1,29 @@
+{% for item in include.menu %} {% if item.collection %} {% assign menu-groups =
+site.[item.collection] | group_by: "menu-group" %} {% endif %} {% endfor %}
+
 <nav aria-label="Secondary navigation">
+  {% for group in menu-groups %}
   <ul class="usa-sidenav">
-    {% for item in include.menu %}
     <li class="usa-sidenav__item">
-      <a href="{{item.url}}" class="{% if page.url == item.url%}usa-current{% endif %}">{{item.title}}</a>
-      {% if item.collection %}
+      <a
+        href="{{include.menu.url}}"
+        class="{% if page.url == item.url%}usa-current{% endif %}"
+        >{{group.name}}</a
+      >
+      {% if group.items %}
       <ul class="usa-sidenav__sublist">
-      {% assign collection = site.[item.collection]  %}
-      {% for item in collection %}
-      <li class="usa-sidenav__item">
-        <a href="{{item.url}}" class="{% if page.url == item.url%}usa-current{% endif %}">{{item.title}} {{item.name}}</a>
-      </li>
-      {% endfor %}
+        {% assign collection = group.items %} {% for item in collection %}
+        <li class="usa-sidenav__item">
+          <a
+            href="{{item.url}}"
+            class="{% if page.url == item.url%}usa-current{% endif %}"
+            >{{item.title}} {{item.name}}</a
+          >
+        </li>
+        {% endfor %}
       </ul>
       {% endif %}
     </li>
-    {% endfor %}
   </ul>
+  {% endfor %}
 </nav>
