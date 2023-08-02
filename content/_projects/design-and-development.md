@@ -1,10 +1,5 @@
 ---
 title: User-Centered and Data-Driven Product Development
-order: 10
-promoted: 7
-image: /assets/images/car.svg
-cta:
-  text: Email [team@innovation.nj.gov](mailto:team@innovation.nj.gov) to learn more about User-Centered and Data-Driven Product Development
 ---
 
 The Office of Innovation works with State departments and agencies to serve residents more effectively by improving public-facing digital products. At the heart of every project we undertake is the core principle of user-centered design and a data driven approach that prioritizes the needs of New Jerseyans. For instance, the Office of Innovation recently worked with the New Jersey Department of Labor (DOL) to build a [benefits eligibility tool](https://getstarted.nj.gov/labor/) that helps New Jerseyans more easily discover and apply for benefit programs and financial assistance. The aim of the user-centered design project was to simplify an individual’s interaction with DOL, streamline the process of applying for benefits, and ultimately better serve those in need.

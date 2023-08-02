@@ -1,6 +1,7 @@
 ---
 title: Data for the American Dream
 menu-group: Data+Policy
+menu-group-parent: true
 ---
 
 The New Jersey Data for the American Dream (D4AD) initiative seeks to empower those in under-resourced communities with the right tools and guidance to get a job, propel their careers, safeguard their progress, and limit unnecessary costs.

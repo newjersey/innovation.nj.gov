@@ -1,11 +1,5 @@
 ---
 title: SmarterNJ
-order: 4
-promoted: 1
-image: /assets/images/engagement.svg
-cta:
-  text: Learn more about SmarterNJ
-  link: https://smarter.nj.gov/
 ---
 
 SmarterNJ is an open government platform that empowers New Jerseyans to engage on a wide variety of policy issues. To make policies even more effective, we need to tap the State’s most valuable assets: the intelligence, expertise, and know-how of its people. That's why the SmarterNJ initiative is focused on creating new and innovative ways for the public to meaningfully contribute to the policymaking process.

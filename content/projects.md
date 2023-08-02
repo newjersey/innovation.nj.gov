@@ -1,8 +1,9 @@
 ---
 title: Our Work
 permalink: /projects/
+menu-group: Our Work
 menu:
-  - title: Projects
+  - title: Our Work
     url: /projects/
     collection: projects
 ---

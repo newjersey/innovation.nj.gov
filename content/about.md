@@ -2,7 +2,7 @@
 title: About Us
 permalink: /about/
 menu:
-  - title: Our Team
+  - title: About Us
     url: /about/
     collection: team
 ---
@@ -32,7 +32,3 @@ Our team is made up of dedicated and energetic individuals with experience in go
 The Office of Innovation works collaboratively with government, academic, non-profit, and private sector institutions to drive innovation in the Garden State and improve the design and delivery of policies and services to the state's residents, businesses, and institutions.
 
 <a class="usa-button" href="/projects/">See Our Work</a>
-
-## Our Team
-
-{% include card.html collection="team" excerpt=true cover=true %}

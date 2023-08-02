@@ -1,11 +1,5 @@
 ---
 title: Future of Work Task Force
-order: 9
-promoted: 5
-image: /assets/images/future.svg
-cta:
-  text: Learn more about the Future of Work Task Force
-  link: https://fowtf.innovation.nj.gov/
 ---
 
 The Future of Work Task Force, which is chaired by Chief Innovation Officer Beth Simone Noveck, was formed in October 2018 with Governor Phil Murphy's signing of Executive Order 41. The Task Force is charged with studying how technological innovation will impact the development of jobs and New Jersey’s economy and producing a comprehensive policy roadmap to prepare and protect New Jerseyans from disruptive changes.

@@ -91,10 +91,10 @@ defaults:
     values:
       layout: "team"
       order: 1000
-      menu-group: Our Team
+      menu-group: Team Members
       menu:
-        - title: Our Team
-          url: /about/
+        - title: About Us
+          url: /team/
           collection: team
   - scope:
       path: ""
@@ -115,7 +115,8 @@ defaults:
       path: ""
       type: "projects"
     values:
+      menu-group: Other Work
       menu:
-        - title: Projects
+        - title: Our Work
           url: /projects/
           collection: projects

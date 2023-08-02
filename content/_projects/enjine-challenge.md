@@ -1,10 +1,5 @@
 ---
 title: Innovation ENJINE Challenge
-order: 11
-image: /assets/images/idea.svg
-cta:
-  text: Learn more about the Innovation ENJINE Challenge
-  link: https://smarter.nj.gov/enjine/index.html
 ---
 
 The Innovation ENJINE Challenge is an open innovation competition, launched in Spring 2019, to elicit unique perspectives and ideas to make government more effective and efficient from those closest to it: State employees.

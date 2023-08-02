@@ -2,17 +2,30 @@
 site.[item.collection] | group_by: "menu-group" %} {% endif %} {% endfor %}
 
 <nav aria-label="Secondary navigation">
-  {% for group in menu-groups %}
+  <ul class="usa-sidenav">
+    {% for item in include.menu %} {% if item.collection %}
+    <a
+      href="{{item.url}}"
+      class="{% if page.url == item.url%}usa-current{% endif %}"
+      >{{item.title}}</a
+    >
+    {% endif %}{% endfor %}
+  </ul>
+  {% for group in menu-groups %} {% assign menu-group-parent = "" %} {% if
+  group.items %} {% for item in group.items %} {% if item.menu-group-parent %}
+  {% assign menu-group-parent = item %} {% endif %} {% endfor %} {% endif %}
+
   <ul class="usa-sidenav">
     <li class="usa-sidenav__item">
-      <a
-        href="{{include.menu.url}}"
-        class="{% if page.url == item.url%}usa-current{% endif %}"
+      {% if menu-group-parent.url %} {% assign url = menu-group-parent.url %} {%
+      else %} {% assign url = "" %} {% endif %}
+      <a href="{{url}}" class="{% if page.url == url%}usa-current{% endif %}"
         >{{group.name}}</a
       >
       {% if group.items %}
       <ul class="usa-sidenav__sublist">
-        {% assign collection = group.items %} {% for item in collection %}
+        {% assign collection = group.items %} {% for item in collection %} {% if
+        item.title != menu-group-parent.title %}
         <li class="usa-sidenav__item">
           <a
             href="{{item.url}}"
@@ -20,7 +33,7 @@ site.[item.collection] | group_by: "menu-group" %} {% endif %} {% endfor %}
             >{{item.title}} {{item.name}}</a
           >
         </li>
-        {% endfor %}
+        {% endif %} {% endfor %}
       </ul>
       {% endif %}
     </li>
