@@ -24,8 +24,8 @@
 a.text-primary-darker {
   color: #243413;
 }
-.usa-graphic-list.usa-section--dark a {
-  color: #73b3e7;
+.usa-section--dark h2 {
+  color: white;
 }
 .usa-graphic-list__heading a {
   text-decoration: none;
@@ -36,6 +36,10 @@ a.text-primary-darker {
 }
 
 /* SVG */
+path.white-fill {
+  fill: white;
+}
+
 .st0 {
   fill: #1b8bcf;
 }
