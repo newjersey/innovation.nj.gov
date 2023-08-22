@@ -3,8 +3,35 @@ title: New Jersey COVID-19 Information Hub
 menu-group: COVID Response
 ---
 
-At the onset of the public health crisis, the Office of Innovation rapidly created a new website to serve as a central information hub on all matters related to COVID-19. The site features constantly updated information in English and Spanish on what resources are available to help New Jerseyans through the pandemic, the latest on business regulations and safety guidance, and [scientific content](https://covid19.fas.org/) from the Federation of American Scientists. This project was developed in partnership with Yext, which has offered its services to the Office of Innovation on a pro bono basis.
+### Challenge
 
-The COVID-19 Information Hub also features a [testing site locator](https://covid19.nj.gov/pages/testing) and a [symptom self-assessment tool](https://self.covid19.nj.gov/) where New Jerseyans can check their symptoms and learn what to do if they believe they may have COVID-19. The tool has also provided public health officials with anonymized data to inform predictive analytics and help anticipate where the virus may spread.
+To improve access to information during the early days of the COVID-19 pandemic, the NJ Office of Innovation launched COVID19.NJ.gov, a centralized site that presented critical information from dozens of agencies in a user-friendly format.
 
-Due to the wide-ranging and unprecedented economic impact of COVID-19, a [Jobs Portal](https://jobs.covid19.nj.gov) was rapidly created and deployed on the Information Hub to help connect the hundreds of thousands of New Jerseyans who lost their jobs with employment opportunities provided by essential businesses. The Information Hub is closely linked to the [Business Information Hub](https://cv.business.nj.gov/) that serves as a dedicated resource for New Jersey’s business community.
+### Innovation In Action
+
+Unlike traditional legacy government websites, which feature static content and press releases, OOI puts the user first and deploys data to identify residents' needs and serve up relevant content in simple language to connect people with the information they need. Site content and layout are constantly updated based on frequent reviews of search data, user-submitted questions, and website behavior to proactively identify emerging needs or shortcomings in existing content.
+
+### Impact + Metrics
+
+-   As of May 2023, the COVID-19 Info Hub has been visited more than 106 million times. The site has been updated or enhanced more than 134,000 times.
+-   The COVID-19 Vaccine Appointment Finder, which was created in response to user demand, has been visited nearly 6 million times.
+
+### Status
+
+-   The COVID-19 Info Hub continues to be regularly updated with latest news and information about the virus, vaccines, and State assistance programs.
+-   Building on the success of the COVID-19 Info Hub, OOI is adapting the same model of data- and user-driven content delivery to create information hubs that address specific needs or communities including low-income college students, transgender residents, individuals with disabilities, and more.
+
+### Resources and Additional Information
+
+-   [Beeck Center Case Study: Building a Trusted Source of Information for COVID-19](https://beeckcenter.georgetown.edu/wp-content/uploads/2021/05/Case-Study_New-Jersey_v3-003.pdf)
+-   [New Jersey's COVID-19 Information Hub nominated by StateScoop for State IT Innovation of the Year](https://statescoop.com/new-jerseys-covid-19-information-hub-nominated-by-statescoop-for-state-it-innovation-of-the-year/)
+-   [TechCrunch: New Jersey launches online portal to give residents accurate answers about COVID-19](https://techcrunch.com/2020/03/26/new-jersey-launches-online-portal-to-give-residents-accurate-answers-about-covid-19/)
+-   [StateScoop: Inside New Jersey's data-driven content strategy to boost service delivery](https://statescoop.com/new-jersey-covid-19-information-hub-coronavirus-digital-services/)
+-   [StateScoop: New Jersey's new coronavirus website lets users ask questions](https://statescoop.com/new-jersey-coronavirus-website-symptom-tracker-covid/)
+
+### Key Partners
+
+-   Office of the Governor
+-   NJ Department of Health
+-   Office of Information Technology
+-   NJ 211
