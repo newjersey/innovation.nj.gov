@@ -21,10 +21,6 @@ OOI partnered with the Business Action Center and other departments to centraliz
 
 -   Based on user testing and data, OOI is continuing to improve the Live Chat feature offering more capabilities and offerings to ensure businesses can get the help they need.
 
-### Resources and Additional Information
-
--   NULL
-
 ### Partners
 
 -   NJ Business Action Center

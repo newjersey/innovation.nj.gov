@@ -3,6 +3,8 @@ title: COVID-19 Jobs and Hiring Portal
 menu-group: COVID Response
 ---
 
+The COVID-19 Jobs and Hiring portal was an online jobs board that connected short-staffed employers in select industries with workers who had lost their jobs as a result of the pandemic. To ensure high-quality listings, each post was vetted to ensure employers were permitted to operate during pandemic-related closures and what safety measures they were taking to protect workers.
+
 ### Challenge
 
 In March of 2020, hundreds of thousands of New Jersey workers suddenly found themselves without jobs as the pandemic ground the economy to a halt. Meanwhile, the businesses that remained open were left desperately short of employees as many residents were forced to stay home to care for children or loved ones amid school closures. The rapid policy developments and pandemic-related closures left many uncertain about where they could find reliable work and hesitant to use existing job listing sites - this created a tremendous imbalance in the labor market.

@@ -3,6 +3,8 @@ title: Executive Order Violation Reporting Form
 menu-group: COVID Response
 ---
 
+Through the [Executive Order (EO) Violation Reporting Form](https://covid19.nj.gov/forms/violation), users can report any organizations or individuals endangering public health and safety by not following emergency COVID-related executive orders issued by Governor Murphy.
+
 ### Challenge
 
 To prevent the spread of COVID-19 and ease the strain on hospitals in the early stages of the pandemic, Governor Murphy issued several Executive Orders requiring health and safety measures at essential businesses, limits on gatherings, indoor mask requirements, the closure of non-essential businesses, and other protections. Unfortunately, some establishments did not follow these safety measures even after being warned and continued to jeopardize public health and safety.

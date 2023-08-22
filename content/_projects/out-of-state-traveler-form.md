@@ -3,6 +3,8 @@ title: Out of State Traveler Registration Form
 menu-group: COVID Response
 ---
 
+The [Out of State Traveler Registration Form](https://covid19.nj.gov/forms/njtravel) was a voluntary online questionnaire that individuals filled out upon entering New Jersey to comply with the State’s quarantine for incoming travelers from areas with heavy COVID-19 spread. 
+
 ### Challenge
 
 To prevent the further spread of COVID-19, in June of 2020, Governor Murphy, along with the governors of New York and Connecticut, announced a travel advisory urging all individuals traveling from states with significant COVID-19 cases to quarantine for 14 days upon arrival.

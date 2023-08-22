@@ -3,6 +3,8 @@ title: COVID-19 Vaccine Appointment Finder
 menu-group: COVID Response
 ---
 
+The COVID-19 Vaccine Appointment Finder helps users find and book open vaccine appointments nearest them. The tool compiles information in an easily searchable format from over a thousand vaccination sites run by the State, local health departments, pharmacies, and other health providers. 
+
 ### Challenge
 
 During the initial rollout of COVID-19 vaccines there was little information about where vaccines were available and how to make an appointment. Residents eager to get vaccinated resorted to calling pharmacies, doctors, and other health care providers, resulting in long phone wait times, overwhelmed health care workers, and delays in getting vaccinated.

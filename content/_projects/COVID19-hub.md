@@ -3,9 +3,11 @@ title: New Jersey COVID-19 Information Hub
 menu-group: COVID Response
 ---
 
+To improve access to information during the early days of the COVID-19 pandemic, the NJ Office of Innovation launched [COVID19.NJ.gov](https://covid19.nj.gov/), a centralized site that presented critical information from dozens of agencies in a user-friendly format.
+
 ### Challenge
 
-To improve access to information during the early days of the COVID-19 pandemic, the NJ Office of Innovation launched COVID19.NJ.gov, a centralized site that presented critical information from dozens of agencies in a user-friendly format.
+At the onset of the pandemic, there was no centralized source for official State information about the virus. Residents had to comb through dozens of State websites to learn about restrictions on gatherings, public health guidance, business closures, or unemployment benefits. As a result, New Jerseyans struggled to find the information they needed and were more susceptible to rumors and misinformation. 
 
 ### Innovation In Action
 

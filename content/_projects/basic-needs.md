@@ -19,10 +19,6 @@ The [College Support Resource Hub](https://www.info.nj.gov/basicneeds) is a cent
 
 - In early 2023, a beta version of the College Support Resource Hub was launched and is currently undergoing user-testing and further refinement based on feedback.
 
-### Resources and Additional Information
-
-- NULL
-
 ### Partners
 
 - NJ Office of the Secretary of Higher Education

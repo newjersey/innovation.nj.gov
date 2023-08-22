@@ -3,6 +3,8 @@ title: COVID-19 Symptom Checker
 menu-group: COVID Response
 ---
 
+[The COVID-19 Symptom Checker](https://covid19.nj.gov/forms/self) was an interactive online tool that provided medical guidance to New Jerseyans about the virus during the earliest days of the pandemic. Using anonymous data, the tool also provided State officials with a way to track the disease’s spread on the ground when few other means existed.
+
 ### Challenge
 
 Due to the extremely limited availability of testing at the start of the COVID-19 pandemic, State officials had little sense of how quickly the virus was spreading and where, making it difficult to allocate scarce medical resources and personnel. At the same time, residents had little information about how COVID-19 spread, its symptoms, and what to do if they got sick. As a result, the State's call centers were overwhelmed with people asking similar health questions.

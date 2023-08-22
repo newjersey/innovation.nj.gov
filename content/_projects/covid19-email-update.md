@@ -3,6 +3,8 @@ title: Statewide Update Email Program
 menu-group: COVID Response
 ---
 
+The Statewide Update is an email newsletter program created at the start of the COVID-19 pandemic to help broaden awareness of key policy updates, programs, and information that affect residents. 
+
 ### Challenge
 
 As COVID-19 emerged, governments were forced to rapidly adapt policies as the virus spread and new needs developed. With information and policies changing so quickly, many residents became confused and misinformation became rampant. In addition to press conferences and social media, the State needed additional ways to reach residents with official updates proactively.

@@ -19,10 +19,6 @@ New Jersey’s Disabilities Information Hub will serve as a central source of in
 
 - As of March 2023, the Disabilities Hub is under development. A beta version will launch later this year.
 
-### Resources and Additional Information
-
-- NULL
-
 ### Partners
 
 - Office of the Governor

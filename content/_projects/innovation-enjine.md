@@ -28,4 +28,4 @@ The Innovation ENJINE Challenge focused on eliciting novel solutions to challeng
 
 ### Partners
 
--   **This was a statewide initiative with more than X participating agencies.**
+-   This was a statewide initiative with more than X participating agencies.

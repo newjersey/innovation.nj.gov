@@ -3,6 +3,8 @@ title: Nursing Home Misconduct Form
 menu-group: COVID Response
 ---
 
+As part of a statewide investigation into potential misconduct at nursing homes during the COVID-19 pandemic, individuals can report illegal activity or other misconduct to the NJ Attorney General’s Office using the [Nursing Home Misconduct Reporting Form](https://covid19.nj.gov/ltc).
+
 ### Challenge
 
 As part of a statewide investigation into potential misconduct at nursing homes during the COVID-19 pandemic, individuals can report illegal activity or other misconduct to the NJ Attorney General's Office using the Nursing Home Misconduct Reporting Form.
