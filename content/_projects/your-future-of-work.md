@@ -1,6 +1,6 @@
 ---
 title: Your Future of Work
-menu-group: Data + Policy
+initiative: Data + Policy
 ---
 
 Your Future of Work was a problem identification consultation in partnership with the NJ Future of Work Task Force. The project engaged New Jersey's workers to better understand the ways in which a changing economy and technology were impacting their jobs. This work was executed as part of the SmarterNJ Initiative.

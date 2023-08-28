@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Response
-menu-group: COVID Response
+initiative: COVID Response
 menu-group-parent: true
 ---
 

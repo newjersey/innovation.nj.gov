@@ -1,6 +1,6 @@
 ---
 title: Business.NJ.gov Live Chat
-menu-group: Business Experience Initiative
+initiative: Business Experience Initiative
 ---
 
 The Business.NJ.gov Live Chat feature connects users in real-time with customer service representatives and experts from several different agencies who are on-hand to answer their business-related questions.

@@ -1,6 +1,6 @@
 ---
 title: Training Explorer
-menu-group: Resident Experience Initiative
+initiative: Resident Experience Initiative
 ---
 
 The Training Explorer is a tool that uses public sector data to help job seekers find the best training programs for their needs. Using the tool, residents can easily filter and compare more than 5,000 training programs from across New Jersey to make data-informed choices about their future.

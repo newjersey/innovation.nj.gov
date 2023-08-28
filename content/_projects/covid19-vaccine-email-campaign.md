@@ -1,6 +1,6 @@
 ---
 title: Vaccine Hesitancy Email Campaign
-menu-group: COVID Response
+initiative: COVID Response
 ---
 
 Following the release of the first-ever COVID-19 vaccine, the Office of Innovation, in partnership with NJ Department of Health and numerous other partners, developed and implemented a statewide eight message email campaign designed to address vaccine hesitancy concerns.

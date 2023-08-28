@@ -1,6 +1,6 @@
 ---
 title: The Business Experience Initiative
-menu-group: Business Experience Initiative
+initiative: Business Experience Initiative
 menu-group-parent: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: NJ Eviction and Homelessness Prevention Certification Form
-menu-group: COVID Response
+initiative: COVID Response
 ---
 
 The [COVID-19 Eviction Protection Tool](https://covid19.nj.gov/pages/renter) helps prevent low-income New Jerseyans from being evicted if they suffered economic hardships during the COVID-19 pandemic. The online self-certification tool helps users understand the protections they are eligible for and submit the necessary forms. 

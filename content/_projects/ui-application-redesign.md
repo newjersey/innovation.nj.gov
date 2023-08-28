@@ -1,6 +1,6 @@
 ---
 title: Unemployment Insurance Application Redesign
-menu-group: Resident Experience Initiative
+initiative: Resident Experience Initiative
 ---
 
 OOI helped modernize the NJ Department of Labor's [Unemployment Insurance application](https://www.myunemployment.nj.gov/before/about/howtoapply/applyonline.shtml), making it easier for New Jerseyans to apply for unemployment benefits and streamlining back-end processes. The legacy weekly certification site has been replaced with a new, simplified site that allows workers to apply for benefits from their phones. This ongoing work is part of the Resident Experience initiative.

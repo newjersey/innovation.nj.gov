@@ -1,6 +1,6 @@
 ---
 title: Innovation Skills Accelerator
-menu-group: Additional projects
+initiative: Additional projects
 ---
 
 The [New Jersey Innovation Skills Accelerator](https://skills.innovation.nj.gov/) is a free, online learning program that trains public officials to think differently and serve residents more effectively by using data, new technologies, and innovative methods. The program - which consists of at-your-own pace and live trainings - covers a range of modern methodologies like user-centered design, agile approaches, and evidence-based decision making.

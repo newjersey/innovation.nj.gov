@@ -1,6 +1,6 @@
 ---
 title: Business.NJ.gov Navigator
-menu-group: Business Experience Initiative
+initiative: Business Experience Initiative
 ---
 
 Business.NJ.gov [Navigator](https://navigator.business.nj.gov/) is an interactive tool that provides entrepreneurs and businesses with personalized, step-by-step guides to planning, starting, and growing their company based on their specific industry. In addition, users can file several required forms and complete a growing number of transactions all through the tool.

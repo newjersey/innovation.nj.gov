@@ -1,6 +1,6 @@
 ---
 title: Future of Work Accelerator
-menu-group: Data + Policy
+initiative: Data + Policy
 ---
 The Future of Work Accelerator was a 9-month program that advanced innovations aimed at enhancing the lives of New Jersey’s workers by improving health and safety, increasing access to benefits, strengthening training opportunities, and bolstering worker voice. The program brought together local and national innovators, providing them with coaching, masterclasses, and access to funders to help develop and scale innovations in the Garden State.
 

@@ -1,6 +1,6 @@
 ---
 title: Algorithmic Hiring Education Initiative
-menu-group: Data + Policy
+initiative: Data + Policy
 ---
 
 At the recommendation of the Future Of Work Task Force, OOI is exploring an education initiative about the risks of algorithmic hiring tools that can inadvertently introduce discrimination and limit diversity in hiring.

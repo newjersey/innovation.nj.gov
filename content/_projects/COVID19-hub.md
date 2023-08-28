@@ -1,6 +1,6 @@
 ---
 title: New Jersey COVID-19 Information Hub
-menu-group: COVID Response
+initiative: COVID Response
 ---
 
 To improve access to information during the early days of the COVID-19 pandemic, the NJ Office of Innovation launched [COVID19.NJ.gov](https://covid19.nj.gov/), a centralized site that presented critical information from dozens of agencies in a user-friendly format.

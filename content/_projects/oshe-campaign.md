@@ -1,6 +1,6 @@
 ---
 title: OSHE Some College, No Degree Campaign
-menu-group: Communication + Engagement Lab
+initiative: Communication + Engagement Lab
 ---
 
 The Office of Innovation is working with the NJ Office of the Secretary of Higher Education (OSHE) to launch a campaign encouraging New Jersey students, who started college, but left before finishing their degree, to return. This work is being undertaken by the C+E Lab.

@@ -1,6 +1,6 @@
 ---
 title: Business.NJ.Gov
-menu-group: Business Experience Initiative
+initiative: Business Experience Initiative
 ---
 
 [Business.NJ.Gov](https://business.nj.gov/) is a "first-stop" website with all the information businesses need to start, operate, and grow in New Jersey. Developed as part of the Business Experience Initiative, the site features a comprehensive range of content on everything from regulations to funding opportunities, hiring procedures to licensing, and more.
