@@ -16,6 +16,8 @@ The role will report to a director of the Office of Innovation’s Data and Poli
 
 The New Jersey State Office of Innovation improves the lives of New Jerseyans by solving public problems differently. Our work spans numerous issue and policy areas, and is focused on making an impact in the lives of the New Jerseyans that we serve. Our work has decreased the amount of time it takes to apply for Unemployment Insurance, made it easier to start, operate, and grow a business in the Garden State, and connected millions of New Jerseyans to government programs, services, and benefits. Our team members wear many hats, contributing to both the execution of core projects and the evolution of the Office of Innovation. We use data and modern research, design, and development methods to inform our decision making, and we collaborate with stakeholders within and outside of government to understand and solve challenges.
 
+### As a part of the team, your responsibilities may include:
+
 #### Data Analysis, Modeling, and Visualization:
 
 - Lead specific analysis projects, extracting insights from large datasets while ensuring analyses are unbiased, equitable, and contextually relevant.
