@@ -23,4 +23,4 @@ To help enforce the travel advisory, OOI developed an online form, accessible by
 
 ### Key Partners
 
--   NJ Department of Health
+-   NJ State Department of Health

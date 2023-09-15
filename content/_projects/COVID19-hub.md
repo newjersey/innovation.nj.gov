@@ -3,7 +3,7 @@ title: New Jersey COVID-19 Information Hub
 menu-group: COVID Response
 ---
 
-To improve access to information during the early days of the COVID-19 pandemic, the NJ Office of Innovation launched [COVID19.NJ.gov](https://covid19.nj.gov/), a centralized site that presented critical information from dozens of agencies in a user-friendly format.
+To improve access to information during the early days of the COVID-19 pandemic, the NJ State Office of Innovation launched [COVID19.NJ.gov](https://covid19.nj.gov/), a centralized site that presented critical information from dozens of agencies in a user-friendly format.
 
 ### Challenge
 
@@ -15,7 +15,7 @@ Unlike traditional legacy government websites, which feature static content and 
 
 ### Impact + Metrics
 
--   As of May 2023, the COVID-19 Info Hub has been visited more than 106 million times. The site has been updated or enhanced more than 134,000 times.
+-   As of August 2023, the COVID-19 Info Hub has been visited more than 110 million times. The site has been updated or enhanced more than 134,000 times.
 -   The COVID-19 Vaccine Appointment Finder, which was created in response to user demand, has been visited nearly 6 million times.
 
 ### Status
@@ -34,6 +34,8 @@ Unlike traditional legacy government websites, which feature static content and 
 ### Key Partners
 
 -   Office of the Governor
--   NJ Department of Health
--   Office of Information Technology
+-   NJ State Department of Health
+-   NJ State Office of Information Technology
+-   NJ State Office of Emergency Management
 -   NJ 211
+-   Statewide initiative, in partnership with all State entities

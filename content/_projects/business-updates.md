@@ -7,7 +7,7 @@ Business.NJ.gov Updates is an email update program that proactively shares infor
 
 ### Challenge
 
-The rapid creation of emergency aid programs, new safety requirements, and other critical developments during the pandemic underscored the need for additional ways to keep businesses in New Jersey up to date with the latest news. Traditional media outlets and social media offered limited reach when it comes to news that specifically affect businesses, so many business owners miss out on important information and opportunities.
+The rapid creation of emergency aid programs, new safety requirements, and other critical developments during the pandemic underscored the need for additional ways to keep businesses in New Jersey up to date with the latest news. Traditional media outlets and social media offered limited reach when it comes to news that specifically affect businesses, so many business owners missed out on important information and opportunities.
 
 ### Innovation
 
@@ -28,7 +28,7 @@ To provide the State with a means to more effectively proactively reach business
 
 ### Partners
 
--   NJ Business Action Center
--   NJ Department of Labor
--   NJ Department of the Treasury
+-   Office of the Governor
+-   NJ State Business Action Center
 -   NJ Economic Development Authority
+-   Statewide initiative, in partnership with all relevant State entities

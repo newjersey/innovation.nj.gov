@@ -28,4 +28,4 @@ To make it easy for organizations to understand which support programs are avail
 
 ### Partners
 
--   New Jersey Economic Development Authority
+-   NJ Economic Development Authority

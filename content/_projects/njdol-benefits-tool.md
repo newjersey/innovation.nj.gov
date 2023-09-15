@@ -1,5 +1,5 @@
 ---
-title: Benefits Eligibility Tool
+title: NJDOL Benefits Eligibility Tool
 menu-group: Resident Experience Initiative
 ---
 
@@ -16,7 +16,7 @@ To help people navigate the new landscape of programs and ensure they received t
 ### Impact + Metrics
 
 -   The eligibility tool was used more than 80,000 times, connecting residents with critical programs and services and increasing their chances of applying for the right programs and getting the maximum amount of benefits allowed.
--   With an online tool available, users were less likely to call the NJ Department of Labor to inquire about their eligibility for programs - this diverted calls from over-burdnend call centers, allowing call center representatives with more time to focus on complicated cases.
+-   With an online tool available, users were less likely to call the NJ State Department of Labor to inquire about their eligibility for programs - this diverted calls from over-burdened call centers, allowing call center representatives with more time to focus on complicated cases.
 
 ### Status
 
@@ -28,5 +28,5 @@ To help people navigate the new landscape of programs and ensure they received t
 
 ### Partners
 
--   NJ Department of Labor
+-   New Jersey State Department of Labor
 -   U.S. Digital Response

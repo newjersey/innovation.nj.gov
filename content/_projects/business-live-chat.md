@@ -23,7 +23,8 @@ OOI partnered with the Business Action Center and other departments to centraliz
 
 ### Partners
 
--   NJ Business Action Center
--   NJ Department of Labor
--   NJ Department of the Treasury
+-   Office of the Governor
+-   NJ Department of State, Business Action Center
 -   NJ Economic Development Authority
+-   NJ State Department of Treasury
+-   NJ State Department of Labor

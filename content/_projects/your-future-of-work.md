@@ -31,3 +31,6 @@ Over three weeks in early 2020, the New Jersey Future of Work Task Force, with t
 ### Partners
 
 -   NJ Future of Work Task Force
+-   NJ Economic Development Authority
+-   NJ State Department of Labor
+-   NJ State Office of the Secretary of Higher Education

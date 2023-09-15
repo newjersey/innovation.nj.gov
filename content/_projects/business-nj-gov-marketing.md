@@ -13,7 +13,7 @@ The C+E Lab worked with the Business.NJ.gov team to launch and short-term digita
 
 ### Impact + Metrics
 
-- The C+E Lab’s campaign increased site traffic during +37% Year Over Year since launch, with 39% of the traffic consisting of audiences new to Business.NJ.gov.
+- As of August, 2023, the C+E Lab’s campaign increased site traffic +37% Year Over Year since launch, with 39% of the traffic consisting of audiences new to Business.NJ.gov. 
 
 ### Status
 
@@ -21,4 +21,9 @@ The C+E Lab worked with the Business.NJ.gov team to launch and short-term digita
 
 ### Partners
 
-- Business.NJ.gov Product Team
+-   Office of the Governor
+-   NJ Department of State, Business Action Center
+-   NJ Economic Development Authority
+-   NJ State Department of Treasury
+-   NJ Redevelopment Authority
+-   NJ Small Business Development Centers

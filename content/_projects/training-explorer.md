@@ -24,10 +24,10 @@ The Training Explorer is a tool that uses public sector data to help job seekers
 
 ### Partners
 
-- New Jersey Department of Labor
-- New Jersey Office of the Secretary of Higher Education
-- New Jersey Department of Education
-- Heldrich Center for Workforce Development at Rutgers University
-- New Jersey Council on Community Colleges
-- Schmidt Futures
-- Lumina Foundation
+-   NJ State Department of Labor 
+-   New Jersey Office of the Secretary of Higher Education
+-   NJ State Department of Education
+-   Heldrich Center for Workforce Development at Rutgers University
+-   New Jersey Council on Community Colleges
+-   Schmidt Futures
+-   Lumina Foundation

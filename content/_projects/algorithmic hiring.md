@@ -21,5 +21,5 @@ At the recommendation of the Future Of Work Task Force, OOI is exploring an educ
 
 ### Partners
 
-- Rutgers School of Labor and Management Relations
-- NJ Attorney General’s Office, Division on Civil Rights
+-   Rutgers School of Labor and Management Relations
+-   NJ State Office of the Attorney General, Division on Civil Rights

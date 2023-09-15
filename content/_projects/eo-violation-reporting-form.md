@@ -23,5 +23,9 @@ To reduce the strain on the State's call centers, OOI created an online tool to 
 
 ### Key Partners
 
--   NJ Office of the Attorney General
--   NJ Office of Emergency Management
+-   Office of the Governor
+-   NJ Department of State, Business Action Center
+-   NJ Economic Development Authority
+-   NJ State Department of Treasury
+-   NJ State Department of Labor
+-   Statewide initiative, in partnership with all relevant State entities

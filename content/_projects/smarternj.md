@@ -15,7 +15,7 @@ SmarterNJ leverages technology, modern approaches, and industry expertise to tap
 
 ### Impact + Metrics
 
--   SmarterNJ launched the Innovation ENJINE Challenge, an open call to State employees for proposals to make government more effective and efficient. Over 2,000 employees participated, and the five winning proposals were selected in late 2019. OOI worked with those teams to help implement their plans. One notable proposal has already been implemented on the NJ Department of Labor's site, reducing long phone wait times.
+-   SmarterNJ launched the Innovation ENJINE Challenge, an open call to State employees for proposals to make government more effective and efficient. Over 2,000 employees participated, and the five winning proposals were selected in late 2019. OOI worked with those teams to help implement their plans. One notable proposal has already been implemented on the NJ State Department of Labor's site, reducing long phone wait times.
 -   Your Future of Work, a problem identification consultation, was launched in partnership with the New Jersey Future of Work Task Force. The project engaged over 4,000 workers to better understand the ways in which a changing economy and technology were impacting their jobs.
 -   To support New Jersey's efforts to combat COVID-19, the [Your Voice Your Shot](https://covid19.nj.gov/forms/yourvoice) video contest asked the community to create compelling videos encouraging vaccination. [Watch the winning video here](https://covid19.nj.gov/forms/yourvoice).
 
@@ -32,7 +32,4 @@ SmarterNJ leverages technology, modern approaches, and industry expertise to tap
 
 ### Partners
 
--   NJ Department of Health
--   NJ Department of Labor
--   RSA
--   NJ DEP
+-   Office of the Governor

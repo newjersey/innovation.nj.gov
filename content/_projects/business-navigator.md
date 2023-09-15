@@ -11,7 +11,7 @@ Starting and operating a business in New Jersey requires navigating a complicate
 
 ### Innovation In Action
 
-With the user at the heart of every decision, OOI has transformed how businesses interact with New Jersey State government with a focus on ease and convenience. That means serving up all the information businesses need in a digestible, actionable format rather than placing the burden on businesses to search across multiple agencies. It also means streamlining policies and enabling data-sharing across agencies, so businesses can complete transactions without needing several accounts and individual forms from different agencies.
+With the user at the heart of every decision, OOI has transformed how businesses interact with NJ State government with a focus on ease and convenience. That means serving up all the information businesses need in a digestible, actionable format rather than placing the burden on businesses to search across multiple agencies. It also means streamlining policies and enabling data-sharing across agencies, so businesses can complete transactions without needing several accounts and individual forms from different agencies.
 
 ### Impact + Metrics
 
@@ -30,7 +30,10 @@ With the user at the heart of every decision, OOI has transformed how businesses
 
 ### Partners
 
--   NJ Department of Labor
--   NJ Department of the Treasury
--   NJ Division of Consumer Affairs
+-   Office of the Governor
+-   NJ Department of State, Business Action Center
 -   NJ Economic Development Authority
+-   NJ State Department of Treasury
+-   NJ State Department of Labor
+-   NJ State Office of the Attorney General, Division of Consumer Affairs
+-   Statewide initiative, in partnership with all relevant State entities

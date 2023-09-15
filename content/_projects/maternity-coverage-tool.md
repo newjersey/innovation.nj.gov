@@ -25,6 +25,5 @@ The [Maternity Coverage Timeline Tool](http://myleavebenefits.nj.gov/timeline) h
 
 ### Partners
 
-- NJ Department of Labor
-- The Office of the First Lady
-- CARE grantee network
+-   NJ State Department of Labor
+-   Office of the First Lady

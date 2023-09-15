@@ -23,4 +23,4 @@ OOI quickly set up a simple online form at covid19.nj.gov/vounteer to automatica
 
 ### Key Partners
 
--   NJ Department of Health
+-   NJ State Department of Health

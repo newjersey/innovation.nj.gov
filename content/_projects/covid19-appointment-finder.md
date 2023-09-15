@@ -29,5 +29,5 @@ OOI saw the opportunity to streamline a confusing and time-intensive process by 
 
 ### Key Partners
 
--   NJ Department of Health
--   NJ Office of Information Technology
+-   NJ State Department of Health
+-   NJ State Office of Information Technology

@@ -24,8 +24,11 @@ To reduce barriers and ensure the greatest spread of knowledge, OOI created a fr
 -   As of the Spring of 2023, the Innovation Skills Accelerator team is working with the newly-formed interstate training collaborative, InnovateUS -- created in partnership with California, Colorado, Maine and Pennsylvania -- to launch a fully-redeveloped course on digital skills and problem solving.
 -   The Accelerator program, in partnership with InnovateUS, continues to deliver live and bespoke trainings for State departments.
 
+### Resources and Additional Information
+
+-   [InnovateUS website](https://innovate-us.org/)
+
 ### Partners
 
--   NJ Department of Labor
--   NJ Office of the Attorney General
+-   Statewide initiative, in partnership with all relevant State entities
 -   InnovateUS

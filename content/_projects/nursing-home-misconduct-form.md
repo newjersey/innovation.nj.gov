@@ -23,4 +23,4 @@ OOI created an online form for the NJ Attorney General's Office that allowed ind
 
 ### Key Partners
 
--   NJ Attorney General's Office
+-   NJ State Office of the Attorney General

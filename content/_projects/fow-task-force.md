@@ -24,10 +24,13 @@ Chaired by New Jersey's Chief Innovation Officer, Beth Simone Noveck, the Task F
 
 ### Partners
 
--   NJDOL
--   NJEDA
--   NJ OSHE
 -   Office of the Governor
+-   Heldrich Center for Workforce Development at Rutgers University
+-   NJ State Department of Labor
+-   NJ Economic Development Authority
+-   NJ State Office of the Secretary of Higher Education
+-   NJ State Department of Education
+-   NJ State Employment and Training Commission
 
 ### Resources and Additional Information
 

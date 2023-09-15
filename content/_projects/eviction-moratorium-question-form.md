@@ -23,4 +23,5 @@ The Office created an online tool that helped prevent low-income New Jerseyans f
 
 ### Key Partners
 
--   NJ Department of Community Affairs
+-   Office of the Governor
+-   NJ State Department of Community Affairs

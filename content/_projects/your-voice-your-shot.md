@@ -11,7 +11,7 @@ As COVID-19 vaccines were becoming widely available to most Americans, many peop
 
 ### Innovation In Action
 
-Research has shown that some of the most effective messengers to win over the vaccine hesitant were local community members. So as an alternative to top-down communications, OOI empowered residents to share their own messages with others on social media using #YourVoiceYourShotNJ and fostered a sense of shared responsibility by crowdsourcing and voting on videos.
+[Research](https://www.google.com/url?q=https://consensus.app/details/drawing-sample-adopters-arkansas-find-networks-actions-hallgren/63c4f73c62295d8f9ef14b7c82707d32/&sa=D&source=docs&ust=1693257659591805&usg=AOvVaw1xnPCq1GaS1IfE4jUS3XoQ) has shown that some of the most effective messengers to win over the vaccine hesitant were local community members. So as an alternative to top-down communications, OOI empowered residents to share their own messages with others on social media using #YourVoiceYourShotNJ and fostered a sense of shared responsibility by crowdsourcing and voting on videos.
 
 ### Impact + Metrics
 
@@ -28,4 +28,4 @@ Research has shown that some of the most effective messengers to win over the va
 ### Partners
 
 -   Office of the Governor
--   NJ Department of Health
+-   New Jersey State Department of Health

@@ -30,5 +30,4 @@ To help struggling New Jerseyans and businesses, the NJ Economic Development Aut
 ### Key Partners
 
 -   NJ Economic Development Authority
--   NJ Department of Labor and Workforce Development
--   Yext
+-   NJ State Department of Labor

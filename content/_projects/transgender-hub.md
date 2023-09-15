@@ -19,10 +19,6 @@ The [Transgender Information Hub](http://transgender.nj.gov) is a central resour
 
 - In early 2023, a beta version of the Transgender Information Hub was launched, and is currently undergoing user-testing and further refinement based on feedback.
 
-### Resources and Additional Information
-
-- NULL
-
 ### Partners
 
 - NJ Attorney General’s Office, Division on Civil rights

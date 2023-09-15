@@ -23,5 +23,5 @@ To ensure residents in need could stay in their homes, OOI created an easy-to-us
 
 ### Key Partners
 
--   NJ Department of Community Affairs
+-   NJ State Department of Community Affairs
 -   NJ Courts

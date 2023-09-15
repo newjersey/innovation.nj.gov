@@ -3,7 +3,7 @@ title: Unemployment Insurance Application Redesign
 menu-group: Resident Experience Initiative
 ---
 
-OOI helped modernize the NJ Department of Labor's [Unemployment Insurance application](https://www.myunemployment.nj.gov/before/about/howtoapply/applyonline.shtml), making it easier for New Jerseyans to apply for unemployment benefits and streamlining back-end processes. The legacy weekly certification site has been replaced with a new, simplified site that allows workers to apply for benefits from their phones. This ongoing work is part of the Resident Experience initiative.
+OOI helped modernize the NJ State Department of Labor's [Unemployment Insurance application](https://www.myunemployment.nj.gov/before/about/howtoapply/applyonline.shtml), making it easier for New Jerseyans to apply for unemployment benefits and streamlining back-end processes. The legacy weekly certification site has been replaced with a new, simplified site that allows workers to apply for benefits from their phones. This ongoing work is part of the [Resident Experience Initiative]({{ site.baseurl }}/content/projects/resident-experience-initiative.html).
 
 ### Challenge
 
@@ -11,7 +11,7 @@ As the pandemic upended lives and the economy, hundreds of thousands of New Jers
 
 ### Innovation In Action
 
-Using a resident-first design approach, OOI worked with the NJ Department of Labor and other partners to launch a new initial claim application. As part of this process, project partners interviewed applicants to understand which application questions were misunderstood, leading to delays in receiving benefits. Working with state and federal partners, OOI tested a series of changes with users including simplified, plain-language questions, bigger text and answer buttons, and the addition of clarifying text. Updates also included ensuring the application is mobile-friendly and meets accessibility design standards. This work also spurred the creation of a new Office of UI Modernization at NJDOL to oversee ongoing and future efforts.
+Using a resident-first design approach, OOI worked with the NJ State Department of Labor and other partners to launch a new initial claim application. As part of this process, project partners interviewed applicants to understand which application questions were misunderstood, leading to delays in receiving benefits. Working with state and federal partners, OOI tested a series of changes with users including simplified, plain-language questions, bigger text and answer buttons, and the addition of clarifying text. Updates also included ensuring the application is mobile-friendly and meets accessibility design standards. This work also spurred the creation of a new Office of UI Modernization at NJDOL to oversee ongoing and future efforts.
 
 ### Impact + Metrics
 
@@ -28,7 +28,7 @@ Using a resident-first design approach, OOI worked with the NJ Department of Lab
 
 ### Partners
 
--   NJ Department of Labor
--   NJ Office of Information Technology
+-   New Jersey State Department of Labor
+-   New Jersey State Office of Information Technology
 -   U.S. Department of Labor
 -   United States Digital Service

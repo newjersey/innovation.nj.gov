@@ -17,9 +17,9 @@ Lifelong Learning Accounts (LiLA) is one of the nation’s first pilot programs 
 
 ### Status
 
-- The pilot program is projected to launch in the Summer of 2023 and run for a period of two years.
+- The pilot program is projected to launch in 2023 and run for a period of two years.
 
 ### Partners
 
-- New Jersey Department of Labor and Workforce Development
-- The Heldrich Center for Workforce Development
+- NJ State Department of Labor
+- Heldrich Center for Workforce Development

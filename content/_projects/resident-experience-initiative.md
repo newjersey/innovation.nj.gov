@@ -1,6 +1,6 @@
 ---
-title: The Business Experience Initiative
-menu-group: Business Experience Initiative
+title: Resident Experience Initiative
+menu-group: Resident Experience Initiative
 menu-group-parent: true
 ---
 

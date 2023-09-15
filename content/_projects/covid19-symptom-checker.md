@@ -3,7 +3,7 @@ title: COVID-19 Symptom Checker
 menu-group: COVID Response
 ---
 
-[The COVID-19 Symptom Checker](https://covid19.nj.gov/forms/self) was an interactive online tool that provided medical guidance to New Jerseyans about the virus during the earliest days of the pandemic. Using anonymous data, the tool also provided State officials with a way to track the disease’s spread on the ground when few other means existed.
+[The COVID-19 Symptom Checker]({{ site.baseurl }}/assets/images/symptom-checker.png) was an interactive online tool that provided medical guidance to New Jerseyans about the virus during the earliest days of the pandemic. Using anonymous data, the tool also provided State officials with a way to track the disease’s spread on the ground when few other means existed.
 
 ### Challenge
 
@@ -31,5 +31,5 @@ Drawing inspiration from other governments around the world that had developed s
 
 ### Key Partners
 
--   NJ Department of Health
+-   NJ State Department of Health
 -   Lakshminarayanan Subramanian, Courant Institute of Mathematical Sciences Professor, New York University
