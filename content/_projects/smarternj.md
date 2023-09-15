@@ -1,6 +1,6 @@
 ---
 title: SmarterNJ
-menu-group: Data + Policy
+initiative: Data + Policy
 ---
 
 SmarterNJ is an initiative designed to improve the quality of government policies, programs, and services by fostering meaningful engagement with residents, businesses, and non-government organizations. Working in partnership with State departments and agencies, SmarterNJ works to harness the insights, perspective, and passion of the public to improve government outcomes.

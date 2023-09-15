@@ -1,6 +1,6 @@
 ---
 title: NJ Eviction Moratorium Information + Question Form
-menu-group: COVID Response
+initiative: COVID Response
 ---
 
 The NJ Eviction Moratorium Information + Question Form was an interactive form that helped renters and homeowners determine what protections were available to them during the pandemic.

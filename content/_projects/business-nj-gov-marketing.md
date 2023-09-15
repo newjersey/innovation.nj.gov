@@ -1,6 +1,6 @@
 ---
 title: Business.NJ.Gov Digital Marketing Beta Campaign
-menu-group: Communication + Engagement Lab
+initiative: Communication + Engagement Lab
 ---
 
 The C+E Lab worked with the Business.NJ.gov team to launch and short-term digital marketing campaign to boost traffic to its site and gain initial learnings about marketing performance opportunities

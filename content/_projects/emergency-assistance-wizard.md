@@ -1,6 +1,6 @@
 ---
 title: Emergency Assistance Eligibility Wizard
-menu-group: COVID Response
+initiative: COVID Response
 ---
 
 The [Emergency Assistance Eligibility Wizard](https://assistance.business.nj.gov/) is an online tool that helped New Jersey businesses find and apply for newly created State and federal pandemic relief programs.

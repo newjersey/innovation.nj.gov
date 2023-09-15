@@ -1,6 +1,6 @@
 ---
 title: Your Voice, Your Shot Video Contest
-menu-group: Data + Policy
+initiative: Data + Policy
 ---
 
 [Your Voice, Your Shot](https://covid19.nj.gov/forms/yourvoice), a citizen engagement campaign, was a video contest to support the State's efforts to combat COVID-19. New Jerseyans submitted videos sharing their reasons for getting vaccinated and encouraged others to do the same. The winning video, chosen by the public, was used in New Jersey's COVID-19 public health campaign. This work was executed as part of the SmarterNJ Initiative.

@@ -5,6 +5,7 @@ menu:
   - title: About Us
     url: /about/
     collection: team
+    group-by: menu-group
 ---
 
 <p class="usa-intro">Our mission is to improve the lives of New Jerseyans by solving public problems differently.</p>

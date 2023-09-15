@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Jobs and Hiring Portal
-menu-group: COVID Response
+initiative: COVID Response
 ---
 
 The COVID-19 Jobs and Hiring portal was an online jobs board that connected short-staffed employers in select industries with workers who had lost their jobs as a result of the pandemic. To ensure high-quality listings, each post was vetted to ensure employers were permitted to operate during pandemic-related closures and what safety measures they were taking to protect workers.

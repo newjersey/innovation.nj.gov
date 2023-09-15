@@ -1,6 +1,6 @@
 ---
 title: Communication + Engagement Lab
-menu-group: Communication + Engagement Lab
+initiative: Communication + Engagement Lab
 menu-group-parent: true
 ---
 

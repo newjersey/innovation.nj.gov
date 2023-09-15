@@ -1,6 +1,6 @@
 ---
 title: Future of Work Task Force
-menu-group: Data + Policy
+initiative: Data + Policy
 ---
 
 The Future of Work Task Force was formed in 2018 to study how technological advancements will impact New Jersey's economy and workforce, and to produce a comprehensive policy roadmap to prepare and protect New Jerseyans from disruptive changes. The Task Force issued its policy roadmap and recommendations in early 2022.

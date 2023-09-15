@@ -1,6 +1,6 @@
 ---
 title: Healthcare Professional "Call to Serve" Portal
-menu-group: COVID Response
+initiative: COVID Response
 ---
 
 The Volunteer Medical Professionals Intake Form was an online portal that collected information from health care workers from around the country who wanted to help New Jersey battle COVID-19. 

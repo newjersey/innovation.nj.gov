@@ -1,6 +1,6 @@
 ---
 title: Youth Mental Health Information Hub
-menu-group: Resident Experience Initiative
+initiative: Resident Experience Initiative
 ---
 
 New Jersey’s [Youth Mental Health Information Hub](http://youthhelp.nj.gov) is a central source of information for young adults struggling with mental health challenges. The site features critical information in a simple, user-friendly format.

@@ -1,6 +1,6 @@
 ---
 title: BasicNeeds.NJ.gov
-menu-group: Resident Experience Initiative
+initiative: Resident Experience Initiative
 ---
 
 The [College Support Resource Hub](https://www.info.nj.gov/basicneeds) is a central source of information for college students in New Jersey who need support with meeting their basic needs. The site features easily-accessible, actionable information to help students with food, housing, childcare, transportation, and overcoming other barriers to continuing their pursuit of higher education.

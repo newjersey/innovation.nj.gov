@@ -1,6 +1,6 @@
 ---
 title: Out of State Traveler Registration Form
-menu-group: COVID Response
+initiative: COVID Response
 ---
 
 The [Out of State Traveler Registration Form](https://covid19.nj.gov/forms/njtravel) was a voluntary online questionnaire that individuals filled out upon entering New Jersey to comply with the State’s quarantine for incoming travelers from areas with heavy COVID-19 spread. 

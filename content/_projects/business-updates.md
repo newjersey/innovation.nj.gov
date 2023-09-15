@@ -1,6 +1,6 @@
 ---
 title: Business.NJ.Gov Updates
-menu-group: Business Experience Initiative
+initiative: Business Experience Initiative
 ---
 
 Business.NJ.gov Updates is an email update program that proactively shares information on new programs, services, and regulatory changes for businesses and nonprofits operating in New Jersey.

@@ -1,6 +1,6 @@
 ---
 title: Future of Work Policy + Practice Catalog
-menu-group: Data + Policy
+initiative: Data + Policy
 ---
 
 The Future of Work [Policy & Practice Catalog ](https://fow.innovation.nj.gov/)– developed as a tool for the Future of Work Task Force – aggregated leading research, policies, and practices on how to respond to the challenges and opportunities created by the impact of new technology on work. The searchable database collected research so Future of Work Task Force members and other decisions-makers could easily view ideas from numerous studies in a single, easy to use format.

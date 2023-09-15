@@ -1,6 +1,6 @@
 ---
 title: NJ Career Central Hub
-menu-group: Resident Experience Initiative
+initiative: Resident Experience Initiative
 ---
 
 

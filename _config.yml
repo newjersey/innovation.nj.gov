@@ -96,6 +96,7 @@ defaults:
         - title: About Us
           url: /team/
           collection: team
+          group-by: menu-group
   - scope:
       path: ""
       type: "redirects"
@@ -120,3 +121,4 @@ defaults:
         - title: Our Work
           url: /projects/
           collection: projects
+          group-by: initiative

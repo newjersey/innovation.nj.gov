@@ -1,6 +1,6 @@
 ---
 title: Disabilities Information Hub
-menu-group: Resident Experience Initiative
+initiative: Resident Experience Initiative
 ---
 
 New Jersey’s Disability Information Hub will serve as a central source of information for individuals with disabilities and their families and caregivers. The site will consolidate critical information from dozens of agencies in a user-friendly format on a range of topics from health care to utility assistance, transportation to in-home support, and more.
