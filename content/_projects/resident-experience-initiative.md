@@ -1,6 +1,6 @@
 ---
 title: Resident Experience Initiative
-menu-group: Resident Experience Initiative
+initiative: Resident Experience Initiative
 menu-group-parent: true
 ---
 

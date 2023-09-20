@@ -24,6 +24,6 @@ To provide the State with another way to proactively communicate with residents,
 
 ### Key Partners
 
--   NJ Governor's Office
--   NJ Department of Health
--   Granicus
+- Office of the Governor
+- NJ State Department of Health
+- Statewide initiative, in partnership with all State entities

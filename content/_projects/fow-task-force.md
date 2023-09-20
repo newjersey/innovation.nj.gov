@@ -20,7 +20,7 @@ Chaired by New Jersey's Chief Innovation Officer, Beth Simone Noveck, the Task F
 
 ### Status
 
--   OOI is continuing to work with its partners to implement the Task Force's recommendations including the Lifelong Learning Account pilot, which would provide participants with unrestricted funds to help with training costs and related services
+-   OOI is continuing to work with its partners to implement the Task Force's recommendations including the [Lifelong Learning Accounts]({{ site.baseurl }}/projects/lifelong-learning-accounts) pilot, which would provide participants with unrestricted funds to help with training costs and related services
 
 ### Partners
 

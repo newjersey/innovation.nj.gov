@@ -1,6 +1,6 @@
 ---
 title: NJDOL Benefits Eligibility Tool
-menu-group: Resident Experience Initiative
+initiative: Resident Experience Initiative
 ---
 
 The [Benefits Eligibility Tool](https://getstarted.nj.gov/labor/) was an online tool that made it easier for New Jersey workers affected by the pandemic to apply for newly created unemployment benefit programs and services. By answering a few simple questions, users received a personalized list of all the programs they were eligible for in priority order.

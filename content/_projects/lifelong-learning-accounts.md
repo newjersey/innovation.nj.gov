@@ -3,7 +3,7 @@ title: Lifelong Learning Accounts
 initiative: Data + Policy
 ---
 
-Lifelong Learning Accounts (LiLA) is one of the nation’s first pilot programs that will provide residents with unrestricted funds to be used for job training, education, career coaching, job search assistance, and wraparound services such as childcare, eldercare, transportation to training, and more. The pilot program stems from the New Jersey State Future of Work Task Force.
+Lifelong Learning Accounts (LiLA) is one of the nation’s first pilot programs that will provide residents with unrestricted funds to be used for job training, education, career coaching, job search assistance, and wraparound services such as childcare, eldercare, transportation to training, and more. The pilot program stems from the [New Jersey Future of Work Task Force]({{ site.baseurl }}/projects/fow-task-force).
 
 ### Challenge
  Disruptive new technologies are changing the economy, eliminating the need for some jobs while creating new ones altogether. To adapt, workers need new skills, which requires training and education. Research from the [Future of Work Task Force](https://fowtf.innovation.nj.gov/resources.html) found that many workers lack access to training, and many employers do not provide or fund significant training opportunities. Workers also face additional barriers to accessing training, such as limited financial resources to pay for child or eldercare that would be required for them to participate in upskilling or training programs outside of work.

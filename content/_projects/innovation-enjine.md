@@ -3,7 +3,7 @@ title: Innovation ENJINE Challenge
 initiative: Data + Policy
 ---
 
-The Innovation ENJINE Challenge was an open innovation challenge launched in the Spring of 2019 - it sourced ideas from State government employees to make government more effective and efficient, and then elicited proposed implementation plans from teams of State employees to bring select proposed innovations to life. This work was executed as part of the [SmarterNJ Initiative]({{ site.baseurl }}/content/projects/smarternj.html).
+The Innovation ENJINE Challenge was an open innovation challenge launched in the Spring of 2019 - it sourced ideas from State government employees to make government more effective and efficient, and then elicited proposed implementation plans from teams of State employees to bring select proposed innovations to life. This work was executed as part of the [SmarterNJ Initiative]({{ site.baseurl }}/projects/smarternj).
 
 ### Challenge
 

@@ -1,6 +1,6 @@
 ---
-title: Data + Policy Team
-initiative: Data + Policy Team
+title: Data + Policy
+initiative: Data + Policy
 menu-group-parent: true
 ---
 
@@ -18,6 +18,7 @@ The Data + Policy Team employs a variety of tools, strategies, and services to h
 
 -   To inform how more than $100 million annually in funds earmarked for sustainability funding should be allocated, the Team engaged with the public using an innovative survey tool. By the end of the four-week voting period, 6,370 New Jerseyans engaged with the campaign, made selections 24,414 times and submitted 163 ideas.
 -   By supporting upgrades to a key data analytics platform, the Business Experience team was better able to understand how current and aspiring business owners are accessing content and services.
+
 
 
 ### Status
