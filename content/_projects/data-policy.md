@@ -23,7 +23,7 @@ The Data + Policy Team employs a variety of tools, strategies, and services to h
 
 ### Status
 
--   The Data + Policy Team continues to work on projects that leverage data, evidence, and evaluation to positively impact resident’s lives. Currently, the Team is working on implementing an impact study of Lifelong Learnings Accounts (LiLA), developing tools to help teams serve the public equitably, and launching innovative engagements to bring residents into the policymaking process. 
+-   The Data + Policy Team continues to work on projects that leverage data, evidence, and evaluation to positively impact resident’s lives. Currently, the Team is developing tools to help teams serve the public equitably,launching innovative engagements to bring residents into the policymaking process, and creating data analytics dashboards to drive content development on a variety of State websites.  
 
 ### Partners
 
