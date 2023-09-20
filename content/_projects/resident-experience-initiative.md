@@ -4,33 +4,35 @@ menu-group: Resident Experience Initiative
 menu-group-parent: true
 ---
 
-The Business Experience initiative is a cross-agency effort - launched as part of the Governor's 2018 Stronger and Fair Economic Plan - to make it easier to start, operate, and grow a business in New Jersey. To streamline a fragmented process and deliver a simplified, one-stop digital experience for businesses, OOI has launched several tools including [Business.NJ.gov](https://business.nj.gov/), the Business.NJ.gov [Navigator](https://navigator.business.nj.gov/), Business.NJ.gov [Live Chat](https://business.nj.gov/), and Business.NJ.gov Updates.
+The Resident Experience Initiative (ResX) is streamlining, simplifying, and improving how New Jersey State government delivers benefits and services to residents through the use of agile methodologies and human-centered design. The initiative is an expansion of efforts during the COVID-19 pandemic to use innovative approaches to help the public find vaccine appointments, secure protection from eviction during economic hardship, and connect with vital programs and services.
 
 ### Challenge
 
-Prior to Business.NJ.Gov, to start and operate a business in the Garden State, companies and aspiring entrepreneurs had to navigate a byzantine process, sifting through 15 State websites to find information and creating multiple accounts to file forms and regulatory filings. OOI was tasked with streamlining these processes, and began consolidating dozens of related processes spread across multiple agencies into a single, easy-to-use platform for businesses.
+Whether it’s accessing health insurance through NJ FamilyCare, obtaining nutritional food benefits through SNAP, or finding meaningful employment through the State’s multitude of workforce programs, millions of New Jerseyans interact with the State government in person, on the phone, and online to receive benefits and support. While these benefits and services are impactful, the process to access critical support is often long, complex, and confusing. Bureaucratic silos, complex processes, and hard-to-reach customer service are significant barriers that disproportionately hinder the State’s most vulnerable from accessing benefits.
 
 ### Innovation In Action
 
-Rather than waiting to debut a large-scale solution after a multi-year development process, OOI used agile and iterative development to quickly launch a series of tools that provided immediate value to users and offered critical data that informed further development. By using this agile process, results were both faster and more effective as each stage of development was built with a data-backed understanding of the business community's needs.
+The Resident Experience Initiative puts residents and their experience at the center of all design, engineering, policy, and implementation considerations. Using extensive user research, cross-agency collaboration, and agile development, ResX works to tangibly improve the lives of residents. At a high level, ResX also advances uniform standards across government, shared digital services, and the creation of cross-agency one-stop websites.
 
 ### Impact + Metrics
 
--   With Business.NJ.gov, companies can now easily find the answer to any question they have, file critical forms, and get personalized recommendations -- all in one convenient place.
--   Through the Business.NJ.gov Navigator, aspiring entrepreneurs can now develop personalized guides to starting their business, register their business and track their applications, find relevant funding opportunities, and get a personalized tax calendar.
--   Businesses no longer need to repeatedly provide the same information as OOI enabled data-sharing between agencies for the first time.
--   Businesses can access a centralized customer service experience in real time using the Business.NJ.Gov live chat - this allows businesses to get answers from experts and customer service representatives from multiple State agencies, alleviating the need to call several agencies.
--   At the start of the COVID-19 pandemic, OOI rapidly deployed a COVID-19 Business Information Hub to provide a definitive source for businesses on safety regulations, closures, financial assistance, and more.
+-   Backed by extensive user research, OOI launched a new streamlined [Unemployment Insurance](http://innovation.nj.gov) claim application that boosted certification rates by 63-88% while cutting the average time to complete an application by 48 minutes.
+-   Through the creation of the [Maternity Coverage Timeline Tool](http://innovation.nj.gov), expecting parents can now receive a personalized calendar to help them plan when and how to take their maternity leave.
+-   OOI is working with NJDOL to build the [NJ Career Central](http://innovation.nj.gov), a resource for job seekers that features tools such as an AI-powered guide that provides personalized career recommendations.
+-   OOI launched the [Training Explorer](http://innovation.nj.gov), a user-friendly database of subsidized training programs that provides residents information such as a clear cost breakdown, earnings expectations, likelihood of getting a job, and more. 
+-   To provide much-needed guidance and support for transgender and non-binary New Jerseyans, OOI partnered with advocacy and service-based organizations to launch [Transgender.nj.gov](http://innovation.nj.gov), a resource hub with relevant information from nearly a dozen agencies. 
+
+-   OOI worked with the Office of the Secretary for Higher Education to launch a [College Support Resource Hub](http://innovation.nj.gov) to support low-income college students in accessing nutrition, housing, and other resources that could force an end to their academic pursuits.
 
 ### Status
 
--   OOI continues to work with departmental partners to build additional functionality into the Navigator, while also expanding content and services provided by the additional digital tools.
+-   The Resident Experience Initiative is a multi-year effort that will continue to expand its capacity to collaborate with State partners and work with residents to improve access and quality of benefits and services. 
 
 ### Partners
 
 -   Office of the Governor
--   New Jersey State Business Action Center
--   New Jersey State Economic Development Authority
--   New Jersey State Department of Treasury
--   New Jersey State Department of Labor
--   Statewide initiative, in partnership with all relevant State entities
+-   NJ State Department of Labor
+-   NJ State Department of Human Services
+-   NJ State Office of the Secretary of Higher Education
+-   NJ State Office of the Attorney General, Division on Civil Rights
+-   NJ State Department of Children and Families

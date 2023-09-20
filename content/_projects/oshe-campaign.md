@@ -3,7 +3,7 @@ title: OSHE Some College, No Degree Campaign
 initiative: Communication + Engagement Lab
 ---
 
-The Office of Innovation is working with the NJ State Office of the Secretary of Higher Education (OSHE) to launch the Some College, No Degree (SCND) campaign encouraging New Jersey students, who started college, but left before finishing their degree, to return. This work is being undertaken by the C+E Lab.
+The Office of Innovation is working with the NJ State Office of the Secretary of Higher Education (OSHE) to launch the Some College, No Degree (SCND)  campaign encouraging New Jersey students, who started college, but left before finishing their degree, to return. This work is being undertaken by the C+E Lab. 
 
 ### Challenge
 Roughly 1 million New Jerseyans have started college, but stopped before completing their degree. The State, led by OSHE, has launched a suite of financial assistance and coaching tools to help these individuals to return to school and earn their degree.

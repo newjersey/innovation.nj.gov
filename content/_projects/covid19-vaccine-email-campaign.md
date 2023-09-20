@@ -31,8 +31,7 @@ The Office of Innovation worked with academic partners and public health experts
 ### Key Partners
 
 -   Office of the Governor
--   NJ Department of Health
--   NJ Department of Labor
--   NJ Department of State
+-   NJ State Department of Health
+-   NJ State Department of Labor
+-   NJ State Department of State
 -   NJ Transit
-
