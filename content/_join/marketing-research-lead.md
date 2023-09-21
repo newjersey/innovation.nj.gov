@@ -1,7 +1,7 @@
 ---
 title: Marketing Research Lead
 form: https://innovatenj.jotform.com/231975909687982
-published: true
+published: false
 ---
 
 The New Jersey State Office of Innovation’s Communication and Engagement (C+E) Lab is looking for a Marketing Research Lead to research, design, and implement marketing research initiatives that better connect residents with State government benefits, programs, services, and products. You will create impact by understanding what motivates residents and transforming findings into insights and approaches that move people to action. 
