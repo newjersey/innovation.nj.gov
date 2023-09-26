@@ -1,5 +1,5 @@
 ---
-image: /assets/images/news/Worker_UI_Notice.jpg
+image: /assets/images/news/Worker-UI.jpg
 title: "REPORT: New Jersey’s Worker-centered Approach to Improving the Administration of Unemployment Insurance"
 promoted: 1
 date: September 7, 2023
