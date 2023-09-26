@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/wapo-logo.png
 title: "OP-ED: Better government tech starts with people. New Jersey shows how."
-promoted: 1
+promoted: 2
 date: June 13, 2023
 source: Washington Post
 cta:
