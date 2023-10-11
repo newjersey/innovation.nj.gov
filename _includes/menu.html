@@ -2,15 +2,24 @@
   <ul class="usa-sidenav">
     {% for item in include.menu %}
     <li class="usa-sidenav__item">
-      <a href="{{item.url}}" class="{% if page.url == item.url%}usa-current{% endif %}">{{item.title}}</a>
+      <a
+        href="{{item.url}}"
+        class="{% if page.url == item.url%}usa-current{% endif %}"
+        >{{item.title}}</a
+      >
       {% if item.collection %}
       <ul class="usa-sidenav__sublist">
-      {% assign collection = site.[item.collection]  %}
-      {% for item in collection %}
-      <li class="usa-sidenav__item">
-        <a href="{{item.url}}" class="{% if page.url == item.url%}usa-current{% endif %}">{{item.title}} {{item.name}}</a>
-      </li>
-      {% endfor %}
+        {% if item.collection.first %} {% assign collection = item.collection %}
+        {% else %} {% assign collection = site.[item.collection] %} {% endif %}
+        {% for item in collection %}
+        <li class="usa-sidenav__item">
+          <a
+            href="{{item.url}}"
+            class="{% if page.url == item.url%}usa-current{% endif %}"
+            >{{item.title}} {{item.name}}</a
+          >
+        </li>
+        {% endfor %}
       </ul>
       {% endif %}
     </li>
