@@ -79,6 +79,8 @@ collections:
     permalink: /:collection/:title/
     sort_by: order
     output: true
+  skills:
+    output: false
   redirects:
     permalink: /:slug/
     output: true
