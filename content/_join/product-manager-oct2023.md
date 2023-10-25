@@ -1,6 +1,6 @@
 ---
 title: Product Manager
-form: https://innovatenj.jotform.com/232954130536959s
+form: https://innovatenj.jotform.com/232954130536959
 published: true
 ---
 
