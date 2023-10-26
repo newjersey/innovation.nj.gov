@@ -13,3 +13,5 @@ In collaboration with numerous State departments and agencies, the Office of Inn
 - **Contact Tracing:** working closely with the Department of Health and the Office of Information Technology, the Office of Innovation played a crucial role in the development and deployment of the State’s [Contact Tracing technology infrastructure](https://covid19.nj.gov/pages/testandtrace).
 - **Data Modeling and Predictive Analytics:** in partnership with leading data scientists and epidemiologists, the Office of Innovation has conducted [extensive data modeling and predictive analysis](https://covid19.nj.gov/faqs/nj-information/reopening-guidance-and-restrictions/how-is-the-state-using-data-to-make-decisions-and-slow-the-spread-of-covid-19) pertaining to COVID-19 prevalence, hospital capacity, and PPE usage.
 - **Systems Modernization:** the Office of Innovation and partners have assisted several departments with modernizing service and benefit delivery systems, including extensive work with the Department of Labor to modernize public-facing elements of its Unemployment Insurance application and certification system.
+
+*Last updated on 10/26/23*

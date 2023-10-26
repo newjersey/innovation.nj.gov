@@ -30,3 +30,5 @@ To help people navigate the new landscape of programs and ensure they received t
 
 -   New Jersey State Department of Labor
 -   U.S. Digital Response
+
+*Last updated on 10/26/23*

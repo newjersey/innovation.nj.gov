@@ -30,3 +30,5 @@ The Training Explorer is a tool that uses public sector data to help job seekers
 -   New Jersey Council on Community Colleges
 -   Schmidt Futures
 -   Lumina Foundation
+
+*Last updated on 10/26/23*

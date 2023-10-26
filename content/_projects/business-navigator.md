@@ -37,3 +37,5 @@ With the user at the heart of every decision, OOI has transformed how businesses
 -   NJ State Department of Labor
 -   NJ State Office of the Attorney General, Division of Consumer Affairs
 -   Statewide initiative, in partnership with all relevant State entities
+
+*Last updated on 10/26/23*

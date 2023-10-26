@@ -29,3 +29,5 @@ The Innovation ENJINE Challenge focused on eliciting novel solutions to challeng
 ### Partners
 
 -   This was a statewide initiative with more than 36 participating agencies.
+
+*Last updated on 10/26/23*

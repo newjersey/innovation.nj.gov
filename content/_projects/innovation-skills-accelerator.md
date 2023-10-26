@@ -32,3 +32,5 @@ To reduce barriers and ensure the greatest spread of knowledge, OOI created a fr
 
 -   Statewide initiative, in partnership with all relevant State entities
 -   InnovateUS
+
+*Last updated on 10/26/23*

@@ -37,3 +37,5 @@ Chaired by New Jersey's Chief Innovation Officer, Beth Simone Noveck, the Task F
 -   [Read the Task Force's Roadmap and Recommendations](https://fowtf.innovation.nj.gov/resources.html) as well as the dozens of reports and papers that the Task Force examined as part of its research.
 -   You can also [read the six academic research papers](https://fowtf.innovation.nj.gov/resources.html) the Task Force also commissioned to further its understanding of the localized impacts of the Future of Work within the Garden State.
 -   NJ Spotlight News: [Workers need help facing uncertain future, task force says](https://www.njspotlightnews.org/2022/02/worker-training-savings-accounts-upgraded-unemployment-site-technology-task-force/)
+
+*Last updated on 10/26/23*

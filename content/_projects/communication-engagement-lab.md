@@ -21,3 +21,5 @@ The Communication and Engagement Lab (C+E Lab) is an initiative that aims to mod
 ### Status
 
 - The C+E Lab was launched in early 2022 and has conducted several engagements with State teams and agencies. In 2023, the Lab seeks to launch two high-impact marketing campaigns with its State partners.
+
+*Last updated on 10/26/23*

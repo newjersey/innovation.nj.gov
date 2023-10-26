@@ -36,3 +36,5 @@ The Resident Experience Initiative puts residents and their experience at the ce
 -   NJ State Office of the Secretary of Higher Education
 -   NJ State Office of the Attorney General, Division on Civil Rights
 -   NJ State Department of Children and Families
+
+*Last updated on 10/26/23*

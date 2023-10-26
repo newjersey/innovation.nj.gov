@@ -23,3 +23,5 @@ At the recommendation of the Future Of Work Task Force, OOI is exploring an educ
 
 -   Rutgers School of Labor and Management Relations
 -   NJ State Office of the Attorney General, Division on Civil Rights
+
+*Last updated on 10/26/23*

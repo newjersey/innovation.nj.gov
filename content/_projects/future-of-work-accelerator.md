@@ -31,3 +31,5 @@ To address such a broad challenge, there was a need to support innovative soluti
 - The Worker’s Lab
 - NJ Economic Development Authority
 - NJ State Department of Labor
+
+*Last updated on 10/26/23*

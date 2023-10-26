@@ -29,3 +29,5 @@ To make it easy for organizations to understand which support programs are avail
 ### Partners
 
 -   NJ Economic Development Authority
+
+*Last updated on 10/26/23*

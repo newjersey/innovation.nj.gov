@@ -27,3 +27,5 @@ The [Maternity Coverage Timeline Tool](http://myleavebenefits.nj.gov/timeline) h
 
 -   NJ State Department of Labor
 -   Office of the First Lady
+
+*Last updated on 10/26/23*

@@ -32,3 +32,5 @@ To provide the State with a means to more effectively proactively reach business
 -   NJ State Business Action Center
 -   NJ Economic Development Authority
 -   Statewide initiative, in partnership with all relevant State entities
+
+*Last updated on 10/26/23*

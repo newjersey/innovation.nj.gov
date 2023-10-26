@@ -22,3 +22,5 @@ The [College Support Resource Hub](https://www.info.nj.gov/basicneeds) is a cent
 ### Partners
 
 - NJ State Office of the Secretary of Higher Education
+
+*Last updated on 10/26/23*

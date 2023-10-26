@@ -39,3 +39,5 @@ Unlike traditional legacy government websites, which feature static content and 
 -   NJ State Office of Emergency Management
 -   NJ 211
 -   Statewide initiative, in partnership with all State entities
+
+*Last updated on 10/26/23*

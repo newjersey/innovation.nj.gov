@@ -22,3 +22,5 @@ The Future of Work [Policy & Practice Catalog ](https://fow.innovation.nj.gov/)â
 ### Partners
 
 - Future of Work Task Force
+
+*Last updated on 10/26/23*

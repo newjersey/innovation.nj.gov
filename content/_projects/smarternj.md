@@ -33,3 +33,5 @@ SmarterNJ leverages technology, modern approaches, and industry expertise to tap
 ### Partners
 
 -   Office of the Governor
+
+*Last updated on 10/26/23*

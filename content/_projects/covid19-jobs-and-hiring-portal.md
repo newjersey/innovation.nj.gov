@@ -31,3 +31,5 @@ To help struggling New Jerseyans and businesses, the NJ Economic Development Aut
 
 -   NJ Economic Development Authority
 -   NJ State Department of Labor
+
+*Last updated on 10/26/23*

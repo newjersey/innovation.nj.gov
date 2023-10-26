@@ -34,3 +34,5 @@ Rather than waiting to debut a large-scale solution after a multi-year developme
 -   New Jersey State Department of Treasury
 -   New Jersey State Department of Labor
 -   Statewide initiative, in partnership with all relevant State entities
+
+*Last updated on 10/26/23*

@@ -30,3 +30,5 @@ The Data + Policy Team employs a variety of tools, strategies, and services to h
 -   Office of the Governor
 -   New Jersey State Department of Labor
 -   New Jersey State Economic Development Authority
+
+*Last updated on 10/26/23*

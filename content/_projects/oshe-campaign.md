@@ -24,3 +24,5 @@ To help the OSHE project team persuade non-returning students to re-enroll in hi
 ### Partners
 
 - NJ State Office of the Secretary of Higher Education
+
+*Last updated on 10/26/23*
