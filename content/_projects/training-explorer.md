@@ -22,6 +22,10 @@ The Training Explorer is a tool that uses public sector data to help job seekers
 
 - OOI is continuing to build additional features for the Training Explorer including more filters, multi-language support, and integration with related workforce tools.
 
+### Resources and Additional Information
+
+-   [GitHub repository](https://github.com/newjersey/d4ad)
+
 ### Partners
 
 -   NJ State Department of Labor 

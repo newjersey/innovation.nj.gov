@@ -25,6 +25,7 @@ To help people navigate the new landscape of programs and ensure they received t
 ### Resources and Additional Information
 
 -   USDR Case Study: <https://www.usdigitalresponse.org/case-studies/clarifying-benefits-eligibility-for-new-jersey-residents>
+-   [GitHub repository](https://github.com/newjersey/dol-eligibility-tool)
 
 ### Partners
 

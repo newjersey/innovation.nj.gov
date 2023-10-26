@@ -28,6 +28,7 @@ Drawing inspiration from other governments around the world that had developed s
 -   [StateScoop: How New Jersey tracked COVID-19 when no data was available](https://statescoop.com/new-jersey-covid-19-data-symptom-checker/)
 -   [Fox 29: New Jersey forecasts the next several weeks of the coronavirus pandemic](https://www.fox29.com/news/new-jersey-forecasts-the-next-several-weeks-of-the-coronavirus-pandemic)
 -   [NJ Spotlight News: Chief Innovation Officer discusses 'peak' and predictive modeling](https://www.njspotlight.com/video/chief-innovation-officer-discusses-peak-and-predictive-modeling/)
+-   [GitHub repository](https://github.com/newjersey/cv-self-assessment-njhealth)
 
 ### Key Partners
 
