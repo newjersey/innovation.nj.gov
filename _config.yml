@@ -77,7 +77,7 @@ collections:
     output: false
     sort_by: date
   team:
-    permalink: /:collection/:title/
+    permalink: about/:collection/:title/
     sort_by: order
     output: true
   skills:
@@ -98,7 +98,7 @@ defaults:
       menu-group: Team Members
       menu:
         - title: About Us
-          url: /team/
+          url: /about
           collection: team
           group-by: menu-group
   - scope:
