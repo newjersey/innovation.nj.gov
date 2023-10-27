@@ -7,24 +7,10 @@
       <ul class="grid-row grid-gap">
         {% for item in site.data.menu %}
         <li
-          class="
-            mobile-lg:grid-col-4
-            desktop:grid-col-auto
-            usa-footer__primary-content
-          "
+          class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content"
         >
           <a
-            class="
-              usa-footer__primary-link
-              {%
-              if
-              item.link
-              ==
-              page.url
-              %}text-primary-darker{%
-              endif
-              %}
-            "
+            class="usa-footer__primary-link {% if item.link == page.url %}text-primary-darker{% endif %}"
             href="{{item.link}}"
             >{{item.text}}</a
           >
@@ -38,11 +24,7 @@
     <div class="grid-container">
       <div class="grid-row grid-gap">
         <div
-          class="
-            usa-footer__logo
-            grid-row
-            mobile-lg:grid-col-6 mobile-lg:grid-gap-2
-          "
+          class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2"
         >
           <div class="mobile-lg:grid-col-auto">
             <h3 class="usa-footer__logo-heading">{{ site.title }}</h3>
@@ -63,40 +45,44 @@
           <div class="usa-footer__social-links grid-row grid-gap-1">
             <div class="grid-col-auto">
               <a
-                class="usa-social-link usa-link-github"
+                class="usa-social-link"
                 rel="noopener"
                 target="_blank"
                 href="https://github.com/newjersey"
               >
-                <svg
-                  class="usa-icon width-full height-full padding-1"
-                  aria-hidden="true"
-                  focusable="false"
-                  role="img"
-                >
-                  <use xlink:href="/assets/njwds/img/sprite.svg#github"></use>
-                </svg>
-                <span>Github</span>
+                <img
+                  class="usa-social-link__icon"
+                  src="/assets/njwds/dist/img/usa-icons/github.svg"
+                  alt="GitHub"
+                />
               </a>
             </div>
             <div class="grid-col-auto">
               <a
-                class="usa-social-link usa-social-link--facebook"
+                class="usa-social-link"
                 rel="noopener"
                 target="_blank"
                 href="https://www.facebook.com/NJGov/"
               >
-                <span>Facebook</span>
+                <img
+                  class="usa-social-link__icon"
+                  src="/assets/njwds/dist/img/usa-icons/facebook.svg"
+                  alt="Facebook"
+                />
               </a>
             </div>
             <div class="grid-col-auto">
               <a
-                class="usa-social-link usa-social-link--twitter"
+                class="usa-social-link"
                 rel="noopener"
                 target="_blank"
                 href="https://twitter.com/njgov"
               >
-                <span>Twitter</span>
+                <img
+                  class="usa-social-link__icon"
+                  src="/assets/njwds/dist/img/usa-icons/twitter.svg"
+                  alt="Twitter"
+                />
               </a>
             </div>
             <div class="grid-col-auto">
@@ -106,44 +92,25 @@
                 target="_blank"
                 href="https://www.linkedin.com/company/state-of-new-jersey/"
               >
-                <svg
-                  version="1.1"
-                  id="Capa_1"
-                  xmlns="http://www.w3.org/2000/svg"
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  x="0px"
-                  y="0px"
-                  viewBox="0 0 510 510"
-                  style="enable-background: new 0 0 510 510"
-                  xml:space="preserve"
-                  class="usa-icon width-full height-full padding-105"
-                  aria-hidden="true"
-                  focusable="false"
-                  role="img"
-                >
-                  <g>
-                    <g id="post-linkedin">
-                      <path
-                        d="M459,0H51C22.95,0,0,22.95,0,51v408c0,28.05,22.95,51,51,51h408c28.05,0,51-22.95,51-51V51C510,22.95,487.05,0,459,0z
-                       M153,433.5H76.5V204H153V433.5z M114.75,160.65c-25.5,0-45.9-20.4-45.9-45.9s20.4-45.9,45.9-45.9s45.9,20.4,45.9,45.9
-                      S140.25,160.65,114.75,160.65z M433.5,433.5H357V298.35c0-20.399-17.85-38.25-38.25-38.25s-38.25,17.851-38.25,38.25V433.5H204
-                      V204h76.5v30.6c12.75-20.4,40.8-35.7,63.75-35.7c48.45,0,89.25,40.8,89.25,89.25V433.5z"
-                      />
-                    </g>
-                  </g>
-                </svg>
-
-                <span>LinkedIn</span>
+                <img
+                  class="usa-social-link__icon"
+                  src="/assets/njwds/dist/img/usa-icons/linkedin.svg"
+                  alt="Linkedin"
+                />
               </a>
             </div>
             <div class="grid-col-auto">
               <a
-                class="usa-social-link usa-social-link--instagram"
+                class="usa-social-link"
                 rel="noopener"
                 target="_blank"
                 href="https://www.instagram.com/njgov/"
               >
-                <span>Instagram</span>
+                <img
+                  class="usa-social-link__icon"
+                  src="/assets/njwds/dist/img/usa-icons/instagram.svg"
+                  alt="Instagram"
+                />
               </a>
             </div>
           </div>
@@ -159,7 +126,7 @@
                   role="img"
                 >
                   <use
-                    xlink:href="/assets/njwds/img/sprite.svg#mail"
+                    xlink:href="/assets/njwds/dist/img/sprite.svg#mail"
                   ></use></svg
                 >Sign up for updates</a
               >

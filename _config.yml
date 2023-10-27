@@ -80,6 +80,10 @@ collections:
     permalink: /:collection/:title/
     sort_by: order
     output: true
+  skills:
+    output: true
+  trainings:
+    output: false
   redirects:
     permalink: /:slug/
     output: true
@@ -122,3 +126,13 @@ defaults:
           url: /projects/
           collection: projects
           group-by: initiative
+  - scope:
+      path: ""
+      type: "skills"
+    values:
+      menu-group: Learn More
+      menu:
+        - title: About Innovation Skills
+          url: /skills/
+          collection: skills
+          group-by: menu-group

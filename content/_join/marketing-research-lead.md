@@ -1,7 +1,7 @@
 ---
 title: Marketing Research Lead
 form: https://innovatenj.jotform.com/231975909687982
-published: true
+published: false
 ---
 
 The New Jersey State Office of Innovation’s Communication and Engagement (C+E) Lab is looking for a Marketing Research Lead to research, design, and implement marketing research initiatives that better connect residents with State government benefits, programs, services, and products. You will create impact by understanding what motivates residents and transforming findings into insights and approaches that move people to action. 
@@ -65,3 +65,15 @@ You have 2+ years experience related to the following expertise, skills, and abi
 We welcome applications that don’t meet 100% of our requirements. If you believe that you could excel in this role, we encourage you to apply.
 
 **Compensation**:  Up to approximately $100,000 + Full benefits
+
+### The New Jersey Office of Innovation is proud to be an equal opportunity employer
+{: .maxw-mobile-lg}
+We are deeply committed to the principles of equity, diversity, and inclusiveness and seek to create a pluralistic community for all.
+
+We strongly encourage people of color, members of racial and ethnic minority groups, women, LGBTQI+ people, those with disabilities, and Veterans to apply. We are committed to building a team that is reflective of New Jersey’s incredible diversity.  
+
+We do not discriminate against any candidate because of color, race, age, religion, sex, gender identity or expression, sexual orientation, membership in an employee organization, pregnancy, marital status, status as a parent, ancestry, national origin, disability (physical or mental), family medical history or genetic information, political affiliation, military service, retaliation, or other non-merit based factors.
+
+### Eligibility
+
+You must be authorized to work in the United States. Candidates may be required to pass a background check and complete additional steps as part of the application and onboarding process. You will be considered an “at-will” employee, meaning both employer and employee have the right to terminate employment with or without cause or notice. 

@@ -30,7 +30,7 @@ As a part of the team, your responsibilities may include:
   - Coordinate and work with in-house department and agency technical teams, including those who support legacy systems, to execute on development projects and ensure that they are setup to succeed
   - Take part in office-wide initiatives and stand-ups to enable collaboration and support across projects
 
-**Preferred Technical Experience, Skills and Abilities**
+### Preferred Technical Experience, Skills and Abilities
 
 Applicants will be assessed based on an ability to excel at one or more software engineering disciplines: front-end engineering, back-end engineering, infrastructure engineering.
 
@@ -55,3 +55,15 @@ Applicants will be assessed based on an ability to excel at one or more software
 - Monitoring and notifying appropriate officials in the case of security and data breaches
 
 **Compensation**: Up to $136,500 (depending on experience) + Full benefits
+
+### The New Jersey Office of Innovation is proud to be an equal opportunity employer
+{: .maxw-mobile-lg}
+We are deeply committed to the principles of equity, diversity, and inclusiveness and seek to create a pluralistic community for all.
+
+We strongly encourage people of color, members of racial and ethnic minority groups, women, LGBTQI+ people, those with disabilities, and Veterans to apply. We are committed to building a team that is reflective of New Jersey’s incredible diversity.  
+
+We do not discriminate against any candidate because of color, race, age, religion, sex, gender identity or expression, sexual orientation, membership in an employee organization, pregnancy, marital status, status as a parent, ancestry, national origin, disability (physical or mental), family medical history or genetic information, political affiliation, military service, retaliation, or other non-merit based factors.
+
+### Eligibility
+
+You must be authorized to work in the United States. Candidates may be required to pass a background check and complete additional steps as part of the application and onboarding process. You will be considered an “at-will” employee, meaning both employer and employee have the right to terminate employment with or without cause or notice. 

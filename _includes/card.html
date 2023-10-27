@@ -7,7 +7,7 @@
   {% assign colwidth = "12" %} {% endif %} {% unless include.ignore contains
   item.title %}
   <li
-    class="tablet:grid-col-{{colwidth}} usa-card usa-card--flag"
+    class="tablet:grid-col-{{colwidth}} usa-card {% if item.image %}usa-card--flag{% endif %}"
     id="{{item.title |slugify}}"
   >
     <div class="usa-card__container">
@@ -38,7 +38,7 @@
           ></object>
         </div>
       </div>
-      {% else %}
+      {% elsif item.image %}
       <div class="usa-card__media usa-card__media--inset">
         <div
           class="usa-card__img usa-card__img--square {%if include.cover %}usa-card__img--square-cover{% endif %} add-aspect-1x1 width-full"
@@ -52,7 +52,28 @@
         {{item.content}} {% endif %}
       </div>
       <div class="usa-card__footer">
-        {% if include.summarize or include.excerpt %} {% assign collection =
+        {% if item.cta.link and include.usecta %}
+        <a
+          {%
+          if
+          link_test
+          !="/"
+          %}rel="noopener"
+          {%
+          endif
+          %}
+          class="usa-button margin-top-2"
+          href="{{item.cta.link}}"
+          {%
+          if
+          include.news
+          %}target="_blank"
+          {%
+          endif
+          %}
+          >{{item.cta.text}}</a
+        >
+        {% elsif include.summarize or include.excerpt %} {% assign collection =
         site.collections | where: "label", include.collection | first %} {% if
         collection.output == true %} {% assign url = item.url %} {% else %} {%
         capture url %}/{{include.collection}}/#{{item.title | slugify}}{%
