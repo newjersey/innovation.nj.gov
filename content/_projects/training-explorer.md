@@ -35,4 +35,4 @@ The Training Explorer is a tool that uses public sector data to help job seekers
 -   Schmidt Futures
 -   Lumina Foundation
 
-*Last updated on 10/26/23*
+*Last updated on 10/29/23*
