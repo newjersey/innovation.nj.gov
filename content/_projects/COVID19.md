@@ -1,10 +1,7 @@
 ---
 title: COVID-19 Response
-order: 1
-promoted: 8
-image: /assets/images/covid_response.svg
-cta:
-  text: Email [team@innovation.nj.gov](mailto:team@innovation.nj.gov) to learn more about the Office of Innovation's COVID-19 response
+initiative: COVID Response
+menu-group-parent: true
 ---
 
 In collaboration with numerous State departments and agencies, the Office of Innovation has undertaken an array of projects to support the State of New Jersey’s response to the COVID-19 pandemic and improve the delivery of information and services to New Jerseyans, and the businesses and institutions of the Garden State. Collectively, these Office of Innovation's projects have reached millions of New Jerseyans, and served hundreds of thousands of businesses across the Garden State.
@@ -16,3 +13,5 @@ In collaboration with numerous State departments and agencies, the Office of Inn
 - **Contact Tracing:** working closely with the Department of Health and the Office of Information Technology, the Office of Innovation played a crucial role in the development and deployment of the State’s [Contact Tracing technology infrastructure](https://covid19.nj.gov/pages/testandtrace).
 - **Data Modeling and Predictive Analytics:** in partnership with leading data scientists and epidemiologists, the Office of Innovation has conducted [extensive data modeling and predictive analysis](https://covid19.nj.gov/faqs/nj-information/reopening-guidance-and-restrictions/how-is-the-state-using-data-to-make-decisions-and-slow-the-spread-of-covid-19) pertaining to COVID-19 prevalence, hospital capacity, and PPE usage.
 - **Systems Modernization:** the Office of Innovation and partners have assisted several departments with modernizing service and benefit delivery systems, including extensive work with the Department of Labor to modernize public-facing elements of its Unemployment Insurance application and certification system.
+
+*Last updated on 10/26/23*

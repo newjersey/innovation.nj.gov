@@ -70,16 +70,19 @@ collections:
     output: true
     sort_by: order
   projects:
-    output: false
+    permalink: /:collection/:title/
+    output: true
     sort_by: order
   news:
     output: false
     sort_by: date
   team:
-    permalink: /:collection/:title/
+    permalink: about/:collection/:title/
     sort_by: order
     output: true
   skills:
+    output: true
+  trainings:
     output: false
   redirects:
     permalink: /:slug/
@@ -92,10 +95,12 @@ defaults:
     values:
       layout: "team"
       order: 1000
+      menu-group: Team Members
       menu:
-        - title: Our Team
-          url: /about/
+        - title: About Us
+          url: /about
           collection: team
+          group-by: menu-group
   - scope:
       path: ""
       type: "redirects"
@@ -111,3 +116,23 @@ defaults:
       type: "join"
     values:
       layout: "join"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      menu-group: Other Work
+      menu:
+        - title: Our Work
+          url: /projects/
+          collection: projects
+          group-by: initiative
+  - scope:
+      path: ""
+      type: "skills"
+    values:
+      menu-group: Learn More
+      menu:
+        - title: About Innovation Skills
+          url: /skills/
+          collection: skills
+          group-by: menu-group

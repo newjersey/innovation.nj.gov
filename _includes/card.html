@@ -4,7 +4,8 @@
   include.news %} {% assign list = site.[include.collection] | reverse %} {%
   else %} {% assign list = site.[include.collection] %} {% endif %} {% for item
   in list %} {% if include.summarize %} {% assign colwidth = "6" %} {% else %}
-  {% assign colwidth = "12" %} {% endif %}
+  {% assign colwidth = "12" %} {% endif %} {% unless include.ignore contains
+  item.title %}
   <li
     class="tablet:grid-col-{{colwidth}} usa-card {% if item.image %}usa-card--flag{% endif %}"
     id="{{item.title |slugify}}"
@@ -108,5 +109,5 @@
       </div>
     </div>
   </li>
-  {% endfor %}
+  {% endunless %} {% endfor %}
 </ul>

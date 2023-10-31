@@ -1,16 +1,6 @@
 ---
 title: About the Innovation Skills Accelerator and Trainings
 permalink: /skills/about/
-menu:
-  - title: Innovation Skills
-    url: /skills/
-    collection:
-      - title: About
-        url: /skills/about/
-      - title: Trainings
-        url: /skills/trainings/
-      - title: Generative AI
-        url: /skills/ai/
 ---
 
 Since 2019, the New Jersey State Office of Innovation has been offering at-your-own pace innovation skills training for Garden State public sector professionals through the NJ Innovation Skills Accelerator program. This work has featured a multi-module course in technology, data, and public engagement to improve how we deliver services to residents, as well as live workshops and custom courses developed for state agencies.
