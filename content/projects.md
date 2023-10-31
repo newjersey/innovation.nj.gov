@@ -21,8 +21,9 @@ In partnership with colleagues across the State, the Office of Innovation deploy
 Since our creation, we have engaged in a wide variety of projects, including:
 
 - Responding to emerging and urgent needs, such as the COVID-19 pandemic, by deploying modern digital services and expanding the use and availability of data
-- Improving the delivery of benefits and services, including Unemployment Insurance and SNAP
 - Creating tools to enable the public to participate in open policy making
 - Making modern career services and digital tools available to support job seekers in identifying, preparing for, and obtaining family-sustaining jobs
 - Improving the way entrepreneurs and business owners start, operate, and grow their businesses in the state
 - Exploring policy innovations on issue areas such as economic development, technology governance, open data, open governance, autonomous vehicles, broadband, workforce development and more
+
+To learn more about our work, please explore the project links featured on this page.
