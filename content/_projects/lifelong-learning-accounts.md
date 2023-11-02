@@ -22,6 +22,6 @@ Lifelong Learning Accounts (LiLA) is one of the nation’s first pilot programs 
 ### Partners
 
 - NJ State Department of Labor
-- Heldrich Center for Workforce Development
+- Heldrich Center for Workforce Development at Rutgers University
 
-*Last updated on 10/26/23*
+*Last updated on 11/1/23*
