@@ -21,8 +21,8 @@ The [Transgender Information Hub](http://transgender.nj.gov) is a central resour
 
 ### Partners
 
-- NJ Attorney General’s Office, Division on Civil rights
+- NJ Attorney General’s Office, Division on Civil Rights
 - NJ Department of Children and Families
 - Garden State Equality
 
-*Last updated on 10/26/23*
+*Last updated on 11/13/23*

@@ -17,7 +17,7 @@ Lifelong Learning Accounts (LiLA) is one of the nation’s first pilot programs 
 
 ### Status
 
-- The pilot program is projected to launch in 2023 and run for a period of two years.
+- The pilot program officially launched in June 2023 and is expected to run for a period of two years in collaboration with three training providers: Atlantic Cape Community College, Isles, and Jewish Vocational Services of New Jersey. 
 
 ### Partners
 
