@@ -3,9 +3,9 @@ title: Using Generative AI in New Jersey State Government
 permalink: /skills/ai/
 ---
 
-On October 10, 2023, Governor Murphy’s issued [Executive Order 346](https://nj.gov/infobank/eo/056murphy/pdf/EO-346.pdf). This Executive Order committed to creating a public sector training program to help New Jersey State government’s public sector professionals use generative AI to improve the delivery of services to Garden State residents, businesses, and institutions.
+On October 10, 2023, Governor Murphy’s issued [Executive Order 346](https://nj.gov/infobank/eo/056murphy/pdf/EO-346.pdf){:target="_blank"}{:rel="noopener noreferrer"}. This Executive Order committed to creating a public sector training program to help New Jersey State government’s public sector professionals use generative AI to improve the delivery of services to Garden State residents, businesses, and institutions.
 
-The State has now released a [new policy to guide State employees to responsibly use generative AI](https://www.nj.gov/circulars/23-oit-007.pdf) to improve how government delivers services to New Jersey residents.
+The State has now released a [new policy to guide State employees to responsibly use generative AI](https://www.nj.gov/circulars/23-oit-007.pdf){:target="_blank"}{:rel="noopener noreferrer"} to improve how government delivers services to New Jersey residents.
 
 New Jersey has made a nation-leading public commitment to educating every public sector professional on AI: a generative AI training course is slated to launch in early 2024, in collaboration with InnovateUS.
 
