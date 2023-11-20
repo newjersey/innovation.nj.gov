@@ -1,7 +1,7 @@
 ---
 title: Product Data and Analytics Lead
 form: https://innovatenj.jotform.com/232133997344966 
-published: true
+published: false
 ---
 
 We are seeking a skilled and experienced Product Data and Analytics Lead to join our Business.NJ.gov team and help transform how the State interacts with businesses and entrepreneurs. Business.NJ.gov was created by the New Jersey State Office of Innovation, in partnership with the Governor’s Office and Administration agencies, to make it easier to start, operate, and grow a business in New Jersey. Since its launch, Business.NJ.gov has served more than 3.4 million users by helping entrepreneurs find the information and services they need to start and run their business. 
