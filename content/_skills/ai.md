@@ -13,4 +13,4 @@ Generative AI is a tool and an upskilling opportunity: not a replacement for the
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/872999668?h=724ab4daef&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Generative AI Explainer"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-_New Jersey State government employees will be able to access this video through the State’s Learning Management System in the coming weeks._
+_New Jersey State government employees can [access the video through the State’s Learning Management System](https://stateofnewjersey.sabacloud.com/Saba/Web_spf/NA9P2PRD001/common/leclassview/dowbt000000000020696). State government contract or temporary employees can [access the content on the State's LMS here](https://stateofnewjersey-external.sabacloud.com/Saba/Web_spf/NA9P2PRD001/common/leclassview/dowbt000000000020696)._
