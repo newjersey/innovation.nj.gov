@@ -18,7 +18,7 @@ With the user at the heart of every decision, OOI has transformed how businesses
 -   Entrepreneurs now have personalized Starter Kits specific to over 50 industries for starting their companies in New Jersey. This guide explains what forms and licenses they need, legal requirements, and more.
 -   Through advanced data-sharing, any new company can now legally form their business and check their license application status directly through the Navigator rather than by visiting multiple agencies.
 -   For the first time, businesses now have a personalized calendar for deadlines and filings, as well as personalized funding and certification recommendations from a growing statewide database.
--   In its first 18 months, more than 18,000 businesses filed formation documents through the Navigator. As of May 2023, the Business.NJ.gov Navigator facilitated one in eight of all new business formations in the state.
+-   In its first 18 months, more than 25,000 businesses filed formation documents through the Navigator. As of September 2023, the Business.NJ.gov Navigator facilitated one in seven of all new business formations in the state.
 
 ### Status
 
@@ -39,4 +39,4 @@ With the user at the heart of every decision, OOI has transformed how businesses
 -   NJ State Office of the Attorney General, Division of Consumer Affairs
 -   Statewide initiative, in partnership with all relevant State entities
 
-*Last updated on 10/26/23*
+*Last updated on 11/27/23*

@@ -15,7 +15,7 @@ To provide the State with a means to more effectively proactively reach business
 
 ### Impact + Metrics
 
--   Business.NJ.gov Updates has gained more than 100,000 subscribers since its launch.
+-   Business.NJ.gov Updates has gained more than 125,000 subscribers since its launch.
 -   The Business.NJ.gov Updates program has generated millions of interactions with subscribers, significantly increasing awareness of an array of policy priorities and programs. The program has generated more than 40,000 engagements with funding programs, and more than 25,000 engagements with policy and compliance updates.
 
 ### Status
@@ -33,4 +33,4 @@ To provide the State with a means to more effectively proactively reach business
 -   NJ Economic Development Authority
 -   Statewide initiative, in partnership with all relevant State entities
 
-*Last updated on 10/26/23*
+*Last updated on 11/27/23*
