@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/heldrich.png
 title: "REPORT: New Jersey’s Worker-centered Approach to Improving the Administration of Unemployment Insurance"
-promoted: 2
+promoted: 
 date: September 7, 2023
 source: Heldrich Center for Workforce Development
 cta:
