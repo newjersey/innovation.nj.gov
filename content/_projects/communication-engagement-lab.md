@@ -2,6 +2,7 @@
 title: Communication + Engagement Lab
 initiative: Communication + Engagement Lab
 menu-group-parent: true
+order: 3
 ---
 
 The Communication and Engagement Lab (C+E Lab) is an initiative that aims to modernize and enhance the State’s ability to better connect New Jersey’s residents and institutions to State programs, resources, and services through the use of data, research, and modern consumer marketing techniques.
