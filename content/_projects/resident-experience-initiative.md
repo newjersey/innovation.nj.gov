@@ -2,6 +2,7 @@
 title: Resident Experience Initiative
 initiative: Resident Experience Initiative
 menu-group-parent: true
+order: 0
 ---
 
 The Resident Experience Initiative (ResX) is streamlining, simplifying, and improving how New Jersey State government delivers benefits and services to residents through the use of agile methodologies and human-centered design. The initiative is an expansion of efforts during the COVID-19 pandemic to use innovative approaches to help the public find vaccine appointments, secure protection from eviction during economic hardship, and connect with vital programs and services.

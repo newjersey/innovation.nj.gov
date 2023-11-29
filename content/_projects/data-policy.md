@@ -2,6 +2,7 @@
 title: Data + Policy
 initiative: Data + Policy
 menu-group-parent: true
+order: 2
 ---
 
 The Data and Policy Team was created to support the State of New Jersey’s use of data, evidence, and performance evaluation to measure and improve digital services, policies, and programs to positively impact residents’ lives.

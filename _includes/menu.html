@@ -1,48 +1,67 @@
-{% for item in include.menu %}
-  {% if item.collection %}
-    {% assign menu-groups = site.[item.collection] | group_by: item.group-by %}
-  {% endif %}
+{% for item in include.menu %} 
+  {% if item.collection %} 
+    {% assign menu-groups = site.[item.collection] | sort:"order" | group_by: item.group-by  %}
+  {% endif %} 
 {% endfor %}
 
 <nav aria-label="Secondary navigation">
   <ul class="usa-sidenav">
-    {% for item in include.menu %}
+    {% for item in include.menu %} 
       {% if item.collection %}
-        <a href="{{item.url}}" class="{% if page.url == item.url%}usa-current{% endif %}">{{ item.title }}</a>
-      {% endif %}
+        <a
+          href="{{item.url}}"
+          class="{% if page.url == item.url%}usa-current{% endif %}"
+          >{{ item.title }}</a
+        >
+      {% endif %} 
     {% endfor %}
   </ul>
 
-  {% for group in menu-groups %}
-    {% assign menu-group-parent = "" %}
-    {% if group.items %}
-      {% for item in group.items %}
+  {% for group in menu-groups %} 
+    {% assign menu-group-parent = "" %} 
+    {% if group.items %} 
+      {% for item in group.items %} 
         {% if item.menu-group-parent %}
-          {% assign menu-group-parent = item %}
+          {% assign menu-group-parent = item %} 
         {% endif %}
-      {% endfor %}
+      {% endfor %} 
     {% endif %}
 
     <ul class="usa-sidenav">
       <li class="usa-sidenav__item">
-        {% if menu-group-parent.url %}
+        {% if menu-group-parent.url %} 
           {% assign url = menu-group-parent.url %}
-          <a href="{{menu-group-parent.url}}" class="{% if page.url == url%}usa-current{% endif %}">{{ group.name }}</a>
-        {% else %}
+            <a
+              href="{{menu-group-parent.url}}"
+              class="{% if page.url == url%}usa-current{% endif %}"
+              >{{ group.name }}</a
+            >
+        {% else %} 
           {% assign url = "" %}
-          <div style=" color: #5c5c5c; display: block; text-decoration: none; padding: .5rem 1rem">
+          <div
+            style="
+              color: #5c5c5c;
+              display: block;
+              text-decoration: none;
+              padding: 0.5rem 1rem;
+            "
+          >
             {{ group.name }}
           </div>
-        {% endif %}
+        {% endif %} 
         {% if group.items %}
           <ul class="usa-sidenav__sublist">
-            {% assign collection = group.items %}
-            {% for item in collection %}
+            {% assign collection = group.items | sort:"title"%}
+            {% for item in collection %} 
               {% if item.title != menu-group-parent.title %}
                 <li class="usa-sidenav__item">
-                  <a href="{{item.url}}" class="{% if page.url == item.url%}usa-current{% endif %}">{{ item.title }} {{ item.name }}</a>
+                  <a
+                    href="{{item.url}}"
+                    class="{% if page.url == item.url%}usa-current{% endif %}"
+                    >{{ item.title }}
+                  </a>
                 </li>
-              {% endif %}
+              {% endif %} 
             {% endfor %}
           </ul>
         {% endif %}
