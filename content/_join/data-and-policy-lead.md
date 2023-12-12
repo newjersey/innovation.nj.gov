@@ -57,7 +57,7 @@ The New Jersey State Office of Innovation improves the lives of New Jerseyans by
 Applicants will be assessed based on a demonstrated ability to accomplish the above-discussed responsibilities. We are seeking individuals with the following experience, expertise, skills, and abilities:
 
 - Five or more years of applicable experience, focused on data analytics and/or policy research.
-- Strong analytical and communication skills, with experience generating and using data to drive insights translating technical concepts into understandable .
+- Strong analytical and communication skills, with experience generating and using data to drive insights translating technical concepts into understandable and actionable intelligence.
 - Understanding of the advantages and disadvantages of quantitative and qualitative research strategies.
 - Excellent research experience, with the ability to quickly learn about new policy topics in short periods of time.
 - Familiarity and experience with programming languages, statistical analysis techniques, data visualizations tools, and web analytics platforms.
