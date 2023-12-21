@@ -3,7 +3,7 @@ image: /assets/images/team/dave.jpg
 title: Dave Cole
 ---
 
-Dave Cole is a technology leader and public servant with diverse experience in both the public and private sectors. Currently heading the [Resident Experience Initiative](https://innovation.nj.gov/projects/resident-experience-initiative/) at the Office of Innovation, Dave collaborates with state agencies to design and implement digital services in support of new policies and programs. He also served as a technology co-lead for the State’s [COVID-19 vaccination program](/projects/COVID19/).
+Dave Cole is a technology leader and public servant with diverse experience in both the public and private sectors. Currently heading the [Resident Experience Initiative](/projects/resident-experience-initiative/) at the Office of Innovation, Dave collaborates with state agencies to design and implement digital services in support of new policies and programs. He also served as a technology co-lead for the State’s [COVID-19 vaccination program](/projects/COVID19/).
 
 In his previous role, Dave was the Vice President of Strategy and Operations at a technology startup, overseeing international operations and business development. He played a key role in growing the company from 20 to over 500 employees, launching and managing teams in four countries, and securing multiple rounds of capital investment.
 
