@@ -1,7 +1,7 @@
 ---
 title: Co-Director of Data and Policy
 form: https://innovatenj.jotform.com/232404195806960
-published: true
+published: false
 ---
 
 The New Jersey Office of Innovation is seeking a skilled and experienced professional to help lead our Data and Policy Team to leverage data and evidence to positively impact residents’ lives. The Data and Policy Team was created to strengthen the capacity of the New Jersey Office of Innovation and the broader State government to use data, evidence, and performance evaluation to measure and improve digital services, policies, and programs. We are currently developing tools to help teams use data to improve the impact of digital products and services on under-resourced communities, analyzing data on the use of government websites to enhance service delivery, conducting policy research on emerging topics such as AI regulation, and designing and implementing A/B tests to improve the performance of online tools and public engagement.
