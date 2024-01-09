@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/njcomlogo.png
 title: "COVERAGE: A ‘revolutionary’ AI center is coming to a New Jersey university"
-promoted: 1
+promoted: 2
 date: December 19, 2023
 source: NJ.com
 cta:
