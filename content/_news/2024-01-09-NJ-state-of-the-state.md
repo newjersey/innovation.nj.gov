@@ -9,4 +9,4 @@ cta:
   link: "https://nj.gov/governor/news/news/562024/approved/20240109c.shtml"
 ---
 
-Governor Murphy announced an “AI moonshot” to establish New Jersey as home base for AI-powered discoveries and outlined his plans to work with the legislature on providing medical debt relief, promoting affordable housing, improving literacy rates among students, and protecting reproductive rights, voting rights, and other fundamental freedoms. 
+Governor Murphy also announced an “AI moonshot” to establish New Jersey as home base for AI-powered discoveries and outlined his plans to work with the legislature on providing medical debt relief, promoting affordable housing, improving literacy rates among students, and protecting reproductive rights, voting rights, and other fundamental freedoms. 
