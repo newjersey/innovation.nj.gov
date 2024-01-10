@@ -1,5 +1,5 @@
 ---
-title: Maria Skouras
+title: Dr. Maria Skouras
 image: /assets/images/team/maria.jpg
 ---
 
