@@ -1,7 +1,7 @@
 ---
 title: Data and Policy Lead
 form: https://innovatenj.jotform.com/232405218967965
-published: true
+published: false
 ---
 
 The New Jersey Office of Innovation is seeking a skilled and experienced professional to join our Data and Policy Team to leverage data and evidence to positively impact residents’ lives. The Data and Policy Team was created to strengthen the capacity of the New Jersey Office of Innovation and the broader State government to use data, evidence, and performance evaluation to measure and improve digital services, policies, and programs. 
