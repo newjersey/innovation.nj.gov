@@ -1,8 +1,8 @@
 ---
-permalink: /news/chief-ai-strategist
+permalink: /news/press-release-us-senate-ai-testimony
 layout: page
 title: New Jersey State Chief Innovation Officer and Chief AI Strategist Beth Simone Noveck Delivers Testimony to United States Senate Committee on How to Harness AI to Improve Government Services
-titleoverride: COME UP WITH TITLE
+titleoverride: Press Release | U.S. Senate AI Testimony
 ---
 *The testimony delivered to the U.S. Senate Committee on Homeland Security and Governmental Affairs outlined 12 recommendations to enhance the delivery of services and customer service*
 
@@ -19,4 +19,4 @@ The Chief Innovation Officer’s testimony comes on the heels of an array of AI-
 The testimony laid out a series of 12 recommendations that the Federal government can undertake to utilize AI to improve service delivery and customer service, ranging from implementing AI systems to provide 24/7 customer information services and more intuitive access to information across government departments, to training public sector workers on practical applications of AI in government services and integrating responsible AI systems
 with human oversight to support government workers. 
 
-The Chief Innovation Officer’s full testimony can be can be found [here]().
+The Chief Innovation Officer’s full testimony can be can be found [here](innovation.nj.gov/news/beth-noveck-ai-testimony.pdf).
