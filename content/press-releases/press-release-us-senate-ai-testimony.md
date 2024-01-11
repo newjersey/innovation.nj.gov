@@ -18,4 +18,4 @@ The Chief Innovation Officer’s testimony comes on the heels of an array of AI-
 
 The testimony laid out a series of 12 recommendations that the Federal government can undertake to utilize AI to improve service delivery and customer service, ranging from implementing AI systems to provide 24/7 customer information services and more intuitive access to information across government departments, to training public sector workers on practical applications of AI in government services and integrating responsible AI systems with human oversight to support government workers.
 
-The Chief Innovation Officer’s full testimony can be can be found [here](innovation.nj.gov/news/beth-noveck-ai-testimony.pdf).
+The Chief Innovation Officer’s full testimony can be can be found [here](/news/beth-noveck-ai-testimony.pdf).
