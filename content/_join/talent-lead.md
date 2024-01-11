@@ -1,7 +1,7 @@
 ---
 title: Talent Lead
 form: https://innovatenj.jotform.com/232954376634970
-published: true
+published: false
 ---
 
 As a Talent Lead you will play a key role to source and hire mission-driven, forward thinking leaders and problem-solvers who will lead projects and initiatives that positively impact the lives of New Jerseyans. You’ll be responsible for full-cycle recruitment for a range of disciplines, with a particular emphasis on technical roles: design (UX, product, and content strategy), engineering (back end, full stack, cloud, infrastructure and site reliability), data analysis, product management, marketing, and more. You’ll partner with team leadership and work with hiring committees to drive recruitment strategies. 
