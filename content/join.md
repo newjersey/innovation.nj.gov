@@ -14,6 +14,8 @@ Our work spans numerous issue and policy areas, and is focused on making an impa
 
 Our team operates as a startup within government, and our team members wear many hats, contributing to both the execution of core projects and the evolution of the Office of Innovation. We kickstart new initiatives and assist teammates and partners when urgent challenges arise. We use data and modern research, design, and development methods to inform our decision making, and we collaborate with stakeholders within and outside of government to understand and solve challenges. To learn more about the New Jersey Office of Innovation, visit our [about us](/about) page. If you have any questions, please contact us at [team@innovation.nj.gov](mailto:team@innovation.nj.gov).
 
+<a class="usa-button" href="/about/team/our-team/">See Our Team</a>
+
 {% if site.join and site.join.size > 0 %}
 ## Open Opportunities
 
