@@ -33,3 +33,9 @@ Our team is made up of dedicated and energetic individuals with experience in go
 The Office of Innovation works collaboratively with government, academic, non-profit, and private sector institutions to drive innovation in the Garden State and improve the design and delivery of policies and services to the state's residents, businesses, and institutions.
 
 <a class="usa-button" href="/projects/">See Our Work</a>
+
+## Who We Are
+
+Our team consists of professionals with backgrounds in technology, design, data, advertising, content, and policy. Collectively, our professionals come from diverse public and private sector backgrounds, with experience working for the White House, Fortune 50 companies, consulting firms, tech startups, civil society organizations, community-based organizations, and more.
+
+<a class="usa-button" href="/about/team/our-team/">See Our Team</a>
