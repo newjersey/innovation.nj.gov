@@ -11,6 +11,8 @@ The [Maternity Coverage Timeline Tool](http://myleavebenefits.nj.gov/timeline) h
 ### Innovation In Action
  Working closely with community partners and expecting parents to understand their needs, OOI saw an opportunity to use technology to simplify a confusing aspect of family leave and reduce stress. After asking parents a series of questions, the tool automatically provides start and end dates for leave based on their specific circumstances and preferences, giving parents clarity about the benefits they can access and when.
 
+ Residents using this resource have the option to leave feedback to improve it, which our team analyzes to make updates, ensuring the tool is continuously improving. The feedback is anonymized and analyzed by a generative artificial intelligence model, which identifies common trends in even large volumes of feedback that point toward areas for improvement.
+
 ### Impact + Metrics
 
 - As of May 2023, 62,300 New Jerseyans have used the Maternity Coverage Timeline Tool to understand their benefits; and 54,690 timelines have been created (since launch of the tool in May 2022).
