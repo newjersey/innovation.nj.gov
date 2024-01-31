@@ -1,6 +1,7 @@
 ---
-title: Dr. Maria Skouras
+title: Maria Skouras
 image: /assets/images/team/maria.jpg
+title-prefix: Dr.
 ---
 
 Dr. Maria Skouras develops marketing strategies for the Office of Innovation’s Communication & Engagement Lab, where she takes a resident-first, data-driven approach to promoting critical State services and programs to New Jerseyans.
