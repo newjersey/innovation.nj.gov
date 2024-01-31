@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: Governor Murphy appoints Chief Innovation Officer Beth Noveck as Chief AI Strategist, announces new initiatives as part of State of the State Address"
-promoted: 1
+promoted: 2
 date: January 9, 2024
 source: NJGOV
 cta:
