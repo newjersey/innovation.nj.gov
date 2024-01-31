@@ -13,7 +13,8 @@
     <div class="usa-card__container">
       <header class="usa-card__header">
         <h3 class="usa-card__heading" id="{{item.title |slugify}}_heading">
-          {{item.title}}
+          {% if item.title-prefix %} {{item.title-prefix}} {% endif
+          %}{{item.title}}
         </h3>
         {% if item.role %}
         <h4 class="margin-top-05">{{item.role}}</h4>

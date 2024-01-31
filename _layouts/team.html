@@ -5,8 +5,10 @@ layout: page
 {% if page.role %}
 <h3 class="margin-top-05">{{page.role}}</h3>
 {% endif %} {% if page.image %}
-<div
-  class="square-card-lg usa-card__img--square usa-card__img--square-cover float-left margin-right-2 margin-bottom-1"
-  style="background-image: url({{page.image}});"
-></div>
+
+<img
+  src="{{page.image}}"
+  class="width-card-lg usa-card__img--square usa-card__img--square-cover float-left margin-right-2 margin-bottom-1"
+  alt="Headshot photograph of {{page.title}}"
+/>
 {% endif %} {{content}}
