@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/pbs.svg
 title: "COVERAGE: Chief AI Strategist Interviewed on Think Tank with Steve Adubato"
-promoted: 3
+promoted: 
 date: February 24, 2024
 source: NJPBS
 cta:
