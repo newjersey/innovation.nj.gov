@@ -47,7 +47,7 @@ We are seeking individuals with the following experience, skills, and abilities:
 - Collaborating closely with stakeholders across government to gather their input and enable their success
 - Reporting progress to stakeholders in a clear and concise manner
 
-**Compensation**: Up to $136,500 (depending on experience) + Full benefits
+**Compensation**: Up to approximately $140,000 (depending on experience) + full benefits
 
 ### The New Jersey Office of Innovation is proud to be an equal opportunity employer
 {: .maxw-mobile-lg}

@@ -52,7 +52,7 @@ We are seeking a highly organized, detail-oriented, and proactive Executive Assi
 
 We welcome applications that don’t meet 100% of our requirements. If you believe that you could excel in this role, we encourage you to apply. If you have any questions, please contact [heather@innovation.nj.gov](mailto:heather@innovation.nj.gov).
 
-**Compensation**: Up to approximately $100,000 (depending on experience) + Full benefits.
+**Compensation**: Up to approximately $103,000 (depending on experience) + full benefits
 
 ### The New Jersey Office of Innovation is proud to be an equal opportunity employer
 {: .maxw-mobile-lg}
