@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/govtech.png
 title: "COVERAGE: Chief A.I. Strategist, State of NJ featured in Government Technology Article on Artificial Intelligence"
-promoted: 1
+promoted: 2
 date: March 8, 2024
 source: Government Technology
 cta:
