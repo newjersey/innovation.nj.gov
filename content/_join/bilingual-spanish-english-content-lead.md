@@ -45,7 +45,7 @@ We are seeking individuals with 5+ years of demonstrated experience with the fol
 
 _We welcome applications that don’t meet 100% of our requirements. If you believe that you could excel in this role, we encourage you to apply._
 
-**Compensation**: Approximately $103,000 (depending on experience) + Full benefits
+**Compensation**: Up to approximately $103,000 (depending on experience) + full benefits
 
 ### The New Jersey Office of Innovation is proud to be an equal opportunity employer
 {: .maxw-mobile-lg}
