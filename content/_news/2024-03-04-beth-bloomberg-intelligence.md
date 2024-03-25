@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/BSN-bloomberg.jpeg
 title: "COVERAGE: Chief A.I. Strategist Interviewed on Bloomberg Intelligence Podcast"
-promoted: 3
+promoted: 
 date: March 4, 2024
 source: Bloomberg
 cta:
