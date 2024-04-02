@@ -1,7 +1,7 @@
 ---
 title: Bilingual (Spanish/English) Content Design Lead
 form: https://innovatenj.jotform.com/233526488697979
-published: true
+published: false
 ---
 
 The New Jersey State Office of Innovation is looking for a Bilingual (Spanish/English) Content Design Lead to deploy world-class digital services that solve pressing public interest challenges for New Jerseyans. Approximately 1.4 million New Jerseyans speak Spanish in their home, and connecting these residents to information, programs, and services is essential to the equitable service delivery goals of the State.
