@@ -1,6 +1,6 @@
 ---
 title: Product Designer
-lever-url: https://jobs.lever.co/NJStateOfficeofInnovation/f012d43e-8f2e-449e-bbcd-f64ad05a53af
+lever-url: https://jobs.lever.co/NJStateOfficeofInnovation/0e11dcbb-07ee-40dc-88df-d8507fe62899
 published: true
 ---
 
