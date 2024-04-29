@@ -22,7 +22,11 @@ Our team operates as a startup within government, and our team members wear many
 The Office of Innovation is currently hiring for the following:
 
 {% for job in site.join %}
+{% if job.lever-url %}
+- [{{job.title}}]({{job.lever-url}})
+{% else %}
 - [{{job.title}}]({{job.url}})
+{% endif %}
 {% endfor %}
 {% endif %}
 
