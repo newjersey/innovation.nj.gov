@@ -7,7 +7,7 @@ The Statewide Update is an email newsletter program created at the start of the 
 
 ### Challenge
 
-As COVID-19 emerged, governments were forced to rapidly adapt policies as the virus spread and new needs developed. With information and policies changing so quickly, many residents became confused and misinformation became rampant. In addition to press conferences and social media, the State needed additional ways to reach residents with official updates proactively.
+As COVID-19 emerged, governments were forced to rapidly adapt policies as the virus spread and new needs developed. With information and policies changing so quickly, many residents became confused and misinformation became rampant. In addition to press conferences and social media, the State needed additional ways to proactively reach residents with official updates.
 
 ### Innovation In Action
 
@@ -15,12 +15,16 @@ To provide the State with another way to proactively communicate with residents,
 
 ### Impact + Metrics
 
--   As of August, 2023, with more than 2.1 million subscribers, the Statewide Update reaches nearly a quarter of New Jersey's population.
+-   As of April 2024, the Statewide Update has more than 2.1 million subscribers.
 -   To help overcome vaccine hesitancy, the Statewide Update sent 8 carefully crafted messages designed to address concerns. These emails resulted in 18.7 million opens, driving more than 132,000 visits to the Vaccine Appointment Finder as well as more than 200,000 additional visits to the COVID-19 Information Hub.
 
 ### Status
 
--   As the pandemic has evolved, the newsletter has shifted from weekly updates about safety measures and COVID-relief programs to a biweekly newsletter highlighting programs and projects that might otherwise be underutilized.
+-   Since the public health emergency ended, the Statewide Update has continued to evolve and now focuses on amplifying and assisting key State programs and initiatives, while also providing New Jersey residents with useful and timely information. 
+
+### Resources and Additional Information
+
+-   [Sign up for the Statewide Update here](https://public.govdelivery.com/accounts/NJGOV/subscriber/new?preferences=true#tab1).
 
 ### Key Partners
 
@@ -28,4 +32,4 @@ To provide the State with another way to proactively communicate with residents,
 - NJ State Department of Health
 - Statewide initiative, in partnership with all State entities
 
-*Last updated on 10/26/23*
+*Last updated on 5/1/24*
