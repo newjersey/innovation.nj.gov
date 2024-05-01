@@ -22,7 +22,7 @@ To help the Business.NJ.gov team reach and activate audiences, the C+E Lab condu
 
 ### Status
 
--   The paid media campaign will be ongoing through February 2023. 
+-   WE DID ITT!!! IT"S DONE!!!
 
 ### Partners
 
