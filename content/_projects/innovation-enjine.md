@@ -3,11 +3,11 @@ title: Innovation ENJINE Challenge
 initiative: Data + Policy
 ---
 
-The Innovation ENJINE Challenge was an open innovation challenge launched in the Spring of 2019 - it sourced ideas from State government employees to make government more effective and efficient, and then elicited proposed implementation plans from teams of State employees to bring select proposed innovations to life. This work was executed as part of the [SmarterNJ Initiative]({{ site.baseurl }}/projects/smarternj).
+The Innovation ENJINE Challenge was an open innovation challenge launched in the Spring of 2019. The Challenge sourced ideas from State government employees to make government more effective and efficient, and then elicited proposed implementation plans from teams of State employees to bring select proposed innovations to life. This work was executed as part of the [SmarterNJ Initiative]({{ site.baseurl }}/projects/smarternj).
 
 ### Challenge
 
-State departments and agencies offer thousands of programs and services, and while tens of thousands of State government employees participate in the delivery of those programs services, most are not empowered to improve them. Yet, State employees have one of the best perspectives of the challenges the State faces, and the knowledge, expertise, and insights needed to solve those challenges.
+State departments and agencies offer thousands of programs and services, and while tens of thousands of State government employees participate in the delivery of those programs services, most are not empowered to improve them. Yet State employees have one of the best perspectives of the challenges the State faces, and the knowledge, expertise, and insights needed to solve those challenges.
 
 ### Innovation In Action
 
@@ -15,7 +15,7 @@ The Innovation ENJINE Challenge focused on eliciting novel solutions to challeng
 
 ### Impact + Metrics
 
--   Over 2,000 employees participated, and the five winning proposals were selected in late 2019. OOI provided coaching to teams to implement their plans, however, the pandemic required to coaching program to be cut short.
+-   Over 2,000 employees participated, and the five winning proposals were selected in late 2019. OOI provided coaching to teams to implement their plans, however the pandemic cut the coaching program short.
 -   One proposal, a [user-friendly chatbot](https://www.nj.gov/labor/lwdhome/press/2020/20200511_chatbot.shtml) that answers common unemployment-related questions, was implemented on the NJ State Department of Labor's site, reducing long phone wait times and in-person appointments so users can get help immediately.
 
 ### Status
@@ -30,4 +30,4 @@ The Innovation ENJINE Challenge focused on eliciting novel solutions to challeng
 
 -   This was a statewide initiative with more than 36 participating agencies.
 
-*Last updated on 10/26/23*
+*Last updated on 5/1/24*
