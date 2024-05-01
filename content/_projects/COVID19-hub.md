@@ -41,4 +41,4 @@ Unlike traditional legacy government websites, which feature static content and 
 -   NJ 211
 -   Statewide initiative, in partnership with all State entities
 
-*Last updated on 10/26/23*
+*Last updated on 5/1/24*
