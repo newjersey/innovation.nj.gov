@@ -3,7 +3,7 @@ title: Personal Protective and Medical Equipment Intake Form
 initiative: COVID Response
 ---
 
-The [PPE Intake Form](https://covid19.nj.gov/forms/ppereport) is an online form for organizations in New Jersey to report personal protective equipment (PPE) levels and to donate equipment. 
+The [PPE Intake Form](https://covid19.nj.gov/forms/ppereport) was an online form for organizations in New Jersey to report personal protective equipment (PPE) levels and to donate equipment. 
 
 ### Challenge
 
@@ -19,7 +19,7 @@ OOI rapidly built [covid19.nj.gov/ppereport](https://covid19.nj.gov/forms/pperep
 
 ### Status
 
--   The reporting form remains active, though the shortage of PPE has been addressed.
+-   This reporting form was deployed as a pandemic response project and is no longer active.
 
 ### Key Partners
 
@@ -27,4 +27,4 @@ OOI rapidly built [covid19.nj.gov/ppereport](https://covid19.nj.gov/forms/pperep
 -   NJ State Office of Homeland Security and Preparedness
 -   NJ State Office of Emergency Management
 
-*Last updated on 10/26/23*
+*Last updated on 5/1/24*
