@@ -28,4 +28,4 @@ The C+E Lab worked with the Business.NJ.gov team to launch and short-term digita
 -   NJ Redevelopment Authority
 -   NJ Small Business Development Centers
 
-*Last updated on 10/26/23*
+*Last updated on 10/27/23*
