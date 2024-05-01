@@ -15,13 +15,14 @@ Unlike traditional legacy government websites, which feature static content and 
 
 ### Impact + Metrics
 
--   As of August 2023, the COVID-19 Info Hub has been visited more than 110 million times. The site has been updated or enhanced more than 134,000 times.
--   The COVID-19 Vaccine Appointment Finder, which was created in response to user demand, has been visited nearly 6 million times.
+-   As of April 2024, the COVID-19 Info Hub has been been visited more than 90 million times and provided these visitors with life-saving health information and critical resources. The site has been updated or enhanced more than 134,000 times.
+-   The COVID-19 Vaccine Appointment Finder, which was created in response to user demand, was visited more than 5.3 million times, helping these residents get appointments for COVID-19 vaccines.
+-   Building on the success of the COVID-19 Info Hub, OOI has been working with additional State partners to apply the same model of data- and user-driven content delivery to create information hubs that address specific needs or communities including low-income college students ([BasicNeeds.NJ.gov](https://basicneeds.nj.gov/)), transgender residents ([Transgender.NJ.gov](https://transgender.nj.gov)), individuals with disabilities, and more.
 
 ### Status
 
--   The COVID-19 Info Hub continues to be regularly updated with latest news and information about the virus, vaccines, and State assistance programs.
--   Building on the success of the COVID-19 Info Hub, OOI is adapting the same model of data- and user-driven content delivery to create information hubs that address specific needs or communities including low-income college students, transgender residents, individuals with disabilities, and more.
+-   The COVID-19 Info Hub continues to be updated as needed, however the pace of content updates has slowed as policy and guidance around COVID-19 have crystallized at the federal and state level. In addition, many pandemic era programs have concluded and are no longer active.
+
 
 ### Resources and Additional Information
 
