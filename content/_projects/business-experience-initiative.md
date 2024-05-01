@@ -5,7 +5,7 @@ menu-group-parent: true
 order: 1
 ---
 
-The Business Experience initiative is a cross-agency effort - launched as part of the Governor's 2018 Stronger and Fair Economic Plan - to make it easier to start, operate, and grow a business in New Jersey. To streamline a fragmented process and deliver a simplified, one-stop digital experience for businesses, OOI has launched several tools including [Business.NJ.gov](https://business.nj.gov/), the Business.NJ.gov [Navigator](https://navigator.business.nj.gov/), Business.NJ.gov [Live Chat](https://business.nj.gov/), and Business.NJ.gov Updates.
+The Business Experience initiative is a cross-agency effort - launched as part of the Governor's 2018 Stronger and Fair Economic Plan - to make it easier to start, operate, and grow a business in New Jersey. To streamline a fragmented process and deliver a simplified, one-stop digital experience for businesses, OOI has launched several tools including [Business.NJ.gov](https://business.nj.gov/), the Business.NJ.gov [Account](https://navigator.business.nj.gov/), Business.NJ.gov [Live Chat](https://business.nj.gov/), and Business.NJ.gov Updates.
 
 ### Challenge
 
@@ -18,22 +18,23 @@ Rather than waiting to debut a large-scale solution after a multi-year developme
 ### Impact + Metrics
 
 -   With Business.NJ.gov, companies can now easily find the answer to any question they have, file critical forms, and get personalized recommendations -- all in one convenient place.
--   Through the Business.NJ.gov Navigator, aspiring entrepreneurs can now develop personalized guides to starting their business, register their business and track their applications, find relevant funding opportunities, and get a personalized tax calendar.
--   Businesses no longer need to repeatedly provide the same information as OOI enabled data-sharing between agencies for the first time.
+-   With over 4 million users and 19 million pageviews as of April 2024, Business.NJ.gov is the definitive starting point for New Jersey entrepreneurs, serving more than half a million people in the first three months of 2024 alone.
+-   With a Business.NJ.gov [Account](https://navigator.business.nj.gov/), aspiring entrepreneurs can now develop personalized guides to starting their business, register their business and track their applications, find relevant funding opportunities, and get a personalized tax calendar.
+-   By enabling data-sharing between agencies for the first time, we are consolidating dozens of forms and making them submittable through a single portal, Business.NJ.gov. 
 -   Businesses can access a centralized customer service experience in real time using the Business.NJ.Gov live chat - this allows businesses to get answers from experts and customer service representatives from multiple State agencies, alleviating the need to call several agencies.
 -   At the start of the COVID-19 pandemic, OOI rapidly deployed a COVID-19 Business Information Hub to provide a definitive source for businesses on safety regulations, closures, financial assistance, and more.
 
 ### Status
 
--   OOI continues to work with departmental partners to build additional functionality into the Navigator, while also expanding content and services provided by the additional digital tools.
+-   OOI continues to work with departmental partners to build additional functionality into the site, while also expanding content and services provided by additional digital tools.
 
 ### Partners
 
 -   Office of the Governor
--   New Jersey State Business Action Center
--   New Jersey State Economic Development Authority
--   New Jersey State Department of Treasury
--   New Jersey State Department of Labor
+-   NJ State Department of State, Business Action Center
+-   NJ State Economic Development Authority
+-   NJ State Department of Treasury
+-   NJ State Department of Labor
 -   Statewide initiative, in partnership with all relevant State entities
 
-*Last updated on 10/26/23*
+*Last updated on 5/1/24*
