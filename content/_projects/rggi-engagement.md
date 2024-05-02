@@ -7,11 +7,11 @@ Every three years, the State of New Jersey drafts a plan to invest hundreds of m
 
 ### Challenge
 
-Through RGGI, New Jersey generates more than $100 million annually in funds that are earmarked for greenhouse gas reduction programs. As a new strategic funding plan is developed, it will outline how this money will be allocated — and public input is always part of the action. Previously, the State gathered public input through in-person workshops and comments submitted via email. Given the limitations of in-person events as a result of the COVID-19 pandemic, a change in engagement methods was needed. The State required a new approach to gathering feedback and ideas from a significant number of constituents, especially those in under-resourced communities, who are often disproportionately impacted by carbon emissions.
+Through the Regional Greenhouse Gas Initiative (RGGI), New Jersey generates more than $100 million annually in funds that are earmarked for greenhouse gas reduction programs. As a new strategic funding plan is developed, it will outline how this money will be allocated — and public input always plays a key role. Previously, the State gathered public input through in-person workshops and comments submitted via email. Given the limitations of in-person events as a result of the COVID-19 pandemic, the State required a new approach to gathering feedback and ideas from a significant number of constituents, especially those in under-resourced communities, who are often disproportionately impacted by carbon emissions.
 
 ### Innovation In Action
 
-To address this challenge, the Office of Innovation worked with project stakeholders to deploy All Our Ideas — a free, open-source survey platform developed by a Princeton University research group. This user-friendly platform prompts users to prioritize one of two preset choices — once a selection is made, a new random pair of choices is presented. As users repeat this process, the preset options are effectively ranked in order of prioritization. Users can also submit their own ideas to be added to the preset options.Significant engagement was achieved through a robust and collaborative engagement campaign involving easily shareable content amplified by partners via email and social media. A specific emphasis was placed on working with community-based organizations to target populations in under-resourced communities.
+The Office of Innovation worked with project stakeholders to deploy [All Our Ideas](https://www.allourideas.org/) — a free, open-source survey platform developed by a Princeton University research group. This user-friendly platform prompts users to prioritize one of two preset choices — once a selection is made, a new random pair of choices is presented. As users repeat this process, the preset options are effectively ranked in order of prioritization. Users can also submit their own ideas to be added to the preset options.Significant engagement was achieved through a robust and collaborative engagement campaign involving easily shareable content amplified by partners via email and social media. A specific emphasis was placed on working with community-based organizations to target populations in under-resourced communities.
 
 ### Impact + Metrics
 
@@ -20,7 +20,7 @@ To address this challenge, the Office of Innovation worked with project stakehol
 
 ### Status
 
--   While the outreach for this phase of the RGGI strategic funding plan development has concluded, the insights informed the funding priorities of the final 2023-2025 plan. 
+-   The outreach for this phase of the RGGI strategic funding plan development has concluded, and the insights gathered from this public engagement informed the funding priorities of the [final 2023-2025 plan](https://www.nj.gov/rggi/docs/rggi-strategic-funding-plan.pdf). 
 
 ### Resources and Additional Reading
 
@@ -34,4 +34,4 @@ To address this challenge, the Office of Innovation worked with project stakehol
 -   NJ Economic Development Authority
 -   NJ Board of Public Utilities
 
-*Last updated on 12/19/23*
+*Last updated on 5/2/24*
