@@ -16,7 +16,7 @@ To provide the State with the means to more effectively and proactively reach bu
 ### Impact + Metrics
 
 -   In 2024, the number of subscribers doubled and now exceeds 165,000. The newsletter’s interaction rates exceed industry standards with an approximately 53% open rate. 
--   The Business.NJ.gov Updates program has generated millions of interactions with subscribers, significantly increasing awareness of an array of policy priorities and programs. The program has generated more than 40,000 engagements with funding programs, and more than 25,000 engagements with policy and compliance updates.
+-   The Business.NJ.gov Updates program has generated millions of interactions with subscribers, significantly increasing awareness of an array of policy priorities and programs. The program has generated more than 260,000 engagements with updates on funding programs, regulatory guidance, and other information pertinent to the business community.
 
 ### Status
 
@@ -33,4 +33,4 @@ To provide the State with the means to more effectively and proactively reach bu
 -   NJ Economic Development Authority
 -   Statewide initiative, in partnership with all relevant State entities
 
-*Last updated on 5/1/24*
+*Last updated on 5/2/24*
