@@ -8,7 +8,7 @@ The Future of Work Accelerator was a 9-month program that advanced innovations a
 New Jersey’s Future of Work Task Force identified key ways in which technology might impact the lives and livelihoods of New Jerseyans. At the same time, the Task Force recognized that the breadth of impact required participation from non-governmental actors to contribute to solving challenges arising from changes in technology. To address these impacts, the State needed to identify and accelerate the development of solutions to help workers.
 
 ### Innovation In Action
-To address such a broad challenge, there was a need to support innovative solutions beyond government to support workers. The Task Force sought to identify non profit, private enterprise, and government actors with novel solutions and approaches in the space. In addition to providing these innovators with workshops, mentoring, and connections to funders and potential State partners/resources, the Future of Work Accelerator also created a community of social entrepreneurs dedicated to helping residents. The FOW Accelerator was made possible through philanthropic funding.
+To address such a broad challenge, there was a need to identify innovative solutions beyond government to support workers. The Task Force sought to unearth non profit, private enterprise, and government actors with novel solutions and approaches in the space. In addition to providing these innovators with workshops, mentoring, and connections to funders and potential State partners/resources, the Future of Work Accelerator also created a community of social entrepreneurs dedicated to helping residents. The FOW Accelerator was made possible through philanthropic funding.
 
 ### Impact + Metrics
 
@@ -32,4 +32,4 @@ To address such a broad challenge, there was a need to support innovative soluti
 - NJ Economic Development Authority
 - NJ State Department of Labor
 
-*Last updated on 10/26/23*
+*Last updated on 5/1/24*
