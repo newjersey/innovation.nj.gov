@@ -16,21 +16,11 @@ Our team operates as a startup within government, and our team members wear many
 
 <a class="usa-button" href="/about/team/our-team/">See Our Team</a>
 
-{% if site.join and site.join.size > 0 %}
 ## Open Opportunities
 
-The Office of Innovation is currently hiring for the following:
+To see a listing off all current open opportunities, click the button below.
 
-{% for job in site.join %}
-- [{{job.title}}]({{job.url}})
-{% endfor %}
-{% endif %}
-
-## General Interest
-Don’t see a role that’s a great fit, but excited about the idea of working with us? Submit a general interest application, and we’ll be in touch when the perfect role for you comes around.
-
-[General Interest Application](https://innovatenj.jotform.com/222935788303968)
-
+<a class="usa-button" href="https://jobs.lever.co/NJStateOfficeofInnovation">See Open Opportunities</a>
 
 ## The New Jersey Office of Innovation is proud to be an equal opportunity employer
 {: .maxw-mobile-lg}
