@@ -15,12 +15,12 @@ Chaired by New Jersey's Chief Innovation Officer, Beth Simone Noveck, the Task F
 
 ### Impact + Metrics
 
--   In early 2022, the Task force [delivered](https://fowtf.innovation.nj.gov/resources.html) its policy roadmap with 19 core recommendations that underscore the State's need to invest in policies, platforms, and programs that respond to both the challenges and the opportunities technology creates to foster worker rights, worker safety and lifelong learning.
+-   In early 2022, the Task force [delivered](https://fowtf.innovation.nj.gov/resources.html) its policy roadmap with 19 core recommendations that underscore the State's need to invest in policies, platforms, and programs that respond to both the challenges and the opportunities technology creates to foster worker rights, worker safety, and lifelong learning.
 -   Many of the Roadmap's recommendations have already been implemented including the launch of the [Future of Work Accelerator](https://accelerator.fow.nj.gov/), a 9-month program that supports innovations to advance workers' health and safety, improve access to benefits, and strengthen training opportunities in New Jersey. [Learn more about the Accelerator's design and structure.](https://accelerator.fow.nj.gov/about-the-accelerator)
 
 ### Status
 
--   OOI is continuing to work with its partners to implement the Task Force's recommendations including the [Lifelong Learning Accounts]({{ site.baseurl }}/projects/lifelong-learning-accounts) pilot, which would provide participants with unrestricted funds to help with training costs and related services
+-   OOI is continuing to work with its partners to implement the Task Force’s recommendations including the Lifelong Learning Account pilot program (branded Fund My Future), which provides participants with unrestricted funds to help with training costs and related services. As of April 2024, over 120 residents have participated in the program across the State.
 
 ### Partners
 
@@ -38,4 +38,4 @@ Chaired by New Jersey's Chief Innovation Officer, Beth Simone Noveck, the Task F
 -   You can also [read the six academic research papers](https://fowtf.innovation.nj.gov/resources.html) the Task Force also commissioned to further its understanding of the localized impacts of the Future of Work within the Garden State.
 -   NJ Spotlight News: [Workers need help facing uncertain future, task force says](https://www.njspotlightnews.org/2022/02/worker-training-savings-accounts-upgraded-unemployment-site-technology-task-force/)
 
-*Last updated on 10/26/23*
+*Last updated on 5/1/24*

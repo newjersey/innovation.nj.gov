@@ -3,11 +3,11 @@ title: Training Explorer
 initiative: Resident Experience Initiative
 ---
 
-The [Training Explorer](https://mycareer.nj.gov/training) is a tool that uses public sector data to help job seekers find the best training programs for their needs. Using the tool, residents can easily filter and compare nearly 5,000 training programs from across New Jersey to make data-informed choices about their future.
+The [Training Explorer](https://mycareer.nj.gov/training) is a tool that uses public sector data to help job seekers find the best training programs for their needs. Using the tool, residents can custom filter nearly 5,000 training programs, get information on tuition assistance, and gain valuable insight into programs that meet their skill-building needs to make data-informed choices about their future. This tool has been integrated into [My Career NJ](https://mycareer.nj.gov/), a new, interactive digital hub that centralizes personalized career resources. This work is part of the Resident Experience Initiative
 
 ### Challenge
 
- When it comes to training programs, there is no shortage of choice for those seeking to start a career, find a new one, or level up their skills. The prospect of spending hours poring through multiple sites to find the right one, and comparing the relative strengths of each program can be overwhelming. The lack of data about potential outcomes or consistency across programs makes these difficult decisions even harder.
+When it comes to training programs, there is no shortage of choice for those seeking to start a career, find a new one, or level up their skills. The prospect of spending hours poring through multiple sites to find the right one, and comparing the relative strengths of each program can be overwhelming. The lack of data about potential outcomes or consistency across programs makes these difficult decisions even harder.
 
 ### Innovation In action
 
@@ -17,10 +17,13 @@ The [Training Explorer](https://mycareer.nj.gov/training) is a tool that uses pu
 
 - The Training Explorer was the first major update to the State’s training portal in over two decades. Residents now have access to a comprehensive list of workforce trainings in a bilingual, searchable, and mobile-friendly interface.
 - Residents no longer need to visit multiple websites to learn about NJ DOL-approved trainings, and now get personalized, data-backed recommendations.
+- In addition to workforce training, residents can also find resources and support to help them with tuition costs, housing, healthcare, and career guidance.
+- As of April 2024, the site had 83,000 users that conducted approximately 180,000 training searches.
 
 ### Status
 
-- OOI is continuing to build additional features for the Training Explorer including more filters, multi-language support, and integration with related workforce tools.
+- OOI is continuing to build additional features for the Training Explorer including more filters, multi-language support, digital accessibility, and integration with related workforce tools.
+- OOI is collaborating with the Department of Labor on digital product strategy to integrate additional workforce resources such as career mapping and personalized career paths.
 
 ### Resources and Additional Information
 
@@ -35,4 +38,4 @@ The [Training Explorer](https://mycareer.nj.gov/training) is a tool that uses pu
 -   Schmidt Futures
 -   Lumina Foundation
 
-*Last updated on 11/28/23*
+*Last updated on 5/2/24*

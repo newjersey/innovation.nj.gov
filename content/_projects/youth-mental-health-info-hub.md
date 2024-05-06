@@ -14,13 +14,14 @@ Rather than relying on assumptions, OOI conducted surveys and worked with advoca
 ### Impact + Metrics
 
 - For the first time, young adults in New Jersey have a central source for State information to get help when they need it.
+- As of April 2024, the Youth Mental Health Information Hub has been visited more than 1,400 times to help young people in need. 
 
 ### Status
 
-- In early 2023, a beta version of the Youth Mental Health Information Hub was shared with student groups and is currently undergoing user-testing and further refinement based on feedback.
+- In early 2023, the Youth Mental Health Information Hub was launched. The Hub has been shared with student groups and is currently undergoing user-testing and further refinement based on feedback.
 
 ### Partners
 
 - Office of the Governor
 
-*Last updated on 10/26/23*
+*Last updated on 5/2/24*

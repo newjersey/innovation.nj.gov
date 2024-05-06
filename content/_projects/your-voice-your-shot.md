@@ -28,6 +28,6 @@ As COVID-19 vaccines were becoming widely available to most Americans, many peop
 ### Partners
 
 -   Office of the Governor
--   New Jersey State Department of Health
+-   NJ State Department of Health
 
-*Last updated on 10/26/23*
+*Last updated on 5/1/24*

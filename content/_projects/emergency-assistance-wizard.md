@@ -3,7 +3,7 @@ title: Emergency Assistance Eligibility Wizard
 initiative: COVID Response
 ---
 
-The [Emergency Assistance Eligibility Wizard](https://assistance.business.nj.gov/) is an online tool that helped New Jersey businesses find and apply for newly created State and federal pandemic relief programs.
+The [Emergency Assistance Eligibility Wizard](https://assistance.business.nj.gov/) was an online tool that helped New Jersey businesses find and apply for newly created State and federal pandemic relief programs.
 
 ### Challenge
 
@@ -11,15 +11,15 @@ The COVID-19 pandemic presented significant financial challenges to most compani
 
 ### Innovation In Action
 
-To make it easy for organizations to understand which support programs are available to them and encourage uptake, OOI created an online tool that automatically checked their eligibility for nearly 20 programs. By answering a few simple questions, users receive a personalized list of all the programs they are eligible for and how to apply for them. In order to ensure that the tool met the needs of businesses, the tool was created in partnership with businesses that provided feedback on the design and content.
+To make it easy for organizations to understand which support programs were available to them and encourage uptake, OOI created an online tool that automatically checked their eligibility for nearly 20 programs. By answering a few simple questions, users received a personalized list of all the programs they were eligible for and how to apply for them. In order to ensure that the tool met the needs of businesses, the tool was created in partnership with businesses that provided feedback on the design and content.
 
 ### Impact + Metrics
 
--   The Emergency Assistance Eligibility Wizard has been used more than 210,000 times by more than 140,000 users.
+-   The Emergency Assistance Eligibility Wizard was used more than 210,000 times by more than 140,000 users.
 
 ### Status
 
--   The tool is no longer actively in use as many of the emergency relief programs have sunsetted. The Business.NJ.gov Navigator now provides much of this tool's functionality.
+-   The tool is no longer actively in use as many of the emergency relief programs have sunsetted. The Business.NJ.gov Account now provides much of this tool's functionality.
 
 ### Resources and Additional Information
 
@@ -30,4 +30,4 @@ To make it easy for organizations to understand which support programs are avail
 
 -   NJ Economic Development Authority
 
-*Last updated on 10/26/23*
+*Last updated on 5/1/24*

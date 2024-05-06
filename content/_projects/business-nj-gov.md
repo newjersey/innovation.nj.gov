@@ -16,7 +16,7 @@ To modernize how businesses interact with the State, OOI has employed a data-inf
 ### Impact + Metrics
 
 -   Rather than sifting through multiple websites, companies can now easily find the answer to any question they have, file critical forms, and get personalized recommendations -- all in one convenient place.
--   In 2022, more than 850,000 people used Business.NJ.gov to get the information they needed.
+-   With over 4 million users and 19 million pageviews as of April 2024, Business.NJ.gov is the definitive starting point for New Jersey entrepreneurs, serving more than half a million people in the first three months of 2024 alone.
 
 ### Status
 
@@ -30,10 +30,10 @@ To modernize how businesses interact with the State, OOI has employed a data-inf
 ### Partners
 
 -   Office of the Governor
--   New Jersey STate Business Action Center 
--   New Jersey Economic Development Authority
--   New Jersey State Department of the Treasury
--   New Jersey STate Department of Labor
+-   NJ State Department of State, Business Action Center
+-   NJ Economic Development Authority
+-   NJ State Department of the Treasury
+-   NJ State Department of Labor
 -   Statewide initiative, in partnership with all relevant State entities
 
-*Last updated on 10/26/23*
+*Last updated on 5/1/24*

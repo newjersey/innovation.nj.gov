@@ -15,11 +15,11 @@ To reduce the strain on the State's call centers, OOI created an online tool to 
 
 ### Impact + Metrics
 
--   Using the tool, residents have reported more than 65,000 EO violations.
+-   Using the tool, residents reported more than 65,000 EO violations.
 
 ### Status
 
--   The reporting form remains active, however many of the COVID-related Executive Orders have been rescinded as part of the State's reopening.
+-   The reporting form remains active, however the majority of COVID-related Executive Orders have been rescinded as part of the State's reopening.
 
 ### Key Partners
 
@@ -30,4 +30,4 @@ To reduce the strain on the State's call centers, OOI created an online tool to 
 -   NJ State Department of Labor
 -   Statewide initiative, in partnership with all relevant State entities
 
-*Last updated on 10/26/23*
+*Last updated on 5/1/24*
