@@ -9,21 +9,21 @@ menu:
     group-by: initiative
 ---
 
-<p class="usa-intro">The Office of Innovation works with and across New Jersey State departments and agencies to design and develop products and services by using modern, data-driven, human-centered design, and agile development processes.
+<p class="usa-intro">The Office of Innovation partners with State departments and agencies to design, develop, and improve government products and services to ensure they are more effective, more efficient, and more responsive to the needs of New Jerseyans.
 </p>
 
 ## How We Work
 
-In partnership with colleagues across the State, the Office of Innovation deploys cross-functional teams with data, design, engineering, policy, product, and strategy expertise to solve pressing public interest challenges for the people of New Jersey. By leveraging human-centered design, agile methodologies, iterative policymaking, and data-driven practices, we place the user at the center of our work and rapidly create solutions that we can test and iterate upon. We work alongside New Jerseyans to ensure that we create products, services, and policies that are more effective, more efficient, and more impactful for the people of the State. We work in the open and encourage you to interact with us through our Github page and contact us with any questions.
+The Office of Innovation uses modern, data-driven, human-centered, and agile processes to help  Garden State residents and businesses access and benefit from State programs and services. We do this by deploying cross-functional teams that leverage data, design, engineering, policy, product, and communications expertise. Our teams place the resident at the center of our problem-solving process, work with our partners to better understand problems, and then iteratively solve those problems to deliver value and impact to the New Jerseyans we serve. 
 
 ## Our Projects
 
-Since our creation, we have engaged in a wide variety of projects, including:
+Since our creation, we have engaged in dozens of high-impact projects, including:
 
-- Responding to emerging and urgent needs, such as the COVID-19 pandemic, by deploying modern digital services and expanding the use and availability of data
-- Creating tools to enable the public to participate in open policy making
-- Making modern career services and digital tools available to support job seekers in identifying, preparing for, and obtaining family-sustaining jobs
-- Improving the way entrepreneurs and business owners start, operate, and grow their businesses in the state
-- Exploring policy innovations on issue areas such as economic development, technology governance, open data, open governance, autonomous vehicles, broadband, workforce development and more
+- Modernizing benefit programs to enable agencies to efficiently serve millions, while saving residents hundreds of thousands of hours and reducing agency costs by millions of dollars.
+- Building new tools that have helped millions of residents access and use benefits, find job training programs, get a COVID-19 vaccine appointment, find rental assistance, sign up for business grants, and more.
+- Launching information hubs that have helped millions of New Jerseyans conveniently find critical information on job training resources, COVID-19 health guidance, youth mental health, support for the transgender and non-binary community, and more.
+- Designing campaigns that have reached millions, encouraging residents to finish their college degree, get help with their business, and more.
+- Advising on policy innovations in areas that affect every New Jerseyan including the future of work itself, artificial intelligence, economic development, workforce training, and more. 
 
 To learn more about our work, please explore the project links featured on this page.
