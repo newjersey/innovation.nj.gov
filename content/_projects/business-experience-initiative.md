@@ -5,7 +5,7 @@ menu-group-parent: true
 order: 1
 ---
 
-The Business Experience initiative is a cross-agency effort - launched as part of the Governor's 2018 Stronger and Fair Economic Plan - to make it easier to start, operate, and grow a business in New Jersey. To streamline a fragmented process and deliver a simplified, one-stop digital experience for businesses, OOI has launched several tools including [Business.NJ.gov](https://business.nj.gov/), the Business.NJ.gov [Account](https://navigator.business.nj.gov/), Business.NJ.gov [Live Chat](https://business.nj.gov/), and Business.NJ.gov Updates.
+The Business Experience initiative is a cross-agency effort - launched as part of the Governor's 2018 Stronger and Fairer Economic Plan - to make it easier to start, operate, and grow a business in New Jersey. To streamline a fragmented process and deliver a simplified, one-stop digital experience for businesses, OOI has launched several tools including [Business.NJ.gov](https://business.nj.gov/), the Business.NJ.gov [Account](https://navigator.business.nj.gov/), Business.NJ.gov [Live Chat](https://business.nj.gov/), and Business.NJ.gov Updates.
 
 ### Challenge
 
