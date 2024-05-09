@@ -3,7 +3,7 @@ title: SmarterNJ
 initiative: Data + Policy
 ---
 
-SmarterNJ is an initiative designed to improve the quality of government policies, programs, and services by fostering meaningful engagement with residents, businesses, and non-government organizations. Working in partnership with State departments and agencies, SmarterNJ works to harness the insights, perspective, and passion of the public to improve government outcomes.
+SmarterNJ is an initiative designed to improve the quality of government policies, programs, and services by fostering meaningful engagement with residents, businesses, and non-government organizations. In partnership with State departments and agencies, SmarterNJ works to harness the insights, perspective, and passion of the public to improve government outcomes.
 
 ### Challenge
 
@@ -11,7 +11,7 @@ Government policy making and service delivery can often be disconnected from the
 
 ### Innovation In Action
 
-SmarterNJ leverages technology, modern approaches, and industry expertise to tap the public to solve problems, develop policies, and measure the impacts of services. OOI's approach is guided by a fundamentally different philosophy: one that seeks to open design, development, and implementation processes to those outside of government. SmarterNJ's tools include: open innovation, crowdsourcing, participatory research and evaluation, prize-backed challenges, and more.
+SmarterNJ leverages technology, modern approaches, and industry expertise to tap the public to solve problems, develop policies, and measure the impact of services. OOI's approach is guided by a fundamentally different philosophy: one that seeks to open design, development, and implementation processes to those outside of government. SmarterNJ's tools include: open innovation, crowdsourcing, participatory research and evaluation, prize-backed challenges, and more.
 
 ### Impact + Metrics
 
@@ -34,4 +34,4 @@ SmarterNJ leverages technology, modern approaches, and industry expertise to tap
 
 -   Office of the Governor
 
-*Last updated on 10/26/23*
+*Last updated on 5/1/24*

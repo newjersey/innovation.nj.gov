@@ -11,11 +11,11 @@ Multiple State departments and agencies are responsible for administering critic
 
 ### Innovation In Action
 
-OOI partnered with the Business Action Center and other departments to centralize a fragmented customer service experience, cutting red tape by directly connecting businesses to relevant customer support. The service does not just improve the experience for business customers; by reducing call volume the Live Chat enables agency staff to serve more residents with greater efficiency.
+OOI partnered with the Business Action Center and other departments to centralize a fragmented customer service experience, cutting red tape by directly connecting businesses to relevant customer support. The service not only improves the experience for business customers, but also enables agency staff to serve more residents with greater efficiency by reducing call volume.
 
 ### Impact + Metrics
 
--   As of September 2023, the Live Chat has enabled more than 125,000 virtual conversations between businesses and experts at the State’s Business Action Center, the Department of Treasury, the Department of Labor, and the state’s Economic Development Authority.
+-  In 2023, the Live Chat saw a 32% increase in the number of businesses seeking answers, and as of April 2024, the Live Chat has enabled more than 130,000 virtual conversations between businesses and experts at the State’s Business Action Center, the Department of Treasury, the Department of Labor, and the State’s Economic Development Authority.
 
 ### Status
 
@@ -24,9 +24,9 @@ OOI partnered with the Business Action Center and other departments to centraliz
 ### Partners
 
 -   Office of the Governor
--   NJ Department of State, Business Action Center
+-   NJ State Department of State, Business Action Center
 -   NJ Economic Development Authority
 -   NJ State Department of Treasury
 -   NJ State Department of Labor
 
-*Last updated on 11/27/23*
+*Last updated on 5/1/24*

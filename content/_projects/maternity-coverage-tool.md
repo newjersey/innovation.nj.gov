@@ -3,7 +3,7 @@ title: Maternity Coverage Timeline Tool
 initiative: Resident Experience Initiative
 ---
 
-The [Maternity Coverage Timeline Tool](http://myleavebenefits.nj.gov/timeline) helps expecting parents plan when and how to take their maternity leave by providing a personalized calendar of how much leave time they have with State benefits. This work is part of the Resident Experience Initiative.
+The [Maternity Coverage Timeline Tool](http://myleavebenefits.nj.gov/timeline) helps expecting parents plan when and how to use their family leave by providing a personalized calendar of how much leave time they have with State benefits. This work is part of the Resident Experience Initiative.
 
 ### Challenge
  Most people who work in New Jersey qualify for paid leave benefits under Temporary Disability Insurance and Family Leave Insurance. However, to use these benefits, parents must navigate a complex application process, tracking multiple details and making calculations on their own, increasing the likelihood of making a mistake during the application process or delaying access to the benefit.
@@ -15,11 +15,11 @@ The [Maternity Coverage Timeline Tool](http://myleavebenefits.nj.gov/timeline) h
 
 ### Impact + Metrics
 
-- As of May 2023, 62,300 New Jerseyans have used the Maternity Coverage Timeline Tool to understand their benefits; and 54,690 timelines have been created (since launch of the tool in May 2022).
+- As of April 2024, more than 95,000 New Jerseyans have used the Maternity Coverage Timeline Tool to understand their benefits, and more than 378,000 timelines have been created since the tool launched in May 2022.
 
 ### Status
 
-- The tool officially launched in July 2022, and is undergoing iterative improvements based on user feedback and data.
+- The tool was launched in May 2022, a second iteration was released in July 2022, and the tool continues to undergo iterative improvements based on user feedback and data.
 
 ### Resources and Additional Information
 
@@ -30,4 +30,4 @@ The [Maternity Coverage Timeline Tool](http://myleavebenefits.nj.gov/timeline) h
 -   NJ State Department of Labor
 -   Office of the First Lady
 
-*Last updated on 10/26/23*
+*Last updated on 5/2/24*

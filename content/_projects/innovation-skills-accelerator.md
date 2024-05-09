@@ -16,12 +16,13 @@ To reduce barriers and ensure the greatest spread of knowledge, OOI created a fr
 ### Impact + Metrics
 
 -   The Innovation Skills Accelerator's online content is publicly accessible for free, so officials at every level of government across New Jersey and beyond can learn how to be more innovative.
--   In 2022, over 1,300 State employees signed up for 12 live, virtual workshops on innovation skills to help them use data, collective intelligence, and human-centered design to better serve New Jersey residents
+-   As of 2024, more than 2,000 State employees have participated in over 80 live interactive workshops with leading government innovation experts covering topics ranging from program evaluation and data-driven decision-making to human-centered design and artificial intelligence.
 -   As part of the Innovation Skills Accelerator program, OOI developed bespoke innovation skills programming with the New Jersey Attorney General's Office that included introductions to machine learning, predictive analytics, and collective intelligence with the aim of exploring how these technologies can be used to create more effective policies and services.
 
 ### Status
 
--   As of the Spring of 2023, the Innovation Skills Accelerator team is working with the newly-formed interstate training collaborative, InnovateUS -- created in partnership with California, Colorado, Maine and Pennsylvania -- to launch a fully-redeveloped course on digital skills and problem solving.
+-   The Innovation Skills Accelerator team is working with the interstate training collaborative, InnovateUS -- created in partnership with California, Colorado, Maine, and Pennsylvania -- to launch a fully-redeveloped course on digital skills and problem solving.
+-   In 2023, OOI successfully piloted an updated version of the Innovation Skills Accelerator training program in partnership with InnovateUS. More than 100 learners were invited to participate, and nearly 80% completed modules. Participating agencies included the Motor Vehicle Commission, the Department of Community Affairs, the Office of the Attorney General/Department of Public Safety, the Economic Development Authority, and the Department of Human Services. 
 -   The Accelerator program, in partnership with InnovateUS, continues to deliver live and bespoke trainings for State departments.
 
 ### Resources and Additional Information
@@ -33,4 +34,4 @@ To reduce barriers and ensure the greatest spread of knowledge, OOI created a fr
 -   Statewide initiative, in partnership with all relevant State entities
 -   InnovateUS
 
-*Last updated on 10/26/23*
+*Last updated on 5/1/24*
