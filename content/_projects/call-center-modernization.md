@@ -28,10 +28,6 @@ Rather than a one-time modernization project, the Office of Innovation sought to
 
 - OOI continues to work with a growing number of agencies to modernize their call centers, and are making ongoing improvements in user interface and functionality. 
 
-### Resources and Additional Information
-
--   [GitHub repository](https://github.com/newjersey/d4ad)
-
 ### Partners
 
 -   NJ State Department of Labor 
