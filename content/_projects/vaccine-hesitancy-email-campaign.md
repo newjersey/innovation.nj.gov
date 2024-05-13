@@ -3,22 +3,22 @@ title: Vaccine Hesitancy Email Campaign
 initiative: COVID Response
 ---
 
-Following the release of the first-ever COVID-19 vaccine, the Office of Innovation, in partnership with NJ State Department of Health and numerous other partners, developed and implemented a statewide eight message email campaign designed to address vaccine hesitancy concerns.
+Following the release of the first-ever COVID-19 vaccine, the Office of Innovation, in partnership with NJ State Department of Health and numerous other partners, developed and implemented an eight message statewide email campaign designed to address vaccine hesitancy concerns.
 
 ### Challenge
 
-While COVID-19 vaccines were safe and offered effective protection against the virus, a significant number of individuals remained unvaccinated even as vaccine supply had increased substantially. In order to inform and ultimately encourage individuals to get vaccinated, it was important to first understand their motivations, concerns, and priorities.
+While COVID-19 vaccines were safe and offered effective protection against the virus, a significant number of individuals remained unvaccinated even as vaccine supply had increased substantially. 
 
 ### Innovation In Action
 
-The Office of Innovation worked with academic partners and public health experts to research key motivations that drove people’s decision-making regarding whether to get the COVID-19 vaccine. This research was further informed by several A/B tests to validate and iterate on the campaign’s proposed approaches. To increase the campaign’s reach, OOI also coordinated across State departments and agencies to leverage pre-existing distribution channels to connect with a broader, more diverse audience.
+In order to inform and ultimately encourage individuals to get vaccinated, it was important to first understand their motivations, concerns, and priorities. The Office of Innovation worked with academic partners and public health experts to research key motivations that drove people’s decision-making regarding whether to get a COVID-19 vaccine. This research was further informed by several A/B tests to validate and iterate on the campaign’s proposed approaches. To increase the campaign’s reach, OOI also coordinated across State departments and agencies to leverage pre-existing distribution channels to connect with a broader, more diverse audience.
 
 ### Impact + Metrics
 
--   The vaccine hesitancy campaign reached 5.4 million New Jerseyans; a total of 41.8 million emails were sent, generating more than 18.7 million impressions
--   More 5 million campaign subscribers stayed engaged throughout the campaign, with only 5% of the total audience unsubscribing at any point.
--   The email campaign directly drove more than 132,000 visits to the State’s Vaccine Appointment Finder, as well as more than 200,000 additional visits to the COVID-19 Information Hub
--   During the campaign timeline, 803,000 additional New Jerseyans became fully vaccinated
+-   The vaccine hesitancy campaign reached 5.4 million New Jerseyans; a total of 41.8 million emails were sent, generating more than 18.7 million impressions.
+-   More than 5 million campaign subscribers stayed engaged throughout the campaign, with only 5% of the total audience unsubscribing at any point.
+-   The email campaign directly drove more than 132,000 visits to the State’s Vaccine Appointment Finder, as well as more than 200,000 additional visits to the COVID-19 Information Hub.
+-   During the campaign timeline, 803,000 additional New Jerseyans became fully vaccinated.
 
 ### Status
 
@@ -36,4 +36,4 @@ The Office of Innovation worked with academic partners and public health experts
 -   NJ State Department of State
 -   NJ Transit
 
-*Last updated on 12/19/23*
+*Last updated on 5/2/24*

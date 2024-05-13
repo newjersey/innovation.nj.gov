@@ -1,13 +1,13 @@
 ---
-title: Business.NJ.gov Navigator
+title: Business.NJ.gov Account
 initiative: Business Experience Initiative
 ---
 
-Business.NJ.gov [Navigator](https://navigator.business.nj.gov/) is an interactive tool that provides entrepreneurs and businesses with personalized, step-by-step guides to planning, starting, and growing their company based on their specific industry. In addition, users can file several required forms and complete a growing number of transactions all through the tool.
+The Business.NJ.gov [Account](https://navigator.business.nj.gov/) is an interactive tool that provides entrepreneurs and businesses with personalized, step-by-step guides to planning, starting, and growing their company based on their specific industry. In addition, users can file several required forms and complete a growing number of transactions all through the tool.
 
 ### Challenge
 
-Starting and operating a business in New Jersey requires navigating a complicated and fragmented process, bouncing from agency to agency, filing forms, providing redundant information, and creating multiple accounts. Prior to the Navigator, there was not a digital tool that allowed businesses to discover what they needed to complete, and how they could go about doing it.
+Starting and operating a business in New Jersey requires navigating a complicated and fragmented process, bouncing from agency to agency, filing forms, providing redundant information, and creating multiple accounts. Prior to the Business.NJ.gov Account, there was no digital tool that allowed businesses to discover what they needed to complete, and how they could go about doing it.
 
 ### Innovation In Action
 
@@ -16,13 +16,15 @@ With the user at the heart of every decision, OOI has transformed how businesses
 ### Impact + Metrics
 
 -   Entrepreneurs now have personalized Starter Kits specific to over 50 industries for starting their companies in New Jersey. This guide explains what forms and licenses they need, legal requirements, and more.
--   Through advanced data-sharing, any new company can now legally form their business and check their license application status directly through the Navigator rather than by visiting multiple agencies.
+-   Through advanced data-sharing, any new company can now legally form their business and check their license application status directly through their Account rather than by visiting multiple agencies.
 -   For the first time, businesses now have a personalized calendar for deadlines and filings, as well as personalized funding and certification recommendations from a growing statewide database.
--   In its first 18 months, more than 25,000 businesses filed formation documents through the Navigator. As of September 2023, the Business.NJ.gov Navigator facilitated one in seven of all new business formations in the state.
+-   The personalized account function was used more than 345,000 times in 2023 – a 130% increase in usage from the previous year.
+-   As of April 2024, more than 35,000 businesses have filed formation documents through Business.NJ.gov since the tool's launch in 2022, and the site now facilitates one out of seven new business formations in the state.
+-   Additional support features released in 2023 allow for the formation of nonprofits and out-of-state businesses. As of April 2024, 1,500 out-of-state businesses have been authorized through the site as well as more than 500 non-profit formations.
 
 ### Status
 
--   The Navigator is continually being updated with additional capabilities and personalized guides based on user testing and surveys.
+-   The Business.NJ.gov Account is continually being updated with additional capabilities and personalized guides based on user testing and surveys.
 
 ### Resources and Additional Information
 
@@ -32,11 +34,11 @@ With the user at the heart of every decision, OOI has transformed how businesses
 ### Partners
 
 -   Office of the Governor
--   NJ Department of State, Business Action Center
+-   NJ State Department of State, Business Action Center
 -   NJ Economic Development Authority
 -   NJ State Department of Treasury
 -   NJ State Department of Labor
 -   NJ State Office of the Attorney General, Division of Consumer Affairs
 -   Statewide initiative, in partnership with all relevant State entities
 
-*Last updated on 11/27/23*
+*Last updated on 5/1/24*

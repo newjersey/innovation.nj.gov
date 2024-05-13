@@ -11,7 +11,7 @@ As the pandemic ground the economy to a halt in March 2020, more than 800,000 Ne
 
 ### Innovation In Action
 
-The Office created an online tool that helped prevent low-income New Jerseyans from being evicted if they suffered economic hardships during the COVID-19 pandemic by learning their rights and discovering relevant rules and regulations. A resident could input information about their specific situation, and the interactive form provided information tailored to the resident’s specific situation. It also allowed users to submit questions to DCA about their specific situations in a streamlined manner.
+OOI created an online tool that helped prevent low-income New Jerseyans from being evicted if they suffered economic hardships during the COVID-19 pandemic by learning their rights and discovering relevant rules and regulations. A resident could input information about their specific situation, and the interactive form provided information tailored to the resident’s specific situation. It also allowed users to submit questions to DCA about their specific situations in a streamlined manner.
 
 ### Impact + Metrics
 
@@ -26,4 +26,4 @@ The Office created an online tool that helped prevent low-income New Jerseyans f
 -   Office of the Governor
 -   NJ State Department of Community Affairs
 
-*Last updated on 10/26/23*
+*Last updated on 5/1/24*

@@ -3,7 +3,7 @@ title: Future of Work Policy + Practice Catalog
 initiative: Data + Policy
 ---
 
-The Future of Work [Policy & Practice Catalog ](https://fow.innovation.nj.gov/)– developed as a tool for the Future of Work Task Force – aggregated leading research, policies, and practices on how to respond to the challenges and opportunities created by the impact of new technology on work. The searchable database collected research so Future of Work Task Force members and other decisions-makers could easily view ideas from numerous studies in a single, easy to use format.
+The Future of Work [Policy & Practice Catalog ](https://fow.innovation.nj.gov/)– developed as a tool for the Future of Work Task Force – aggregated leading research, policies, and practices on how to respond to the challenges and opportunities created by the impact of new technology on work. The searchable database collected research so Future of Work Task Force members and other decision-makers could easily view ideas from numerous studies in a single, easy to use format.
 
 ### Challenge
  The Future of Work Task Force needed a mechanism to review relevant research, policies, and approaches related to the future of work, and evaluate approaches to create a more resilient workforce and spur the creation of good jobs. Every year new research is produced on the topic, and this growing body of work is scattered across reports, articles, and studies, making it difficult for policy makers to stay up to date and make use of this knowledge.
@@ -13,7 +13,7 @@ The Future of Work [Policy & Practice Catalog ](https://fow.innovation.nj.gov/)�
 
 ### Impact + Metrics
 
-- The Catalog has more than 23,000 unique pageviews since its launch in 2019.
+- As of April 2024, the Catalog has more than 35,000 unique pageviews since its launch in 2019.
 
 ### Status
 
@@ -23,4 +23,4 @@ The Future of Work [Policy & Practice Catalog ](https://fow.innovation.nj.gov/)�
 
 - Future of Work Task Force
 
-*Last updated on 10/26/23*
+*Last updated on 5/2/24*

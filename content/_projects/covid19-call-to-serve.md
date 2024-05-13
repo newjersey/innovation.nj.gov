@@ -19,10 +19,10 @@ OOI quickly set up a simple online form at covid19.nj.gov/vounteer to automatica
 
 ### Status
 
--   This tool is no longer actively in use as the pandemic has reached a new phase with widespread vaccination and medical capacity has remained at manageable levels.
+-   This reporting form was deployed as a pandemic response project and is no longer active.
 
 ### Key Partners
 
 -   NJ State Department of Health
 
-*Last updated on 10/26/23*
+*Last updated on 5/1/24*

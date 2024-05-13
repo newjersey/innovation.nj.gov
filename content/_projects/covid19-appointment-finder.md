@@ -3,7 +3,7 @@ title: COVID-19 Vaccine Appointment Finder
 initiative: COVID Response
 ---
 
-The COVID-19 Vaccine Appointment Finder helps users find and book open vaccine appointments nearest them. The tool compiles information in an easily searchable format from over a thousand vaccination sites run by the State, local health departments, pharmacies, and other health providers. 
+The COVID-19 Vaccine Appointment Finder helped residents find and book open vaccine appointments nearest them. The tool compiled information in an easily searchable format from over a thousand vaccination sites run by the State, local health departments, pharmacies, and other health providers. 
 
 ### Challenge
 
@@ -16,11 +16,12 @@ OOI saw the opportunity to streamline a confusing and time-intensive process by 
 ### Impact + Metrics
 
 -   Created a comprehensive list to locate open vaccine appointments in New Jersey, eliminating the need to spend hours on the phone calling multiple locations.
--   In 2021, the Appointment Finder was viewed over 5 million times. By December 15, 2021, one year after the start of the State's vaccination effort, more than 7 million New Jerseyans had received at least one dose, more than six million were fully vaccinated, and 1.6 million had gotten their booster shots.
+-   In 2021, the Appointment Finder was visited over 4.1 million times. By December 15, 2021, one year after the start of the State's vaccination effort, more than 7 million New Jerseyans had received at least one dose, more than six million were fully vaccinated, and 1.6 million had gotten their booster shots.
+-   By late 2023, the Appointment Finder had been visited more than 5.3 million times, helping these visitors get appointments for COVID-19 vaccines. 
 
 ### Status
 
--   The appointment finder continues to be updated as needed with additional vaccine types, boosters, and more.
+-   The Appointment Finder was deactivated in September 2023. Appointments are now available through the federal [vaccines.gov](http://vaccines.gov) portal.
 
 ### Resources and Additional Information
 
@@ -32,4 +33,4 @@ OOI saw the opportunity to streamline a confusing and time-intensive process by 
 -   NJ State Department of Health
 -   NJ State Office of Information Technology
 
-*Last updated on 10/26/23*
+*Last updated on 5/1/24*
