@@ -31,11 +31,10 @@
     normalize_whitespace | truncatewords: '30' %} {% endif %} 
     {% capture title %}
     {% if page.titleoverride %}
-      {{page.titleoverride}} | 
+      {{page.titleoverride}} | {{ site.long_title }}
     {% elsif page.title %}
-      {{page.title}} |
+      {{page.title}} | {{ site.long_title }}
     {% endif %}
-    {{ site.long_title }}
     {%endcapture %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
