@@ -2,6 +2,7 @@
 title: Production
 hero:
   image: /assets/images/hero.jpg
+order: 7
 ---
 
 Up until now, you have been learning, strategizing, and developing tactics. With Production you shift gears and start "building" your campaign - everything from producing creative assets and ordering media placements to implementing tracking and setting up reports.
