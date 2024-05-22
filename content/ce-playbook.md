@@ -11,13 +11,41 @@ menu:
     group-by: menu-group
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc justo ligula, tincidunt non dolor non, blandit viverra nibh. Nullam sapien nibh, vehicula ac neque sodales, feugiat semper mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras feugiat est sed ipsum tristique, a luctus lacus lacinia. Vivamus mi nibh, aliquet eget efficitur ac, efficitur ut purus. Vivamus vel eros et est rutrum malesuada. Donec in tellus nec nisi pharetra sodales. Vestibulum in nunc lorem. Nullam vulputate sem vitae ex maximus interdum. Nunc sollicitudin ante quis lectus ornare pellentesque. Sed vel orci diam. Sed viverra lacinia nisl, in dapibus enim consequat sed. Vivamus velit eros, luctus nec nunc ac, semper varius orci.
+## About This Playbook
 
-# The Big Picture
-Vestibulum sagittis vel mauris in tincidunt. Sed at sem ut mauris ornare auctor vel a erat. Nam elit arcu, malesuada in elementum sed, ultricies a nisl. Sed neque dolor, dictum a laoreet ac, congue vitae dolor. Quisque eu aliquet nisi. Nunc velit enim, finibus fringilla enim in, aliquam auctor mi. Sed eget mattis risus. Maecenas nulla mi, mollis vel quam et, blandit consectetur sem. Nullam tristique diam at orci interdum condimentum. Praesent egestas pellentesque cursus. Cras non dapibus ligula. Mauris cursus gravida magna at ornare.
+**The greatest gift you can give your audience is understanding what they really care about.**
 
-# About the C+E Lab
-Aliquam vel efficitur ipsum. Nullam a ex faucibus purus lacinia malesuada et ac mi. Sed fringilla sodales odio, eget cursus risus tristique eget. Sed vel nisi vel est tempus interdum. Donec convallis efficitur sapien. Nulla vel rutrum mi. Phasellus porta accumsan ultrices. Morbi in ornare nunc, vel facilisis est. Sed faucibus sodales diam ac tempor. Nam sit amet orci condimentum, sodales dolor hendrerit, accumsan turpis. In et consectetur augue.
+This Playbook is produced by the New Jersey State Office of Innovation’s Communication + Engagement Lab (the C+E Lab) to help you better connect your audience to your program. We’ve documented our step-by-step process to help you uncover and validate an approach that will move your audience to act — whether you're a communications director, program manager, developer, product manager or public policy practitioner.
 
-# What's Inside
-Quisque ligula leo, tincidunt eu consequat eget, condimentum vel orci. Morbi non interdum urna. Integer blandit quam scelerisque suscipit aliquam. Pellentesque ac nisi nunc. In vel tempor enim. Vivamus tempor velit nec congue dignissim. Aenean iaculis et lorem quis mattis. Praesent posuere vitae nisi lacinia pulvinar. Sed vel dui tincidunt, cursus odio eu, elementum sem. Vestibulum efficitur aliquam leo ac gravida. Maecenas suscipit risus rhoncus pharetra pellentesque. Nulla pharetra efficitur tellus, at laoreet elit elementum sit amet.
+### The Big Picture
+
+We are inundated by voices constantly fighting to grab our attention. For a message to cut through, it needs to speak directly to what we most care about. If a message fails to resonate it will be ignored.
+
+## About the C+E Lab
+
+The C+E Lab’s mission is to better connect New Jersey residents with State programs, services and initiatives.
+
+We do this by using consumer marketing best practices to bring a resident-first approach to government communication.
+
+A resident-first approach changes how we talk to our audience, from the things we think are important to what residents really care about.
+We start by conducting research to understand resident motivations. We then use the findings to articulate the true value for the resident with messaging and craft strategies to meet residents where they are – and move them to action.
+
+Our messaging is validated before launch, which means we go to market with messaging that has been proven as most effective. We scale the impact of our live campaigns using the strategies and tactics that are proven to drive results.
+
+We scale the impact of live campaigns using strategies and tactics that are proven to drive results.
+
+Our process outlined here so you can follow it, too.
+
+## What's Inside
+
+This Playbook is your how-to guide to incorporating a resident-first communication approach into your practice. It lays out the entire marketing process from insight to optimization. You can follow the process in its entirety or experiment with incorporating parts of it ad hoc.
+
+For each part of the process we tell you what you need to know to start doing this work:
+
+1. Why it matters
+2. How it works
+3. How long it takes
+
+Not everyone has the time to go through the full process. That’s why we boiled down each component to Do It in a Day so anyone can try the methodology out.
+
+Mission-critical pieces of information are called out as Red Flags, and more advanced applications of the process are noted as Pro Tips.
