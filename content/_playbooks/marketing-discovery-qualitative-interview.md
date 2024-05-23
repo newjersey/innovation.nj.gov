@@ -17,13 +17,13 @@ Qualitative interviews add context to your existing knowledge with insight into 
 
 Most product and program managers have a deep understanding of the audience they serve. This understanding tends to focus on the functional - what your audience does, when, and how they do it.
 
-In marketing, we work to understand emotional drivers - the “why”. What are the aspirations, motivations and worries underlying our audience’s behaviors? These insights change how we communicate - moving us from talking about what we want our audience to know to the things they actually care about.
+In marketing, we work to understand emotional drivers - the "why". What are the aspirations, motivations and worries underlying our audience’s behaviors? These insights change how we communicate - moving us from talking about what we want our audience to know to the things they actually care about.
 
 For example, you may know that your audience is more likely to enroll in your program at certain times of the year – say, around New Year’s. You may think this is related to New Year’s resolutions, but it may turn out in interviews that the emotional driver is primarily related to budget concerns after spending a lot during the holidays. This insight would potentially change how you frame things in any campaign.
 
 ## How it works
 
-Conversational interviews are held with your target audience to gain insight into their behaviors, motivations, aspirations and fears. These interviews are similar to traditional “user” research interviews except the focus here is to uncover the emotion around your audience’s experience. Questions are asked to explore how your audience feels, why they feel that way, and what feeling that way means for them and their ability to “make progress.”
+Conversational interviews are held with your target audience to gain insight into their behaviors, motivations, aspirations and fears. These interviews are similar to traditional "user" research interviews except the focus here is to uncover the emotion around your audience’s experience. Questions are asked to explore how your audience feels, why they feel that way, and what feeling that way means for them and their ability to "make progress."
 
 ### 1. Interview Format
 
@@ -41,7 +41,7 @@ In that case you’d want to try and talk to 6-12 people per audience, which is 
 
 If possible, we recommend conducting interviews with individual audience members so they feel safe to speak openly and are not influenced by other interviewee responses or opinions.
 
-The priority is to conduct interviews, regardless of the format, so if timing or logistic constraints mean it’s more feasible to conduct a “focus group” (where a few people are interviewed at the same time) that’s fine. If you do go with a focus group it’s recommended you limit participation to no more than 6 interviewees per session.
+The priority is to conduct interviews, regardless of the format, so if timing or logistic constraints mean it’s more feasible to conduct a "focus group" (where a few people are interviewed at the same time) that’s fine. If you do go with a focus group it’s recommended you limit participation to no more than 6 interviewees per session.
 
 ### 2. Recruiting Respondents
 
@@ -57,7 +57,7 @@ The C+E Lab typically conducts interviews with two people from our team present 
 
 After your research interviews are complete the findings and implications should be documented in a final presentation or report.
 
-Sometimes analysis of research findings can be straightforward. This happens when you have a respondent or two that is able to articulate a key insight for you (i.e., “Free money is always nice, but it’s not the same thing as having a thriving business. What I really need from the State is help to succeed.”), or when key themes emerge during the interviews. This gives you a north star to build your analysis around.
+Sometimes analysis of research findings can be straightforward. This happens when you have a respondent or two that is able to articulate a key insight for you (i.e., "Free money is always nice, but it’s not the same thing as having a thriving business. What I really need from the State is help to succeed."), or when key themes emerge during the interviews. This gives you a north star to build your analysis around.
 
 Other times the insights or themes are not immediately obvious. It doesn’t mean they aren’t there, it may just require a bit of time to unpack and digest what you heard.
 
@@ -84,7 +84,7 @@ The single most impactful action you can take is to gain insight into your audie
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Red Flag</h3>
         <p class="usa-alert__text">
-            “Imposter” interviews are increasingly problematic in audience research. This is when a respondent misrepresents themself to qualify for the research and be compensated for participation. See the C+E Lab’s guide to reducing the likelihood of imposters infiltrating your research efforts.
+            "Imposter" interviews are increasingly problematic in audience research. This is when a respondent misrepresents themself to qualify for the research and be compensated for participation. See the C+E Lab’s guide to reducing the likelihood of imposters infiltrating your research efforts.
         </p>
     </div>
 </div>
@@ -102,7 +102,7 @@ The single most impactful action you can take is to gain insight into your audie
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Pro Tip</h3>
         <p class="usa-alert__text">
-            Talk to both “users” and “non-users” (people who could use your product but aren’t) of your product or service. Non-users especially help you uncover barriers to usage - is it a lack of awareness that it exists, are they aware but don’t think it is for them, or are they skeptical the benefit is attainable? Once the barriers are uncovered, you can test solutions to address them.
+            Talk to both "users" and "non-users" (people who could use your product but aren’t) of your product or service. Non-users especially help you uncover barriers to usage - is it a lack of awareness that it exists, are they aware but don’t think it is for them, or are they skeptical the benefit is attainable? Once the barriers are uncovered, you can test solutions to address them.
         </p>
     </div>
 </div>
@@ -111,7 +111,7 @@ The single most impactful action you can take is to gain insight into your audie
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Pro Tip</h3>
         <p class="usa-alert__text">
-            End your interview 5 minutes early and ask your interviewee if there is anything else they’d like to tell you or that you should know. Often the best insights come during these last five minutes when the interview is “over” and your respondent relaxes and lets their truest thoughts and feelings spill out.
+            End your interview 5 minutes early and ask your interviewee if there is anything else they’d like to tell you or that you should know. Often the best insights come during these last five minutes when the interview is "over" and your respondent relaxes and lets their truest thoughts and feelings spill out.
         </p>
     </div>
 </div>

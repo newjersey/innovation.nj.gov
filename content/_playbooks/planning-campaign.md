@@ -9,7 +9,7 @@ Pull together your defined strategies and validated messaging to create specific
 
 Develop the plans, assets, and infrastructure that will be implemented during Production. Development includes Media Planning, Partnership Development, Creative Development, and Tracking & Reporting planning.
 
-Activities include the identification of recommended media partners, placements and costs; applying the winning creative concept to all required creative formats (“treatments”) for review and approval, and aligning tracking and reporting requirements.
+Activities include the identification of recommended media partners, placements and costs; applying the winning creative concept to all required creative formats ("treatments") for review and approval, and aligning tracking and reporting requirements.
 
 Everything developed in this phase will be executed during Production.
 
@@ -23,11 +23,11 @@ Four campaign components happen in parallel:
 
 ### 1. Paid Media Planning
 
-Using the strategic approach and media channels defined in your Communication Strategy, a detailed “Media Plan” is developed. The Media Plan details how long your campaign will run, the specific partners and placements you will use, and the creative assets that are required.
+Using the strategic approach and media channels defined in your Communication Strategy, a detailed "Media Plan" is developed. The Media Plan details how long your campaign will run, the specific partners and placements you will use, and the creative assets that are required.
 
 If your campaign has funds available to spend on paid media, how those funds are allocated will be defined in the Plan.
 
-For all media placements, creative production specifications (“specs”) are gathered and added to the Creative Brief. This information will be used during Production.
+For all media placements, creative production specifications ("specs") are gathered and added to the Creative Brief. This information will be used during Production.
 
 ### 2. Partnership Development
 
@@ -60,7 +60,7 @@ Before diving into setting up campaign tracking and reporting, it’s important 
 
 This process is very straightforward. During Discovery you did the hard work of aligning on your marketing goals, and the metrics you will use to evaluate your success in achieving them. The metrics you defined support your campaign’s marketing goals and will be the north star of your campaign’s tracking and reporting development, informing:
 
-- **Campaign “actions” that need to be tracked.** Based on your campaign’s marketing goals, what are the actions you are asking your audience to take? Is it to visit a website, register for a program, call a phone number? Whatever the action that you are asking your audience to take, and that has been identified as a “metric for success,” will need to be tracked and tied back to your campaign’s activity.
+- **Campaign "actions" that need to be tracked.** Based on your campaign’s marketing goals, what are the actions you are asking your audience to take? Is it to visit a website, register for a program, call a phone number? Whatever the action that you are asking your audience to take, and that has been identified as a "metric for success," will need to be tracked and tied back to your campaign’s activity.
 
   There are many website analytics platforms that can be used to track digital activity, and they don’t have to cost a lot of money. The OOI uses GA4 for our campaigns as it is relatively easy to use and the free version supports basic analytics needs.
 
@@ -70,7 +70,7 @@ This process is very straightforward. During Discovery you did the hard work of 
 
   Traditional detailed campaign performance reporting is still critical as a mechanism to understand (and optimize) the tactics that are driving performance against campaign goals.
 
-- **Campaign optimization.** If you are using paid digital media, chances are it’s being automatically optimized based on your campaign’s defined goals. That means it is critical that you are tracking the right “actions” (a visit, a click on specific content, registration, sign-up, etc.) and that the tracking has been tested and validated as working correctly. When the goals, metrics, and tracking align, your campaign will automatically optimize to generate the highest number of desired actions at the lowest possible cost.
+- **Campaign optimization.** If you are using paid digital media, chances are it’s being automatically optimized based on your campaign’s defined goals. That means it is critical that you are tracking the right "actions" (a visit, a click on specific content, registration, sign-up, etc.) and that the tracking has been tested and validated as working correctly. When the goals, metrics, and tracking align, your campaign will automatically optimize to generate the highest number of desired actions at the lowest possible cost.
 
 ## How long it takes
 

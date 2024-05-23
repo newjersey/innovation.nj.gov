@@ -25,7 +25,7 @@ For a new program or initiative, it’s often generating first-time use or enrol
 
 A marketing objective supports your initiative’s impact objective. Marketing objectives often prioritize creating awareness and driving specific actions. For example, a marketing objective could be sending traffic to a digital or physical location and generating leads (people who provide their contact details in exchange for information). The marketing objective is what you need your audience to do to drive your impact objective.
 
-For programs that are “high consideration” - meaning your program requires your audience to take multiple steps, takes a lot of time to complete the process, and/or there may be multiple people involved in decision-making - the marketing objectives need to take into account each step in the process. For example, creating awareness about a program, driving leads of residents that are interested in the program, and generating lead “conversions” where the resident actually enrolls in the program.
+For programs that are "high consideration" - meaning your program requires your audience to take multiple steps, takes a lot of time to complete the process, and/or there may be multiple people involved in decision-making - the marketing objectives need to take into account each step in the process. For example, creating awareness about a program, driving leads of residents that are interested in the program, and generating lead "conversions" where the resident actually enrolls in the program.
 
 ### 2. Establish Target Audience
 
@@ -43,7 +43,7 @@ _Psychographic_ information provides insight into your audience’s attitudes, i
 
 Examples of psychographics could include things like:
 
-- Don’t “see” themselves as being the kind of person that accepts support
+- Don’t "see" themselves as being the kind of person that accepts support
 - Relies heavily on fast food/takeout due to time constraints
 - Faith plays a big role in their lives
 
@@ -69,7 +69,7 @@ Meeting cadence and communication methods should also be discussed and agreed-to
 
 ### 5. Identify Resources to Engage
 
-The resources you use to staff your campaign management and execution will depend on your organization’s capabilities and ways of working. Some organizations have “in-house” teams that can develop and execute marketing campaigns from start to finish, others have a few core team members that are supplemented with external consultants, and others engage a full-service vendor to handle everything for them.
+The resources you use to staff your campaign management and execution will depend on your organization’s capabilities and ways of working. Some organizations have "in-house" teams that can develop and execute marketing campaigns from start to finish, others have a few core team members that are supplemented with external consultants, and others engage a full-service vendor to handle everything for them.
 
 Resources to identify include:
 
@@ -84,11 +84,11 @@ Resources to identify include:
 
 The RACI document (see point #4 above) will help you identify any gaps in your available resources that need to be filled.
 
-It is especially important to make sure you have access to skilled creative professionals (art director + copywriter) who will bring your message to life with compelling, activating creative executions. Some of the best “creatives” only work on a consulting basis, so there is a great pool of talent that can be drawn from when you need it. Your agency may have consultants offering this service on retainer, or a list of consultants that are okay to use.
+It is especially important to make sure you have access to skilled creative professionals (art director + copywriter) who will bring your message to life with compelling, activating creative executions. Some of the best "creatives" only work on a consulting basis, so there is a great pool of talent that can be drawn from when you need it. Your agency may have consultants offering this service on retainer, or a list of consultants that are okay to use.
 
 ### 6. Define Success Measurement
 
-It is extremely important that “metrics for success” are defined up front so you will know if your efforts are working. This means deciding what numbers you will look at to understand how your campaign is performing against defined goals. Those results are used to make decisions to optimize campaign performance.
+It is extremely important that "metrics for success" are defined up front so you will know if your efforts are working. This means deciding what numbers you will look at to understand how your campaign is performing against defined goals. Those results are used to make decisions to optimize campaign performance.
 
 **Your success metrics should directly align with both your impact and marketing objectives.**
 

@@ -30,7 +30,7 @@ Typically 1-2 weeks to scan, analyze, and synthesize relevant data and research.
 
 ## Do it in a day
 
-Time-box a quick “market scan” to what can get done in a day. Use Google to search for news articles and published reports, and Google Scholar to review academic publications. You can focus your efforts further by looking at just one source (i.e., just news articles or just US Census data). Even one insight or unexpected framing of existing data can plant the seeds for improved communication.
+Time-box a quick "market scan" to what can get done in a day. Use Google to search for news articles and published reports, and Google Scholar to review academic publications. You can focus your efforts further by looking at just one source (i.e., just news articles or just US Census data). Even one insight or unexpected framing of existing data can plant the seeds for improved communication.
 
 ## Outputs
 

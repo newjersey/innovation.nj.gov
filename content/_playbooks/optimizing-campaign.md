@@ -40,7 +40,7 @@ Campaigns should be checked on each day and with any needed changes being made a
         <p class="usa-alert__text">
             Don’t focus on performance metrics to the exclusion of overall volume (the total number of desired actions being taken).
             <br /> <br />
-            You might have an ad group with a very high Click Through Rate and a very low Cost Per Click, but it’s only generating a handful of desired actions. Another ad group might have a lower Click Through Rate and higher Cost Per Click, but it’s generating thousands of desired actions. The ad group generating the higher volume of desired actions is performing “better” because it’s helping achieve your marketing goal. Both ad groups work collectively to deliver cost-effective results (performance metrics + overall volume).
+            You might have an ad group with a very high Click Through Rate and a very low Cost Per Click, but it’s only generating a handful of desired actions. Another ad group might have a lower Click Through Rate and higher Cost Per Click, but it’s generating thousands of desired actions. The ad group generating the higher volume of desired actions is performing "better" because it’s helping achieve your marketing goal. Both ad groups work collectively to deliver cost-effective results (performance metrics + overall volume).
 
         </p>
     </div>
