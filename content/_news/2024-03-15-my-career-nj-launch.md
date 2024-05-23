@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: Governor Murphy, Labor Commissioner Asaro-Angelo & Chief Innovation Officer Cole Announce Launch of My Career NJ"
-promoted: 3
+promoted: 
 date: March 14, 2024 
 source: NJGOV
 cta:
