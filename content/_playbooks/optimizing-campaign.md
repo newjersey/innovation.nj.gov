@@ -34,7 +34,7 @@ The amount of time it takes depends on how big your campaign is. Activity should
 
 Campaigns should be checked on each day and with any needed changes being made as soon as possible.
 
-<div class="usa-alert usa-alert--success margin-top-5">
+<div class="usa-alert usa-alert--info margin-top-5">
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Pro Tip</h3>
         <p class="usa-alert__text">

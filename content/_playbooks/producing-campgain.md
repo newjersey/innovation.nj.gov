@@ -19,7 +19,7 @@ Your final Media Plan aligned on in Development will determine what and how many
 
 At the Office of Innovation, our campaigns often take a video first approach that features real residents. Using video production as our starting point, we layer on still photography and use the shoot to secure enough assets to produce all creative deliverables required by the campaign. The assets secured at the shoot create a "treasure chest" that can be drawn from to produce new assets whenever the need arises. The assets can even be used for other program communication initiatives.
 
-<div class="usa-alert usa-alert--success margin-top-5">
+<div class="usa-alert usa-alert--info margin-top-5">
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Pro Tip</h3>
         <p class="usa-alert__text">
@@ -30,7 +30,7 @@ At the Office of Innovation, our campaigns often take a video first approach tha
     </div>
 </div>
 
-<div class="usa-alert usa-alert--info margin-top-5">
+<div class="usa-alert usa-alert--warning margin-top-5">
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Red Flag</h3>
         <p class="usa-alert__text">
@@ -43,7 +43,7 @@ At the Office of Innovation, our campaigns often take a video first approach tha
 
 Many organizations use vendors to execute their paid media campaigns, especially if their budgets are large. But if your budget is smaller and your team has capacity, you might want to keep this work "in-house." There are two ways you can buy and manage paid media: - **Self Service.** Many digital platforms including Google, Facebook, Instagram, YouTube, etc., are "self service." This means you will need to create an advertising account on their platform and use a credit card to pay for the media. For most self service platforms, there are no minimum spend or length of time requirements. You can run a campaign for as little and long as you want. - **Professional Services.** The more traditional advertising model involves being assigned an account representative who will plan and optimize your campaign for you. These engagements involve larger commitments (both time and money) - both of which can be negotiated. The campaigns are run based on "insertion order," meaning you have negotiated payment terms and are sent an invoice each month after the prior month’s activity closes out.
 
-<div class="usa-alert usa-alert--success margin-top-5">
+<div class="usa-alert usa-alert--info margin-top-5">
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Pro Tip</h3>
         <p class="usa-alert__text">
@@ -56,7 +56,7 @@ Many organizations use vendors to execute their paid media campaigns, especially
 
 There are two types of tracking that need to be implemented to support your marketing campaign. - **UTM Tracking.** A UTM code (UTM stands for Urchin Tracking Module - which originates from a discontinued software platform purchased by Google in 2005) or parameter identifies successrmation about your marketing activity. It’s a snippet of text that gets added to the end of a URL to create a "trafficking URL." The UTM code can contain up to five parameters: Campaign, source, medium, content, and term. You can use our [UTM generator](https://docs.google.com/spreadsheets/d/1rZO3ea0e5wyNHpFPY6L3r3Cc9CfZ44-KsPkaYtmf0TA/edit?usp=sharing) to create your own trafficking URLs. UTMs can be used to track both Partner and Paid Media activity. - **Tracking Pixel.** A tracking pixel is an invisible javascript code that lives on a website or email. Paid media vendors often require their proprietary pixel be installed on your website for the campaign to be run (this includes Facebook, Instagram, ad serving platforms and all programmatic media vendors). That’s because the pixel collects successrmation about visitor actions on your website and automatically optimizes performance based on the action taken (or not taken). Pixels are required for conversion-optimization and retargeting campaigns.
 
-<div class="usa-alert usa-alert--success margin-top-5">
+<div class="usa-alert usa-alert--info margin-top-5">
 <div class="usa-alert__body">
     <h3 class="usa-alert__heading">Pro Tip</h3>
     <p class="usa-alert__text">
@@ -69,7 +69,7 @@ There are two types of tracking that need to be implemented to support your mark
 
 </div>
 
-<div class="usa-alert usa-alert--info margin-top-5">
+<div class="usa-alert usa-alert--warning margin-top-5">
 <div class="usa-alert__body">
     <h3 class="usa-alert__heading">Red Flag</h3>
     <p class="usa-alert__text">
@@ -91,7 +91,7 @@ Many analytics platforms come with pre-built marketing reports that can be custo
 
 The important thing is to do the work of looking at what’s available and customizing the views BEFORE the campaign goes live so you are ready to hit the ground running with the launch.
 
-<div class="usa-alert usa-alert--success margin-top-5">
+<div class="usa-alert usa-alert--info margin-top-5">
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Pro Tip</h3>
         <p class="usa-alert__text">

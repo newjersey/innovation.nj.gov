@@ -80,7 +80,7 @@ Here is the breakdown of baseline timing:
 
 The single most impactful action you can take is to gain insight into your audience’s motivation. If you have a physical presence, grab a few visitors and talk to them in person. You don’t have to conduct a formal interview process to capture emotional insights from your users. These insights can be used to refine your messaging or develop new messages to test. This rapid approach isn’t meant to replace the full research process, but to help you iterate and make quick progress along the way.
 
-<div class="usa-alert usa-alert--info margin-top-5">
+<div class="usa-alert usa-alert--warning margin-top-5 usa-alert--no-icon">
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Red Flag</h3>
         <p class="usa-alert__text">
@@ -89,7 +89,7 @@ The single most impactful action you can take is to gain insight into your audie
     </div>
 </div>
 
-<div class="usa-alert usa-alert--info margin-top-5">
+<div class="usa-alert usa-alert--warning margin-top-5 usa-alert--no-icon">
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Red Flag</h3>
         <p class="usa-alert__text">
@@ -98,7 +98,7 @@ The single most impactful action you can take is to gain insight into your audie
     </div>
 </div>
 
-<div class="usa-alert usa-alert--success margin-top-5">
+<div class="usa-alert usa-alert--info margin-top-5 usa-alert--no-icon">
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Pro Tip</h3>
         <p class="usa-alert__text">
@@ -107,7 +107,7 @@ The single most impactful action you can take is to gain insight into your audie
     </div>
 </div>
 
-<div class="usa-alert usa-alert--success margin-top-5">
+<div class="usa-alert usa-alert--info margin-top-5 usa-alert--no-icon">
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Pro Tip</h3>
         <p class="usa-alert__text">

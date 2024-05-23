@@ -49,7 +49,7 @@ Ideation can be time-boxed. Give your team a day and see what they come up with.
 
 While this isn’t recommended for a campaign that will be running for a while and has a significant media budget, it will absolutely work for quick-turnaround projects and/or one-off efforts.
 
-<div class="usa-alert usa-alert--success margin-top-5">
+<div class="usa-alert usa-alert--info margin-top-5">
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Pro Tip</h3>
         <p class="usa-alert__text">

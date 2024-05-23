@@ -56,7 +56,7 @@ It can also take more time to field surveys with audiences that are considered h
 
 Simplify each script to a key idea, tagline, and logo. Use a boilerplate survey template from a self-service survey platform and run a "comparative" survey (each respondent sees all 3-4 concepts and compares them). Even with very narrow target audience criteria, it should be possible to reach 200 total completed responses within a day.
 
-<div class="usa-alert usa-alert--success margin-top-5">
+<div class="usa-alert usa-alert--info margin-top-5">
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Pro Tip</h3>
         <p class="usa-alert__text">

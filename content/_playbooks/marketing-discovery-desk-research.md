@@ -37,7 +37,7 @@ Time-box a quick "market scan" to what can get done in a day. Use Google to sear
 - Research synthesis (create stripped down version)
 - Insight tracker template
 
-<div class="usa-alert usa-alert--success margin-top-5">
+<div class="usa-alert usa-alert--info margin-top-5">
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Pro Tip</h3>
         <p class="usa-alert__text">

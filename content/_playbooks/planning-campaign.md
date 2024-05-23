@@ -35,7 +35,7 @@ Most organizations have relationships with a network of partners and community b
 
 Develop a list of potential partners and conduct outreach to understand partner/CBO willingness and ability to support your campaign, their required timing, and the formats and assets they can use.
 
-<div class="usa-alert usa-alert--success margin-top-5">
+<div class="usa-alert usa-alert--info margin-top-5">
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Pro Tip</h3>
         <p class="usa-alert__text">
