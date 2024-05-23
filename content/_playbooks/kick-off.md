@@ -1,5 +1,5 @@
 ---
-title: The Kick Off
+title: 00 The Kick Off
 hero:
   image: /assets/images/hero.jpg
 order: 0
@@ -7,11 +7,11 @@ order: 0
 
 Every initiative, project, or campaign starts with a kick-off meeting where contributors and decision-makers involved with the marketing campaign get to know each other, define **objectives** and align on engagement parameters.
 
-## Why It Matters
+## Why it matters
 
 The decisions and alignments made in this meeting clear the path to successful campaign development.
 
-## How it Works
+## How it works
 
 Decision-makers involved with the marketing campaign (your stakeholders) are brought together to kick off campaign planning. An agenda is shared out that guides the conversation and facilitates decision-making. The following is discussed and agreed to:
 
@@ -104,7 +104,7 @@ It is extremely important that “metrics for success” are defined up front so
 
 For example, your program might provide underemployed adults with training to help them land a higher paying job. Your impact goal is to improve the economic outcomes of the adults you help train, but your marketing goal is generating registrations for the program that helps them get the training. By generating registrations for your training program you are contributing to the improvement of economic outcomes for the people who participate.
 
-## How Long It Takes
+## How long it takes
 
 **Two weeks**. The initial meeting takes about an hour but may need follow-up conversations if there isn’t initial alignment or tough decisions to be made. Of course, scheduling can always be challenging too.
 

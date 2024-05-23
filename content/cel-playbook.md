@@ -1,12 +1,12 @@
 ---
 title: C+E Lab Playbook
 layout: playbook
-permalink: /playbook/
+permalink: /cel-playbook/
 hero:
   image: /assets/images/hero.jpg
 menu:
   - title: The C+E Playbook
-    url: /playbook/
+    url: /cel-playbook/
     collection: playbooks
     group-by: menu-group
 ---

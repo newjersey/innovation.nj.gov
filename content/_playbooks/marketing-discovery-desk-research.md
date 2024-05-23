@@ -1,5 +1,5 @@
 ---
-title: Market Discovery | Desk Research
+title: "01 Conducting Discovery: Desk Research"
 hero:
   image: /assets/images/hero.jpg
 order: 1

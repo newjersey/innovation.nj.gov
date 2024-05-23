@@ -1,5 +1,5 @@
 ---
-title: Production
+title: 07 Producing Your Campaign
 hero:
   image: /assets/images/hero.jpg
 order: 7
@@ -7,11 +7,11 @@ order: 7
 
 Up until now, you have been learning, strategizing, and developing tactics. With Production you shift gears and start "building" your campaign - everything from producing creative assets and ordering media placements to implementing tracking and setting up reports.
 
-## Why It Matters
+## Why it matters
 
 Well planned, organized execution drives successful campaign performance.
 
-## How it Works
+## How it works
 
 ### 1. Creative Production
 
@@ -182,13 +182,13 @@ Here is a handy checklist to make sure all tasks are done and requirements in or
     </form>
 </div>
 
-## How Long it Takes
+## How long it takes
 
 4-6 weeks.
 
 Similar to the Development phase, there are Production components that can happen in parallel (Creative Production and Media Buying). Tracking Implementation can also happen in parallel if the campaign will be driving traffic to an existing digital presence. If you are building out a new presence (website, microsite or landing page), Tracking Implementation can start as soon as the instance is live.
 
-## Do it in a Day
+## Do it in a day
 
 Focus on a single channel like paid search and paid social and develop a very limited campaign. Campaigns on these platforms can be launched within a matter of seconds and optimized based on website visits.
 

@@ -81,7 +81,7 @@ collections:
     sort_by: order
     output: true
   playbooks:
-    permalink: /:collection/:title/
+    permalink: cel-playbook/:title/
     sort_by: order
     output: true
   skills:
@@ -142,13 +142,14 @@ defaults:
           collection: skills
           group-by: menu-group
   - scope:
-      path: "" 
+      path: ""
       type: "playbooks"
     values:
       layout: playbook
+      order: 1000
       menu-group: Playbook Menu Header
-      menu: 
+      menu:
         - title: The C+E Playbook
-          url: /playbook
+          url: /cel-playbook
           collection: playbooks
           group-by: menu-group
