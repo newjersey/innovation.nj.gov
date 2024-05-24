@@ -1,7 +1,5 @@
 ---
 title: 00 The Kick Off
-hero:
-  image: /assets/images/hero.jpg
 order: 0
 ---
 

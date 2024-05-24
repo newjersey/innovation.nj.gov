@@ -1,7 +1,5 @@
 ---
 title: 04 Developing Your Creative Concept(s)
-hero:
-  image: /assets/images/hero.jpg
 order: 4
 ---
 

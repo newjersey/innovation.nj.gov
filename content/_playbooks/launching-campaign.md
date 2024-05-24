@@ -1,7 +1,5 @@
 ---
 title: 08 Launching Your Campaign
-hero:
-  image: /assets/images/hero.jpg
 order: 8
 ---
 

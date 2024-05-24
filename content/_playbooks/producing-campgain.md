@@ -1,7 +1,5 @@
 ---
 title: 07 Producing Your Campaign
-hero:
-  image: /assets/images/hero.jpg
 order: 7
 ---
 

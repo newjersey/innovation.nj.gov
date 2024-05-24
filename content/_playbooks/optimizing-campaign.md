@@ -1,7 +1,5 @@
 ---
 title: 09 Optimizing Your Campaign
-hero:
-  image: /assets/images/hero.jpg
 order: 9
 ---
 

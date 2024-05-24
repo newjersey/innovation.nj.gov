@@ -146,8 +146,10 @@ defaults:
       type: "playbooks"
     values:
       layout: playbook
+      hero:
+        image: /assets/images/cel-playbook-hero.jpg
       order: 1000
-      menu-group: Playbook Menu Header
+      menu-group: The C+E Lab Playbook
       menu:
         - title: The C+E Playbook
           url: /cel-playbook

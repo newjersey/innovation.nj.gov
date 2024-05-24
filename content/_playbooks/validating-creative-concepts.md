@@ -1,7 +1,5 @@
 ---
 title: 05 Validating Your Creative Concept(s)
-hero:
-  image: /assets/images/hero.jpg
 order: 5
 ---
 

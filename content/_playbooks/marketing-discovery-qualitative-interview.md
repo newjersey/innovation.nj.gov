@@ -1,7 +1,5 @@
 ---
 title: "02 Conducting Discovery: Qualitative Interviews"
-hero:
-  image: /assets/images/hero.jpg
 order: 2
 ---
 

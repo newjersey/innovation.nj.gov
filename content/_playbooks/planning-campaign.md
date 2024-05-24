@@ -1,7 +1,5 @@
 ---
 title: 06 Planning Your Campaign
-hero:
-  image: /assets/images/hero.jpg
 order: 6
 ---
 

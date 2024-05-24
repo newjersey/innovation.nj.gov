@@ -3,9 +3,9 @@ title: C+E Lab Playbook
 layout: playbook
 permalink: /cel-playbook/
 hero:
-  image: /assets/images/hero.jpg
+  image: /assets/images/cel-playbook-hero.jpg
 menu:
-  - title: The C+E Playbook
+  - title: About the Playbook
     url: /cel-playbook/
     collection: playbooks
     group-by: menu-group

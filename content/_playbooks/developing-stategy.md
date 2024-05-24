@@ -1,7 +1,5 @@
 ---
 title: 03 Developing Your Strategy
-hero:
-  image: /assets/images/hero.jpg
 order: 3
 ---
 
