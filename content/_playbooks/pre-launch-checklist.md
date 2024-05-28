@@ -3,7 +3,7 @@ title: 08 Pre-Launch Checklist
 order: 8
 ---
 
-Here is a handy checklist to make sure all tasks are done and requirements in order before your campaign is pushed live:
+Here is a handy checklist to make sure all needed tasks are done and requirements organized before your campaign is pushed live:
 
 <div class="width-full padding-top-2">
     <form class="usa-form-large">
@@ -34,15 +34,15 @@ Here is a handy checklist to make sure all tasks are done and requirements in or
             <legend class="usa-legend text-bold">Media Buying</legend>
             <div class="usa-checkbox">
                 <input class="usa-checkbox__input" id="media-buying-set-up" type="checkbox">
-                <label class="usa-checkbox__label" for="media-buying-set-up">Social "brand pages" set up</label>
+                <label class="usa-checkbox__label" for="media-buying-set-up">Social media "brand pages" set up</label>
             </div>
             <div class="usa-checkbox">
                 <input class="usa-checkbox__input" id="media-buying-verified" type="checkbox">
-                <label class="usa-checkbox__label" for="media-buying-verified">Social "brand pages" verified</label>
+                <label class="usa-checkbox__label" for="media-buying-verified">Social media "brand pages" verified</label>
             </div>
             <div class="usa-checkbox">
                 <input class="usa-checkbox__input" id="media-buying-self-serve" type="checkbox">
-                <label class="usa-checkbox__label" for="media-buying-self-serve">Self-serve platform accounts created and credit card info loaded in</label>
+                <label class="usa-checkbox__label" for="media-buying-self-serve">Self-serve platform accounts created and credit card info loaded</label>
             </div>
             <div class="usa-checkbox">
                 <input class="usa-checkbox__input" id="media-buying-payment" type="checkbox">
@@ -61,7 +61,7 @@ Here is a handy checklist to make sure all tasks are done and requirements in or
             <legend class="usa-legend text-bold">Tracking Implementation</legend>
             <div class="usa-checkbox">
                 <input class="usa-checkbox__input" id="tracking-implementation-ga4" type="checkbox">
-                <label class="usa-checkbox__label" for="tracking-implementation-ga4">GA4 (or other analytics platform) set up</label>
+                <label class="usa-checkbox__label" for="tracking-implementation-ga4">Google Analytics 4 (or other analytics platform) set up</label>
             </div>
             <div class="usa-checkbox">
                 <input class="usa-checkbox__input" id="tracking-implementation-action-events" type="checkbox">
@@ -81,7 +81,7 @@ Here is a handy checklist to make sure all tasks are done and requirements in or
 <div class="width-full padding-top-2">
     <form class="usa-form-large">
         <fieldset class="usa-fieldset">
-            <legend class="usa-legend text-bold">Dashboard & Reporting Set-up</legend>
+            <legend class="usa-legend text-bold">Dashboard and Reporting Set-up</legend>
             <div class="usa-checkbox">
                 <input class="usa-checkbox__input" id="dashboard-reporting-review" type="checkbox">
                 <label class="usa-checkbox__label" for="dashboard-reporting-review">Review of pre-packaged marketing campaign reports within analytics platform/self-serve media platform</label>
@@ -111,7 +111,7 @@ Here is a handy checklist to make sure all tasks are done and requirements in or
             </div>
             <div class="usa-checkbox">
                 <input class="usa-checkbox__input" id="trafficking-assets-instructions" type="checkbox">
-                <label class="usa-checkbox__label" for="trafficking-assets-instructions">Send instructions + assets to partners</label>
+                <label class="usa-checkbox__label" for="trafficking-assets-instructions">Send instructions and assets to partners</label>
             </div>
         </fieldset>
     </form>
