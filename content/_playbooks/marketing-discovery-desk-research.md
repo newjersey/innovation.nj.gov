@@ -5,13 +5,19 @@ order: 1
 
 The goal of Marketing Discovery \| Desk Research is to strengthen your understanding of the **real problem to be solved**, the audiences you are solving for, what they care about, and what moves them to action.
 
+This work consists of collecting information and data from internal and external sources (including academia, trusted news publishers, and government), analyzing the content, and identifying insights about your audience, their journey, their behaviors and preferences, as well as barriers and conduits to their success. 
+
+You’ll produce a research tracker to keep track of the data collected, and a research synthesis that documents your findings. 
+
+Findings from this phase will help inform further qualitative research in the next phase, as insights can be further unpacked and validated during audience interviews.
+
 ## Why it matters
 
 Desk research helps you create the foundation of your knowledge base and gives you insight into problems, opportunities, and hypotheses to test. It will be used to help frame more time-intensive qualitative interview research, and help you learn from others that have tried to solve your problem (or an aspect of it) already.
 
 ## How it works
 
-Conduct a literature review of all relevant research from government, academia, journals and trusted news sources, as well as first party (user) data.
+Conduct a literature review of all relevant research from government, academia, journals, and trusted news sources, as well as user data.
 
 Mine the research to help better understand your audience’s:
 
@@ -28,29 +34,29 @@ Typically 1-2 weeks to scan, analyze, and synthesize relevant data and research.
 
 ## Do it in a day
 
-Time-box a quick "market scan" to what you can get done in a day. Use Google to search for news articles and published reports, and Google Scholar to review academic publications. You can focus your efforts further by looking at just one source (i.e., just news articles or just US Census data). Even one insight or unexpected framing of existing data can plant the seeds for improved communication.
+Time-box a quick “market scan” to what can get done in a day. Do an online search for news articles and published reports, and use Google Scholar or similar tools to review academic publications. You can focus your efforts further by looking at just one source (i.e., just news articles or just US Census data). Even one insight or unexpected framing of existing data can plant the seeds for improved communication.
 
 ## Outputs
 
-- Research synthesis (create stripped down version)
+- Research synthesis
 - Insight tracker template
 
 <div class="usa-alert usa-alert--info margin-top-5">
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Pro Tip</h3>
         <p class="usa-alert__text">
-            There are a lot of great research and data resources that can be tapped into for desk research that don’t cost anything to use. A few of our favorite resources include:
-
+            There are a lot of great research and data resources that can be tapped into for desk research that are free to use. A few of our favorite resources include:
+        </p>
+        <p class="usa-alert__text">
             <ul>
-                <li> <a href="https://www.pewresearch.org/"> Pew Research </a> </li>
-                <li> <a href="https://data.census.gov/"> Census Bureau Data </a> </li>
-                <li> <a href="https://trends.google.com/trends/"> Google Trends </a> </li>
-                <li> <a href="https://scholar.google.com/"> Google Scholar </a> </li>
-                <li> <a href="https://neilpatel.com/ubersuggest/"> Ubersuggest  </a> (see free version) </li>
-                <li> <a href="https://www.emarketer.com/topics/category/emarketer"> Emarketer’s Insider Intelligence </a> </li>
-                <li> <a href="https://www.nielsen.com/insights/2021/insights/"> Nielsen </a> (see free insight reports)  </li>
+                <li><a href="https://www.pewresearch.org/">Pew Research</a> </li>
+                <li><a href="https://data.census.gov/">Census Bureau Data</a> </li>
+                <li><a href="https://trends.google.com/trends/">Google Trends</a> </li>
+                <li><a href="https://scholar.google.com/">Google Scholar</a> </li>
+                <li><a href="https://neilpatel.com/ubersuggest/">Ubersuggest</a> (see free version)</li>
+                <li><a href="https://www.emarketer.com/topics/category/emarketer">Emarketer’s Insider Intelligence</a></li>
+                <li><a href="https://www.nielsen.com/insights/2021/insights/">Nielsen</a> (see free insight reports)</li>
             </ul>
         </p>
     </div>
-
 </div>
