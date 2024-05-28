@@ -3,7 +3,7 @@ title: 06 Planning Your Campaign
 order: 6
 ---
 
-Pull together your defined strategies and validated messaging to create specific **tactics** to reach, activate, and optimize audiences by using media placements, creative execution, data collection, and reporting.
+Pull together your defined strategies and validated messaging to create specific tactics to reach, activate, and optimize audiences by using media placements, creative execution, data collection, and reporting.
 
 In this phase of work, you’ll develop the plans, assets, and infrastructure that will be implemented during campaign production. This includes media planning, partnership development, creative development, and tracking & reporting planning.
 
