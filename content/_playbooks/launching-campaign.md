@@ -1,6 +1,6 @@
 ---
-title: 08 Launching Your Campaign
-order: 8
+title: 09 Launching Your Campaign
+order: 9
 ---
 
 ## Why it matters
