@@ -7,7 +7,7 @@ order: 10
 
 Ongoing changes to your campaign means it will generate more, better results.
 
-Ongoing changes to your campaign means it will generate more, better results. Someone should be looking at your campaign’s performance every day to identify opportunities to make changes - moving media investment away from placements, creatives, and audiences that aren’t working into placements, creatives, and audiences that are working.
+Someone should be looking at your campaign’s performance every day to identify opportunities to make changes - moving media investment away from placements, creatives, and audiences that aren’t working into placements, creatives, and audiences that are working.
 
 Activities include either looking at your dashboard (or going into the media platform dashboards if you don’t have your own dashboard) to evaluate costs, key performance indicators (such as your cost per click, click through rate, conversion rate, and cost per conversion), and total volume (number of desired actions taken) to identify what is working, what is working, and what needs more testing. Changes are then made to campaign activity to shift investment to increase performance and decrease costs.
 

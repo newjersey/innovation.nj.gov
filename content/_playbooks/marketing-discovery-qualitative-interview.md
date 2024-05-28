@@ -82,7 +82,7 @@ The single most impactful action you can take is to gain insight into your audie
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Red Flag</h3>
         <p class="usa-alert__text">
-            “Imposter” interviews are increasingly problematic in audience research. This is when a respondent misrepresents themself to qualify for the research and be compensated for participation. See the C+E Lab’s guide to reducing the likelihood of imposters infiltrating your research efforts.
+            “Imposter” interviews are increasingly problematic in audience research. This is when a respondent misrepresents themself to qualify for the research and be compensated for participation. See <a href="https://docs.google.com/document/d/1wcgVOW2_e7shbkfOfAt1h3T4kB1MmvFwSQpss0WhkA8/edit?usp=sharing">the C+E Lab’s guide</a> to reducing the likelihood of imposters infiltrating your research efforts.
         </p>
     </div>
 </div>

@@ -55,5 +55,5 @@ Use the [C+E Lab’s Marketing Communication Strategy framework](https://docs.go
 Presentation of Marketing Communication Strategy deck with defined strategic approach, channel and creative strategies, and budget.
 
 - Marketing Communication Strategy (to come)
-- [Creative Brief Template](https://docs.google.com/document/d/10CJ5EWpxA39Q_-t5vm8LrjdpBklo3kYHBUSM7yEc0DQ/edit)
+- [Creative Brief Template](https://docs.google.com/document/d/1UKC5-b6VJeBC6dhA3lzkVzJoo1oHhegl--RGOa2ZZqA/edit?usp=sharing)
 - [Sample Channel Plan with Budget Options](https://docs.google.com/presentation/d/1-X6Ww7_XxfMTsElqmhRxLFHsLEoVJ0JQ2H2tkyY4z_U/edit#slide=id.g14715962381_0_44)

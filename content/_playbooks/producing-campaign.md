@@ -102,7 +102,7 @@ The important thing is to do the work of looking at what’s available and custo
 
 “Trafficking” a campaign means sending out detailed instructions and creative assets to your partners, and uploading everything into self-service platforms. There are two tools that manage this work:
 
-- **Creative Matrix**. A master workbook that specifies every media channel, site, placement, size, message and related creative asset. The more detailed the information in the Matrix, the more flexibility it will give you when you run performance reports. See example Creative Matrix here.
+- **Creative Matrix**. A master workbook that specifies every media channel, site, placement, size, message and related creative asset. The more detailed the information in the Matrix, the more flexibility it will give you when you run performance reports. See example Creative Matrix [here](https://docs.google.com/spreadsheets/d/1f4q_c14gNYxhzWcGQXeHVE_2FuVo8Vl4fD1DHQk5AlQ/edit#gid=0).
 - **Trafficking Instructions**. A document that organizes placement and creative asset information for your partner to implement. It should make it as easy as possible for anyone to pick up and be able to clearly understand what happens next. See example Trafficking Instructions here.
 
 ## How long it takes
