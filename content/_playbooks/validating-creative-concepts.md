@@ -23,7 +23,7 @@ Creative validation also saves time and money because it helps ensure you won’
 
 A quantitative test of 3-4 different creative concepts is run by survey to identify a “winner.” The concepts the C+E Lab tests typically consist of a script for a 30 second video ad, plus a visual element consisting of a logo with a tagline. This approach focuses respondents on the ideas and the message, and prevents bias caused by liking or disliking of imagery. Here is a sample:
 
-![Creative concept validation for business.nj.gov](/assets/images/playbook-creative-concept-validation.webp)
+![Sample script stimulus for creative concept testing](/assets/images/playbook-creative-concept-validation.webp)
 
 The concept that performs best against key attributes is identified as the winner. We recommend evaluating performance against likability, appeal, believability, and intent.
 
