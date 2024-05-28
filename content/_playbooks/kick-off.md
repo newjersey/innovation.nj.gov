@@ -46,7 +46,7 @@ For programs with eligibility requirements, you may want to tailor your outreach
 - Adults 18+, Household Income (HHI) >$50k, high school graduate, unemployed.
 - Moms with young kids at home, <$100k, high school or college graduate, employed
 
-**Psychographic information** provides insight into your audience’s attitudes, interests, values, and goals. These insights are combined with demographic data to create a well-rounded picture of your target audience. Uncovering psychographic insights is a big part of what happens during the [Discovery phase](./marketing-discovery-desk-research) (this comes next) but you might already have a few of these insights in your back pocket.
+**Psychographic information** provides insight into your audience’s attitudes, interests, values, and goals. These insights are combined with demographic data to create a well-rounded picture of your target audience. Uncovering psychographic insights is a big part of what happens during the [Discovery phase](../marketing-discovery-desk-research) (this comes next) but you might already have a few of these insights in your back pocket.
 
 Examples of psychographics could include things like:
 

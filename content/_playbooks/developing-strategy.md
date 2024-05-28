@@ -31,9 +31,14 @@ Your strategies should be informed by the data uncovered during discovery resear
 
 Your strategic approaches should be shared with stakeholders and aligned on before entering the next phase of the process, ensuring there are no surprises down the road.
 
-### Pro Tip
-
-Map out each decision in your strategy and understand how it supports your overall marketing objectives. Similarly, identify how the data and research you uncovered in discovery supports these decisions. This will help you convince your stakeholders that the strategic path you’re proposing is the right one.
+<div class="usa-alert usa-alert--info margin-top-5">
+    <div class="usa-alert__body">
+        <h3 class="usa-alert__heading">Pro Tip</h3>
+        <p class="usa-alert__text">
+            Map out each decision in your strategy and understand how it supports your overall marketing objectives. Similarly, identify how the data and research you uncovered in discovery supports these decisions. This will help you convince your stakeholders that the strategic path you’re proposing is the right one.
+        </p>
+    </div>
+</div>
 
 ## How long it takes
 
