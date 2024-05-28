@@ -13,7 +13,7 @@ The winning concept will be used as the basis for development of all campaign as
 
 ## Why it matters
 
-It’s important to measure how your audience reacts to the creative concepts that you’ve created. Don’t make assumptions about what message will resonate with your audience - ask them! And use the data to drive your decision-making.
+It’s important to measure how your audience reacts to the creative concepts that you’ve created. Don’t make assumptions about what message will resonate with your audience – ask them! And then use the data to drive your decision-making.
 
 Your campaign’s performance will be as strong as possible because it will run with messaging that has been validated as the most effective approach with your target audience, and that the approach is equitable in its appeal.
 
@@ -21,7 +21,7 @@ Creative validation also saves time and money because it helps ensure you won’
 
 ## How it works
 
-A quantitative test of 3-4 different creative concepts is run by survey to identify a “winner.” The concepts the C+E Lab tests typically consist of a script for a :30 video ad, plus a visual element consisting of a logo with a tagline. This approach focuses respondents on the ideas and the message, and prevents bias caused by liking or disliking of imagery. Here is a sample:
+A quantitative test of 3-4 different creative concepts is run by survey to identify a “winner.” The concepts the C+E Lab tests typically consist of a script for a 30 second video ad, plus a visual element consisting of a logo with a tagline. This approach focuses respondents on the ideas and the message, and prevents bias caused by liking or disliking of imagery. Here is a sample:
 
 ![Creative concept validation for business.nj.gov](/assets/images/playbook-creative-concept-validation.webp)
 
@@ -53,13 +53,13 @@ The process of validating creative concepts breaks down into three parts:
 2. Fielding
 3. Analysis
 
-Set up and QA can happen as quickly as 1-2 days and analysis should take no more than a week. It’s the time it can take for the survey to “field” and close that can be a wildcard.
+Set up and QA can happen in as quickly as 1-2 days, and analysis should take no more than a week. It’s the time it can take for the survey to “field” and close that can be a wildcard.
 
 A tightly defined survey audience criteria (i.e., geotargeting to a specific state with very narrow demographic requirements) narrows the pool of qualified respondents so the survey will have to run longer to generate the minimum number of completed responses. Running a survey on a national basis opens up the pool of potential respondents making it easier to run and close quickly - even within a few hours.
 
 If your program serves residents of a specific state, it’s important to geo-target your survey to get accurate feedback. Just be aware it might take a week or two to generate your targeted number of responses and build extra time into your Project Plan.
 
-It can also take more time to field surveys with audiences that are considered hard to reach. Hard to reach audiences include minors, the undocumented, and unhoused individuals. You may be able to successfully survey these audiences by allotting extra time for the fielding, or you may find alternative research methodologies (such as focus groups or one-on-one interviews) are a more effective solution.
+It can also take more time to field surveys with audiences that are considered hard to reach like minors, undocumented individuals, or unhoused individuals. You may be able to successfully survey these audiences by allotting extra time for the fielding, or you may find alternative research methodologies (such as focus groups or one-on-one interviews) are a more effective solution.
 
 ## Do it in a day
 
@@ -69,7 +69,7 @@ Simplify each script to a key idea, tagline, and logo. Use a boilerplate survey 
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Pro Tip</h3>
         <p class="usa-alert__text">
-            Validation testing can be used on any type of idea. Experiment with validating your product or service’s name before going live, especially if it’s an acronym or a bit “inside baseball”.
+            Validation testing can be used on any type of idea. Experiment with validating your product or service’s name before going live, especially if it’s an acronym or a bit “inside baseball."
         </p>
     </div>
 </div>
