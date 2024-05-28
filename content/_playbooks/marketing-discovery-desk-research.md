@@ -15,10 +15,10 @@ Conduct a literature review of all relevant research from government, academia, 
 
 Mine the research to help better understand your audience’s:
 
-- **Demographics** - where do they live, how much do they earn, who is in their family, how educated are they, do the work, etc.
-- **Journey** - what was their path to where they are now, what are the differences between those in your audience who are successful and those who struggle?
-- **Barriers** - what gets in the way of your audience’s progress, how do the barriers get there, and how can they be removed?
-- **Information/trusted sources** - who does your audience rely on for information and advice?
+- _Demographics_ - where do they live, how much do they earn, who is in their family, how educated are they, do they work, etc.
+- _Journey_ - what was their path to where they are now, what are the differences between those in your audience who are successful and those who struggle?
+- _Barriers_ - what gets in the way of your audience’s progress, how do the barriers get there, and how can they be removed?
+- _Information/trusted sources_ - who does your audience rely on for information and advice?
 
 Findings are compiled into a research synthesis document that highlights key takeaways about the audience’s demographics, the problems they face, and their journey. The findings should be enhanced with qualitative research interviews, and ultimately used to develop a strategic approach that reaches and activates your target audience based on what you have learned about them, their goals, and their needs.
 
@@ -28,7 +28,7 @@ Typically 1-2 weeks to scan, analyze, and synthesize relevant data and research.
 
 ## Do it in a day
 
-Time-box a quick "market scan" to what can get done in a day. Use Google to search for news articles and published reports, and Google Scholar to review academic publications. You can focus your efforts further by looking at just one source (i.e., just news articles or just US Census data). Even one insight or unexpected framing of existing data can plant the seeds for improved communication.
+Time-box a quick "market scan" to what you can get done in a day. Use Google to search for news articles and published reports, and Google Scholar to review academic publications. You can focus your efforts further by looking at just one source (i.e., just news articles or just US Census data). Even one insight or unexpected framing of existing data can plant the seeds for improved communication.
 
 ## Outputs
 
