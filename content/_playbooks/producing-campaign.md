@@ -5,7 +5,7 @@ order: 7
 
 Up until now, you have been learning, strategizing, and developing tactics. During production, you shift gears and start “building” your campaign – from producing creative assets and setting up media campaigns to implementing tracking and setting up reports.
 
-Activities include “producing” creative elements for the campaign (such as shooting and editing videos, animating banners, resizing print ads, etc.) At the same time, the final media plan is transformed into a media campaign through media buying (either directly through self serve platforms or through a vendor or consultant). Tracking is implemented on your website and tested to ensure the data you need to understand performance is coming through correctly, and a performance dashboard (or reporting template if there is no dashboard) is set up to make it easy to see how your campaign is performing against defined objectives and performance metrics.
+Activities include “producing” creative elements for the campaign (such as shooting and editing videos, animating banners, resizing print ads, etc.) At the same time, the final media plan is transformed into a media campaign through media buying (either directly through self-serve platforms or through a vendor or consultant). Tracking is implemented on your website and tested to ensure the data you need to understand performance is coming through correctly, and a performance dashboard (or reporting template if there is no dashboard) is set up to make it easy to see how your campaign is performing against defined objectives and performance metrics.
 
 At the end of production you will have done everything needed to launch your marketing campaign, understand how it works, and effectively move your audience to action.
 
@@ -38,7 +38,7 @@ The media plan developed during planning will need to be executed with campaign 
 
 Many organizations use vendors to execute their paid media campaigns, especially if their budgets are large. If your budget is smaller and your team has capacity, you might want to keep this work “in-house.” There are two ways you can buy and manage paid media:
 
-- **Self Service**. Many digital platforms including Google, Facebook, Instagram, YouTube, etc., are “self service.” This means you will need to create an advertising account on their platform and directly pay for the media. For most self service platforms, there is no minimum spend or length of time requirements. You can run a campaign for as little and long as you want.
+- **Self Service**. Many digital platforms including Google, Facebook, Instagram, YouTube, etc., are “self service.” This means you will need to create an advertising account on their platform and directly pay for the media. For most self-service platforms, there is no minimum spend or length of time requirements. You can run a campaign for as little and long as you want.
 - **Professional Services**. The more traditional advertising model involves being assigned an account representative who will plan and optimize your campaign for you. These engagements involve larger commitments (both time and money) – both of which can be negotiated. The campaigns are run based on “insertion order,” meaning you have negotiated payment terms and are sent an invoice each month after the prior month’s activity closes out.
 
 <div class="usa-alert usa-alert--info margin-top-5">
@@ -76,7 +76,7 @@ During Planning you identified what actions need to be tracked and where trackin
             It is imperative that tracking implementation be thoroughly QA’d before a campaign goes live. Click on a representative sample of UTMs and take all the actions you are tracking (visit a page, register on the site, sign up for a newsletter, etc.) and look at the data to confirm what is reported aligns with the actions taken.
         </p>
         <p class="usa-alert__text">
-            The process to QA pixel-based tracking will be a bit different. If you are running your campaign through a professional services engagement, your partner will work with you to QA the tracking implementation. If you are working with a self serve platform that requires a pixel (such as Facebook), you will need to put the campaign live first (you can do it for a very small amount) to double check everything is working properly.
+            The process to QA pixel-based tracking will be a bit different. If you are running your campaign through a professional services engagement, your partner will work with you to QA the tracking implementation. If you are working with a self-serve platform that requires a pixel (such as Facebook), you will need to put the campaign live first (you can do it for a very small amount) to double check everything is working properly.
         </p>
     </div>
 </div>
@@ -85,7 +85,7 @@ During Planning you identified what actions need to be tracked and where trackin
 
 Regardless of how you are tracking your campaign, you should be able to access real-time performance reports directly from your tracking and reporting interface.
 
-Many analytics platforms come with pre-built marketing reports that can be customized, or they might give you the option of creating your own from-scratch views. This is also true for self service media platforms including Meta (Facebook/Instagram) and Google Ads (paid search, YouTube, display, etc.)
+Many analytics platforms come with pre-built marketing reports that can be customized, or they might give you the option of creating your own from-scratch views. This is also true for self-service media platforms including Meta (Facebook/Instagram) and Google Ads (paid search, YouTube, display, etc.)
 
 The important thing is to do the work of looking at what’s available and customizing the views BEFORE the campaign goes live so you are ready to hit the ground running with the launch.
 
@@ -100,7 +100,7 @@ The important thing is to do the work of looking at what’s available and custo
 
 ### 5. Trafficking
 
-“Trafficking” a campaign means sending out detailed instructions and creative assets to your partners, and uploading everything into self service platforms. There are two tools that manage this work:
+“Trafficking” a campaign means sending out detailed instructions and creative assets to your partners, and uploading everything into self-service platforms. There are two tools that manage this work:
 
 - **Creative Matrix**. A master workbook that specifies every media channel, site, placement, size, message, and related creative asset. The more detailed the information in the Matrix, the more flexibility it will give you when you run performance reports. See example Creative Matrix [here](https://docs.google.com/spreadsheets/d/1f4q_c14gNYxhzWcGQXeHVE_2FuVo8Vl4fD1DHQk5AlQ/edit#gid=0).
 - **Trafficking Instructions**. A document that organizes placement and creative asset information for your partner to implement. It should make it as easy as possible for anyone to pick up and be able to clearly understand what happens next. See example Trafficking Instructions here.
@@ -121,7 +121,7 @@ In parallel, continue to implement tracking, develop more assets, etc., and roll
 
 - Completed set-up/production tasks:
   - Produced creative assets
-  - Media campaign set-up on self serve platforms
+  - Media campaign set-up on self-serve platforms
   - Tracking implemented and QA’d
   - Dashboard/performance reports setup
 - [UTMs for trafficking](https://docs.google.com/spreadsheets/d/1rZO3ea0e5wyNHpFPY6L3r3Cc9CfZ44-KsPkaYtmf0TA/edit?usp=sharing)
