@@ -28,6 +28,7 @@ The C+E Lab’s mission is to better connect New Jersey residents with State pro
 We do this by using consumer marketing best practices to bring a resident-first approach to government communication.
 
 A resident-first approach changes how we talk to our audience, from the things we think are important to what residents really care about.
+
 We start by conducting research to understand resident motivations. We then use the findings to articulate the true value for the resident with messaging and craft strategies to meet residents where they are – and move them to action.
 
 Our messaging is validated before launch, which means we go to market with the messaging that has been proven as most effective. We scale the impact of our live campaigns using the strategies and tactics that are proven to drive results.
@@ -38,14 +39,20 @@ Our process is outlined here so you can follow it too.
 
 ## What's Inside
 
-This Playbook is your how-to guide to incorporating a resident-first communication approach into your practice. It lays out the entire marketing process from insight to optimization. You can follow the process in its entirety or experiment with incorporating parts of it ad hoc.
+This Playbook is your how-to guide to incorporating a resident-first marketing approach into your practice. It lays out the entire marketing process from insight to optimization. You can follow the process in its entirety or experiment with incorporating parts of it ad hoc.
 
 For each part of the process we tell you what you need to know to start doing this work:
 
-1. Why it matters
-2. How it works
-3. How long it takes
+1. **Why it matters**: a description of why a given play is important.
+2. **How it works**: an overview of how you can execute the play.
+3. **How long it takes**: a time estimate for you to complete the play.
+4. **Outputs**: the deliverables, artifacts, work product, etc. you produce from a play.
+5. **Do it in a day**: how to run the play if you only have limited time available.
+6. **Red flags**: mission critical pieces of information that you need to consider.
+7. **Pro tips**: highlights of more advanced applications of the play for you to take on.
 
-Not everyone has the time to go through the full process. That’s why we boiled down each component to Do It in a Day so anyone can try the methodology.
+Not everyone has the time to go through the full process. That’s why we boiled down each component to “Do it in a Day” so anyone can try the methodology.
 
 Mission-critical pieces of information are called out as Red Flags, and more advanced applications of the process are noted as Pro Tips.
+
+Whether you follow the full process from start-to-finish, or cherry pick components to experiment with, the tools and tools and techniques in this Playbook will help you better connect with your constituents and move them to action.
