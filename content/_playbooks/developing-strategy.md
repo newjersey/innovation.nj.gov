@@ -23,9 +23,9 @@ Data and insights gathered during discovery are translated into a strategic appr
 
 This generally includes:
 
-- _Identifying the channels_ (social media, TV, and/or CTV/streaming, community-based partnerships, direct email, print, etc.) you will use to reach your audience. These should be the channels that your target audiences use the most.
-- _Deciding the creative formats_ (video, animated banners, static ads, website graphics, email templates, etc.) required to support your identified channels. These should be the formats your audience prefers to engage with (e.g., video) and that you have the resources to produce.
-- _Defining the messaging cadence_ your campaign will follow. This will include defining the “flighting” or timing of messaging (do you have a “launch” phase with heavy activity followed by a “sustaining” or ongoing phase with reduced but steady activity), how your messaging will work together (will you develop messages promoting different benefits to support different audience segments or personas), and will you run the same messaging over the course of the campaign or swap different messages in and out based on key topics or timely events.
+- **Identifying the channels** (social media, TV, and/or CTV/streaming, community-based partnerships, direct email, print, etc.) you will use to reach your audience. These should be the channels that your target audiences use the most.
+- **Deciding the creative formats** (video, animated banners, static ads, website graphics, email templates, etc.) required to support your identified channels. These should be the formats your audience prefers to engage with (e.g., video) and that you have the resources to produce.
+- **Defining the messaging cadence** your campaign will follow. This will include defining the “flighting” or timing of messaging (do you have a “launch” phase with heavy activity followed by a “sustaining” or ongoing phase with reduced but steady activity), how your messaging will work together (will you develop messages promoting different benefits to support different audience segments or personas), and will you run the same messaging over the course of the campaign or swap different messages in and out based on key topics or timely events.
 
 Your strategies should be informed by the data uncovered during discovery research and advance your efforts to meet your defined marketing objectives.
 
