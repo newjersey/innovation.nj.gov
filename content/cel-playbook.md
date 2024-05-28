@@ -23,19 +23,43 @@ We are inundated by voices constantly fighting to grab our attention. For a mess
 
 ## About the C+E Lab
 
-The C+E Lab’s mission is to better connect New Jersey residents with State programs, services, and initiatives.
+The New Jersey State Office of Innovation’s Communication + Engagement Lab is bringing a resident-first approach to government marketing campaigns.
 
-We do this by using consumer marketing best practices to bring a resident-first approach to government communication.
+We use consumer marketing techniques to move residents to action:
 
-A resident-first approach changes how we talk to our audience, from the things we think are important to what residents really care about.
+- Conduct **research** to understand resident **motivations**.
+- Use learnings to articulate the **true value for the resident**.
+- Craft strategies to **meet residents where they are** and move them to action.
 
-We start by conducting research to understand resident motivations. We then use the findings to articulate the true value for the resident with messaging and craft strategies to meet residents where they are – and move them to action.
+This approach changes how we talk to our audience. Instead of telling our audience what we want them to know, we instead talk to them about the things they really care about.
 
-Our messaging is validated before launch, which means we go to market with the messaging that has been proven as most effective. We scale the impact of our live campaigns using the strategies and tactics that are proven to drive results.
+**Our mission** is to better connect New Jersey’s residents and institutions to state programs, resources, and services.
 
-We scale the impact of live campaigns using strategies and tactics that are proven to drive results.
+We are advancing our mission by building systems that **improve** and **scale** the State’s ability to market to residents by:
 
-Our process is outlined here so you can follow it too.
+- Improving the **quality** of the State's marketing communication.
+- Building **capacity** within the State to market to residents.
+- Strengthening the **ability** of the State to effectively market to residents.
+
+And providing services and strategies that increase the impact of State efforts. We collaborate with departments and agencies to help them:
+
+1. **Understand their audience**. We uncover **insights into resident motivations**, so we can develop strategies to reach and activate them.
+2. **Run marketing campaigns**. We develop, build and launch marketing campaigns that **move residents to action**.
+3. **Be better marketers**. We help grow and empower internal marketing talent and vendor partners with **training, onboarding, and processes**.
+
+The Communication + Engagement Lab is strengthening marketing outcomes by offering a full suite of in-house **advertising and marketing services** including:
+
+- **Advisory**: Marketing consulting and campaign optimization
+- **Research, Data & Insights**: Ethnographic interviews, testing & validation, audience surveys, insight mining, campaign tracking and reporting, dashboards, research briefs, competitive Analysis
+- **Strategy**: audience definition, segment and persona development, value proposition development, marketing strategy, budget scenarios
+- **Creative**: creative briefs, creative ideation, concepting and development, creative production (video, banners, email, etc.), product naming
+- **Media**: media planning and budgeting, media implementation and optimization, channel Planning and budgeting
+
+We provide engagement models that support stakeholder goals and needs:
+
+- **Advisory Support** (advice and guidance on strategy, creative and key decisions)
+- **Leadership & Management** (end-to-end development and execution)
+- **Ad-Hoc** (subject matter expert advice and “coaching” when it is needed)
 
 ## What's Inside
 
