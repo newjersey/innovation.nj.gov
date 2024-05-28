@@ -3,7 +3,7 @@ title: 03 Developing Your Strategy
 order: 3
 ---
 
-This is where the magic happens: the **strategies** for how you will achieve your goals are defined and made actionable for execution.
+This is where the magic happens: the strategies for how you will achieve your goals are defined and made actionable for execution.
 
 During this phase of work, you’ll use the information and insights gathered during kick-off and discovery to define strategies to reach and activate your target audience. This includes identifying the media channels and creative formats you will be using, as well as developing the creative strategy that will inform creative development.
 
