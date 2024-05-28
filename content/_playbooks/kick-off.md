@@ -3,7 +3,7 @@ title: 00 The Kick Off
 order: 0
 ---
 
-Every initiative, project, or campaign starts with a kick-off meeting where contributors and decision-makers involved with the marketing campaign get to know each other, define **objectives**, and align on engagement parameters.
+Every initiative, project, or campaign starts with a kick-off meeting where contributors and decision-makers involved with the marketing campaign get to know each other, define objectives, and align on engagement parameters.
 
 The kick-off meeting is the first step in getting your marketing campaign off the ground. It is a 1-hour meeting where contributors and decision-makers get to know each other, define objectives and timing, and align on engagement parameters.
 
