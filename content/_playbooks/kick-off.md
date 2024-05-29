@@ -4,11 +4,11 @@ title: The Kick Off
 
 Every initiative, project, or campaign starts with a kick-off meeting where contributors and decision-makers involved with the marketing campaign get to know each other, define objectives, and align on engagement parameters.
 
-The kick-off meeting is the first step in getting your marketing campaign off the ground. It is a 1-hour meeting where contributors and decision-makers get to know each other, define objectives and timing, and align on engagement parameters.
+The kick-off meeting is the first step in getting your marketing campaign off the ground. It is a one-hour meeting where contributors and decision-makers get to know each other, define objectives and timing, and align on engagement parameters.
 
-Activities include information gathering, discussion and agreement on campaign parameters that are documented in the Campaign Brief, Project Plan and Discovery Questionnaire. If there are outstanding decisions coming out of the kick-off, additional meetings will need to be scheduled to work through and align.
+Activities include information gathering, discussion, and agreement on campaign parameters that are documented in the Campaign Brief, Project Plan, and Discovery Questionnaire. If there are outstanding decisions coming out of the kick-off, additional meetings will need to be scheduled to work through and align.
 
-Outputs from the kick-off are a completed Campaign Brief, Project Plan, Discovery Questionnaire and team roles and responsibilities documentation The documents from the kick-off will determine the timing, requirements, and ways of working to be followed for the rest of the campaign.
+Outputs from the kick-off are a completed Campaign Brief, Project Plan, Discovery Questionnaire, and team roles and responsibilities documentation. The documents from the kick-off will determine the timing, requirements, and ways of working to be followed for the rest of the campaign.
 
 ## Why it matters
 
@@ -22,7 +22,7 @@ Decision-makers involved with the marketing campaign (your stakeholders) are bro
 
 Objective setting is the most important, and often hardest, part of the conversation. To help make things easier, we break objectives down into two separate categories: Impact and Marketing.
 
-An **impact objective** speaks to what the specific outcome that the initiative or program is working to achieve. For an existing program or initiative, this is often something like increasing uptake of the program or service. It can focus on changing behaviors (i.e., decreasing smoking) or driving improved outcomes (such as securing a higher-paying job).
+An **impact objective** speaks to what the specific outcome that the initiative or program is working to achieve. For an existing program or initiative, this is often something like increasing uptake of the program or service. It can focus on changing behaviors (e.g., decreasing smoking) or driving improved outcomes (e.g., securing a higher-paying job).
 
 For a new program or initiative, it’s often generating first-time use or enrollment.
 
@@ -30,7 +30,7 @@ A **marketing objective** supports your initiative’s impact objective. Marketi
 
 For programs that are “high consideration”—meaning your program requires your audience to take multiple steps, takes a lot of time to complete the process, and/or there may be multiple people involved in decision-making—the marketing objectives need to take into account each step in the process. For example, creating awareness about a program, driving leads of residents that are interested in the program, and generating lead “conversions” where the resident actually enrolls in the program.
 
-Your defined marketing objectives will ultimately determine the “call to action” (CTA) used in your campaign. For example, if your goal is to create awareness with your audience about a new program, your CTA could be “learn more”. If you are trying to drive enrollments in your program your call to action would be “enroll now.”
+Your defined marketing objectives will ultimately determine the “call to action” (CTA) used in your campaign. For example, if your goal is to create awareness with your audience about a new program, your CTA could be “learn more." If you are trying to drive enrollments in your program your call to action would be “enroll now.”
 
 ### 2. Establish Target Audience
 
@@ -40,7 +40,7 @@ A target audience should be defined by a combination of demographic and psychogr
 
 For programs with eligibility requirements, you may want to tailor your outreach to likely eligible populations. In those cases you can use demographic information to target media placements to reach residents with similar characteristics of those who qualify.
 
-**Demographic information** used for media targeting includes criteria such as Gender, Age, Race, Marital Status, Income, Household makeup, Education, and Employment status. Here are two examples of Demographics could look like:
+**Demographic information** used for media targeting includes criteria such as gender, age, race, marital status, income, household makeup, education, and employment status. Here are two examples of what demographics could look like:
 
 - Adults 18+, Household Income (HHI) >$50k, high school graduate, unemployed.
 - Moms with young kids at home, <$100k, high school or college graduate, employed
@@ -67,7 +67,7 @@ Budgets should account for resources needed to:
 
 ### 4. Align on Team Member Roles and Responsibilities
 
-Roles and responsibilities for each stakeholder should be identified. Typically, this involves Executive Sponsors who are periodically updated on progress, and working members who collaborate to move development forward.
+Roles and responsibilities for each stakeholder should be identified. Typically, this involves executive sponsors who are periodically updated on progress, and working members who collaborate to move development forward.
 
 If team member roles and responsibilities aren’t immediately clear, it can be helpful to schedule a separate meeting to complete a responsibility chart, commonly known as a RACI (responsible, accountable, consulted, informed). Collectively working through this framework will ensure all team members are aligned on their respective roles and responsibilities.
 
@@ -98,7 +98,7 @@ It is extremely important that “metrics for success” are defined up front so
 
 Your success metrics should directly align with both your impact and marketing objectives.
 
-_Marketing metrics_ can be used to automatically optimize a campaign’s performance and to inform strategic decisions. Marketing metrics often include things like:
+**Marketing metrics** can be used to automatically optimize a campaign’s performance and to inform strategic decisions. Marketing metrics often include things like:
 
 - Conversion rate
 - Total number of conversions
@@ -106,13 +106,13 @@ _Marketing metrics_ can be used to automatically optimize a campaign’s perform
 - Click through rate (CTR)
 - Cost per click (CPC)
 
-_Impact metrics_ often can’t be assessed until after a marketing campaign has ended. That’s because impact objectives can take a long time to realize, and it’s not possible to optimize a media campaign in real time if the true results won’t be available until months after the campaign ends. In those cases, success can be evaluated against the achievement of defined marketing goals.
+**Impact metrics** often can’t be assessed until after a marketing campaign has ended. That’s because impact objectives can take a long time to realize, and it’s not possible to optimize a media campaign in real time if the true results won’t be available until months after the campaign ends. In those cases, success can be evaluated against the achievement of defined marketing goals.
 
 For example, your program might provide underemployed adults with training to help them land a higher paying job. Your impact goal is to improve the economic outcomes of the adults you help train, but your marketing goal is generating registrations for the program that helps them get the training. By generating registrations for your training program you are contributing to the improvement of economic outcomes for the people who participate.
 
 ## How long it takes
 
-_Two weeks_. The initial meeting takes about an hour, but you may need follow-up conversations if there isn’t initial alignment or tough decisions to be made. Of course, scheduling can always be challenging too.
+Two weeks. The initial meeting takes about an hour, but you may need follow-up conversations if there isn’t initial alignment or tough decisions to be made. Of course, scheduling can always be challenging too.
 
 If your stakeholders are clear on the need to gather and attendees are empowered to make decisions, the kick-off meeting can be quick and easy. It often takes a few conversations to gain full alignment.
 
