@@ -26,6 +26,10 @@ The C+E Lab encourages residents to take action by using proven consumer marketi
 - The C+E Lab was launched in early 2022 and continues to conduct major end-to-end campaigns with State teams and agencies, along with limited engagements primarily focused on research, validation, and establishing benchmarks for future learning.
 - As of April 2024, current projects include working with the Office of the Secretary of Higher Education and the Higher Education Student Assistance Authority to develop a new marketing campaign to generate enrollments of aid eligible-residents in 2- and 4-year higher education institutions, working with the Department of Labor to develop an annual communication strategy to inform messaging outreach for the newly launched MyCareerNJ platform, working with the Business.NJ.gov team to extend the impact of its paid media campaign, and more.
 
+### Resources and Additional Information
+
+- [Communication + Engagement Lab's Playbook](/cel-playbook).
+
 ### Partners
 
 - NJ State Department of Labor
