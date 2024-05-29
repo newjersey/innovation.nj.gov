@@ -1,6 +1,5 @@
 ---
-title: 00 The Kick Off
-order: 0
+title: The Kick Off
 ---
 
 Every initiative, project, or campaign starts with a kick-off meeting where contributors and decision-makers involved with the marketing campaign get to know each other, define objectives, and align on engagement parameters.

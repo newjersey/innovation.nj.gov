@@ -1,6 +1,5 @@
 ---
-title: 03 Developing Your Strategy
-order: 3
+title: Developing Your Strategy
 ---
 
 This is where the magic happens: the strategies for how you will achieve your goals are defined and made actionable for execution.

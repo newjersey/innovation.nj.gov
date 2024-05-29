@@ -1,13 +1,12 @@
 ---
-title: "01 Conducting Discovery: Desk Research"
-order: 1
+title: "Conducting Discovery: Desk Research"
 ---
 
 The goal of Marketing Discovery \| Desk Research is to strengthen your understanding of the real problem to be solved, the audiences you are solving for, what they care about, and what moves them to action.
 
-This work consists of collecting information and data from internal and external sources (including academia, trusted news publishers, and government), analyzing the content, and identifying insights about your audience, their journey, their behaviors and preferences, as well as barriers and conduits to their success. 
+This work consists of collecting information and data from internal and external sources (including academia, trusted news publishers, and government), analyzing the content, and identifying insights about your audience, their journey, their behaviors and preferences, as well as barriers and conduits to their success.
 
-You’ll produce a research tracker to keep track of the data collected, and a research synthesis that documents your findings. 
+You’ll produce a research tracker to keep track of the data collected, and a research synthesis that documents your findings.
 
 Findings from this phase will help inform further qualitative research in the next phase, as insights can be further unpacked and validated during audience interviews.
 

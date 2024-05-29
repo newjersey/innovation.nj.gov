@@ -1,6 +1,5 @@
 ---
-title: "02 Conducting Discovery: Qualitative Interviews"
-order: 2
+title: "Conducting Discovery: Qualitative Interviews"
 ---
 
 Marketing Discovery: Qualitative Interviews uncover emotional insights from your audience that will be used to inform creative execution.

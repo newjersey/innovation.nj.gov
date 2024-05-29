@@ -1,6 +1,5 @@
 ---
-title: 10 Optimizing Your Campaign
-order: 10
+title: Optimizing Your Campaign
 ---
 
 ## Why it matters
