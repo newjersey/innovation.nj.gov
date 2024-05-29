@@ -81,7 +81,7 @@ The single most impactful action you can take is to gain insight into your audie
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Red Flag</h3>
         <p class="usa-alert__text">
-            “Imposter” interviews are increasingly problematic in audience research. This is when a respondent misrepresents themself to qualify for the research and be compensated for participation. See <a href="https://docs.google.com/document/d/1wcgVOW2_e7shbkfOfAt1h3T4kB1MmvFwSQpss0WhkA8/edit?usp=sharing">the C+E Lab’s guide</a> to reducing the likelihood of imposters infiltrating your research efforts.
+            “Imposter” interviews are increasingly problematic in audience research. This is when a respondent misrepresents themself to qualify for the research and be compensated for participation. See the C+E Lab’s guide (coming soon) to reducing the likelihood of imposters infiltrating your research efforts.
         </p>
     </div>
 </div>
@@ -119,6 +119,6 @@ Qualitative research uses a series of frameworks that organize your efforts in s
 
 ## To Be Reviewed
 
-- [Research Brief Template](https://docs.google.com/document/d/13um0EIzq6WxrEUfRPiKz1M96NUxNZPONXt8GIAB5ykw/edit?usp=drive_link)
-- [Research Discussion Guide Template](https://docs.google.com/document/d/1urUIB6kkuxQgm7L-n-zYB7dW8y8By2au2ZJjXQOloSA/edit?usp=drive_link)
-- [Audience Analysis](https://docs.google.com/presentation/d/1TXEsK6E8ZKZgpIFEz7SUE4dszlrs5nCpDySsrIEmW78/edit?usp=sharing) (created stripped down template)
+- [Research Brief Template](/assets/playbook/qualitative-interviews-research-brief-template.docx)
+- [Research Discussion Guide Template](/assets/playbook/qualitative-interview-discussion-guide-template.docx)
+- Audience Analysis (coming soon)

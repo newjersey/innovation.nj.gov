@@ -126,10 +126,10 @@ Teams are busier than ever and it can be a real struggle to find an hour when ev
 
 Several key artifacts are produced from the kick-off that document agreed-to campaign parameters. Outputs include:
 
-- [Kick-off Meeting Agenda](https://docs.google.com/document/d/13ZF1pzSSbIUrCWQzXfJy82oZqkr9rlm1JPNLf9U30hY/edit) - a framework to facilitate your first team discussion
-- [Campaign Brief](https://docs.google.com/document/d/1uMybIg6ZKBG-VB0E3eE-Z6USA6f_RKkdVUZzrlWYMeM/edit) - a document that defines the campaign’s objectives, target audience, target launch date and executional parameters (i.e., brand requirements to be followed or if there are known deliverables that will need to be produced).
-- [Project Plan](https://docs.google.com/spreadsheets/d/1KJka7khvAQ49QuIeoCETFKX0Z5UCJuqJ/edit#gid=380951645) - a document that defines the deliverables needed to get to launch, who will be responsible for delivering them, and by what date.
-- [Discovery Questionnaire](https://docs.google.com/document/d/1Wb26LoOjm0yyNVX1dYSZxx3lW_Yv1lwxZDAMrch75w4/edit) - a document that solicits additional detail and context from the product/program leads to inform the development of the new marketing campaign.
+- [Kick-off Meeting Agenda](/assets/playbook/kick-off-meeting-agenda-template.docx) - a framework to facilitate your first team discussion
+- [Campaign Brief](/assets/playbook/campaign-brief-template.docx) - a document that defines the campaign’s objectives, target audience, target launch date and executional parameters (i.e., brand requirements to be followed or if there are known deliverables that will need to be produced).
+- [Project Plan](/assets/playbook/project-plan-template.xlsx) - a document that defines the deliverables needed to get to launch, who will be responsible for delivering them, and by what date.
+- [Discovery Questionnaire](/assets/playbook/discovery-questionnaire-template.docx) - a document that solicits additional detail and context from the product/program leads to inform the development of the new marketing campaign.
 - RACI (to come) - a framework to identify and document team roles and responsibilities.
 
 Everything that happens next will build on what has been decided in the kick-off and should not deviate from what has been documented. The documents will continually be referred back to over the course of campaign development so it’s important they are accurate and aligned on by all stakeholders.

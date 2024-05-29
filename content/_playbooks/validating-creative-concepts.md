@@ -75,6 +75,6 @@ Simplify each script to a key idea, tagline, and logo. Use a boilerplate survey 
 
 ## Outputs
 
-- [Research Brief Template](https://docs.google.com/document/d/13um0EIzq6WxrEUfRPiKz1M96NUxNZPONXt8GIAB5ykw/edit?usp=drive_link)
-- [Research Discussion Guide Template](https://docs.google.com/document/d/1urUIB6kkuxQgm7L-n-zYB7dW8y8By2au2ZJjXQOloSA/edit?usp=drive_link)
-- [Audience Analysis](https://docs.google.com/presentation/d/1TXEsK6E8ZKZgpIFEz7SUE4dszlrs5nCpDySsrIEmW78/edit?usp=sharing)
+- [Research Brief Template](/assets/playbook/qualitative-interviews-research-brief-template.docx)
+- [Research Discussion Guide Template](/assets/playbook/qualitative-interview-discussion-guide-template.docx)
+- Audience Analysis (coming soon)

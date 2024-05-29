@@ -47,12 +47,12 @@ The first time this work is done will take the longest. Once you have developed 
 
 ## Do it in a day
 
-Use the [C+E Lab’s Marketing Communication Strategy framework](https://docs.google.com/spreadsheets/d/1k8vQRPecCnwVRUANDZcXmoUvX3LA9-X0aVlA4sPeszA/edit#gid=0) to quickly develop a strategic framework. Like most things, the more robust the intelligence going into the framework is, the better its output will be.
+Use the [C+E Lab’s Marketing Communication Strategy framework](/assets/playbook/marketing-communication-framework-template.xlsx) to quickly develop a strategic framework. Like most things, the more robust the intelligence going into the framework is, the better its output will be.
 
 ## Outputs
 
 Presentation of Marketing Communication Strategy deck with defined strategic approach, channel and creative strategies, and budget.
 
 - Marketing Communication Strategy (to come)
-- [Creative Brief Template](https://docs.google.com/document/d/1UKC5-b6VJeBC6dhA3lzkVzJoo1oHhegl--RGOa2ZZqA/edit?usp=sharing)
-- [Sample Channel Plan with Budget Options](https://docs.google.com/presentation/d/1-X6Ww7_XxfMTsElqmhRxLFHsLEoVJ0JQ2H2tkyY4z_U/edit#slide=id.g14715962381_0_44)
+- [Creative Brief Template](/assets/playbook/creative-brief-template.docx)
+- Sample Channel Plan with Budget Options (to come)

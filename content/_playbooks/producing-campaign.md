@@ -53,7 +53,7 @@ Many organizations use vendors to execute their paid media campaigns, especially
 
 During Planning you identified what actions need to be tracked and where tracking needs to be implemented to provide visibility into campaign performance against objectives. There are two types of tracking that need to be implemented to support your marketing campaign.
 
-- **UTM tracking**. A UTM code (UTM stands for Urchin Tracking Module – which originates from a discontinued software platform purchased by Google in 2005) or parameter identifies information about your marketing activity. It’s a snippet of text that gets added to the end of a URL to create a “trafficking URL.” The UTM code can contain up to five parameters: Campaign, source, medium, content, and term. You can use our [UTM generator](https://docs.google.com/spreadsheets/d/1rZO3ea0e5wyNHpFPY6L3r3Cc9CfZ44-KsPkaYtmf0TA/edit?usp=sharing) to create your own trafficking URLs. UTMs can be used to track both Partner and Paid Media activity.
+- **UTM tracking**. A UTM code (UTM stands for Urchin Tracking Module – which originates from a discontinued software platform purchased by Google in 2005) or parameter identifies information about your marketing activity. It’s a snippet of text that gets added to the end of a URL to create a “trafficking URL.” The UTM code can contain up to five parameters: Campaign, source, medium, content, and term. You can use our UTM generator (coming soon) to create your own trafficking URLs. UTMs can be used to track both Partner and Paid Media activity.
 - **Tracking Pixel.** A tracking pixel is an invisible javascript code that lives on a website or email. Paid media vendors often require their proprietary pixel to be installed on your website for the campaign to run (this includes Facebook, Instagram, ad serving platforms and all programmatic media vendors). That’s because the pixel collects information about visitor actions on your website and automatically optimizes performance based on the action taken (or not taken). Pixels are required for conversion-optimization and re-targeting campaigns.
 
 <div class="usa-alert usa-alert--info margin-top-5">
@@ -101,7 +101,7 @@ The important thing is to do the work of looking at what’s available and custo
 
 “Trafficking” a campaign means sending out detailed instructions and creative assets to your partners, and uploading everything into self-service platforms. There are two tools that manage this work:
 
-- **Creative Matrix**. A master workbook that specifies every media channel, site, placement, size, message, and related creative asset. The more detailed the information in the Matrix, the more flexibility it will give you when you run performance reports. See example Creative Matrix [here](https://docs.google.com/spreadsheets/d/1f4q_c14gNYxhzWcGQXeHVE_2FuVo8Vl4fD1DHQk5AlQ/edit#gid=0).
+- **Creative Matrix**. A master workbook that specifies every media channel, site, placement, size, message, and related creative asset. The more detailed the information in the Matrix, the more flexibility it will give you when you run performance reports. See [our example Creative Matrix](/assets/playbook/creative-matrix-template.xlsx)
 - **Trafficking Instructions**. A document that organizes placement and creative asset information for your partner to implement. It should make it as easy as possible for anyone to pick up and be able to clearly understand what happens next.
 
 ## How long it takes
@@ -123,5 +123,5 @@ In parallel, continue to implement tracking, develop more assets, etc., and roll
   - Media campaign set-up on self-serve platforms
   - Tracking implemented and QA’d
   - Dashboard/performance reports setup
-- [UTMs for trafficking](https://docs.google.com/spreadsheets/d/1rZO3ea0e5wyNHpFPY6L3r3Cc9CfZ44-KsPkaYtmf0TA/edit?usp=sharing)
-- Sample [Creative Matrix](https://docs.google.com/spreadsheets/d/1f4q_c14gNYxhzWcGQXeHVE_2FuVo8Vl4fD1DHQk5AlQ/edit#gid=0)
+- UTMs for trafficking (coming soon)
+- [Sample Creative Matrix](/assets/playbook/creative-matrix-template.xlsx)

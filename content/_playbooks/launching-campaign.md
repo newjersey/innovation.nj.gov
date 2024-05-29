@@ -26,7 +26,7 @@ Digital media typically goes live right away (within 24 hours) while “traditio
 - **Paid Search**: Immediately.
 - **Display**: Within 24 hours. Most ad networks have an automated review process that can take up to 24 hours to complete.
 - **Streaming**: Within 24–48 hours.
-- **Digital Out of Home (OOH)**: “Digital live board” placements are deployed by the media owner from a central platform and can go live within about 24 hours, or on your tscheduled date, depending on available inventory.
+- **Digital Out of Home (OOH)**: “Digital live board” placements are deployed by the media owner from a central platform and can go live within about 24 hours, or on your scheduled date, depending on available inventory.
 - **Streaming Audio**: Immediately.
 
 ### Traditional Media
