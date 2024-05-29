@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/fastcompany-logo.png
 title: "Coverage: New Jersey Is Turning to AI to Improve The Job Search Process"
-promoted: 2
+promoted: 
 date: April 11, 2024 
 source: Fast Company
 cta:
