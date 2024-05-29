@@ -38,7 +38,7 @@ Time-box a quick “market scan” to what can get done in a day. Do an online s
 ## Outputs
 
 - Research synthesis
-- Insight tracker template
+- Insight template
 
 <div class="usa-alert usa-alert--info margin-top-5">
     <div class="usa-alert__body">
