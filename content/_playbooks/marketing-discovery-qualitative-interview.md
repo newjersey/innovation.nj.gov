@@ -81,7 +81,7 @@ The single most impactful action you can take is to gain insight into your audie
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Red Flag</h3>
         <p class="usa-alert__text">
-            “Imposter” interviews are increasingly problematic in audience research. This is when a respondent misrepresents themself to qualify for the research and be compensated for participation. See the C+E Lab’s guide (coming soon) to reducing the likelihood of imposters infiltrating your research efforts.
+            “Imposter” interviews are increasingly problematic in audience research. This is when a respondent misrepresents themself to qualify for the research and be compensated for participation. The C+E Lab will be publishing a guide to preventing imposter interviews this summer.
         </p>
     </div>
 </div>
@@ -116,8 +116,6 @@ The single most impactful action you can take is to gain insight into your audie
 ## Outputs
 
 Qualitative research uses a series of frameworks that organize your efforts in support of your campaign’s objectives and audience understanding. It culminates with a presentation that summarizes learnings and implications for moving forward.
-
-## To Be Reviewed
 
 - [Research Brief Template](/assets/playbook/qualitative-interviews-research-brief-template.docx)
 - [Research Discussion Guide Template](/assets/playbook/qualitative-interview-discussion-guide-template.docx)
