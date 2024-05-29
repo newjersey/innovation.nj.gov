@@ -2,7 +2,7 @@
 title: Producing Your Campaign
 ---
 
-Up until now, you have been learning, strategizing, and developing tactics. During production, you shift gears and start “building” your campaign – from producing creative assets and setting up media campaigns to implementing tracking and setting up reports.
+Up until now you have been learning, strategizing, and developing tactics. During production, you shift gears and start “building” your campaign – from producing creative assets and setting up media campaigns to implementing tracking and setting up reports.
 
 Activities include “producing” creative elements for the campaign (such as shooting and editing videos, animating banners, resizing print ads, etc.) At the same time, the final media plan is transformed into a media campaign through media buying (either directly through self-serve platforms or through a vendor or consultant). Tracking is implemented on your website and tested to ensure the data you need to understand performance is coming through correctly, and a performance dashboard (or reporting template if there is no dashboard) is set up to make it easy to see how your campaign is performing against defined objectives and performance metrics.
 
@@ -20,7 +20,7 @@ Your final media plan will detail the creative formats (print, video, display, r
 
 Depending on your timeline and budget, you might produce your creative assets using “stock art” (licensed photography, illustrations, music, animations, etc.) or you might produce your assets from scratch at a “shoot” where you secure original video footage and photography stills.
 
-At the Office of Innovation, our campaigns often take a video first approach that features real residents. Using video production as our starting point, we layer on still photography and use the shoot to secure enough assets to produce all creative deliverables required by the campaign. The assets secured at the shoot create a “treasure chest” that can be drawn from to produce new assets whenever the need arises. The assets can even be used for other program communication initiatives.
+At the Office of Innovation, our campaigns often take a video-first approach that features real residents. Using video production as our starting point, we layer on still photography and use the shoot to secure enough assets to produce all creative deliverables required by the campaign. The assets secured at the shoot create a “treasure chest” that can be drawn from to produce new assets whenever the need arises. The assets can even be used for other program communication initiatives.
 
 <div class="usa-alert usa-alert--warning margin-top-5">
     <div class="usa-alert__body">
@@ -37,7 +37,7 @@ The media plan developed during planning will need to be executed with campaign 
 
 Many organizations use vendors to execute their paid media campaigns, especially if their budgets are large. If your budget is smaller and your team has capacity, you might want to keep this work “in-house.” There are two ways you can buy and manage paid media:
 
-- **Self Service**. Many digital platforms including Google, Facebook, Instagram, YouTube, etc., are “self service.” This means you will need to create an advertising account on their platform and directly pay for the media. For most self-service platforms, there is no minimum spend or length of time requirements. You can run a campaign for as little and long as you want.
+- **Self-Service**. Many digital platforms including Google, Facebook, Instagram, YouTube, etc., are “self-service.” This means you will need to create an advertising account on their platform and directly pay for the media. For most self-service platforms, there is no minimum spend or length of time requirements. You can run a campaign for as little and long as you want.
 - **Professional Services**. The more traditional advertising model involves being assigned an account representative who will plan and optimize your campaign for you. These engagements involve larger commitments (both time and money) – both of which can be negotiated. The campaigns are run based on “insertion order,” meaning you have negotiated payment terms and are sent an invoice each month after the prior month’s activity closes out.
 
 <div class="usa-alert usa-alert--info margin-top-5">
@@ -51,7 +51,7 @@ Many organizations use vendors to execute their paid media campaigns, especially
 
 ### 3. Tracking Implementation
 
-During Planning you identified what actions need to be tracked and where tracking needs to be implemented to provide visibility into campaign performance against objectives. There are two types of tracking that need to be implemented to support your marketing campaign.
+During Planning you identified what actions need to be tracked and where tracking needs to be implemented to provide visibility into campaign performance against objectives. There are two types of tracking that need to be implemented to support your marketing campaign:
 
 - **UTM tracking**. A UTM code (UTM stands for Urchin Tracking Module – which originates from a discontinued software platform purchased by Google in 2005) or parameter identifies information about your marketing activity. It’s a snippet of text that gets added to the end of a URL to create a “trafficking URL.” The UTM code can contain up to five parameters: Campaign, source, medium, content, and term. You can use our UTM generator (coming soon) to create your own trafficking URLs. UTMs can be used to track both Partner and Paid Media activity.
 - **Tracking Pixel.** A tracking pixel is an invisible javascript code that lives on a website or email. Paid media vendors often require their proprietary pixel to be installed on your website for the campaign to run (this includes Facebook, Instagram, ad serving platforms and all programmatic media vendors). That’s because the pixel collects information about visitor actions on your website and automatically optimizes performance based on the action taken (or not taken). Pixels are required for conversion-optimization and re-targeting campaigns.

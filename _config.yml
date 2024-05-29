@@ -83,18 +83,7 @@ collections:
   playbooks:
     permalink: cel-playbook/:title/
     output: true
-    order:
-      - kick-off.md
-      - marketing-discovery-desk-research.md
-      - marketing-discovery-qualitative-interviews.md
-      - developing-strategy.md
-      - developing-creative-concepts.md
-      - validating-creative-concepts.md
-      - planning-campaign.md
-      - producing-campaign.md
-      - pre-launch-checklist.md
-      - launching-campaign.md
-      - optomizing-campaign.md
+    sort_by: name
   skills:
     output: true
   trainings:

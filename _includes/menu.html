@@ -41,7 +41,7 @@
         {% endif %}
         {% if group.items %}
           <ul class="usa-sidenav__sublist">
-            {% assign sub-menu = group.items %}
+            {% assign sub-menu = group.items | sort: "order" %}
             {% for item in sub-menu %}
               {% if item.title != menu-group-parent.title %}
                 <li class="usa-sidenav__item">

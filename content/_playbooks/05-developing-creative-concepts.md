@@ -52,7 +52,7 @@ Ideation can be time-boxed. Give your team a day and see what they come up with.
     <div class="usa-alert__body">
         <h3 class="usa-alert__heading">Pro Tip</h3>
         <p class="usa-alert__text">
-            If you don’t have a creative team, it is highly recommended you find an experienced creative resource to do this work (see <a href="{% link _playbooks/kick-off.md %}">Kick-off</a> meeting).
+            If you don’t have a creative team, it is highly recommended you find an experienced creative resource to do this work (see <a href="{% link _playbooks/01-kick-off.md %}">Kick-off</a> meeting).
         </p>
     </div>
 </div>
