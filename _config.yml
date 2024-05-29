@@ -80,6 +80,21 @@ collections:
     permalink: about/:collection/:title/
     sort_by: order
     output: true
+  playbooks:
+    permalink: cel-playbook/:title/
+    output: true
+    order:
+      - kick-off.md
+      - marketing-discovery-desk-research.md
+      - marketing-discovery-qualitative-interviews.md
+      - developing-strategy.md
+      - developing-creative-concepts.md
+      - validating-creative-concepts.md
+      - planning-campaign.md
+      - producing-campaign.md
+      - pre-launch-checklist.md
+      - launching-campaign.md
+      - optomizing-campaign.md
   skills:
     output: true
   trainings:
@@ -136,4 +151,17 @@ defaults:
         - title: About Innovation Skills
           url: /skills/
           collection: skills
+          group-by: menu-group
+  - scope:
+      path: ""
+      type: "playbooks"
+    values:
+      layout: playbook
+      hero:
+        image: /assets/images/cel-playbook-hero.jpg
+      menu-group: The C+E Lab Playbook
+      menu:
+        - title: The C+E Playbook
+          url: /cel-playbook
+          collection: playbooks
           group-by: menu-group

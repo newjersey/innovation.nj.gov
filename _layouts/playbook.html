@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<main id="main-content">
+  {% if page.hero %}
+  <section
+    class="usa-hero padding-top-15 padding-bottom-15"
+    aria-label="Introduction"
+    style="background-image: url({{page.hero.image}});"
+  >
+    <div class="grid-container padding-top-10"></div>
+  </section>
+  {% endif %}
+
+  <section class="usa-section">
+    <div class="grid-container">
+      <div class="grid-row grid-gap">
+        {% if page.menu %}
+        <div class="usa-layout-docs__sidenav desktop:grid-col-3">
+          {% include menu.html menu=page.menu %}
+        </div>
+        {% endif %}
+
+        <main
+          class="{% if page.menu %} usa-layout-docs__main desktop:grid-col-9 usa-layout-docs {% else %} width-full {% endif %} usa-prose"
+          id="main-content"
+        >
+          <h1>
+            {% if page.title-prefix %} {{page.title-prefix}} {% endif
+            %}{{page.title}}
+          </h1>
+          {{content}}
+        </main>
+      </div>
+    </div>
+  </section>
+</main>
