@@ -17,6 +17,8 @@ menu:
 
 This Playbook is produced by the New Jersey State Office of Innovation’s Communication + Engagement Lab (C+E Lab) to help you better connect your audience to your program. We’ve documented our step-by-step process to help you uncover and validate an approach that will move your audience to act — whether you're a communications director, program manager, developer, product manager, or public policy practitioner.
 
+_This playbook is an initial beta release, and ongoing updates will be made. We would love your feedback, insights, and ideas on how we can improve it, email us at team@innovation.nj.gov._
+
 ### The Big Picture
 
 We are inundated by voices constantly fighting to grab our attention. For a message to cut through, it needs to speak directly to what we care about most. If a message fails to resonate, it will be ignored.
