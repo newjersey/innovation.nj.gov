@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/nj-monitor-logo.jpg
 title: "COVERAGE: State Unveils ‘New and Innovative’ Update to Unemployment System"
-promoted: 2
+promoted: 3
 date: May 21, 2024 
 source: NJ Monitor
 cta:
