@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/kevin_werbach_podcast.webp
 title: "COVERAGE: Chief AI Strategist Discusses How AI Is Transforming Government Services"
-promoted: 1
+promoted: 2
 date: May 23, 2024 
 source: Apple Podcasts
 cta:
