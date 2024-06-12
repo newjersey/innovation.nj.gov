@@ -4,8 +4,8 @@
     "@newjersey/njwds": "^1.0.0"
   },
   "scripts": {
-    "import-njwds": "chmod u+x importNJNodePackages.sh && ./importNJNodePackages.sh",
-    "build": "npm run import-njwds && bundle exec jekyll build",
-    "serve": "npm run import-njwds && bundle exec jekyll serve"
+    "import-import-nj-node": "chmod u+x importNJNodePackages.sh && ./importNJNodePackages.sh",
+    "build": "npm run import-nj-node && bundle exec jekyll build",
+    "serve": "bundle exec jekyll serve"
   }
 }
