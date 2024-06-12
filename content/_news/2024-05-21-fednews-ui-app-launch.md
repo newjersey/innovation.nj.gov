@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/federal_news_network_logo.jpg
 title: "COVERAGE: Chief Innovation Officer Quoted In Article Highlighting NJ As Model For Modernizing Unemployment Insurance Systems"
-promoted: 3
+promoted: 
 date: May 21, 2024 
 source: Federal News Network
 cta:
