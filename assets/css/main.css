@@ -46,3 +46,8 @@ path.white-fill {
 svg {
   background: transparent;
 }
+
+/* Feedback widget overrides */
+.feedback-container {
+  background-color: #fbfcfd !important;
+}

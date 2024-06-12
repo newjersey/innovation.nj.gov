@@ -2,23 +2,7 @@
   <div class="grid-container usa-footer__return-to-top">
     <a href="#">Return to top</a>
   </div>
-  <div class="usa-footer__primary-section">
-    <nav class="usa-footer__nav" aria-label="Footer navigation">
-      <ul class="grid-row grid-gap">
-        {% for item in site.data.menu %}
-        <li
-          class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content"
-        >
-          <a
-            class="usa-footer__primary-link {% if item.link == page.url %}text-primary-darker{% endif %}"
-            href="{{item.link}}"
-            >{{item.text}}</a
-          >
-        </li>
-        {% endfor %}
-      </ul>
-    </nav>
-  </div>
+  
   <feedback-widget contact-link="mailto:team@innovation.nj.gov"></feedback-widget>
   <div class="usa-footer__secondary-section">
     <div class="grid-container">
