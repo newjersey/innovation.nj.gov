@@ -1,107 +1,66 @@
 ---
-title: "AI and You: Make Your Voice Heard [Spanish Placeholder]"
+title: "La AI Y Usted: Haga Oír Su Voz"
 layout: page
 permalink: /ai-task-force/es/
 ---
 
 [View in English]({% link content/ai-task-force-landing.md %})
 
-<a
-    href="#external-link-modal"
-    class="usa-button"
-    aria-controls="external-link-modal"
-    data-open-modal
-    >Share your opinion now!
+<a 
+  href="https://all-our-ideas.citizens.is/group/288" 
+  class="usa-button" 
+  rel="noreferrer"  
+  target="\_blank">
+¡Comparte Tu Opinión Ahora!
 </a>
 
-**"Over the next five years, what do you see as being the bigger effect from generative AI on the workforce in New Jersey?"**
+The above button will take you to an external site [all-our-ideas.is].
 
-Generative artificial intelligence (GenAI) is poised to radically transform how New Jerseyans work, our workplaces, and the skills we need to succeed in our work.
+**“En los próximos cinco años, ¿cuál cree que será el mayor efecto de la IA generativa en la mano de obra de Nueva Jersey?”**
 
-GenAI tools, such as ChatGPT, have an enormous potential to make our jobs easier, our work more productive, and to create new jobs. At the same time, GenAI may also present challenges such as eroding job quality and, in some cases, eliminating jobs altogether.
+La inteligencia artificial generativa (IA Generativa) está a punto de transformar radicalmente la forma de trabajar de los habitantes de Nueva Jersey, nuestros lugares de trabajo y las habilidades que necesitamos para tener éxito en nuestro trabajo.
 
-To effectively address the opportunities and challenges posed by advances in AI, it is critical that the State understands its workers’ greatest hopes and concerns. The State has convened an Artificial Intelligence Task Force to explore the challenges and opportunities when it comes to using GenAI tools in our workplaces.
+Las herramientas GenAI, como ChatGPT, tienen un enorme potencial para facilitar nuestro trabajo, hacerlo más productivo y crear nuevos puestos de trabajo. Al mismo tiempo, la IA Generativa también puede presentar retos como la erosión de la calidad del empleo y, en algunos casos, la eliminación total de puestos de trabajo.
 
-## Your Voice Matters. We Want to Hear From You!
+Para abordar eficazmente las oportunidades y retos que plantean los avances en IA, es fundamental que el Estado comprenda las mayores esperanzas y preocupaciones de sus trabajadores. El Estado ha convocado un Grupo de Trabajo sobre Inteligencia Artificial para explorar los retos y oportunidades a la hora de utilizar herramientas de GenAI en nuestros lugares de trabajo.
 
-The New Jersey Artificial Intelligence Task Force wants to know what YOU think are the most important challenges and opportunities. Participate by [Submission Deadline] to make your voice heard.
+## Tu Voz Importa. ¡Queremos Escucharte!
 
-<a
-    href="#external-link-modal"
-    class="usa-button"
-    aria-controls="external-link-modal"
-    data-open-modal
-    >Particpate now!
+El Grupo de Trabajo sobre Inteligencia Artificial de Nueva Jersey quiere saber cuáles son, en su opinión, los retos y oportunidades más importantes. Participa antes de [Fecha límite de presentación] para hacer oír tu voz.
+
+<a 
+  href="https://all-our-ideas.citizens.is/group/288" 
+  class="usa-button" 
+  rel="noreferrer"  
+  target="\_blank">
+¡Participa ahora!
 </a>
 
-To make your voice heard:
+The above button will take you to an external site [all-our-ideas.is].
+
+Para hacer oír tu voz:
 
 <ol>
     <li>
-        <a
-        class="usa-link usa-link--external"
-        rel="noreferrer"
-        target="\_blank"
-        href="#external-link-modal"
-        aria-controls="external-link-modal"
-        data-open-modal
-        > Click here</a> and select "Start Voting."
+        <a 
+          class="usa-link usa-link--external" 
+          rel="noreferrer" 
+          target="\_blank" 
+          href="https://all-our-ideas.citizens.is/group/288"
+        > 
+          Haga clic aqui [all-our-ideas.citizens.is]
+        </a> 
+         y seleccione "Empezar a Votar".
     </li>
-    <li>You'll be shown two sets of answer choices in response to the question: “Over the next five years, what do you see as being the bigger effect from generative AI on the workforce in New Jersey?” Some of the answer choices are challenges, while others are opportunities.</li>
-    <li> Tell us which of the two options you think is more important, or add your own idea!</li>
-    <li> Vote as many (or as few) times as you wish. </li>
+    <li>Se le mostrarán dos conjuntos de opciones de respuesta a la pregunta: «En los próximos cinco años, ¿cuál cree que será el mayor efecto de la IA generativa en la mano de obra de Nueva Jersey?». Algunas de las opciones de respuesta son retos, mientras que otras son oportunidades.</li>
+    <li> Díganos cuál de las dos opciones te parece más importante, ¡o añade tu propia idea!</li>
+    <li> Vote las veces que quiera. </li>
 </ol>
 
-## Why Participating Matters
+## Por qué es Importante Participar
 
-To better prepare the State, its institutions, and its people for the future that GenAI will bring, we need to better understand what YOU think are the most important opportunities and challenges created by advances in generative AI.
+Para preparar mejor al Estado, a sus instituciones y a su gente para el futuro que traerá GenAI, necesitamos entender mejor lo que USTED piensa que son las oportunidades y los desafíos más importantes creados por los avances en IA generativa.
 
-Your participation will help create a list of the hopes and concerns that YOU think are most important. The Task Force will use these insights to inform its recommendations to the State Government.
+Su participación ayudará a crear una lista de las esperanzas y preocupaciones que USTED considera más importantes. El Grupo de Trabajo utilizará estos datos para elaborar sus recomendaciones al Gobierno del Estado.
 
-_NOTE: These answer choices are not endorsed by the State of New Jersey, the Office of Innovation, or the AI Task Force. Rather, they reflect a range of opinions._
-
-<div
-    class="usa-modal"
-    id="external-link-modal"
-    aria-labelledby="external-link-modal-heading"
-    aria-describedby="external-link-modal-description"
-  >
-    <div class="usa-modal__content">
-      <div class="usa-modal__main">
-        <h2 class="usa-modal__heading" id="external-link-modal-heading">
-          You are being taken to an external domain
-        </h2>
-        <div class="usa-prose">
-          <p id="external-link-modal-description">
-            This link is taking you to an external domain:  https://all-our-ideas.citizens.is
-          </p>
-        </div>
-        <div class="usa-modal__footer">
-          <ul class="usa-button-group">
-            <li class="usa-button-group__item">
-              <a class="usa-button" href="https://all-our-ideas.citizens.is/group/206">Continue to site</a>
-            </li>
-            <li class="usa-button-group__item">
-              <button
-                type="button"
-                class="usa-button usa-button--unstyled padding-105 text-center"
-                data-close-modal
-              >
-                Go back
-              </button>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <button
-        type="button"
-        class="usa-button usa-modal__close"
-        aria-label="Close this window"
-        data-close-modal
-      >
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-          <use xlink:href="/assets/img/sprite.svg#close"></use>
-        </svg>
-      </button>
-    </div>
-  </div>
+_NOTA: Estas opciones de respuesta no están respaldadas por el Estado de Nueva Jersey, la Oficina de Innovación o el Grupo de Trabajo de IA. Más bien, reflejan una serie de opiniones._

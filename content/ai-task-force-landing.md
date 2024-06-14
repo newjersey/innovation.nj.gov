@@ -6,13 +6,15 @@ permalink: /ai-task-force/
 
 [View in Spanish]({% link content/ai-task-force-landing-es.md %})
 
-<a
-    href="#external-link-modal"
-    class="usa-button"
-    aria-controls="external-link-modal"
-    data-open-modal
-    >Share your opinion now!
+<a 
+  href="https://all-our-ideas.citizens.is/group/206" 
+  class="usa-button" 
+  rel="noreferrer"  
+  target="\_blank">
+Share your opinion now!
 </a>
+
+The above button will take you to an external site [all-our-ideas.is].
 
 **"Over the next five years, what do you see as being the bigger effect from generative AI on the workforce in New Jersey?"**
 
@@ -26,26 +28,29 @@ To effectively address the opportunities and challenges posed by advances in AI,
 
 The New Jersey Artificial Intelligence Task Force wants to know what YOU think are the most important challenges and opportunities. Participate by [Submission Deadline] to make your voice heard.
 
-<a
-    href="#external-link-modal"
-    class="usa-button"
-    aria-controls="external-link-modal"
-    data-open-modal
-    >Particpate now!
+<a 
+  href="https://all-our-ideas.citizens.is/group/206" 
+  class="usa-button" 
+  rel="noreferrer"  
+  target="\_blank">
+Participate now!
 </a>
+
+The above button will take you to an external site [all-our-ideas.is].
 
 To make your voice heard:
 
 <ol>
     <li>
-        <a
-        class="usa-link usa-link--external"
-        rel="noreferrer"
-        target="\_blank"
-        href="#external-link-modal"
-        aria-controls="external-link-modal"
-        data-open-modal
-        > Click here</a> and select "Start Voting."
+        <a 
+          class="usa-link usa-link--external" 
+          rel="noreferrer" 
+          target="\_blank" 
+          href="https://all-our-ideas.citizens.is/group/206"
+        > 
+          Click here [all-our-ideas.citizens.is]
+        </a> 
+        and select "Start Voting."
     </li>
     <li>You'll be shown two sets of answer choices in response to the question: “Over the next five years, what do you see as being the bigger effect from generative AI on the workforce in New Jersey?” Some of the answer choices are challenges, while others are opportunities.</li>
     <li> Tell us which of the two options you think is more important, or add your own idea!</li>
@@ -59,49 +64,3 @@ To better prepare the State, its institutions, and its people for the future tha
 Your participation will help create a list of the hopes and concerns that YOU think are most important. The Task Force will use these insights to inform its recommendations to the State Government.
 
 _NOTE: These answer choices are not endorsed by the State of New Jersey, the Office of Innovation, or the AI Task Force. Rather, they reflect a range of opinions._
-
-<div
-    class="usa-modal"
-    id="external-link-modal"
-    aria-labelledby="external-link-modal-heading"
-    aria-describedby="external-link-modal-description"
-  >
-    <div class="usa-modal__content">
-      <div class="usa-modal__main">
-        <h2 class="usa-modal__heading" id="external-link-modal-heading">
-          You are being taken to an external domain
-        </h2>
-        <div class="usa-prose">
-          <p id="external-link-modal-description">
-            This link is taking you to an external domain:  https://all-our-ideas.citizens.is
-          </p>
-        </div>
-        <div class="usa-modal__footer">
-          <ul class="usa-button-group">
-            <li class="usa-button-group__item">
-              <a class="usa-button" href="https://all-our-ideas.citizens.is/group/206">Continue to site</a>
-            </li>
-            <li class="usa-button-group__item">
-              <button
-                type="button"
-                class="usa-button usa-button--unstyled padding-105 text-center"
-                data-close-modal
-              >
-                Go back
-              </button>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <button
-        type="button"
-        class="usa-button usa-modal__close"
-        aria-label="Close this window"
-        data-close-modal
-      >
-        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
-          <use xlink:href="/assets/img/sprite.svg#close"></use>
-        </svg>
-      </button>
-    </div>
-  </div>
