@@ -54,6 +54,7 @@ build/Release
 node_modules/
 jspm_packages/
 assets/njwds/dist/*
+assets/feedback-widget/
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
