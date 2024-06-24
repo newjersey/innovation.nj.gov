@@ -4,7 +4,7 @@ layout: page
 permalink: /ai-task-force/es/
 ---
 
-[View in English]({% link content/ai-task-force-landing.md %})
+[English]({% link content/ai-task-force-landing.md %})
 
 <a 
   href="https://all-our-ideas.citizens.is/group/288" 
@@ -14,9 +14,9 @@ permalink: /ai-task-force/es/
 ¡Comparte Tu Opinión Ahora!
 </a>
 
-The above button will take you to an external site [all-our-ideas.is].
+The above button will take you to an external site (https://all-our-ideas.is).
 
-**“En los próximos cinco años, ¿cuál cree que será el mayor efecto de la IA generativa en la mano de obra de Nueva Jersey?”**
+> **“En los próximos cinco años, ¿cuál cree que será el mayor efecto de la IA generativa en la mano de obra de Nueva Jersey?”**
 
 La inteligencia artificial generativa (IA Generativa) está a punto de transformar radicalmente la forma de trabajar de los habitantes de Nueva Jersey, nuestros lugares de trabajo y las habilidades que necesitamos para tener éxito en nuestro trabajo.
 
@@ -36,7 +36,7 @@ El Grupo de Trabajo sobre Inteligencia Artificial de Nueva Jersey quiere saber c
 ¡Participa ahora!
 </a>
 
-The above button will take you to an external site [all-our-ideas.is].
+The above button will take you to an external site (https://all-our-ideas.is).
 
 Para hacer oír tu voz:
 
@@ -48,7 +48,7 @@ Para hacer oír tu voz:
           target="\_blank" 
           href="https://all-our-ideas.citizens.is/group/288"
         > 
-          Haga clic aqui [all-our-ideas.citizens.is]
+          Haga clic aqui (https://all-our-ideas.is)
         </a> 
          y seleccione "Empezar a Votar".
     </li>

@@ -4,7 +4,7 @@ layout: page
 permalink: /ai-task-force/
 ---
 
-[View in Spanish]({% link content/ai-task-force-landing-es.md %})
+[Español]({% link content/ai-task-force-landing-es.md %})
 
 <a 
   href="https://all-our-ideas.citizens.is/group/206" 
@@ -14,9 +14,9 @@ permalink: /ai-task-force/
 Share your opinion now!
 </a>
 
-The above button will take you to an external site [all-our-ideas.is].
+The above button will take you to an external site (https://all-our-ideas.is).
 
-**"Over the next five years, what do you see as being the bigger effect from generative AI on the workforce in New Jersey?"**
+> **"Over the next five years, what do you see as being the bigger effect from generative AI on the workforce in New Jersey?"**
 
 Generative artificial intelligence (GenAI) is poised to radically transform how New Jerseyans work, our workplaces, and the skills we need to succeed in our work.
 
@@ -36,7 +36,7 @@ The New Jersey Artificial Intelligence Task Force wants to know what YOU think a
 Participate now!
 </a>
 
-The above button will take you to an external site [all-our-ideas.is].
+The above button will take you to an external site (https://all-our-ideas.is).
 
 To make your voice heard:
 
@@ -48,7 +48,7 @@ To make your voice heard:
           target="\_blank" 
           href="https://all-our-ideas.citizens.is/group/206"
         > 
-          Click here [all-our-ideas.citizens.is]
+          Click here (https://all-our-ideas.is)
         </a> 
         and select "Start Voting."
     </li>
