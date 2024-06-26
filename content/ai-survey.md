@@ -1,10 +1,10 @@
 ---
 title: "AI and You: Make Your Voice Heard"
 layout: page
-permalink: /ai-task-force/
+permalink: /ai-and-you/
 ---
 
-[Español]({% link content/ai-task-force-landing-es.md %})
+[Español]({% link content/ai-survey-es.md %})
 
 <a 
   href="https://all-our-ideas.citizens.is/group/206" 

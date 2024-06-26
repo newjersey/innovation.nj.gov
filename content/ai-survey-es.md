@@ -1,10 +1,10 @@
 ---
 title: "La AI Y Usted: Haga Oír Su Voz"
 layout: page
-permalink: /ai-task-force/es/
+permalink: /ai-and-you/es/
 ---
 
-[English]({% link content/ai-task-force-landing.md %})
+[English]({% link content/ai-survey.md %})
 
 <a 
   href="https://all-our-ideas.citizens.is/group/288" 
