@@ -10,6 +10,7 @@ Residents navigating State websites and tools are not always able to find what t
 
 ### Innovation In Action:
 OOI developed a digital tool that can easily be embedded on most State websites and web applications. The tool is accessed directly from the site a resident is using without any external links, and asks whether the user found the information they were searching for and offers an opportunity to provide additional feedback. Using a secure generative AI environment, OOI and its partners regularly analyze the feedback to generate detailed reports that identify and prioritize emerging issues to address in future website updates, enabling faster releases and greater responsiveness to residents’ needs. To measure the impact of improvements, OOI and its partners use the feedback widget to carefully track how effective residents find a webpage and how those numbers change over time. 
+
 ### Impact + Metrics
 
 - Shortly after launching a new Unemployment Insurance Claim Status Tool with the Department of Labor in March 2023, in response to user comments on the feedback widget, a new update was quickly released to make 1099 forms from current and previous years available in time for the April tax deadline. 
@@ -17,6 +18,9 @@ OOI developed a digital tool that can easily be embedded on most State websites 
 - Comments made through the COVID-19 Info Hub’s feedback widget directly led to thousands of edits on existing articles and the creation of entirely new articles clarifying testing procedures, testing sites, limits on gatherings, which businesses were open, and more so residents could stay safe and get the help they needed.
 - As of June 2024, feedback widgets have been deployed on websites across 8 State departments and agencies with residents submitting over 37,000 comments. 
 
+### Resources and Additional Information
+
+- GitHub: [Open Source Code for Feedback Widget](https://github.com/newjersey/feedback-widget)
 
 ### Status
 - Feedback Widgets play a central role in OOI’s iterative development philosophy, which continuously introduces improvements, so these tools continue to be deployed and regularly monitored. 
