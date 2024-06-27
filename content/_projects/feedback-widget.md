@@ -21,10 +21,6 @@ OOI developed a digital tool that can easily be embedded on most State websites 
 ### Status
 - Feedback Widgets play a central role in OOI’s iterative development philosophy, which continuously introduces improvements, so these tools continue to be deployed and regularly monitored. 
 
-### Resources and Additional Information
-
-- GitHub: Open Source Code for Feedback Widget
-
 ### Partners
 
 - NJ State Department of Labor
