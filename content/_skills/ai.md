@@ -3,23 +3,24 @@ title: Generative AI in New Jersey State Government
 permalink: /skills/ai/
 ---
 
-On October 10, 2023, Governor Murphy issued [Executive Order 346](https://nj.gov/infobank/eo/056murphy/pdf/EO-346.pdf){:target="_blank"}. This Executive Order committed to creating a public sector training program to help New Jersey State government’s public sector professionals use generative AI to improve the delivery of services to Garden State residents, businesses, and institutions.
+On October 10, 2023, Governor Murphy issued [Executive Order 346](https://nj.gov/infobank/eo/056murphy/pdf/EO-346.pdf){:target="\_blank"}. This Executive Order committed to creating a public sector training program to help New Jersey State government’s public sector professionals use generative AI to improve the delivery of services to Garden State residents, businesses, and institutions.
 
-## Access the Generative AI Training Program
+### Access the Generative AI Training Program
 
 The State’s Generative AI training program has officially launched:
-- For State employees: [access the training course here](https://stateofnewjersey.sabacloud.com/Saba/Web_spf/NA9P2PRD001/common/ledetail/0000038936/latestversion){:target="_blank"}.
-- For State contractors and other government employees with access to the State’s Learning Management System: [access the training course here](https://stateofnewjersey-external.sabacloud.com/Saba/Web_spf/NA9P2PRD001/common/ledetail/0000038936/latestversion){:target="_blank"}.
 
-## Review the State’s Policy on Acceptable Use of Generative AI 
+- For State employees: [access the training course here](https://stateofnewjersey.sabacloud.com/Saba/Web_spf/NA9P2PRD001/common/ledetail/0000038936/latestversion){:target="\_blank"}.
+- For State contractors and other government employees with access to the State’s Learning Management System: [access the training course here](https://stateofnewjersey-external.sabacloud.com/Saba/Web_spf/NA9P2PRD001/common/ledetail/0000038936/latestversion){:target="\_blank"}.
 
-All state government employees using Generative AI should review the State’s [current policy to guide responsible use of the technology](https://www.nj.gov/circulars/23-oit-007.pdf){:target="_blank"}.  
+### Review the State’s Policy on Acceptable Use of Generative AI
 
-## Accessing the NJ AI Assistant
+All state government employees using Generative AI should review the State’s [current policy to guide responsible use of the technology](https://www.nj.gov/circulars/23-oit-007.pdf){:target="\_blank"}.
+
+### Accessing the NJ AI Assistant
 
 The NJ AI Assistant is an internal generative artificial intelligence chatbot for use by NJ State employees and authorized parties. Before using the NJ AI Assistant, State employees and authorized users should begin the AI Training course — the training will direct you how to access the tool.
 
-## Key Principles Guiding the State’s Use of Generative AI
+### Key Principles Guiding the State’s Use of Generative AI
 
 There are four key principles that guide the State’s use of Generative AI:
 
