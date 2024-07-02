@@ -9,8 +9,7 @@ On October 10, 2023, Governor Murphy issued [Executive Order 346](https://nj.gov
 
 The State’s Generative AI training program has officially launched:
 
-- For State employees: [access the training course here](https://stateofnewjersey.sabacloud.com/Saba/Web_spf/NA9P2PRD001/common/ledetail/0000038936/latestversion){:target="\_blank"}.
-- For State contractors and other government employees with access to the State’s Learning Management System: [access the training course here](https://stateofnewjersey-external.sabacloud.com/Saba/Web_spf/NA9P2PRD001/common/ledetail/0000038936/latestversion){:target="\_blank"}.
+- Government employees, contractors, and those with access to the State’s Learning Management System can access the course. To do so, [login to MyNJ](https://my.nj.gov/){:target="\_blank"}, click on the Civil Service Commission eLearning application link, and then search for “Responsible AI for Public Professionals: Using Generative AI at Work”.
 
 ### Review the State’s Policy on Acceptable Use of Generative AI
 
