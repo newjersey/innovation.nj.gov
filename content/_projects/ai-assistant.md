@@ -1,6 +1,6 @@
 ---
 title: NJ AI Assistant
-initiative: Resident Experience
+initiative: Resident Experience Initiative
 ---
 
 The NJ AI Assistant is a powerful generative AI platform that offers a safe “sandbox” environment for New Jersey State employees to leverage AI to responsibly improve government services and operations. 
