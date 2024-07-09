@@ -3,7 +3,7 @@ title: NJ AI Assistant
 initiative: Resident Experience
 ---
 
-The NJ AI Assistant is a powerful generative AI platform that offers a safe, “sandbox” environment for New Jersey State employees to leverage AI to responsibly improve government services and operations. 
+The NJ AI Assistant is a powerful generative AI platform that offers a safe “sandbox” environment for New Jersey State employees to leverage AI to responsibly improve government services and operations. 
 
 ### Challenge
 
@@ -15,9 +15,10 @@ Working with the New Jersey State Office of Information Technology, the Office o
 
 ### Impact + Metrics
 
--   New Jersey is one of the first States in the nation to provide State employees with a safe environment to responsibly leverage AI tools to transform government services. 
+- New Jersey is one of the first States in the nation to provide State employees with a safe environment to responsibly leverage AI tools to transform government services. 
 - State departments and agencies have already begun using generative AI in limited cases to improve services. Working with the Department of Labor, OOI has used AI to help rewrite emails in plain language and residents have been responding 35% faster as a result. 
 - At the ANCHOR property tax program call center, the New Jersey Division of Taxation has been using AI tools to analyze calls to generate better self-service menu options, so residents can find what they need without waiting on hold to speak to an agent, leading to a 50% increase in the number of successfully resolved calls. 
+
 
 ### Status
 
@@ -25,7 +26,11 @@ Working with the New Jersey State Office of Information Technology, the Office o
 
 ### Resources and Additional Information
 
-- [Responsible Use of Generative AI in New Jersey State Government Training Course](INSERT LINK)
+- [Responsible Use of Generative AI in New Jersey State Government Training Course](https://innovation.nj.gov/skills/ai/)
+- [GovTech: NJ Unveils AI Training, Tool for State Government Workers](https://www.govtech.com/artificial-intelligence/n-j-unveils-ai-training-tool-for-state-government-workers)
+- [NJ BIZ: NJ Launches New AI Tool, Training for State Employees](https://njbiz.com/nj-launches-new-ai-tool-training-for-state-employees/)
+- [Insider NJ: Governor Murphy Unveils AI Tool For State Employees and Training Course For Responsible Use](https://www.insidernj.com/press-release/governor-murphy-unveils-ai-tool-for-state-employees-and-training-course-for-responsible-use/)
+
 
 ### Key Partners
 
@@ -33,4 +38,4 @@ Working with the New Jersey State Office of Information Technology, the Office o
 - NJ State Civil Service Commission
 
 
-*Last updated on 7/1/24*
+*Last updated on 7/9/24*
