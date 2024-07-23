@@ -14,7 +14,7 @@ permalink: /ai-and-you/es/
 ¡Comparte Tu Opinión Ahora!
 </a>
 
-The above button will take you to an external site (https://all-our-ideas.is).
+El botón de arriba le llevará a un sitio externo (https://all-our-ideas.is).
 
 > **“En los próximos cinco años, ¿cuál cree que será el mayor efecto de la IA generativa en la mano de obra de Nueva Jersey?”**
 
@@ -36,7 +36,7 @@ El Grupo de Trabajo sobre Inteligencia Artificial de Nueva Jersey quiere saber c
 ¡Participa ahora!
 </a>
 
-The above button will take you to an external site (https://all-our-ideas.is).
+El botón de arriba le llevará a un sitio externo (https://all-our-ideas.is).
 
 Para hacer oír tu voz:
 
