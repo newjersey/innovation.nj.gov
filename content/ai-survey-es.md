@@ -26,7 +26,7 @@ Para abordar eficazmente las oportunidades y retos que plantean los avances en I
 
 ## Tu Voz Importa. ¡Queremos Escucharte!
 
-El Grupo de Trabajo sobre Inteligencia Artificial de Nueva Jersey quiere saber cuáles son, en su opinión, los retos y oportunidades más importantes. Participa antes de [Fecha límite de presentación] para hacer oír tu voz.
+El Grupo de Trabajo sobre Inteligencia Artificial de Nueva Jersey quiere saber cuáles son, en su opinión, los retos y oportunidades más importantes. Participa antes de 8 de Agosto, 2024 para hacer oír tu voz.
 
 <a 
   href="https://all-our-ideas.citizens.is/group/288" 
