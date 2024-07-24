@@ -26,7 +26,7 @@
     {% if page.description %}
       {% assign description = page.description %}
     {% else %}
-      {% assign description = page.content | strip_html | 
+      {% assign description = page.content | markdownify | strip_html | 
  normalize_whitespace | truncatewords: '30' %}
     {% endif %}
     {% capture title %}
