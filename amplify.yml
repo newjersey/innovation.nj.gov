@@ -3,6 +3,8 @@ frontend:
   phases:
     preBuild:
       commands:
+        - rvm install 3.2.4
+        - rvm use 3.2.4
         - bundle install
     build:
       commands:
