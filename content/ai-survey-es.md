@@ -1,22 +1,23 @@
 ---
-title: "La AI Y Usted: Haga Oír Su Voz"
 layout: page
 permalink: /ai-and-you/es/
 ---
 
 [English]({% link content/ai-survey.md %})
 
+<h1 style="margin-top: .3em"> La AI Y Usted: Haga Oír Su Voz </h1>
+
+<p class="font-mono-lg text-bold"> En los próximos cinco años, ¿cuál cree que será el mayor efecto de la IA generativa en la mano de obra de Nueva Jersey? </p>
+
 <a 
   href="https://all-our-ideas.citizens.is/group/288" 
   class="usa-button" 
   rel="noreferrer"  
   target="\_blank">
-¡Comparte Tu Opinión Ahora!
+¡Comparte Tu Opinión Ahora! <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/njwds/dist/img/sprite.svg#launch"></use></svg>
 </a>
 
-El botón de arriba le llevará a un sitio externo (https://all-our-ideas.is).
-
-> **“En los próximos cinco años, ¿cuál cree que será el mayor efecto de la IA generativa en la mano de obra de Nueva Jersey?”**
+<p class="font-mono-3xs">El botón de arriba le llevará a un sitio externo (https://all-our-ideas.is).</p>
 
 La inteligencia artificial generativa (IA Generativa) está a punto de transformar radicalmente la forma de trabajar de los habitantes de Nueva Jersey, nuestros lugares de trabajo y las habilidades que necesitamos para tener éxito en nuestro trabajo.
 
@@ -33,15 +34,23 @@ El Grupo de Trabajo sobre Inteligencia Artificial de Nueva Jersey quiere saber c
   class="usa-button" 
   rel="noreferrer"  
   target="\_blank">
-¡Participa ahora!
+¡Comparte Tu Opinión Ahora! <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/njwds/dist/img/sprite.svg#launch"></use></svg>
 </a>
 
-El botón de arriba le llevará a un sitio externo (https://all-our-ideas.is).
+<p class="font-mono-3xs">El botón de arriba le llevará a un sitio externo (https://all-our-ideas.is).</p>
 
-Para hacer oír tu voz:
-
-<ol>
-    <li>
+<div
+  class="usa-summary-box width-tablet"
+  role="region"
+  aria-labelledby="summary-box-key-information"
+>
+  <div class="usa-summary-box__body">
+    <h4 class="usa-summary-box__heading" id="summary-box-key-information">
+      Para hacer oír tu voz:
+    </h4>
+    <div class="usa-summary-box__text">
+      <ol class="usa-list">
+        <li>
         <a 
           class="usa-link usa-link--external" 
           rel="noreferrer" 
@@ -55,7 +64,10 @@ Para hacer oír tu voz:
     <li>Se le mostrarán dos conjuntos de opciones de respuesta a la pregunta: «En los próximos cinco años, ¿cuál cree que será el mayor efecto de la IA generativa en la mano de obra de Nueva Jersey?». Algunas de las opciones de respuesta son retos, mientras que otras son oportunidades.</li>
     <li> Díganos cuál de las dos opciones te parece más importante, ¡o añade tu propia idea!</li>
     <li> Vote las veces que quiera. </li>
-</ol>
+      </ol>
+    </div>
+  </div>
+</div>
 
 ## Por qué es Importante Participar
 

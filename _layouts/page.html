@@ -6,20 +6,21 @@ layout: default
   <div class="grid-container">
     <div class="grid-row grid-gap">
       {% if page.menu %}
-      <div class="usa-layout-docs__sidenav desktop:grid-col-3">
-        {% include menu.html menu=page.menu %}
-      </div>
+        <div class="usa-layout-docs__sidenav desktop:grid-col-3">
+          {% include menu.html menu=page.menu %}
+        </div>
       {% endif %}
 
-      <main
-        class="{% if page.menu %} usa-layout-docs__main desktop:grid-col-9 usa-layout-docs {% else %} width-full {% endif %} usa-prose"
-        id="main-content"
-      >
-        <h1>
-          {% if page.title-prefix %} {{page.title-prefix}} {% endif
-          %}{{page.title}}
-        </h1>
-        {{content}}
+      <main class="{% if page.menu %} usa-layout-docs__main desktop:grid-col-9 usa-layout-docs {% else %} width-full {% endif %} usa-prose" id="main-content">
+        {% if page.title %}
+          <h1>
+            {% if page.title-prefix %}
+              {{ page.title-prefix }}
+            {% endif %}
+            {{ page.title }}
+          </h1>
+        {% endif %}
+        {{ content }}
       </main>
     </div>
   </div>

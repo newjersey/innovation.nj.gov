@@ -1,22 +1,23 @@
 ---
-title: "AI and You: Make Your Voice Heard"
 layout: page
 permalink: /ai-and-you/
 ---
 
 [Español]({% link content/ai-survey-es.md %})
 
+<h1 style="margin-top: .3em"> AI and You: Make Your Voice Heard </h1>
+
+<p class="font-mono-lg text-bold"> Over the next five years, what do you see as being the bigger effect from generative AI on the workforce in New Jersey? </p>
+
 <a 
   href="https://all-our-ideas.citizens.is/group/206" 
   class="usa-button" 
   rel="noreferrer"  
   target="\_blank">
-Share your opinion now!
+Share your opinion now! <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/njwds/dist/img/sprite.svg#launch"></use></svg>
 </a>
 
-The above button will take you to an external site (https://all-our-ideas.is).
-
-> **"Over the next five years, what do you see as being the bigger effect from generative AI on the workforce in New Jersey?"**
+<p class="font-mono-3xs">The above button will take you to an external site (https://all-our-ideas.is).</p>
 
 Generative artificial intelligence (GenAI) is poised to radically transform how New Jerseyans work, our workplaces, and the skills we need to succeed in our work.
 
@@ -33,15 +34,23 @@ The New Jersey Artificial Intelligence Task Force wants to know what YOU think a
   class="usa-button" 
   rel="noreferrer"  
   target="\_blank">
-Participate now!
+Share your opinion now! <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"> <use xlink:href="/assets/njwds/dist/img/sprite.svg#launch"></use></svg>
 </a>
 
-The above button will take you to an external site (https://all-our-ideas.is).
+<p class="font-mono-3xs">The above button will take you to an external site (https://all-our-ideas.is).</p>
 
-To make your voice heard:
-
-<ol>
-    <li>
+<div
+  class="usa-summary-box width-tablet"
+  role="region"
+  aria-labelledby="summary-box-key-information"
+>
+  <div class="usa-summary-box__body">
+    <h4 class="usa-summary-box__heading" id="summary-box-key-information">
+      To make your voice heard:
+    </h4>
+    <div class="usa-summary-box__text">
+      <ol class="usa-list">
+        <li>
         <a 
           class="usa-link usa-link--external" 
           rel="noreferrer" 
@@ -55,7 +64,10 @@ To make your voice heard:
     <li>You'll be shown two sets of answer choices in response to the question: “Over the next five years, what do you see as being the bigger effect from generative AI on the workforce in New Jersey?” Some of the answer choices are challenges, while others are opportunities.</li>
     <li> Tell us which of the two options you think is more important, or add your own idea!</li>
     <li> Vote as many (or as few) times as you wish. </li>
-</ol>
+      </ol>
+    </div>
+  </div>
+</div>
 
 ## Why Participating Matters
 
