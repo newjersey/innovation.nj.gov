@@ -16,14 +16,15 @@ Our team operates as a startup within government, and our team members wear many
 
 <a class="usa-button" href="/about/team/our-team/">See Our Team</a>
 
+{% if site.join and site.join.size > 0 %}
+
 ## Open Opportunities
 
-<div class="container" id="jobs-container">
-    <div class="jobs-teams">
-    </div>
-    <div class="jobs-list">
-    </div>
-</div>
+{% for job in site.join %}
+
+- [{{job.title}}]({{job.url}})
+  {% endfor %}
+  {% endif %}
 
 ## The New Jersey Office of Innovation is proud to be an equal opportunity employer
 
@@ -37,12 +38,3 @@ We do not discriminate against any candidate because of color, race, age, religi
 ## Eligibility
 
 You must be authorized to work in the United States. Candidates may be required to pass a background check and complete additional steps as part of the application and onboarding process. You will be considered an “at-will” employee, meaning both employer and employee have the right to terminate employment with or without cause or notice.
-
-<script
-  type="text/javascript"
-  src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"
-></script>
-<script src="{{ site.baseurl }}/assets/js/lever/getOpenJobsList.js"></script>
-<script>
-displayJobs("{{site.baseurl}}")
-</script>
