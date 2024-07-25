@@ -1,13 +1,17 @@
 version: 1
 frontend:
   phases:
+    preBuild:
+      commands:
+        - gem install bundler
+        - bundle install
     build:
       commands:
-        - bundle install
         - npm run build
+        - sleep 5
   artifacts:
     # IMPORTANT - Please verify your build output directory
-    baseDirectory: content/_join
+    baseDirectory: _site
     files:
       - "**/*"
   cache:
