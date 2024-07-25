@@ -34,7 +34,7 @@ module Jekyll
         'title' => title,
         'team' => job['categories']['team'],
         'applyURL' => job['applyUrl'],
-        'publish' => true,
+        'published' => true,
       }
 
       # Convert front matter to YAML
@@ -86,7 +86,6 @@ module Jekyll
     
       if job['additional']
         job_listing += format_html_to_markdown(job['additional'])
-          
       end
     
       job_listing
