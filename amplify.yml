@@ -5,9 +5,10 @@ frontend:
       commands:
         - gem install bundler
         - bundle install
+        - chmod u+x importNJNodePackages.sh
+        - ./importNJNodePackages.sh
     build:
       commands:
-        - npm run import-nj-node
         - bundle exec jekyll build
   artifacts:
     # IMPORTANT - Please verify your build output directory
