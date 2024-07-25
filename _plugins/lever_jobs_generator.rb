@@ -11,12 +11,20 @@ module Jekyll
       lever_api_endpoint = 'https://api.lever.co/v0/postings/NJStateOfficeofInnovation'
       uri = URI(lever_api_endpoint)
 
-      response = Net::HTTP.get(uri)
-      jobs = JSON.parse(response)
+      begin
+        response = Net::HTTP.get(uri)
+       
+        Jekyll.logger.info "Got the JSON info #{response}"
+        jobs = JSON.parse(response)
 
-      jobs.each do |job|
-        create_job_page(site, job)
+        jobs.each do |job|
+          create_job_page(site, job)
+        end    
+        
+      rescue => e 
+        Jekyll.logger.error "Error fetching Lever JSON data: #{e.message}"
       end
+      
     end
 
     def create_job_page(site, job)
