@@ -11,77 +11,47 @@ module Jekyll
       lever_api_endpoint = 'https://api.lever.co/v0/postings/NJStateOfficeofInnovation'
       uri = URI(lever_api_endpoint)
 
+      dir_path = File.join(site.source, "./content/_join")
+      FileUtils.mkdir_p(dir_path) unless Dir.exist?(dir_path)
+
       begin
         response = Net::HTTP.get(uri)
-       
-        Jekyll.logger.info "Got the JSON info #{response}"
+        
         jobs = JSON.parse(response)
 
-        puts "\n---\n\nsite.source: #{site.source}\n\n---\n"
-        puts "\n---\n\ncurrent directory: #{File.dirname(__FILE__)}\n\n---\n"
-        puts "\n---\n\ncurrent abs directory: #{File.expand_path(File.dirname(__FILE__))}\n\n---\n"
-
         jobs.each do |job|
-          puts "wrote file #{create_job_page(site, job)}"
+          title = job['text']
+          slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+          front_matter = {
+            'title' => title,
+            'team' => job['categories']['team'],
+            'applyURL' => job['applyUrl'],
+            'published' => true,
+          }
+
+          content = <<~EOS
+            #{front_matter.to_yaml}---
+            #{build_job_listing_html(job)}
+          EOS
+
+          file_path = File.join(site.source, "content", "_join", "#{slug}.md")
+
+          File.open(file_path, 'w') { |file| file.write(content) }
+    
+          # Wait for the file to be written
+          until (File.exist?(file_path) && File.size?(file_path))
+            sleep(0.1)
+          end
+
+          page = Page.new(site, site.source, "./content/_join", "#{slug}.md")
+          page.content = content
+
+          site.pages << page
         end
 
-        puts "list of files in the _join directory (post-generation):"
-
-        # Specify the directory you want to list the files of
-        directory_path = File.join(site.source, "content/_join")
-
-        # List each file in the specified directory
-        Dir.foreach(directory_path) do |filename|
-          # Skip the current and parent directory entries
-          next if filename == '.' || filename == '..'
-          
-          # Construct the full path to the file
-          file_path = File.join(directory_path, filename)
-          
-          # Print the filename if it's a file (not a directory)
-          puts filename if File.file?(file_path)
-        end
-        
       rescue => e 
         Jekyll.logger.error "Error fetching Lever JSON data: #{e.message}"
       end
-    end
-
-    def create_job_page(site, job)
-      title = job['text']
-      slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
-      front_matter = {
-        'title' => title,
-        'team' => job['categories']['team'],
-        'applyURL' => job['applyUrl'],
-        'published' => true,
-      }
-
-      # Convert front matter to YAML
-      front_matter_yaml = front_matter.to_yaml
-
-      # Generate the full content with front matter and job description
-      content = <<~EOS
-        #{front_matter_yaml}---
-        #{build_job_listing_html(job)}
-      EOS
-
-      # Create the path for the job page
-      path = File.join(site.source, "content/_join/#{slug}.md")
-
-      # Write the content to the file
-      FileUtils.mkdir_p(File.dirname(path))
-      Jekyll.logger.info ""
-      Jekyll.logger.info "generated file path #{File.dirname(path)}"
-      Jekyll.logger.info ""
-      File.open(path, 'w') do |file|
-        file.write(content)
-        Jekyll.logger.info ""
-        Jekyll.logger.info "wrote to file #{File.join(site.source, "content/_join/#{slug}.md")}"
-        Jekyll.logger.info ""
-      end
-
-      File.join(site.source, "content/_join/#{slug}.md")
     end
 
     def build_job_listing_html(job)
@@ -108,6 +78,7 @@ module Jekyll
     
       job_listing
     end
+    
 
     def format_html_to_markdown(text)
       formatted_text = text

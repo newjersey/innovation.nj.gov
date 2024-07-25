@@ -33,3 +33,6 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # webrick no long included in gem, needs to be installed separately
 gem "webrick"
 
+
+gem "csv", "~> 3.3"
+gem "base64", "~> 0.2.0"
