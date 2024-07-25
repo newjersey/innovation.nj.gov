@@ -17,6 +17,10 @@ module Jekyll
         Jekyll.logger.info "Got the JSON info #{response}"
         jobs = JSON.parse(response)
 
+        puts "\n---\n\nsite.source: #{site.source}\n\n---\n"
+        puts "\n---\n\ncurrent directory: #{File.dirname(__FILE__)}\n\n---\n"
+        puts "\n---\n\ncurrent abs directory: #{File.expand_path(File.dirname(__FILE__))}\n\n---\n"
+
         jobs.each do |job|
           create_job_page(site, job)
         end    
