@@ -23,7 +23,24 @@ module Jekyll
 
         jobs.each do |job|
           create_job_page(site, job)
-        end    
+        end
+
+        puts "list of files in the _join directory (post-generation):"
+
+        # Specify the directory you want to list the files of
+        directory_path = File.join(site.source, "content/_join")
+
+        # List each file in the specified directory
+        Dir.foreach(directory_path) do |filename|
+          # Skip the current and parent directory entries
+          next if filename == '.' || filename == '..'
+          
+          # Construct the full path to the file
+          file_path = File.join(directory_path, filename)
+          
+          # Print the filename if it's a file (not a directory)
+          puts filename if File.file?(file_path)
+        end
         
       rescue => e 
         Jekyll.logger.error "Error fetching Lever JSON data: #{e.message}"
