@@ -4,16 +4,16 @@ frontend:
     preBuild:
       commands:
         - gem install bundler
-        - bundle install
-        - chmod u+x importNJNodePackages.sh
-        - ./importNJNodePackages.sh
+        - bundle install --path vendor/bundle
     build:
       commands:
-        - bundle exec jekyll build
+        - npm run build
   artifacts:
-    # IMPORTANT - Please verify your build output directory
     baseDirectory: _site
     files:
       - "**/*"
   cache:
-    paths: []
+    paths:
+      - vendor/bundle/**/*
+      - Gemfile.lock
+      - node_modules
