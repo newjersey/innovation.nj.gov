@@ -22,7 +22,7 @@ module Jekyll
         puts "\n---\n\ncurrent abs directory: #{File.expand_path(File.dirname(__FILE__))}\n\n---\n"
 
         jobs.each do |job|
-          create_job_page(site, job)
+          puts "wrote file #{create_job_page(site, job)}"
         end
 
         puts "list of files in the _join directory (post-generation):"
@@ -45,7 +45,6 @@ module Jekyll
       rescue => e 
         Jekyll.logger.error "Error fetching Lever JSON data: #{e.message}"
       end
-      
     end
 
     def create_job_page(site, job)
@@ -67,10 +66,6 @@ module Jekyll
         #{build_job_listing_html(job)}
       EOS
 
-      Jekyll.logger.info ""
-      Jekyll.logger.info "generated file content #{content}"
-      Jekyll.logger.info ""
-
       # Create the path for the job page
       path = File.join(site.source, "content/_join/#{slug}.md")
 
@@ -82,9 +77,11 @@ module Jekyll
       File.open(path, 'w') do |file|
         file.write(content)
         Jekyll.logger.info ""
-        Jekyll.logger.info "wrote to file"
+        Jekyll.logger.info "wrote to file #{File.join(site.source, "content/_join/#{slug}.md")}"
         Jekyll.logger.info ""
       end
+
+      File.join(site.source, "content/_join/#{slug}.md")
     end
 
     def build_job_listing_html(job)
