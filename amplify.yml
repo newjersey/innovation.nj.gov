@@ -9,6 +9,7 @@ frontend:
       commands:
         - npm run build
         - sleep 5
+        - bundle exec jekyll build
   artifacts:
     # IMPORTANT - Please verify your build output directory
     baseDirectory: _site
