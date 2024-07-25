@@ -46,13 +46,23 @@ module Jekyll
         #{build_job_listing_html(job)}
       EOS
 
+      Jekyll.logger.info ""
+      Jekyll.logger.info "generated file content #{content}"
+      Jekyll.logger.info ""
+
       # Create the path for the job page
       path = File.join(site.source, "content/_join/#{slug}.md")
 
       # Write the content to the file
       FileUtils.mkdir_p(File.dirname(path))
+      Jekyll.logger.info ""
+      Jekyll.logger.info "generated file path #{File.dirname(path)}"
+      Jekyll.logger.info ""
       File.open(path, 'w') do |file|
         file.write(content)
+        Jekyll.logger.info ""
+        Jekyll.logger.info "wrote to file"
+        Jekyll.logger.info ""
       end
     end
 
