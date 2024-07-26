@@ -24,6 +24,8 @@ task :generate_jobs do
       front_matter = {
         'title' => title,
         'team' => job['categories']['team'],
+        'commitment' => job['categories']['commitment'],
+        'department' => job['categories']['department'],
         'applyURL' => job['applyUrl'],
         'published' => true
       }
@@ -81,6 +83,24 @@ def format_html_to_markdown(text)
     div.css('br').each do |br|
       br.replace("\n")
     end
+
+    # Append a newline after each <div>
+    div.add_next_sibling(Nokogiri::XML::Text.new("\n", doc))
+  end
+
+  # Handle <a> tags to preserve links in Markdown format
+  doc.css('a').each do |a|
+    a.replace("[#{a.text}](#{a['href']})")
+  end
+
+  # Preserve bold text and convert underline to bold
+  doc.css('b, u').each do |b|
+    b.replace("**#{b.text.strip}**")
+  end
+
+  # Preserve italicized text
+  doc.css('i, em').each do |i|
+    i.replace("*#{i.text.strip}*")
   end
 
   # Process <li> elements for markdown list formatting
