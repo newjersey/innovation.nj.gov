@@ -3,14 +3,18 @@ frontend:
   phases:
     preBuild:
       commands:
+        - gem install bundler
+        - bundle config set path 'vendor/bundle'
         - bundle install
     build:
       commands:
         - npm run build
   artifacts:
-    # IMPORTANT - Please verify your build output directory
     baseDirectory: _site
     files:
       - "**/*"
   cache:
-    paths: []
+    paths:
+      - vendor/bundle/**/*
+      - Gemfile.lock
+      - node_modules

@@ -2,8 +2,10 @@
 layout: page
 ---
 
+<p class="font-mono-sm">
+  {{page.department}} &ndash; {{ page.team }} | {{page.commitment}}
+</p>
+
 {{content}}
 
-<div class="maxw-tablet">
-<script type="text/javascript" src="{{ page.form | replace: "jotform.com/", "jotform.com/jsform/"}}"></script>
-</div>
+<a class="usa-button" href="{{page.applyURL}}">Apply For This Job</a>
