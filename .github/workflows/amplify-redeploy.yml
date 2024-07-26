@@ -2,7 +2,9 @@ name: Redeploy AWS Amplify
 
 on:
   schedule:
-    - cron: "0 * * * *" # This cron expression triggers the action every hour
+    - cron: "0 14 * * *" # 10 AM ET (2 PM UTC)
+    - cron: "0 21 * * *" # 5 PM ET (9 PM UTC)
+  workflow_dispatch:
 
 jobs:
   redeploy:
