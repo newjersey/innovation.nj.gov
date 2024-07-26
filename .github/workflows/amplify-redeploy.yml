@@ -1,0 +1,14 @@
+name: Redeploy AWS Amplify
+
+on:
+  schedule:
+    - cron: "0 * * * *" # This cron expression triggers the action every hour
+
+jobs:
+  redeploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger Amplify Redeploy via Webhook
+        run: |
+          curl -X POST ${{ secrets.AMPLIFY_WEBHOOK_URL }}
