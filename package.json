@@ -4,7 +4,7 @@
     "@newjersey/njwds": "^1.0.0"
   },
   "scripts": {
-    "import-nj-node": "chmod u+x importNJNodePackages.sh && ./importNJNodePackages.sh",
+    "import-nj-node": "chmod u+x importNJNodePackages.sh && bash importNJNodePackages.sh",
     "build": "npm run import-nj-node && rake generate_jobs && bundle exec jekyll build",
     "serve": "bundle exec jekyll serve"
   }
