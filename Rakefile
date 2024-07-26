@@ -3,6 +3,7 @@ require 'net/http'
 require 'json'
 require 'yaml'
 require 'fileutils'
+require 'nokogiri'
 
 task :generate_jobs do
   # Replace with your actual Lever.co API endpoint
@@ -67,16 +68,25 @@ def build_job_listing_html(job)
 end
 
 def format_html_to_markdown(text)
-  formatted_text = text
-      .gsub(/<div><b style="font-size: 18px">(.*?)<\/b>/) { |match| "## #{$1.strip}" }
-      .split('<div>').join("\n")
-      .gsub(/<br>|<div>|<\/div>/, '')
+  # Parse the HTML text with Nokogiri
+  doc = Nokogiri::HTML::DocumentFragment.parse(text)
+  # Process each <div> element
+  doc.css('div').each do |div|
+    # Check for <b> tags with specific style and replace with markdown headers
+    div.css('b[style="font-size: 18px"]').each do |b|
+      b.replace("## #{b.text.strip}\n")
+    end
 
-  if text.include?('</li><li>')
-      formatted_text = formatted_text
-        .split('</li><li>').map { |item| "- #{item.strip}" }.join("\n")
-        .gsub(/<\/?li>/, '')
+    # Replace <br> tags with newlines
+    div.css('br').each do |br|
+      br.replace("\n")
+    end
   end
 
-  formatted_text
+  # Process <li> elements for markdown list formatting
+  doc.css('li').each do |li|
+    li.replace("- #{li.text.strip}\n")
+  end
+
+  doc.text
 end
