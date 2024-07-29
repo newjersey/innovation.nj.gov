@@ -1,0 +1,16 @@
+name: Redeploy AWS Amplify
+
+on:
+  schedule:
+    - cron: "0 14 * * 1-5" # 10 AM ET (2 PM UTC), Monday-Friday
+    - cron: "0 20 * * 1-5" # 4 PM ET (8 PM UTC), Monday-Friday
+  workflow_dispatch:
+
+jobs:
+  redeploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger Amplify Redeploy via Webhook
+        run: |
+          curl -X POST -d {} "${{ secrets.AMPLIFY_WEBHOOK_URL }}" -H "Content-Type:application/json"
