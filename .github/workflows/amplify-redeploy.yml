@@ -3,7 +3,7 @@ name: Redeploy AWS Amplify
 on:
   schedule:
     - cron: "0 14 * * 1-5" # 10 AM ET (2 PM UTC), Monday-Friday
-    - cron: "0 21 * * 1-5" # 5 PM ET (9 PM UTC), Monday-Friday
+    - cron: "0 20 * * 1-5" # 4 PM ET (8 PM UTC), Monday-Friday
   workflow_dispatch:
 
 jobs:
