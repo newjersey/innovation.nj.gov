@@ -1,6 +1,6 @@
 ---
 image: /assets/images/news/kyw.png
-title: "COVERAGE: New Jersey launches online hub for disability information, resources"
+title: "COVERAGE: New Jersey Launches Online Hub for Disability Information, Resources"
 promoted: 2 
 date: July 26, 2024
 source: KYW
