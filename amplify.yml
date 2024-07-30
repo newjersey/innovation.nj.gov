@@ -20,8 +20,8 @@ frontend:
       - node_modules
   notifications:
     - type: SNS
-      topicArn: arn:aws:sns:us-east-1:360364660870:innovation-site-build-success
+      topicArn: $SNS_TOPIC_ARN_SUCCESS
       event: "BUILD_SUCCESS"
     - type: SNS
-      topicArn: arn:aws:sns:us-east-1:360364660870:innovation-site-build-failure
+      topicArn: $SNS_TOPIC_ARN_FAILURE
       event: "BUILD_FAILURE"
