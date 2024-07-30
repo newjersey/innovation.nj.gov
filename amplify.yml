@@ -18,3 +18,10 @@ frontend:
       - vendor/bundle/**/*
       - Gemfile.lock
       - node_modules
+  notifications:
+    - type: SNS
+      topicArn: arn:aws:sns:us-east-1:360364660870:innovation-site-build-success
+      event: "BUILD_SUCCESS"
+    - type: SNS
+      topicArn: arn:aws:sns:us-east-1:360364660870:innovation-site-build-failure
+      event: "BUILD_FAILURE"
