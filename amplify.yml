@@ -8,7 +8,10 @@ frontend:
         - bundle install
     build:
       commands:
-        - npm run build
+        - npm run build || aws sns publish --topic-arn $SNS_TOPIC_ARN_FAILURE --message "Amplify build failed"
+    postBuild:
+      commands:
+        - aws sns publish --topic-arn $SNS_TOPIC_ARN_SUCCESS --message "Amplify build succeeded"
   artifacts:
     baseDirectory: _site
     files:
@@ -18,10 +21,3 @@ frontend:
       - vendor/bundle/**/*
       - Gemfile.lock
       - node_modules
-  notifications:
-    - type: SNS
-      topicArn: $SNS_TOPIC_ARN_SUCCESS
-      event: "BUILD_SUCCESS"
-    - type: SNS
-      topicArn: $SNS_TOPIC_ARN_FAILURE
-      event: "BUILD_FAILURE"
