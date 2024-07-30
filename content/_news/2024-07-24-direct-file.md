@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/NJ-seal.png
-title: "Governor Murphy and U.S. Department of Treasury Announce New Jersey will Join IRS Direct File"
-promoted: 1
+title: "RELEASE: Governor Murphy and U.S. Department of Treasury Announce New Jersey will Join IRS Direct File"
+promoted: 
 date: July 24, 2024
 source: NJGOV
 cta:
