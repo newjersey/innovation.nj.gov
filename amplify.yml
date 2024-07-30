@@ -21,3 +21,10 @@ frontend:
       - vendor/bundle/**/*
       - Gemfile.lock
       - node_modules
+  notifications:
+    - type: SNS
+      topicArn: $SNS_TOPIC_ARN_SUCCESS
+      event: "BUILD_SUCCESS"
+    - type: SNS
+      topicArn: $SNS_TOPIC_ARN_FAILURE
+      event: "BUILD_FAILURE"
