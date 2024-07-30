@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/govtech.png
 title: "Coverage: NJ Unveils AI Training, Tool for State Government Workers"
-promoted: 2
+promoted: 
 date: July 5, 2024
 source: GovTech
 cta:
