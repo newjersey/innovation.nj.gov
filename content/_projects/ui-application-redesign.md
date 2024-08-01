@@ -15,7 +15,6 @@ Rather than spending years to update the legacy mainframe – the most sensitive
 
 ### Impact + Metrics
 
-- With the initial introduction of a simpler, easier to understand interface that reduces confusion and frustration in 2022, unemployment insurance certification success rates rose from approximately 63% to 88%, while the average time to complete an application fell by 48 minutes.
 - In April of 2024, a completely redesigned UI application was launched with 20% fewer questions. On average, the previous application took 3 hours and 50 minutes to submit. With the new application, half of applicants submitted theirs in less than 28 minutes.
 - As of May 2024, 92% of applicants now finish and submit on the same day and there has been a 14% reduction in applications that require manual review before entering the system.
 - The application is also fully available in native Spanish, not Google Translate, and has been maximized for assistive devices. 
