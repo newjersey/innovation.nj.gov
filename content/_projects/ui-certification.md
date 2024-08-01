@@ -7,7 +7,7 @@ Working with the NJ State Department of Labor, the Office of Innovation is redes
 
 ### Challenge
 
-In order to receive their Unemployment Insurance benefits each week, residents must certify their eligibility by answering a series of questions. However, many of the questions were confusing and caused many residents to respond incorrectly, which then caused errors and delays in processing benefits. These cases were then flagged and required agency staff to manually review each claim, leading to further delays in receiving benefits. These errors also led many applicants to call the contact center, adding to phone wait times. 
+In order to receive their Unemployment Insurance benefits each week, under federal requirements, residents must certify their eligibility by answering a series of questions. However, many of the questions were confusing and caused many residents to respond incorrectly, which then caused errors and delays in processing benefits. These cases were then flagged and required agency staff to manually review each claim, leading to further delays in receiving benefits. These errors also led many applicants to call the contact center, adding to phone wait times. 
 
 ### Innovation In Action
 
