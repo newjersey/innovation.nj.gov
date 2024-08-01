@@ -3,11 +3,12 @@ title: Unemployment Insurance Identity Verification Modernization
 initiative: Resident Experience Initiative
 ---
 
-The Office of Innovation, in partnership with the NJ State Department of Labor, is streamlining and clarifying the Unemployment Insurance system’s identity verification process, which had previously been a top cause of confusion and delay in processing claims. This ongoing work is part of the Resident Experience Initiative.
+The Office of Innovation, in partnership with the NJ State Department of Labor, is streamlining and clarifying the Unemployment Insurance system’s identity verification process, which had previously been a top cause of delays in processing claims. This ongoing work is part of the Resident Experience Initiative.
 
 ### Challenge
 
 After submitting an Unemployment Insurance application, residents need to verify their identity. However the process required going to a third-party website, which was confusing and often prevented applications from moving forward and created delays in receiving benefits. Problems with the identity verification process were the top reason residents contacted the Unemployment Insurance call center, driving up wait times and occupying a significant portion of agents’ time, further compounding long wait times.
+
 ### Innovation In Action
 
 OOI and its partners worked with residents and frontline agency staff to uncover the biggest pain points in the identity verification process, and then iteratively developed and tested changes to alleviate those challenges. Improvements included embedding clearer language and nudges at critical points throughout the application process, and moving the identity verification tool to a State-hosted site to overcome trust issues. This nuanced approach to problem solving underscores the ability to make significant improvements without having to spend years and millions of dollars to upgrade legacy back-end systems. 
