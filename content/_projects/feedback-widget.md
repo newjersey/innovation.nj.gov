@@ -14,7 +14,7 @@ OOI developed a digital tool that can easily be embedded on most State websites 
 ### Impact + Metrics
 
 - Shortly after launching a new Unemployment Insurance Claim Status Tool with the Department of Labor in March 2023, in response to user comments on the feedback widget, a new update was quickly released to make 1099 forms from current and previous years available in time for the April tax deadline. 
-- With help from the feedback widget, the Unemployment Insurance Claims Status Tool is being made even more effective. When the tool was initially introduced in early 2023, 75% of surveyed residents said they were unable to find what they needed, but as of May 2024, 65% of those surveyed are now able to find what they need.  
+- With help from the feedback widget, the [Unemployment Insurance Claims Status Tool](https://innovation.nj.gov/projects/ui-claim-tool/) is being made even more effective. When the tool was initially introduced in early 2023, 75% of surveyed residents said they were unable to find what they needed, but as of May 2024, 65% of those surveyed are now able to find what they need.  
 - Comments made through the COVID-19 Info Hub’s feedback widget directly led to thousands of edits on existing articles and the creation of entirely new articles clarifying testing procedures, testing sites, limits on gatherings, which businesses were open, and more so residents could stay safe and get the help they needed.
 - As of June 2024, feedback widgets have been deployed on websites across 8 State departments and agencies with residents submitting over 37,000 comments. 
 
@@ -29,4 +29,4 @@ OOI developed a digital tool that can easily be embedded on most State websites 
 
 - NJ State Department of Labor
 
-*Last updated on 6/27/24*
+*Last updated on 8/6/24*
