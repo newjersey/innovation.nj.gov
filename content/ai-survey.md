@@ -27,7 +27,9 @@ To effectively address the opportunities and challenges posed by advances in AI,
 
 ## Your Voice Matters. We Want to Hear From You!
 
-The New Jersey Artificial Intelligence Task Force wants to know what YOU think are the most important challenges and opportunities. The deadline to participate has been extended to August 16, 2024 - make your voice heard today!
+The New Jersey Artificial Intelligence Task Force wants to know what YOU think are the most important challenges and opportunities.
+
+The deadline to participate has been extended to August 16, 2024 &mdash; make your voice heard today!
 
 <a 
   href="https://all-our-ideas.citizens.is/group/206" 
