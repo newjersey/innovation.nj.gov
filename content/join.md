@@ -4,19 +4,19 @@ permalink: /join/
 layout: page
 ---
 
-Thanks for your interest in our team. Check out our [current open roles](#open-opportunities). We are planning to open additional new roles in the coming weeks, so check back on our site, or submit a general interest application.
+The New Jersey State Office of Innovation is looking for team members that are eager to tackle urgent, complex challenges and make an impact at scale. Our work improves the lives of New Jerseyans by solving problems differently - we use modern technologies and best practices from the public and private sector to transform government. 
 
-## Our Team
+Our [team members](https://innovation.nj.gov/about/team/our-team/) are talented, experienced, and dedicated to making a positive difference. 
 
-The New Jersey State Office of Innovation is looking for diverse and experienced team members to deploy world-class innovative and digital services that solve pressing public interest challenges for the people of New Jersey. We use data-driven, agile, and human-centered and equitable design practices to deliver innovative solutions and digital services involving tech, talent, process, and policy with the support of Governor Murphy and his Administration, the Chief Innovation Officer Beth Simone Noveck, and other senior leadership.
+Are you motivated to modernize benefit programs to enable agencies to efficiently serve millions of New Jerseyans? Our [Unemployment Insurance modernization work](https://innovation.nj.gov/projects/ui-application-redesign/) has reduced the median time it takes to complete an application to less than 28 minutes – down from nearly 4 hours on average.
 
-Our work spans numerous issue and policy areas, and is focused on making an impact in the lives of the New Jerseyans that we serve: we’ve decreased the amount of time it takes to apply for Unemployment Insurance, made it easier to start, operate, and grow a business in the Garden State, and connected millions of New Jerseyans to government programs, services, and benefits.
+Do you want to build new tools that help residents access benefits? More than 100,000 expecting parents in New Jersey have used the [Maternity Coverage Timeline Tool](https://innovation.nj.gov/projects/maternity-coverage-tool/) to help identify what benefits they can access and when.
 
-Our team operates as a startup within government, and our team members wear many hats, contributing to both the execution of core projects and the evolution of the Office of Innovation. We kickstart new initiatives and assist teammates and partners when urgent challenges arise. We use data and modern research, design, and development methods to inform our decision making, and we collaborate with stakeholders within and outside of government to understand and solve challenges. To learn more about the New Jersey Office of Innovation, visit our [about us](/about) page. If you have any questions, please contact us at [team@innovation.nj.gov](mailto:team@innovation.nj.gov).
+Are you excited about serving Garden State businesses and aspiring entrepreneurs through the creation of a modernized and centralized customer service experience? [Business.NJ.gov](https://innovation.nj.gov/projects/business-nj-gov/) has served more than 4 million people, and facilitated the creation of tens of thousands of businesses.
 
-<a class="usa-button" href="/about/team/our-team/">See Our Team</a>
+At the Office of Innovation, we use data-driven, agile, and human-centered design practices to make an impact across issue and policy areas. We embed with our partners and work rapidly to identify, test, and deploy solutions that help New Jerseyans. 
 
-{% if site.join and site.join.size > 0 %}
+If you are interested in becoming a part of the team, explore current openings below or feel free to contact us with any questions at [team@innovation.nj.gov](mailto:team@innovation.nj.gov).
 
 ## Open Opportunities
 
@@ -25,6 +25,8 @@ Our team operates as a startup within government, and our team members wear many
 - [{{job.title}}]({{job.url}})
   {% endfor %}
   {% endif %}
+
+We regularly add new roles, so check back in a few weeks for new opportunities or submit a [general interest application](https://innovation.nj.gov/join/general-interest/).
 
 ## The New Jersey Office of Innovation is proud to be an equal opportunity employer
 
