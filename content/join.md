@@ -18,12 +18,14 @@ At the Office of Innovation, we use data-driven, agile, and human-centered desig
 
 If you are interested in becoming a part of the team, explore current openings below or feel free to contact us with any questions at [team@innovation.nj.gov](mailto:team@innovation.nj.gov).
 
+{% if site.join and site.join.size > 0 %}
 ## Open Opportunities
 
 {% for job in site.join %}
 
 - [{{job.title}}]({{job.url}})
 {% endfor %}
+{% endif %}
 
 We regularly add new roles, so check back in a few weeks for new opportunities or submit a [general interest application](https://innovation.nj.gov/join/general-interest/).
 
