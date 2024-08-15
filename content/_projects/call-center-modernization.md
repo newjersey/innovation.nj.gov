@@ -9,7 +9,7 @@ The Office of Innovation is working with multiple State agencies to streamline a
 
 Residents seeking help with critical benefits turn to the State’s call centers in the hope of speaking with someone who can resolve their issues, however, at times, they face frustratingly long wait times or must call back repeatedly. Meanwhile, the busiest call center representatives are managing hundreds of calls a day. 
 
-### Innovation In action
+### Innovation In Action
 
 Rather than a one-time modernization project, the Office of Innovation sought to develop an approach that can be replicated with greater speed and efficiency at additional partner agencies. So after successfully helping to improve its first call center, OOI took those proven lessons and tactics and applied them to its next call center modernization project, saving valuable time and resources. This playbook continues to be refined and improved upon with each partnership. 
   
