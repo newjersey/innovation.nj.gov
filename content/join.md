@@ -23,8 +23,7 @@ If you are interested in becoming a part of the team, explore current openings b
 {% for job in site.join %}
 
 - [{{job.title}}]({{job.url}})
-  {% endfor %}
-  {% endif %}
+{% endfor %}
 
 We regularly add new roles, so check back in a few weeks for new opportunities or submit a [general interest application](https://innovation.nj.gov/join/general-interest/).
 
