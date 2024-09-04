@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/aditi.jpg
+image: /assets/images/team/aditi.webp
 title: Aditi Sharma
 ---
 
