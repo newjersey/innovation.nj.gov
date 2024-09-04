@@ -7,4 +7,4 @@ Eugene K. Chow is an experienced speechwriter, journalist, and communications st
 
 Prior to joining the Office of Innovation, Eugene served as deputy communications director for Pete Buttigieg’s presidential campaign in New Hampshire, and later as a national spokesperson. He also served as the acting chief speechwriter for New York City Mayor Bill de Blasio. He began his career as deputy regional field director on President Obama’s 2008 campaign, before serving as a speechwriting intern to Secretary of Defense Robert Gates.
 
-Eugene’s writing as a journalist has appeared in Foreign Policy, The Diplomat, Huffington Post, and The Week. Recently, he served as the senior writer for the Robin Hood Foundation, where he helped produce a Webby-winning video short. He is a graduate of UC Berkeley.
+Eugene’s writing as a journalist has appeared in Foreign Policy, The Diplomat, Huffington Post, and The Week. Previously, he served as the senior writer for the Robin Hood Foundation, where he helped produce a Webby-winning video short. He is a graduate of UC Berkeley.
