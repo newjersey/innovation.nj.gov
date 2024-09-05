@@ -84,6 +84,11 @@ collections:
     permalink: cel-playbook/:title/
     output: true
     sort_by: name
+  impactreport2024:
+    permalink: /impact-report/2024/:title/
+    directory: _impactreport2024/2024/
+    output: true
+    sort_by: order
   skills:
     output: true
   trainings:
@@ -150,7 +155,20 @@ defaults:
         image: /assets/images/cel-playbook-hero.jpg
       menu-group: The C+E Lab Playbook
       menu:
-        - title: The C+E Playbook
+        - title: About the Playbook
           url: /cel-playbook
           collection: playbooks
+          group-by: menu-group
+  - scope:
+      path: ""
+      type: "impactreport2024"
+    values:
+      layout: playbook
+      hero:
+        image: /assets/images/cel-playbook-hero.jpg
+      menu-group: Impact Report
+      menu:
+        - title: Introduction
+          url: /impact-report/2024/
+          collection: impactreport2024
           group-by: menu-group
