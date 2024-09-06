@@ -2,6 +2,9 @@
 title: Impact Report Page Template
 title-image:
   image: /assets/images/cel-playbook-hero.jpg
+previous-page:
+  title: How We Measure Impact
+  link: "/impact-report/2024/01_measure_impact/"
 ---
 
 <div class="usa-alert usa-alert--info usa-alert--no-icon">

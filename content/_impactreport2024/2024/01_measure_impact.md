@@ -1,6 +1,12 @@
 ---
 title: How We Measure Impact
 menu-group: Overview
+previous-page:
+  title: About the Office of Innovation and Our Work
+  link: "/impact-report/2024/00_about"
+next-page:
+  title: Impact Report Page Template
+  link: "/impact-report/2024/template/"
 ---
 
 The Office of Innovation’s work is guided by a central goal: to meaningfully impact how State government delivers services to improve the lives of New Jerseyans. As we evaluate the outcomes of our work, we look to an array of impact metrics and data - both qualitative and quantitative - to guide our organizational growth, evolution, and decision-making. These include:

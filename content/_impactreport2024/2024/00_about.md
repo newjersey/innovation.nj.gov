@@ -1,6 +1,12 @@
 ---
 title: About the Office of Innovation and Our Work
 menu-group: Overview
+previous-page:
+  title: Introduction
+  link: "/impact-report/2024/"
+next-page:
+  title: How We Measure Impact
+  link: "/impact-report/2024/01_measure_impact/"
 ---
 
 Our mission is to improve the lives of New Jerseyans by solving public problems differently.

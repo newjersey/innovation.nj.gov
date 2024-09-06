@@ -37,6 +37,35 @@ layout: default
             </section>
           {% endif %}
           {{ content }}
+
+          {% if page.next-page or page.previous-page %}
+            <div class="grid-container padding-top-4 padding-x-0">
+              <div class="grid-row">
+                {% if page.previous-page %}
+                  <a href="{{ page.previous-page.link }}">
+                    <button class="usa-button usa-button--outline"> 
+                      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                        <use xlink:href="/assets/njwds/dist/img/sprite.svg#arrow_back"></use>
+                      </svg>
+                      Previous: {{ page.previous-page.title | truncate: 20}}
+                    </button>
+                  </a>
+                {% endif %}
+                {% if page.next-page %}
+                    <a href="{{ page.next-page.link }}">
+                      <button class="usa-button usa-button--outline">
+                        Next: {{ page.next-page.title | truncate: 20}}
+                        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+                          <use xlink:href="/assets/njwds/dist/img/sprite.svg#arrow_forward"></use>
+                        </svg>
+                      </button>
+                    </a>
+                {% endif %}
+              </div>
+              
+            </div>
+          {% endif %}
+
         </main>
       </div>
     </div>
