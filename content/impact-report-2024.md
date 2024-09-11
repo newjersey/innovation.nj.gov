@@ -3,7 +3,7 @@ title: NJ State Office of Innovation Annual Impact Report FY24
 layout: playbook
 permalink: /impact-report/2024/
 hero:
-  image: /assets/images/cel-playbook-hero.jpg
+  image: /assets/images/impact-report/2024/hero.png
 menu:
   - title: Introduction
     url: /impact-report/2024/
@@ -11,7 +11,7 @@ menu:
     group-by: menu-group
 next-page:
   title: About the Office of Innovation and Our Work
-  link: "/impact-report/2024/00_about/"
+  link: "/impact-report/2024/00-about/"
 ---
 
 ## A Message From The Chief Innovation Officer

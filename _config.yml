@@ -165,7 +165,7 @@ defaults:
     values:
       layout: playbook
       hero:
-        image: /assets/images/cel-playbook-hero.jpg
+        image: /assets/images/impact-report/2024/hero.png
       menu-group: Impact Report
       menu:
         - title: Introduction
