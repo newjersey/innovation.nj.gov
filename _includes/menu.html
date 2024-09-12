@@ -4,14 +4,18 @@
   {% endif %}
 {% endfor %}
 
+
 <nav aria-label="Secondary navigation">
-  <ul class="usa-sidenav">
-    {% for item in include.menu %}
-      {% if item.collection %}
-        <a href="{{item.url}}" class="{% if page.url == item.url%}usa-current{% endif %}">{{ item.title }}</a>
-      {% endif %}
-    {% endfor %}
-  </ul>
+
+  {% for item in include.menu %}
+    {% if item.menu-header %}
+      <ul class="usa-sidenav">
+        <a href="{{item.menu-header.url}}" class="{% if page.url == item.menu-header.url%}usa-current{% endif %}">
+          {{ item.menu-header.title }}
+        </a>
+      </ul>
+    {% endif %}
+  {% endfor %}
 
   {% for group in menu-groups %}
     {% assign menu-group-parent = "" %}
@@ -27,7 +31,9 @@
       <li class="usa-sidenav__item">
         {% if menu-group-parent.url %}
           {% assign url = menu-group-parent.url %}
-          <a href="{{menu-group-parent.url}}" class="{% if page.url == url%}usa-current{% endif %}">{{ group.name }}</a>
+          <a href="{{menu-group-parent.url}}" class="{% if page.url == url%}usa-current{% endif %}">
+            {{ group.name }}
+          </a>
         {% else %}
           {% assign url = "" %}
           <div style="
@@ -42,14 +48,21 @@
         {% if group.items %}
           <ul class="usa-sidenav__sublist">
             {% assign sub-menu = group.items | sort: "order" %}
-            {% for item in sub-menu %}
+            {% for item in
+ sub-menu %}
               {% if item.title != menu-group-parent.title %}
                 <li class="usa-sidenav__item">
                   <a href="{{item.url}}" class="{% if page.url == item.url%}usa-current{% endif %}">
                     {% if item.title-prefix %}
                       {{ item.title-prefix }}
                     {% endif %}
-                    {{ item.title }}</a>
+                    {% if
+ item.menu-title %}
+                      {{ item.menu-title }}
+                    {% else %}
+                      {{ item.title }}
+                    {% endif %}
+                  </a>
                 </li>
               {% endif %}
             {% endfor %}

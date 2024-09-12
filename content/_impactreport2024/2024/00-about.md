@@ -1,9 +1,9 @@
 ---
 title: About the Office of Innovation and Our Work
-menu-group: Overview
+menu-group: Introduction
 order: 1
 previous-page:
-  title: Introduction
+  title: Message from the Chief Innovation Officer
   link: "/impact-report/2024/"
 next-page:
   title: How We Measure Impact

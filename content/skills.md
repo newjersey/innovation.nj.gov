@@ -2,10 +2,13 @@
 title: NJ Innovation Skills Accelerator and Trainings
 permalink: /skills/
 menu:
-        - title: About Innovation Skills
-          url: /skills/
-          collection: skills
-          group-by: menu-group
+  - title: About Innovation Skills
+    url: /skills/
+    collection: skills
+    group-by: menu-group
+    menu-header:
+      title: Innovation Skills
+      url: "/skills/"
 ---
 
 <p class="usa-intro">

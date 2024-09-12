@@ -1,5 +1,6 @@
 ---
 title: Helped more than 12,000 members of New Jersey’s disability community and their loved ones access critical information and services
+menu-title: "Project Highlight: Disability Information Hub"
 title-image:
   image: /assets/images/cel-playbook-hero.jpg
 previous-page:

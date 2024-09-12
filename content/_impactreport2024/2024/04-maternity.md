@@ -1,5 +1,6 @@
 ---
 title: Helped more than 115,000 expecting parents access benefits to care for their newborns
+menu-title: "Project Highlight: Maternity Coverage Timeline Tool"
 title-image:
   image: /assets/images/cel-playbook-hero.jpg
 previous-page:

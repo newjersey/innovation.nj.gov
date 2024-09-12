@@ -1,5 +1,6 @@
 ---
 title: Helped over 45,000 entrepreneurs start and grow their new business in New Jersey
+menu-title: "Project Highlight: The Business Experience Initiative"
 title-image:
   image: /assets/images/cel-playbook-hero.jpg
 previous-page:

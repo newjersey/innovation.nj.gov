@@ -9,6 +9,9 @@ menu:
     url: /cel-playbook/
     collection: playbooks
     group-by: menu-group
+    menu-header:
+      title: About the Playbook
+      url: "/cel-playbook/"
 ---
 
 ## About This Playbook

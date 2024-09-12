@@ -110,6 +110,9 @@ defaults:
           url: /about
           collection: team
           group-by: menu-group
+      menu-header:
+        title: About Us
+        url: "/about/"
   - scope:
       path: ""
       type: "redirects"
@@ -136,6 +139,9 @@ defaults:
           url: /projects/
           collection: projects
           group-by: initiative
+          menu-header:
+          title: Our Work
+          url: "/projects/"
   - scope:
       path: ""
       type: "skills"
@@ -146,6 +152,9 @@ defaults:
           url: /skills/
           collection: skills
           group-by: menu-group
+          menu-header:
+            title: Innovation Skills
+            url: "/skills/"
   - scope:
       path: ""
       type: "playbooks"
@@ -159,6 +168,9 @@ defaults:
           url: /cel-playbook
           collection: playbooks
           group-by: menu-group
+          menu-header:
+            title: About the Playbook
+            url: "/cel-playbook/"
   - scope:
       path: ""
       type: "impactreport2024"
@@ -166,7 +178,7 @@ defaults:
       layout: playbook
       hero:
         image: /assets/images/impact-report/2024/hero.png
-      menu-group: Impact Report
+      menu-group: Project Highlights
       menu:
         - title: Introduction
           url: /impact-report/2024/

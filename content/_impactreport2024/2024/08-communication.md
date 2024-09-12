@@ -1,5 +1,6 @@
 ---
 title: Increased visits from Spanish-language users to Business.NJ.gov by nearly 800%, drove nearly 6 million engagements with college degree completion programs, and connected tens of thousands of New Jerseyans with career services
+menu-title: "Project Highlight: Communication + Engagement Lab"
 title-image:
   image: /assets/images/cel-playbook-hero.jpg
 previous-page:

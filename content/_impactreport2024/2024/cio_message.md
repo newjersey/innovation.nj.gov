@@ -1,20 +1,12 @@
 ---
-title: NJ State Office of Innovation Annual Impact Report FY24
-layout: playbook
 permalink: /impact-report/2024/
-hero:
-  image: /assets/images/impact-report/2024/hero.png
-menu:
-  - title: Introduction
-    url: /impact-report/2024/
-    collection: impactreport2024
-    group-by: menu-group
+title: Message from the Chief Innovation Officer
+menu-group: Introduction
 next-page:
   title: About the Office of Innovation and Our Work
   link: "/impact-report/2024/00-about/"
+order: 0
 ---
-
-## A Message From The Chief Innovation Officer
 
 For years now, our political discourse has been increasingly filled with cynicism, mistrust, and misinformation, and so it has been easy to lose sight of the fact that our State government exists for a simple reason: to help us in our time of need. Each day, thousands of public sector professionals across the state work tirelessly to ensure that help is there when New Jerseyans are sick, struggling to pay rent or the grocery bills, trying to keep our businesses afloat, and more.
 

@@ -1,5 +1,6 @@
 ---
 title: Helped over 123,000 workers find job openings and training programs and explore new careers in New Jersey
+menu-title: "Project Highlight: My Career NJ"
 title-image:
   image: /assets/images/cel-playbook-hero.jpg
 previous-page:

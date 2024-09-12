@@ -1,5 +1,6 @@
 ---
 title: Connected millions of New Jerseyans with vital information, services, and programs
+menu-title: "Project Highlight: COVID-19 Response"
 title-image:
   image: /assets/images/cel-playbook-hero.jpg
 previous-page:

@@ -1,5 +1,6 @@
 ---
 title: Launched one of the nation’s first AI tools specifically built for State employees
+menu-title: "Project Highlight: NJ AI Assistant"
 title-image:
   image: /assets/images/cel-playbook-hero.jpg
 previous-page:

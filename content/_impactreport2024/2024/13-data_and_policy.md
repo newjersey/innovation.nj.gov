@@ -1,5 +1,6 @@
 ---
 title: Helped tens of thousands of New Jerseyans engage with State officials on policy making and spending decisions
+menu-title: "Project Highlight: Data + Policy"
 title-image:
   image: /assets/images/cel-playbook-hero.jpg
 previous-page:

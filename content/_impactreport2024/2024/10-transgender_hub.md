@@ -1,5 +1,6 @@
 ---
 title: Helped more than 68,000 members of New Jersey’s LGBTQ+ community access critical information and services
+menu-title: "Project Highlight: Transgender Information Hub"
 title-image:
   image: /assets/images/cel-playbook-hero.jpg
 previous-page:
