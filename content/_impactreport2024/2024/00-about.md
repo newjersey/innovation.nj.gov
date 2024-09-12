@@ -72,4 +72,4 @@ These initiatives have led to significant impact across State government, and ha
     </div>
 </div>
 
-The projects highlighted in the following pages are just a sliver of what we have accomplished. To see the full scope of our work, visit [innovation.nj.gov/projects](https://innovation.nj.gov/projects).
+The projects highlighted in the following pages are just a sliver of what we have accomplished. To see the full scope of our work, visit [our projects page]({% link content/projects.md %}).
