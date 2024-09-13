@@ -2,7 +2,7 @@
 title: Helped over 45,000 entrepreneurs start and grow their new business in New Jersey
 menu-title: "Project Highlight: The Business Experience Initiative"
 title-image:
-  image: /assets/images/cel-playbook-hero.jpg
+  image: /assets/images/impact-report/2024/header/business.png
 previous-page:
   title: Helped over 123,000 workers find job openings and training programs and explore new careers in New Jersey
   link: "/impact-report/2024/05-my_career"
@@ -51,27 +51,8 @@ Rather than waiting to debut a large-scale solution after a multi-year developme
 - NJ State Department of Labor
 - Statewide initiative, in partnership with all relevant - State entities
 
-<ul class="usa-card-group padding-top-2">
-    <li class="tablet:grid-col-6 usa-card">
-        <div class="usa-card__container">
-            <header class="usa-card__header">
-                <h2 class="usa-card__heading">Before</h2>
-            </header>
-            <div class="usa-card__body">
-                
-            </div>
-            
-        </div>
-    </li>
-    <li class="tablet:grid-col-6 usa-card">
-        <div class="usa-card__container">
-            <header class="usa-card__header">
-                <h2 class="usa-card__heading">After</h2>
-            </header>
-            <div class="usa-card__body">
-                
-            </div>
-            
-        </div>
-    </li>
-</ul>
+<img
+  src="/assets/images/impact-report/2024/examples/business.png"
+  alt=""
+  class="padding-4"
+/>

@@ -2,7 +2,7 @@
 title: Helped tens of thousands of New Jerseyans engage with State officials on policy making and spending decisions
 menu-title: "Project Highlight: Data + Policy"
 title-image:
-  image: /assets/images/cel-playbook-hero.jpg
+  image: /assets/images/impact-report/2024/header/mycareernj.png
 previous-page:
   title: Connected millions of New Jerseyans with vital information, services, and programs
   link: "/impact-report/2024/12-covid19_response"
@@ -40,3 +40,9 @@ The Data + Policy Team employs a variety of tools, strategies, and services to h
 - Office of the Governor
 - NJ Department of Environmental Protection
 - NJ State Office of the Secretary of Higher Education
+
+<img
+  src="/assets/images/impact-report/2024/examples/allourideas.bin"
+  alt=""
+  class="padding-4"
+/>

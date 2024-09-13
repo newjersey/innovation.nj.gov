@@ -2,7 +2,7 @@
 title: Connected millions of New Jerseyans with vital information, services, and programs
 menu-title: "Project Highlight: COVID-19 Response"
 title-image:
-  image: /assets/images/cel-playbook-hero.jpg
+  image: /assets/images/impact-report/2024/header/mycareernj.png
 previous-page:
   title: Launched one of the nation’s first AI tools specifically built for State employees
   link: "/impact-report/2024/11-ai_assistant"
@@ -54,4 +54,10 @@ These are just a few of the tools OOI built in partnership with State agencies t
 
 ## Partners
 
-- Statewide initiative, in partnership with all State Departments
+- Statewide initiative, in partnership with all State Departments\
+
+<img
+  src="/assets/images/impact-report/2024/examples/covid19hub.png"
+  alt=""
+  class="padding-4"
+/>

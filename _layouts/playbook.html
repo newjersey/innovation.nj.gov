@@ -31,13 +31,8 @@ layout: default
             page.title }}
           </h1>
           {% if page.title-image %}
-          <section
-            class="usa-hero padding-top-15 padding-bottom-15"
-            aria-label="Introduction"
-            style="background-image: url({{page.title-image.image}});"
-          >
-            <div class="grid-container padding-top-10"></div>
-          </section>
+          <img src="{{page.title-image.image}}" alt="" />
+
           {% endif %} {{ content }} {% if page.next-page or page.previous-page
           %}
           <div class="grid-container padding-top-4 padding-x-0">

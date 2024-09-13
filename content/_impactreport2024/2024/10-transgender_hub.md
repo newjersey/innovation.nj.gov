@@ -2,7 +2,7 @@
 title: Helped more than 68,000 members of New Jersey’s LGBTQ+ community access critical information and services
 menu-title: "Project Highlight: Transgender Information Hub"
 title-image:
-  image: /assets/images/cel-playbook-hero.jpg
+  image: /assets/images/impact-report/2024/header/mycareernj.png
 previous-page:
   title: Helped more than 12,000 members of New Jersey’s disability community and their loved ones access critical information and services
   link: "/impact-report/2024/09-disability_hub"
@@ -43,3 +43,9 @@ To ensure the needs of transgender and non-binary New Jerseyans were met, OOI us
 - NJ State Attorney General’s Office, Division on Civil Rights
 - NJ State Department of Children and Families
 - Garden State Equality
+
+<img
+  src="/assets/images/impact-report/2024/examples/transgenderhub.png"
+  alt=""
+  class="padding-4"
+/>

@@ -2,7 +2,7 @@
 title: Helped more than 12,000 members of New Jersey’s disability community and their loved ones access critical information and services
 menu-title: "Project Highlight: Disability Information Hub"
 title-image:
-  image: /assets/images/cel-playbook-hero.jpg
+  image: /assets/images/impact-report/2024/header/disabilityhub.png
 previous-page:
   title: Increased visits from Spanish-language users to Business.NJ.gov by nearly 800%, drove nearly 6 million engagements with college degree completion programs, and connected tens of thousands of New Jerseyans with career services
   link: "/impact-report/2024/08-communication"
@@ -44,3 +44,9 @@ Expanding on the model pioneered by the [COVID-19 Information Hub](https://covid
 - Office of the Governor
 - NJ State Department of Human Services
 - NJ State Office of Information Technology
+
+<img
+  src="/assets/images/impact-report/2024/examples/disabilityhub.png"
+  alt=""
+  class="padding-4"
+/>

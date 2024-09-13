@@ -2,7 +2,7 @@
 title: Increased visits from Spanish-language users to Business.NJ.gov by nearly 800%, drove nearly 6 million engagements with college degree completion programs, and connected tens of thousands of New Jerseyans with career services
 menu-title: "Project Highlight: Communication + Engagement Lab"
 title-image:
-  image: /assets/images/cel-playbook-hero.jpg
+  image: /assets/images/impact-report/2024/header/celab.png
 previous-page:
   title: Modernized 11 call centers, enabling agencies to manage over 5.5 million calls in a little over a year, save millions of dollars, reduce wait times, and boost call resolution rates by 50%
   link: "/impact-report/2024/07-call_centers/"
@@ -44,3 +44,9 @@ The C+E Lab encourages residents to take action by using proven consumer marketi
 - NJ State Department of Labor
 - NJ State Library
 - NJ State Office of the Secretary of Higher Education
+
+<img
+  src="/assets/images/impact-report/2024/examples/celab.png"
+  alt=""
+  class="padding-4"
+/>

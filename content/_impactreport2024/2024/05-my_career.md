@@ -2,7 +2,7 @@
 title: Helped over 123,000 workers find job openings and training programs and explore new careers in New Jersey
 menu-title: "Project Highlight: My Career NJ"
 title-image:
-  image: /assets/images/cel-playbook-hero.jpg
+  image: /assets/images/impact-report/2024/header/mycareernj.png
 previous-page:
   title: Helped more than 115,000 expecting parents access benefits to care for their newborns
   link: "/impact-report/2024/04-maternity"
@@ -40,27 +40,8 @@ My Career NJ features two new digital career tools: the [NJ Training Explorer](h
 - NJ State Department of Labor
 - Research Improving People’s Lives
 
-<ul class="usa-card-group padding-top-2">
-    <li class="tablet:grid-col-6 usa-card">
-        <div class="usa-card__container">
-            <header class="usa-card__header">
-                <h2 class="usa-card__heading">Before</h2>
-            </header>
-            <div class="usa-card__body">
-                
-            </div>
-            
-        </div>
-    </li>
-    <li class="tablet:grid-col-6 usa-card">
-        <div class="usa-card__container">
-            <header class="usa-card__header">
-                <h2 class="usa-card__heading">After</h2>
-            </header>
-            <div class="usa-card__body">
-                
-            </div>
-            
-        </div>
-    </li>
-</ul>
+<img
+  src="/assets/images/impact-report/2024/examples/mycareernj.png"
+  alt=""
+  class="padding-4"
+/>

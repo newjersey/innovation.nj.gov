@@ -2,7 +2,7 @@
 title: Helped more than 115,000 expecting parents access benefits to care for their newborns
 menu-title: "Project Highlight: Maternity Coverage Timeline Tool"
 title-image:
-  image: /assets/images/cel-playbook-hero.jpg
+  image: /assets/images/impact-report/2024/header/maternity.png
 previous-page:
   title: Reduced the time it takes to apply for Unemployment Insurance from nearly 4 hours to less than 25 minutes
   link: "/impact-report/2024/03-ui/"
@@ -49,7 +49,11 @@ As of August 2024, more than 115,000 New Jerseyans have used the Maternity Cover
                 <h2 class="usa-card__heading">Before</h2>
             </header>
             <div class="usa-card__body">
-                
+                <img
+                    src="/assets/images/impact-report/2024/examples/maternity-before.png"
+                    alt=""
+                    class="padding-4"
+                />
             </div>
             
         </div>
@@ -60,7 +64,11 @@ As of August 2024, more than 115,000 New Jerseyans have used the Maternity Cover
                 <h2 class="usa-card__heading">After</h2>
             </header>
             <div class="usa-card__body">
-                
+                <img
+                    src="/assets/images/impact-report/2024/examples/maternity-after.png"
+                    alt=""
+                    class="padding-4"
+                />
             </div>
             
         </div>
