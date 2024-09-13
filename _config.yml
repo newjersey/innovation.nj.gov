@@ -178,6 +178,7 @@ defaults:
       layout: playbook
       hero:
         image: /assets/images/impact-report/2024/hero.png
+        title: "Impact Report 2024"
       menu-group: Project Highlights
       menu:
         - title: Introduction

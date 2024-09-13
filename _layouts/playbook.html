@@ -9,7 +9,23 @@ layout: default
     aria-label="Introduction"
     style="background-image: url({{page.hero.image}});"
   >
-    <div class="grid-container padding-top-10"></div>
+    <div class="grid-container padding-top-10">
+      {% if page.hero.title %}
+      <h1
+        class="maxw-tablet"
+        style="
+          vertical-align: middle;
+          text-align: center;
+          margin: 0 auto;
+          padding: 30px;
+          background-color: #1c254f;
+          font-size: 3em;
+        "
+      >
+        {{page.hero.title}}
+      </h1>
+      {% endif %}
+    </div>
   </section>
   {% endif %}
 
