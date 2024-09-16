@@ -1,6 +1,6 @@
 ---
 title: Connected millions of New Jerseyans with vital information, services, and programs
-menu-title: "Project Highlight: COVID-19 Response"
+menu-title: "COVID-19 Response"
 title-image:
   image: /assets/images/impact-report/2024/header/mycareernj.png
 previous-page:
@@ -50,14 +50,27 @@ These are just a few of the tools OOI built in partnership with State agencies t
 - The Emergency Assistance Eligibility Wizard was used more than 210,000 times by more than 140,000 users to quickly find and apply for newly created State and federal pandemic relief programs for businesses.
 - The COVID-19 Eviction Protection Tool helped prevent low-income New Jerseyans from being evicted if they suffered economic hardships during the COVID-19 pandemic by helping renters understand the protections they are eligible for and submit the necessary forms. As of April 2024, more than 85,000 residents had used the Eviction Protection Tool since its launch in 2021.
 
-> “In making use of New Jersey’s data and standing up new services, Innovation was a critical partner for agencies. It helped analyze and visualize data and stand up more than 23 new COVID-19-specific services and showed that it is possible to quickly process and draw insight from the mass of incoming data.” - Independent Review of New Jersey’s COVID-19 Response by Montgomery McCraken and the Boston Consulting Group
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+  <div class="usa-alert__body">
+    <p class="usa-alert__text">
+      "In making use of New Jersey’s data and standing up new services, Innovation was a critical partner for agencies. It helped analyze and visualize data and stand up more than 23 new COVID-19-specific services and showed that it is possible to quickly process and draw insight from the mass of incoming data."
+    </p>
+    <p>
+    - <em>Independent Review of New Jersey’s COVID-19 Response by Montgomery McCraken and the Boston Consulting Group</em>
+    </p>
+  </div>
+</div>
 
 ## Partners
 
 - Statewide initiative, in partnership with all State Departments\
+
+## What New Jerseyans See
 
 <img
   src="/assets/images/impact-report/2024/examples/covid19hub.png"
   alt=""
   class="padding-4"
 />
+
+The Covid19.NJ.gov landing page, which featured rotating articles to highlight important updates, critical information, and the most searched for articles based on user data.

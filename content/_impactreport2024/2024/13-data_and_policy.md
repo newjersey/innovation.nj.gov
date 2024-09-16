@@ -1,6 +1,6 @@
 ---
 title: Helped tens of thousands of New Jerseyans engage with State officials on policy making and spending decisions
-menu-title: "Project Highlight: Data + Policy"
+menu-title: "Data + Policy"
 title-image:
   image: /assets/images/impact-report/2024/header/mycareernj.png
 previous-page:
@@ -33,7 +33,16 @@ The Data + Policy Team employs a variety of tools, strategies, and services to h
 - By supporting upgrades to a key data analytics platform, the Business Experience team was better able to understand how current and aspiring business owners are accessing content and services.
 - Your Future of Work, a problem identification consultation, was launched in partnership with the New Jersey Future of Work Task Force. The project engaged over 4,000 workers to understand how a changing economy and technology were impacting their jobs, and the results informed the Task Force’s final report and recommendations to the Governor.
 
-> "I wanted to offer a huge, and sincere compliment to the Data and Policy team for their research. It was so on-point, so easy to read, digest, and comprehend! Most importantly, it helped guide our thinking and decision-making.” – New Jersey State Chief Technology Officer on the D+P Team’s research on best practices on language access and translation
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+  <div class="usa-alert__body">
+    <p class="usa-alert__text">
+      "I wanted to offer a huge, and sincere compliment to the Data and Policy team for their research. It was so on-point, so easy to read, digest, and comprehend! Most importantly, it helped guide our thinking and decision-making."
+    </p>
+    <p>
+    - <em>New Jersey State Chief Technology Officer on the D+P Team’s research on best practices on language access and translation</em>
+    </p>
+  </div>
+</div>
 
 ## Partners
 
@@ -41,8 +50,12 @@ The Data + Policy Team employs a variety of tools, strategies, and services to h
 - NJ Department of Environmental Protection
 - NJ State Office of the Secretary of Higher Education
 
+## What New Jerseyans See
+
 <img
   src="/assets/images/impact-report/2024/examples/allourideas.bin"
   alt=""
   class="padding-4"
 />
+
+An example of the questions New Jerseyans saw during the Your Future of Work survey that used All Our Ideas, an innovative platform that ranks comparisons between hundreds of options.

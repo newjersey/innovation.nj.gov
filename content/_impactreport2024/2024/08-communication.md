@@ -1,6 +1,6 @@
 ---
 title: Increased visits from Spanish-language users to Business.NJ.gov by nearly 800%, drove nearly 6 million engagements with college degree completion programs, and connected tens of thousands of New Jerseyans with career services
-menu-title: "Project Highlight: Communication + Engagement Lab"
+menu-title: "Communication + Engagement Lab"
 title-image:
   image: /assets/images/impact-report/2024/header/celab.png
 previous-page:
@@ -37,7 +37,16 @@ The C+E Lab encourages residents to take action by using proven consumer marketi
 - The C+E Lab worked with the Department of Labor to launch messaging in support of the new MyCareer.NJ.gov platform. The announcement messaging began running in March of 2024 and in the first few days alone drove over 16,000 new users to the site, which is more than half of all visitors in the entire previous month.
 - The C+E Lab conducted research for the State Library that identified a perception challenge with residents who stopped visiting the library in-person. Once residents became aware of the services the Library provided, they expressed an intent to return. The State Library used the C+E Lab’s findings to develop a new campaign that is driving residents back into the library again.
 
-> “With the C+E Lab we continue to move work forward we otherwise couldn’t have. You are challenging the way we think – especially about diversity, equity and inclusion. You work to understand our business, and problem solve with us.” – Stefani Thachik, Senior Advisor, NJ State Office of the Secretary of Higher Education
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+  <div class="usa-alert__body">
+    <p class="usa-alert__text">
+      "With the C+E Lab we continue to move work forward we otherwise couldn’t have. You are challenging the way we think – especially about diversity, equity and inclusion. You work to understand our business, and problem solve with us."
+    </p>
+    <p>
+    - <em>Stefani Thachik, Senior Advisor, NJ State Office of the Secretary of Higher Education</em>
+    </p>
+  </div>
+</div>
 
 ## Partners
 
@@ -45,8 +54,12 @@ The C+E Lab encourages residents to take action by using proven consumer marketi
 - NJ State Library
 - NJ State Office of the Secretary of Higher Education
 
+## What New Jerseyans See
+
 <img
   src="/assets/images/impact-report/2024/examples/celab.png"
   alt=""
   class="padding-4"
 />
+
+A still image of a New Jersey entrepreneur discussing the benefits of Business.NJ.gov from one of the video ads the C+E Lab produced for the Business.NJ.gov Success Starts Here ad campaign.

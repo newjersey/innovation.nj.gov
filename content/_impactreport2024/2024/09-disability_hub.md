@@ -1,6 +1,6 @@
 ---
 title: Helped more than 12,000 members of New Jersey’s disability community and their loved ones access critical information and services
-menu-title: "Project Highlight: Disability Information Hub"
+menu-title: "Disability Information Hub"
 title-image:
   image: /assets/images/impact-report/2024/header/disabilityhub.png
 previous-page:
@@ -37,7 +37,16 @@ Expanding on the model pioneered by the [COVID-19 Information Hub](https://covid
 - Nearly 200 programs offered by the State of New Jersey can be found through the Hub and resources are organized by a person’s disability to make navigation easier.
 - The Hub incorporated direct feedback from residents with disabilities and meets Web Content Accessibility Guidelines (WCAG) and Section 508 accessibility requirements.
 
-> “This is very good now. All in one spot and layed out well with readable font size. Thank you.” – A Review of NJ.gov/Disabilities by an Individual With Disabilities
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+  <div class="usa-alert__body">
+    <p class="usa-alert__text">
+      "This is very good now. All in one spot and layed out well with readable font size. Thank you."
+    </p>
+    <p>
+    - <em>A Review of NJ.gov/Disabilities by an Individual With Disabilities</em>
+    </p>
+  </div>
+</div>
 
 ## Partners
 
@@ -45,8 +54,12 @@ Expanding on the model pioneered by the [COVID-19 Information Hub](https://covid
 - NJ State Department of Human Services
 - NJ State Office of Information Technology
 
+## What New Jerseyans See
+
 <img
   src="/assets/images/impact-report/2024/examples/disabilityhub.png"
   alt=""
   class="padding-4"
 />
+
+The landing page for the new Disability Information Hub, which organizes key information around specific needs and an individual’s disability for ease of use.

@@ -1,6 +1,6 @@
 ---
 title: Helped over 45,000 entrepreneurs start and grow their new business in New Jersey
-menu-title: "Project Highlight: The Business Experience Initiative"
+menu-title: "The Business Experience Initiative"
 title-image:
   image: /assets/images/impact-report/2024/header/business.png
 previous-page:
@@ -40,7 +40,16 @@ Rather than waiting to debut a large-scale solution after a multi-year developme
 - Business.NJ.gov Updates is an email program that proactively shares information on new programs, services, and regulatory changes for businesses and nonprofits operating in New Jersey. In 2024, the number of subscribers more than doubled and now exceeds 270,000 as of August.
 - Businesses can access a centralized customer service experience in real time using the Business.NJ.Gov live chat - this allows businesses to get answers from experts and customer service representatives from multiple State agencies, alleviating the need to call several agencies. In 2023, the Live Chat saw a 32% increase in the number of businesses seeking answers, and as of August 2024, the Live Chat enabled more than 150,000 virtual replies to businesses by experts from State agencies.
 
-> “This road map helped me, and saved me hundreds. I was going to pay another company to set up my business for me. This was easy to use and follow. Thank whoever came up with it and made it happen. This tool is awesome.” - A Review of Business.NJ.gov From a New Jersey Entrepreneur
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+  <div class="usa-alert__body">
+    <p class="usa-alert__text">
+      "This road map helped me, and saved me hundreds. I was going to pay another company to set up my business for me. This was easy to use and follow. Thank whoever came up with it and made it happen. This tool is awesome."
+    </p>
+    <p>
+    - <em>A Review of Business.NJ.gov From a New Jersey Entrepreneur</em>
+    </p>
+  </div>
+</div>
 
 ## Partners
 
@@ -56,3 +65,5 @@ Rather than waiting to debut a large-scale solution after a multi-year developme
   alt=""
   class="padding-4"
 />
+
+Business.NJ.gov’s landing page, which features quick access buttons to help entrepreneurs and business owners find what they need for wherever they are in their journeys.

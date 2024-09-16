@@ -1,6 +1,6 @@
 ---
 title: Modernized 11 call centers, enabling agencies to manage over 5.5 million calls in a little over a year, save millions of dollars, reduce wait times, and boost call resolution rates by 50%
-menu-title: "Project Highlight: Call Center Modernization"
+menu-title: "Call Center Modernization"
 title-image:
   image: /assets/images/impact-report/2024/header/callcenters.png
 previous-page:
@@ -39,7 +39,16 @@ Rather than a one-time modernization project, the Office of Innovation sought to
 - Callers can now get important links and information through text messages, making it easier for residents to resolve issues even while waiting to speak with an agent.
 - The new system also provides critical data and insights from calls, so call center managers can proactively create new menu options and tools based on frequently asked questions as they emerge.
 
-> “The TDI/FLI Call Center project upgrades would not have been possible without the Office of Innovation’s expertise. Their partnership was the key to building an effective call center platform.” – Saida Jeudy, Assistant Director Temporary Disability and Family Leave Insurance, NJ State Department of Labor
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+  <div class="usa-alert__body">
+    <p class="usa-alert__text">
+      "The TDI/FLI Call Center project upgrades would not have been possible without the Office of Innovation’s expertise. Their partnership was the key to building an effective call center platform."
+    </p>
+    <p>
+    - <em>Saida Jeudy, Assistant Director Temporary Disability and Family Leave Insurance, NJ State Department of Labor</em>
+    </p>
+  </div>
+</div>
 
 ## Partners
 

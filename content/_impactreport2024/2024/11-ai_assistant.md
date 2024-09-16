@@ -1,6 +1,6 @@
 ---
 title: Launched one of the nation’s first AI tools specifically built for State employees
-menu-title: "Project Highlight: NJ AI Assistant"
+menu-title: "NJ AI Assistant"
 title-image:
   image: /assets/images/impact-report/2024/header/mycareernj.png
 previous-page:
@@ -38,15 +38,28 @@ Working with the New Jersey State Office of Information Technology, the Office o
 - Two months after launching in July 2024, more than 4,000 State employees are actively using the AI Assistant – including teams at several State agencies that are regularly using it to help draft content and analyze user feedback.
 - As of August 2024, two months after the Generative AI training was released, over 4,000 State employees have learned how to use AI safely, responsibly, and in line with State policies.
 
-> “With the launch of the State’s very own AI Assistant and the GenAI training course, we are on the cusp of a new era of government transformation. We are empowering our public servants with the knowledge, skills, and training to comfortably and responsibly leverage this technology to solve real problems for New Jerseyans.” – New Jersey Governor Phil Murphy
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+  <div class="usa-alert__body">
+    <p class="usa-alert__text">
+      "With the launch of the State’s very own AI Assistant and the GenAI training course, we are on the cusp of a new era of government transformation. We are empowering our public servants with the knowledge, skills, and training to comfortably and responsibly leverage this technology to solve real problems for New Jerseyans."
+    </p>
+    <p>
+    - <em>New Jersey Governor Phil Murphy</em>
+    </p>
+  </div>
+</div>
 
 ## Partners
 
 - NJ State Office of Information Technology
 - NJ State Civil Service Commission
 
+## What New Jerseyans See
+
 <img
   src="/assets/images/impact-report/2024/examples/aiassistant.png"
   alt=""
   class="padding-4"
 />
+
+The interface for the NJ AI Assistant, where State employees can interact with the powerful AI tool and enter prompts, documents, and other information in a safe, sandbox environment.

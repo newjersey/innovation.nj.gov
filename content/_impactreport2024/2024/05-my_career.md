@@ -1,6 +1,6 @@
 ---
 title: Helped over 123,000 workers find job openings and training programs and explore new careers in New Jersey
-menu-title: "Project Highlight: My Career NJ"
+menu-title: "My Career NJ"
 title-image:
   image: /assets/images/impact-report/2024/header/mycareernj.png
 previous-page:
@@ -40,8 +40,11 @@ My Career NJ features two new digital career tools: the [NJ Training Explorer](h
 - NJ State Department of Labor
 - Research Improving People’s Lives
 
+## What New Jerseyans See
+
 <img
   src="/assets/images/impact-report/2024/examples/mycareernj.png"
   alt=""
   class="padding-4"
 />
+The landing page for MyCareerNJ, which guides workers as they search for new careers, training opportunities, and more.

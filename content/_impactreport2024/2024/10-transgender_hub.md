@@ -1,6 +1,6 @@
 ---
 title: Helped more than 68,000 members of New Jersey’s LGBTQ+ community access critical information and services
-menu-title: "Project Highlight: Transgender Information Hub"
+menu-title: "Transgender Information Hub"
 title-image:
   image: /assets/images/impact-report/2024/header/mycareernj.png
 previous-page:
@@ -36,7 +36,16 @@ To ensure the needs of transgender and non-binary New Jerseyans were met, OOI us
 - For the first time, transgender New Jerseyans have a government resource dedicated to simplifying critical services and no longer need to spend hours visiting multiple sites.
 - As of August 2024, the Transgender Information Hub has been visited more than 68,000 times and connected these visitors to critical information and services.
 
-> “I love that this is an available resource. As a parent of a transgender son, I'm so grateful to live in NJ. Please keep up the good work.” – A Review of Transgender.NJ.gov by a New Jersey Parent
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+  <div class="usa-alert__body">
+    <p class="usa-alert__text">
+      "I love that this is an available resource. As a parent of a transgender son, I'm so grateful to live in NJ. Please keep up the good work."
+    </p>
+    <p>
+    - <em>A Review of Transgender.NJ.gov by a New Jersey Parent</em>
+    </p>
+  </div>
+</div>
 
 ## Partners
 
@@ -44,8 +53,12 @@ To ensure the needs of transgender and non-binary New Jerseyans were met, OOI us
 - NJ State Department of Children and Families
 - Garden State Equality
 
+## What New Jerseyans See
+
 <img
   src="/assets/images/impact-report/2024/examples/transgenderhub.png"
   alt=""
   class="padding-4"
 />
+
+The Transgender.NJ.gov home page, which features supports, and information guides on how members of the LGBTQ+ community can access key State services and resources.
