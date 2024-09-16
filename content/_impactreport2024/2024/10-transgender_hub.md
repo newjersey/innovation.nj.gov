@@ -55,10 +55,12 @@ To ensure the needs of transgender and non-binary New Jerseyans were met, OOI us
 
 ## What New Jerseyans See
 
-<img
-  src="/assets/images/impact-report/2024/examples/transgenderhub.png"
-  alt=""
-  class="padding-4"
-/>
-
-The Transgender.NJ.gov home page, which features supports, and information guides on how members of the LGBTQ+ community can access key State services and resources.
+<figure>
+    <img
+    src="/assets/images/impact-report/2024/examples/transgenderhub.png"
+    alt=""
+    />
+    <figcaption class="font-mono-xs text-italic padding-top-1"> 
+    The Transgender.NJ.gov home page, which features supports, and information guides on how members of the LGBTQ+ community can access key State services and resources.
+    </figcaption>
+</figure>

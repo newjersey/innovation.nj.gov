@@ -60,10 +60,14 @@ Rather than waiting to debut a large-scale solution after a multi-year developme
 - NJ State Department of Labor
 - Statewide initiative, in partnership with all relevant - State entities
 
-<img
-  src="/assets/images/impact-report/2024/examples/business.png"
-  alt=""
-  class="padding-4"
-/>
+## What New Jerseyans See
 
-Business.NJ.gov’s landing page, which features quick access buttons to help entrepreneurs and business owners find what they need for wherever they are in their journeys.
+<figure>
+    <img
+    src="/assets/images/impact-report/2024/examples/business.png"
+    alt=""
+    />
+    <figcaption class="font-mono-xs text-italic padding-top-1"> 
+      Business.NJ.gov’s landing page, which features quick access buttons to help entrepreneurs and business owners find what they need for wherever they are in their journeys.
+    </figcaption>
+</figure>

@@ -53,10 +53,12 @@ As of August 2024, more than 115,000 New Jerseyans have used the Maternity Cover
 
 ## What New Jerseyans See
 
-<img
-  src="/assets/images/impact-report/2024/examples/maternity.png"
-  alt=""
-  class="padding-4"
-/>
-
-The landing page for the Maternity Coverage Timeline Tool that walks workers through the benefits they are eligible for.
+<figure>
+    <img
+    src="/assets/images/impact-report/2024/examples/maternity.png"
+    alt=""
+    />
+    <figcaption class="font-mono-xs text-italic padding-top-1"> 
+        The landing page for the Maternity Coverage Timeline Tool that walks workers through the benefits they are eligible for.
+    </figcaption>
+</figure>

@@ -56,10 +56,12 @@ Working with the New Jersey State Office of Information Technology, the Office o
 
 ## What New Jerseyans See
 
-<img
-  src="/assets/images/impact-report/2024/examples/aiassistant.png"
-  alt=""
-  class="padding-4"
-/>
-
-The interface for the NJ AI Assistant, where State employees can interact with the powerful AI tool and enter prompts, documents, and other information in a safe, sandbox environment.
+<figure>
+    <img
+    src="/assets/images/impact-report/2024/examples/aiassistant.png"
+    alt=""
+    />
+    <figcaption class="font-mono-xs text-italic padding-top-1"> 
+    The interface for the NJ AI Assistant, where State employees can interact with the powerful AI tool and enter prompts, documents, and other information in a safe, sandbox environment.
+    </figcaption>
+</figure>

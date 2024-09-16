@@ -67,10 +67,12 @@ These are just a few of the tools OOI built in partnership with State agencies t
 
 ## What New Jerseyans See
 
-<img
-  src="/assets/images/impact-report/2024/examples/covid19hub.png"
-  alt=""
-  class="padding-4"
-/>
-
-The Covid19.NJ.gov landing page, which featured rotating articles to highlight important updates, critical information, and the most searched for articles based on user data.
+<figure>
+    <img
+    src="/assets/images/impact-report/2024/examples/covid19hub.png"
+    alt=""
+    />
+    <figcaption class="font-mono-xs text-italic padding-top-1"> 
+    The Covid19.NJ.gov landing page, which featured rotating articles to highlight important updates, critical information, and the most searched for articles based on user data.
+    </figcaption>
+</figure>

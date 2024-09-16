@@ -52,10 +52,12 @@ The Data + Policy Team employs a variety of tools, strategies, and services to h
 
 ## What New Jerseyans See
 
-<img
-  src="/assets/images/impact-report/2024/examples/allourideas.bin"
-  alt=""
-  class="padding-4"
-/>
-
-An example of the questions New Jerseyans saw during the Your Future of Work survey that used All Our Ideas, an innovative platform that ranks comparisons between hundreds of options.
+<figure>
+    <img
+    src="/assets/images/impact-report/2024/examples/allourideas.bin"
+    alt=""
+    />
+    <figcaption class="font-mono-xs text-italic padding-top-1"> 
+    An example of the questions New Jerseyans saw during the Your Future of Work survey that used All Our Ideas, an innovative platform that ranks comparisons between hundreds of options.
+    </figcaption>
+</figure>

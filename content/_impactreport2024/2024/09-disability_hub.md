@@ -56,10 +56,12 @@ Expanding on the model pioneered by the [COVID-19 Information Hub](https://covid
 
 ## What New Jerseyans See
 
-<img
-  src="/assets/images/impact-report/2024/examples/disabilityhub.png"
-  alt=""
-  class="padding-4"
-/>
-
-The landing page for the new Disability Information Hub, which organizes key information around specific needs and an individual’s disability for ease of use.
+<figure>
+    <img
+    src="/assets/images/impact-report/2024/examples/disabilityhub.png"
+    alt=""
+    />
+    <figcaption class="font-mono-xs text-italic padding-top-1"> 
+    The landing page for the new Disability Information Hub, which organizes key information around specific needs and an individual’s disability for ease of use.
+    </figcaption>
+</figure>

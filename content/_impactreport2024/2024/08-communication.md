@@ -56,10 +56,12 @@ The C+E Lab encourages residents to take action by using proven consumer marketi
 
 ## What New Jerseyans See
 
-<img
-  src="/assets/images/impact-report/2024/examples/celab.png"
-  alt=""
-  class="padding-4"
-/>
-
-A still image of a New Jersey entrepreneur discussing the benefits of Business.NJ.gov from one of the video ads the C+E Lab produced for the Business.NJ.gov Success Starts Here ad campaign.
+<figure>
+    <img
+    src="/assets/images/impact-report/2024/examples/celab.png"
+    alt=""
+    />
+    <figcaption class="font-mono-xs text-italic padding-top-1"> 
+    A still image of a New Jersey entrepreneur discussing the benefits of Business.NJ.gov from one of the video ads the C+E Lab produced for the Business.NJ.gov Success Starts Here ad campaign.
+    </figcaption>
+</figure>

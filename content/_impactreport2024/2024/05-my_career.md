@@ -42,9 +42,12 @@ My Career NJ features two new digital career tools: the [NJ Training Explorer](h
 
 ## What New Jerseyans See
 
-<img
-  src="/assets/images/impact-report/2024/examples/mycareernj.png"
-  alt=""
-  class="padding-4"
-/>
-The landing page for MyCareerNJ, which guides workers as they search for new careers, training opportunities, and more.
+<figure>
+    <img
+    src="/assets/images/impact-report/2024/examples/mycareernj.png"
+    alt=""
+    />
+    <figcaption class="font-mono-xs text-italic padding-top-1"> 
+      The landing page for MyCareerNJ, which guides workers as they search for new careers, training opportunities, and more.
+    </figcaption>
+</figure>
