@@ -2,7 +2,7 @@
 title: Connected millions of New Jerseyans with vital information, services, and programs
 menu-title: "COVID-19 Response"
 title-image:
-  image: /assets/images/impact-report/2024/header/mycareernj.png
+  image: /assets/images/impact-report/2024/header/covid19hub.jpg
 previous-page:
   title: Launched one of the nation’s first AI tools specifically built for State employees
   link: "/impact-report/2024/11-ai_assistant"

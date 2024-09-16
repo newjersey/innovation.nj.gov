@@ -2,7 +2,7 @@
 title: Helped more than 115,000 expecting parents access benefits to care for their newborns
 menu-title: "Maternity Coverage Timeline Tool"
 title-image:
-  image: /assets/images/impact-report/2024/header/maternity.png
+  image: /assets/images/impact-report/2024/header/maternity.jpg
 previous-page:
   title: Reduced the time it takes to apply for Unemployment Insurance from nearly 4 hours to less than 25 minutes
   link: "/impact-report/2024/03-ui/"

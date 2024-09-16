@@ -2,7 +2,7 @@
 title: Helped tens of thousands of New Jerseyans engage with State officials on policy making and spending decisions
 menu-title: "Data + Policy"
 title-image:
-  image: /assets/images/impact-report/2024/header/mycareernj.png
+  image: /assets/images/impact-report/2024/header/dataandpolicy.jpg
 previous-page:
   title: Connected millions of New Jerseyans with vital information, services, and programs
   link: "/impact-report/2024/12-covid19_response"

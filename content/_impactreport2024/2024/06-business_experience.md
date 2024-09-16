@@ -2,7 +2,7 @@
 title: Helped over 45,000 entrepreneurs start and grow their new business in New Jersey
 menu-title: "The Business Experience Initiative"
 title-image:
-  image: /assets/images/impact-report/2024/header/business.png
+  image: /assets/images/impact-report/2024/header/business.jpg
 previous-page:
   title: Helped over 123,000 workers find job openings and training programs and explore new careers in New Jersey
   link: "/impact-report/2024/05-my_career"

@@ -2,7 +2,7 @@
 title: Launched one of the nation’s first AI tools specifically built for State employees
 menu-title: "NJ AI Assistant"
 title-image:
-  image: /assets/images/impact-report/2024/header/mycareernj.png
+  image: /assets/images/impact-report/2024/header/aiassistant.jpg
 previous-page:
   title: Helped more than 68,000 members of New Jersey’s LGBTQ+ community access critical information and services
   link: "/impact-report/2024/10-transgender_hub"

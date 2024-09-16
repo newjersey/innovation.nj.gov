@@ -2,7 +2,7 @@
 title: Helped more than 12,000 members of New Jersey’s disability community and their loved ones access critical information and services
 menu-title: "Disability Information Hub"
 title-image:
-  image: /assets/images/impact-report/2024/header/disabilityhub.png
+  image: /assets/images/impact-report/2024/header/disabilityhub.jpg
 previous-page:
   title: Increased visits from Spanish-language users to Business.NJ.gov by nearly 800%, drove nearly 6 million engagements with college degree completion programs, and connected tens of thousands of New Jerseyans with career services
   link: "/impact-report/2024/08-communication"

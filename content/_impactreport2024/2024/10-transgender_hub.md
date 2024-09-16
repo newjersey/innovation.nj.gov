@@ -2,7 +2,7 @@
 title: Helped more than 68,000 members of New Jersey’s LGBTQ+ community access critical information and services
 menu-title: "Transgender Information Hub"
 title-image:
-  image: /assets/images/impact-report/2024/header/mycareernj.png
+  image: /assets/images/impact-report/2024/header/transgenderhub.jpg
 previous-page:
   title: Helped more than 12,000 members of New Jersey’s disability community and their loved ones access critical information and services
   link: "/impact-report/2024/09-disability_hub"
