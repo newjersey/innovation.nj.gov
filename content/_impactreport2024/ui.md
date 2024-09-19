@@ -75,7 +75,6 @@ Using a resident-first design approach, OOI worked with the NJ State Department 
                         class="padding-4"
                     />
                 </div>
-                
             </div>
         </li>
         <li class="tablet:grid-col-6 usa-card">

@@ -3,6 +3,10 @@ title: Helped more than 115,000 expecting parents access benefits to care for th
 menu-title: "Maternity Coverage Timeline Tool"
 title-image:
   image: /assets/images/impact-report/2024/header/maternity.jpg
+example-image:
+  title: What New Jerseyans See
+  image-url: "/assets/images/impact-report/2024/examples/maternity.png"
+  caption: "The landing page for the Maternity Coverage Timeline Tool that walks workers through the benefits they are eligible for."
 previous-page:
   title: Reduced the time it takes to apply for Unemployment Insurance from nearly 4 hours to less than 25 minutes
   link: "/impact-report/2024/ui/"
@@ -50,15 +54,3 @@ As of August 2024, more than 115,000 New Jerseyans have used the Maternity Cover
 
 - NJ State Department of Labor
 - Office of the First Lady
-
-## What New Jerseyans See
-
-<figure>
-    <img
-    src="/assets/images/impact-report/2024/examples/maternity.png"
-    alt=""
-    />
-    <figcaption class="font-mono-xs text-italic padding-top-1"> 
-        The landing page for the Maternity Coverage Timeline Tool that walks workers through the benefits they are eligible for.
-    </figcaption>
-</figure>

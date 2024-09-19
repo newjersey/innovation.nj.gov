@@ -3,6 +3,10 @@ title: Helped tens of thousands of New Jerseyans engage with State officials on 
 menu-title: "Data + Policy"
 title-image:
   image: /assets/images/impact-report/2024/header/dataandpolicy.jpg
+example-image:
+  title: What New Jerseyans See
+  image-url: "/assets/images/impact-report/2024/examples/allourideas.bin"
+  caption: An example of the questions New Jerseyans saw during the Your Future of Work survey that used All Our Ideas, an innovative platform that ranks comparisons between hundreds of options.
 previous-page:
   title: Connected millions of New Jerseyans with vital information, services, and programs
   link: "/impact-report/2024/covid19-response"
@@ -49,15 +53,3 @@ The Data + Policy Team employs a variety of tools, strategies, and services to h
 - Office of the Governor
 - NJ Department of Environmental Protection
 - NJ State Office of the Secretary of Higher Education
-
-## What New Jerseyans See
-
-<figure>
-    <img
-    src="/assets/images/impact-report/2024/examples/allourideas.bin"
-    alt=""
-    />
-    <figcaption class="font-mono-xs text-italic padding-top-1"> 
-    An example of the questions New Jerseyans saw during the Your Future of Work survey that used All Our Ideas, an innovative platform that ranks comparisons between hundreds of options.
-    </figcaption>
-</figure>

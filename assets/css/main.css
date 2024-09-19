@@ -51,3 +51,15 @@ svg {
 .feedback-container {
   background-color: #fbfcfd !important;
 }
+
+.usa-modal--xl {
+  max-width: 200rem;
+  width: 100%;
+  max-height: 200rem;
+}
+
+/* Ensure the image fits within the modal */
+.modal__image {
+  width: 100%;
+  height: auto;
+}

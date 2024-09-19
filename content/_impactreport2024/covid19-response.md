@@ -3,6 +3,10 @@ title: Connected millions of New Jerseyans with vital information, services, and
 menu-title: "COVID-19 Response"
 title-image:
   image: /assets/images/impact-report/2024/header/covid19hub.jpg
+example-image:
+  title: What New Jerseyans See
+  image-url: "/assets/images/impact-report/2024/examples/covid19hub.png"
+  caption: The Covid19.NJ.gov landing page, which featured rotating articles to highlight important updates, critical information, and the most searched for articles based on user data.
 previous-page:
   title: Launched one of the nation’s first AI tools specifically built for State employees
   link: "/impact-report/2024/ai-assistant"
@@ -64,15 +68,3 @@ These are just a few of the tools OOI built in partnership with State agencies t
 ## Partners
 
 - Statewide initiative, in partnership with all State Departments\
-
-## What New Jerseyans See
-
-<figure>
-    <img
-    src="/assets/images/impact-report/2024/examples/covid19hub.png"
-    alt=""
-    />
-    <figcaption class="font-mono-xs text-italic padding-top-1"> 
-    The Covid19.NJ.gov landing page, which featured rotating articles to highlight important updates, critical information, and the most searched for articles based on user data.
-    </figcaption>
-</figure>

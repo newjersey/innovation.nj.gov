@@ -3,6 +3,10 @@ title: Helped over 45,000 entrepreneurs start and grow their new business in New
 menu-title: "The Business Experience Initiative"
 title-image:
   image: /assets/images/impact-report/2024/header/business.jpg
+example-image:
+  title: What New Jerseyans See
+  image-url: "/assets/images/impact-report/2024/examples/business.png"
+  caption: Business.NJ.gov’s landing page, which features quick access buttons to help entrepreneurs and business owners find what they need for wherever they are in their journeys.
 previous-page:
   title: Helped over 123,000 workers find job openings and training programs and explore new careers in New Jersey
   link: "/impact-report/2024/my-career-nj"
@@ -59,15 +63,3 @@ Rather than waiting to debut a large-scale solution after a multi-year developme
 - NJ State Department of Treasury
 - NJ State Department of Labor
 - Statewide initiative, in partnership with all relevant - State entities
-
-## What New Jerseyans See
-
-<figure>
-    <img
-    src="/assets/images/impact-report/2024/examples/business.png"
-    alt=""
-    />
-    <figcaption class="font-mono-xs text-italic padding-top-1"> 
-      Business.NJ.gov’s landing page, which features quick access buttons to help entrepreneurs and business owners find what they need for wherever they are in their journeys.
-    </figcaption>
-</figure>

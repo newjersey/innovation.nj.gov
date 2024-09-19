@@ -3,6 +3,10 @@ title: Launched one of the nation’s first AI tools specifically built for Stat
 menu-title: "NJ AI Assistant"
 title-image:
   image: /assets/images/impact-report/2024/header/aiassistant.jpg
+example-image:
+  title: What New Jerseyans See
+  image-url: "/assets/images/impact-report/2024/examples/aiassistant.png"
+  caption: "The interface for the NJ AI Assistant, where State employees can interact with the powerful AI tool and enter prompts, documents, and other information in a safe, sandbox environment."
 previous-page:
   title: Helped more than 68,000 members of New Jersey’s LGBTQ+ community access critical information and services
   link: "/impact-report/2024/transgender-hub"
@@ -53,15 +57,3 @@ Working with the New Jersey State Office of Information Technology, the Office o
 
 - NJ State Office of Information Technology
 - NJ State Civil Service Commission
-
-## What New Jerseyans See
-
-<figure>
-    <img
-    src="/assets/images/impact-report/2024/examples/aiassistant.png"
-    alt=""
-    />
-    <figcaption class="font-mono-xs text-italic padding-top-1"> 
-    The interface for the NJ AI Assistant, where State employees can interact with the powerful AI tool and enter prompts, documents, and other information in a safe, sandbox environment.
-    </figcaption>
-</figure>

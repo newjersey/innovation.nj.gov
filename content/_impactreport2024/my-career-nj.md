@@ -3,6 +3,10 @@ title: Helped over 123,000 workers find job openings and training programs and e
 menu-title: "My Career NJ"
 title-image:
   image: /assets/images/impact-report/2024/header/mycareernj.jpg
+example-image:
+  title: What New Jerseyans See
+  image-url: "/assets/images/impact-report/2024/examples/mycareernj.png"
+  caption: The landing page for MyCareerNJ, which guides workers as they search for new careers, training opportunities, and more.
 previous-page:
   title: Helped more than 115,000 expecting parents access benefits to care for their newborns
   link: "/impact-report/2024/maternity-timeline-tool"
@@ -39,15 +43,3 @@ My Career NJ features two new digital career tools: the [NJ Training Explorer](h
 
 - NJ State Department of Labor
 - Research Improving People’s Lives
-
-## What New Jerseyans See
-
-<figure>
-    <img
-    src="/assets/images/impact-report/2024/examples/mycareernj.png"
-    alt=""
-    />
-    <figcaption class="font-mono-xs text-italic padding-top-1"> 
-      The landing page for MyCareerNJ, which guides workers as they search for new careers, training opportunities, and more.
-    </figcaption>
-</figure>

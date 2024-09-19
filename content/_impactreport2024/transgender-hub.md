@@ -3,6 +3,10 @@ title: Helped more than 68,000 members of New Jersey’s LGBTQ+ community access
 menu-title: "Transgender Information Hub"
 title-image:
   image: /assets/images/impact-report/2024/header/transgenderhub.jpg
+example-image:
+  title: What New Jerseyans See
+  image-url: "/assets/images/impact-report/2024/examples/transgenderhub.png"
+  caption: The Transgender.NJ.gov home page, which features supports, and information guides on how members of the LGBTQ+ community can access key State services and resources.
 previous-page:
   title: Helped more than 12,000 members of New Jersey’s disability community and their loved ones access critical information and services
   link: "/impact-report/2024/disability-hub"
@@ -52,15 +56,3 @@ To ensure the needs of transgender and non-binary New Jerseyans were met, OOI us
 - NJ State Attorney General’s Office, Division on Civil Rights
 - NJ State Department of Children and Families
 - Garden State Equality
-
-## What New Jerseyans See
-
-<figure>
-    <img
-    src="/assets/images/impact-report/2024/examples/transgenderhub.png"
-    alt=""
-    />
-    <figcaption class="font-mono-xs text-italic padding-top-1"> 
-    The Transgender.NJ.gov home page, which features supports, and information guides on how members of the LGBTQ+ community can access key State services and resources.
-    </figcaption>
-</figure>
