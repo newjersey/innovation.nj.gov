@@ -3,7 +3,7 @@ title: Temporary Disability and Family Leave Benefit Status Tool Modernization
 initiative: Resident Experience Initiative
 ---
 
-Working with the New Jersey State Department of Labor (DOL), the Office of Innovation is modernizing and improving the Temporary Disability and Family Leave Insurance (TDI/FLI) Claim Status Tool so New Jerseyans can get their benefits sooner by checking the status of their application and taking action if needed without having to speak to a call center agent. This ongoing work is part of the Resident Experience Initiative.
+Working with the New Jersey State Department of Labor, the Office of Innovation is modernizing and improving the Temporary Disability and Family Leave Insurance (TDI/FLI) Claim Status Tool so New Jerseyans can get their benefits sooner. With the tool, workers can independently check the status of their application and take action if needed without having to speak with a call center agent. This ongoing work is part of the Resident Experience Initiative.
 
 ### Challenge
 
