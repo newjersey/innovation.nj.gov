@@ -36,7 +36,7 @@ The Data + Policy Team employs a variety of tools, strategies, and services to h
 <div class="usa-alert usa-alert--info usa-alert--no-icon">
   <div class="usa-alert__body">
     <p class="usa-alert__text">
-      "I wanted to offer a huge, and sincere compliment to the Data and Policy team for their research. It was so on-point, so easy to read, digest, and comprehend! Most importantly, it helped guide our thinking and decision-making."
+      "I wanted to offer a sincere compliment to the Data and Policy team for their research. It was so on-point, so easy to read, digest, and comprehend! Most importantly, it helped guide our thinking and decision-making.” 
     </p>
     <p>
     - <em>New Jersey State Chief Technology Officer on the D+P Team’s research on best practices on language access and translation</em>
