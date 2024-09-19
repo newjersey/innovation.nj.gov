@@ -23,8 +23,8 @@ Unlike many assistance programs, Fund My Future enables residents to focus resou
 ### Resources and Additional Information
 
 - NJBiz: [NJ Announces $10M Pilot to Help Unemployed, Underemployed Residents](https://njbiz.com/nj-announces-10m-pilot-to-help-unemployed-underemployed-residents/)
-Morristown Minute: [New Jersey Launches $10 Million Sustainable Employment Initiative](https://morristownminute.town.news/g/morristown-nj/post/143845/new-jersey-launches-10-million-sustainable-employment-initiative)
-ROI-NJ: [NJDOL to Fund 2-Year, $10M Pilot Program to Provide Job Coaching, Training and Support](https://www.roi-nj.com/2023/02/08/finance/njdol-to-fund-2-year-10m-pilot-program-to-provide-job-coaching-training-and-support/)
+- Morristown Minute: [New Jersey Launches $10 Million Sustainable Employment Initiative](https://morristownminute.town.news/g/morristown-nj/post/143845/new-jersey-launches-10-million-sustainable-employment-initiative)
+- ROI-NJ: [NJDOL to Fund 2-Year, $10M Pilot Program to Provide Job Coaching, Training and Support](https://www.roi-nj.com/2023/02/08/finance/njdol-to-fund-2-year-10m-pilot-program-to-provide-job-coaching-training-and-support/)
 
 ### Partners
 
