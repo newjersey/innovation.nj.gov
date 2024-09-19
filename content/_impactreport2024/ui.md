@@ -61,37 +61,40 @@ Using a resident-first design approach, OOI worked with the NJ State Department 
 
 ## What New Jerseyans See
 
-<ul class="usa-card-group padding-top-2">
-    <li class="tablet:grid-col-6 usa-card">
-        <div class="usa-card__container">
-            <header class="usa-card__header">
-                <h2 class="usa-card__heading">Before</h2>
-            </header>
-            <div class="usa-card__body">
-                <img
-                    src="/assets/images/impact-report/2024/examples/ui-before.png"
-                    alt=""
-                    class="padding-4"
-                />
+<figure>
+    <ul class="usa-card-group padding-top-2">
+        <li class="tablet:grid-col-6 usa-card">
+            <div class="usa-card__container">
+                <header class="usa-card__header">
+                    <h2 class="usa-card__heading">Before</h2>
+                </header>
+                <div class="usa-card__body">
+                    <img
+                        src="/assets/images/impact-report/2024/examples/ui-before.png"
+                        alt=""
+                        class="padding-4"
+                    />
+                </div>
+                
             </div>
-            
-        </div>
-    </li>
-    <li class="tablet:grid-col-6 usa-card">
-        <div class="usa-card__container">
-            <header class="usa-card__header">
-                <h2 class="usa-card__heading">After</h2>
-            </header>
-            <div class="usa-card__body">
-                <img
-                    src="/assets/images/impact-report/2024/examples/ui-after.png"
-                    alt=""
-                    class="padding-4"
-                />
+        </li>
+        <li class="tablet:grid-col-6 usa-card">
+            <div class="usa-card__container">
+                <header class="usa-card__header">
+                    <h2 class="usa-card__heading">After</h2>
+                </header>
+                <div class="usa-card__body">
+                    <img
+                        src="/assets/images/impact-report/2024/examples/ui-after.png"
+                        alt=""
+                        class="padding-4"
+                    />
+                </div>
+                
             </div>
-            
-        </div>
-    </li>
-</ul>
-
-A side-by-side comparison of the old landing page and the redesigned individualized homepages for the Unemployment Insurance application.
+        </li>
+    </ul>
+    <figcaption class="font-mono-xs text-italic padding-top-1"> 
+      A side-by-side comparison of the old landing page and the redesigned individualized homepages for the Unemployment Insurance application.    
+    </figcaption>
+</figure>
