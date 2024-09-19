@@ -69,11 +69,64 @@ Using a resident-first design approach, OOI worked with the NJ State Department 
                     <h2 class="usa-card__heading">Before</h2>
                 </header>
                 <div class="usa-card__body">
-                    <img
-                        src="/assets/images/impact-report/2024/examples/ui-before.png"
-                        alt=""
-                        class="padding-4"
-                    />
+                    <figure>
+                      <div class="position-relative">
+                        <img src="/assets/images/impact-report/2024/examples/ui-before.png" alt="" />
+                        <div class="position-absolute bottom-0 right-0">
+                          <div class="margin-y-3">
+                            <a
+                              href="#open-larger-image"
+                              class="usa-button"
+                              aria-controls="open-larger-image"
+                              data-open-modal
+                            >
+                              <svg
+                                class="usa-icon usa-icon--size-3"
+                                focusable="false"
+                                role="img"
+                              >
+                                <use
+                                  xlink:href="/assets/njwds/dist/img/sprite.svg#zoom_in"
+                                ></use>
+                              </svg>
+                            </a>
+                            <div
+                              class="usa-modal usa-modal--xl"
+                              id="open-larger-image"
+                              aria-labelledby="modal-2-heading"
+                              aria-describedby="modal-2-description"
+                            >
+                              <div class="usa-modal__content">
+                                <div class="usa-modal__main">
+                                  <img
+                                    src="/assets/images/impact-report/2024/examples/ui-before.png"
+                                    alt="Descriptive Alt Text"
+                                    class="modal__image"
+                                  />
+                                </div>
+                                <button
+                                  type="button"
+                                  class="usa-button usa-modal__close"
+                                  aria-label="Close this window"
+                                  data-close-modal
+                                >
+                                  <svg
+                                    class="usa-icon"
+                                    aria-hidden="true"
+                                    focusable="false"
+                                    role="img"
+                                  >
+                                    <use
+                                      xlink:href="/assets/njwds/dist/img/sprite.svg#close"
+                                    ></use>
+                                  </svg>
+                                </button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </figure>
                 </div>
             </div>
         </li>
@@ -83,17 +136,71 @@ Using a resident-first design approach, OOI worked with the NJ State Department 
                     <h2 class="usa-card__heading">After</h2>
                 </header>
                 <div class="usa-card__body">
-                    <img
-                        src="/assets/images/impact-report/2024/examples/ui-after.png"
-                        alt=""
-                        class="padding-4"
-                    />
+                    <figure>
+                      <div class="position-relative">
+                        <img src="/assets/images/impact-report/2024/examples/ui-after.png" alt="" />
+                        <div class="position-absolute bottom-0 right-0">
+                          <div class="margin-y-3">
+                            <a
+                              href="#open-larger-image-after"
+                              class="usa-button"
+                              aria-controls="open-larger-image-after"
+                              data-open-modal
+                            >
+                              <svg
+                                class="usa-icon usa-icon--size-3"
+                                focusable="false"
+                                role="img"
+                              >
+                                <use
+                                  xlink:href="/assets/njwds/dist/img/sprite.svg#zoom_in"
+                                ></use>
+                              </svg>
+                            </a>
+                            <div
+                              class="usa-modal usa-modal--xl"
+                              id="open-larger-image-after"
+                              aria-labelledby="modal-2-heading"
+                              aria-describedby="modal-2-description"
+                            >
+                              <div class="usa-modal__content">
+                                <div class="usa-modal__main">
+                                  <img
+                                    src="/assets/images/impact-report/2024/examples/ui-after.png"
+                                    alt="Descriptive Alt Text"
+                                    class="modal__image"
+                                  />
+                                </div>
+                                <button
+                                  type="button"
+                                  class="usa-button usa-modal__close"
+                                  aria-label="Close this window"
+                                  data-close-modal
+                                >
+                                  <svg
+                                    class="usa-icon"
+                                    aria-hidden="true"
+                                    focusable="false"
+                                    role="img"
+                                  >
+                                    <use
+                                      xlink:href="/assets/njwds/dist/img/sprite.svg#close"
+                                    ></use>
+                                  </svg>
+                                </button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </figure>
                 </div>
-                
+
             </div>
         </li>
     </ul>
-    <figcaption class="font-mono-xs text-italic padding-top-1"> 
-      A side-by-side comparison of the old landing page and the redesigned individualized homepages for the Unemployment Insurance application.    
+    <figcaption class="font-mono-xs text-italic padding-top-1">
+      A side-by-side comparison of the old landing page and the redesigned individualized homepages for the Unemployment Insurance application.
     </figcaption>
+
 </figure>
