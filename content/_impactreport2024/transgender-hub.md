@@ -5,10 +5,10 @@ title-image:
   image: /assets/images/impact-report/2024/header/transgenderhub.jpg
 previous-page:
   title: Helped more than 12,000 members of New Jersey’s disability community and their loved ones access critical information and services
-  link: "/impact-report/2024/09-disability_hub"
+  link: "/impact-report/2024/disability-hub"
 next-page:
   title: Launched one of the nation’s first AI tools specifically built for State employees
-  link: "/impact-report/2024/11-ai_assistant"
+  link: "/impact-report/2024/ai-assistant"
 order: 11
 ---
 

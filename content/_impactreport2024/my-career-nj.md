@@ -5,10 +5,10 @@ title-image:
   image: /assets/images/impact-report/2024/header/mycareernj.jpg
 previous-page:
   title: Helped more than 115,000 expecting parents access benefits to care for their newborns
-  link: "/impact-report/2024/04-maternity"
+  link: "/impact-report/2024/maternity-timeline-tool"
 next-page:
   title: Helped over 45,000 entrepreneurs start and grow their new business in New Jersey
-  link: "/impact-report/2024/06-business_experience"
+  link: "/impact-report/2024/business-experience"
 order: 6
 ---
 

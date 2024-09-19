@@ -5,7 +5,7 @@ description: "New Jersey Office of Innovation: Impact Report 2024"
 menu-group: Introduction
 next-page:
   title: About the Office of Innovation and Our Work
-  link: "/impact-report/2024/00-about/"
+  link: "/impact-report/2024/about/"
 order: 0
 ---
 

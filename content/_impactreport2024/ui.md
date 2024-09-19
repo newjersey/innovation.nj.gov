@@ -5,10 +5,10 @@ title-image:
   image: /assets/images/impact-report/2024/header/ui.jpg
 previous-page:
   title: Our Values
-  link: "/impact-report/2024/02-values/"
+  link: "/impact-report/2024/values/"
 next-page:
   title: Helped more than 115,000 expecting parents access benefits to care for their newborns
-  link: "/impact-report/2024/04-maternity"
+  link: "/impact-report/2024/maternity-timeline-tool"
 order: 4
 ---
 

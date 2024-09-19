@@ -5,10 +5,10 @@ title-image:
   image: /assets/images/impact-report/2024/header/celab.jpg
 previous-page:
   title: Modernized 11 call centers, enabling agencies to manage over 5.5 million calls in a little over a year, save millions of dollars, reduce wait times, and boost call resolution rates by 50%
-  link: "/impact-report/2024/07-call_centers/"
+  link: "/impact-report/2024/call-centers/"
 next-page:
   title: Helped more than 12,000 members of New Jersey’s disability community and their loved ones access critical information and services
-  link: "/impact-report/2024/09-disability_hub"
+  link: "/impact-report/2024/disability-hub"
 order: 9
 ---
 

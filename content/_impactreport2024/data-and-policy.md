@@ -5,7 +5,7 @@ title-image:
   image: /assets/images/impact-report/2024/header/dataandpolicy.jpg
 previous-page:
   title: Connected millions of New Jerseyans with vital information, services, and programs
-  link: "/impact-report/2024/12-covid19_response"
+  link: "/impact-report/2024/covid19-response"
 order: 14
 ---
 

@@ -5,10 +5,10 @@ title-image:
   image: /assets/images/impact-report/2024/header/covid19hub.jpg
 previous-page:
   title: Launched one of the nation’s first AI tools specifically built for State employees
-  link: "/impact-report/2024/11-ai_assistant"
+  link: "/impact-report/2024/ai-assistant"
 next-page:
   title: Helped tens of thousands of New Jerseyans engage with State officials on policy making and spending decisions
-  link: "/impact-report/2024/13-data_and_policy/"
+  link: "/impact-report/2024/data-and-policy/"
 order: 13
 ---
 

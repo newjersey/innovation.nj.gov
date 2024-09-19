@@ -7,7 +7,7 @@ previous-page:
   link: "/impact-report/2024/"
 next-page:
   title: How We Measure Impact
-  link: "/impact-report/2024/01-measure_impact/"
+  link: "/impact-report/2024/measure-impact/"
 ---
 
 Our mission is to improve the lives of New Jerseyans by solving public problems differently.

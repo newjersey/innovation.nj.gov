@@ -5,10 +5,10 @@ title-image:
   image: /assets/images/impact-report/2024/header/callcenters.jpg
 previous-page:
   title: Helped over 45,000 entrepreneurs start and grow their new business in New Jersey
-  link: "/impact-report/2024/06-business_experience"
+  link: "/impact-report/2024/business-experience"
 next-page:
   title: Increased visits from Spanish-language users to Business.NJ.gov by nearly 800%, drove nearly 6 million engagements with college degree completion programs, and connected tens of thousands of New Jerseyans with career services
-  link: "/impact-report/2024/08-communication"
+  link: "/impact-report/2024/communication-and-engagement-lab"
 order: 8
 ---
 

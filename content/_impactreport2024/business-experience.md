@@ -5,10 +5,10 @@ title-image:
   image: /assets/images/impact-report/2024/header/business.jpg
 previous-page:
   title: Helped over 123,000 workers find job openings and training programs and explore new careers in New Jersey
-  link: "/impact-report/2024/05-my_career"
+  link: "/impact-report/2024/my-career-nj"
 next-page:
   title: Modernized 11 call centers, enabling agencies to manage over 5.5 million calls in a little over a year, save millions of dollars, reduce wait times, and boost call resolution rates by 50%
-  link: "/impact-report/2024/07-call_centers"
+  link: "/impact-report/2024/call-centers"
 order: 7
 ---
 

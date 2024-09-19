@@ -5,10 +5,10 @@ title-image:
   image: /assets/images/impact-report/2024/header/disabilityhub.jpg
 previous-page:
   title: Increased visits from Spanish-language users to Business.NJ.gov by nearly 800%, drove nearly 6 million engagements with college degree completion programs, and connected tens of thousands of New Jerseyans with career services
-  link: "/impact-report/2024/08-communication"
+  link: "/impact-report/2024/communication-and-engagement-lab"
 next-page:
   title: Helped more than 68,000 members of New Jersey’s LGBTQ+ community access critical information and services
-  link: "/impact-report/2024/10-transgender_hub"
+  link: "/impact-report/2024/transgender-hub"
 order: 10
 ---
 

@@ -5,10 +5,10 @@ title-image:
   image: /assets/images/impact-report/2024/header/maternity.jpg
 previous-page:
   title: Reduced the time it takes to apply for Unemployment Insurance from nearly 4 hours to less than 25 minutes
-  link: "/impact-report/2024/03-ui/"
+  link: "/impact-report/2024/ui/"
 next-page:
   title: Helped over 123,000 workers find job openings and training programs and explore new careers in New Jersey
-  link: "/impact-report/2024/05-my_career"
+  link: "/impact-report/2024/my-career-nj"
 order: 5
 ---
 

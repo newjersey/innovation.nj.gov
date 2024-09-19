@@ -5,10 +5,10 @@ title-image:
   image: /assets/images/impact-report/2024/header/aiassistant.jpg
 previous-page:
   title: Helped more than 68,000 members of New Jersey’s LGBTQ+ community access critical information and services
-  link: "/impact-report/2024/10-transgender_hub"
+  link: "/impact-report/2024/transgender-hub"
 next-page:
   title: Connected millions of New Jerseyans with vital information, services, and programs
-  link: "/impact-report/2024/12-covid19_response"
+  link: "/impact-report/2024/covid19-response"
 order: 12
 ---
 

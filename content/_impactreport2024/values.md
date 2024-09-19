@@ -4,10 +4,10 @@ menu-group: Introduction
 order: 3
 previous-page:
   title: How We Measure Impact
-  link: "/impact-report/2024/01-measure_impact"
+  link: "/impact-report/2024/measure-impact"
 next-page:
   title: Reduced the time it takes to apply for Unemployment Insurance from nearly 4 hours to less than 25 minutes
-  link: "/impact-report/2024/03-ui/"
+  link: "/impact-report/2024/ui/"
 ---
 
 - **Problems that matter to real people.** We focus on concrete problems that affect New Jerseyans with a focus on individuals who have historically not had access to services.
