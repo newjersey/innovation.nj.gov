@@ -2,10 +2,10 @@
 title: Increased visits from Spanish-language users to Business.NJ.gov by nearly 800%, drove nearly 6 million engagements with college degree completion programs, and connected tens of thousands of New Jerseyans with career services
 menu-title: "Communication + Engagement Lab"
 title-image:
-  image: /assets/images/impact-report/2024/header/celab.jpg
+  image: /assets/images/impact-report/2024/header/celab.webp
 figure:
   title: What New Jerseyans See
-  url: "/assets/images/impact-report/2024/examples/celab.png"
+  url: "/assets/images/impact-report/2024/examples/celab.webp"
   caption: A still image of a New Jersey entrepreneur discussing the benefits of Business.NJ.gov from one of the video ads the C+E Lab produced for the Business.NJ.gov Success Starts Here ad campaign.
   id: ce-lab-fig
 previous-page:

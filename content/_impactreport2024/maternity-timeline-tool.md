@@ -2,10 +2,10 @@
 title: Helped more than 115,000 expecting parents access benefits to care for their newborns
 menu-title: "Maternity Coverage Timeline Tool"
 title-image:
-  image: /assets/images/impact-report/2024/header/maternity.jpg
+  image: /assets/images/impact-report/2024/header/maternity.webp
 figure:
   title: What New Jerseyans See
-  url: "/assets/images/impact-report/2024/examples/maternity.png"
+  url: "/assets/images/impact-report/2024/examples/maternity.webp"
   caption: "The landing page for the Maternity Coverage Timeline Tool that walks workers through the benefits they are eligible for."
   id: maternity-timeline-fig
 previous-page:

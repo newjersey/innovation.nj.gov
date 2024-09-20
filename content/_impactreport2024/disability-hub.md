@@ -2,10 +2,10 @@
 title: Helped more than 12,000 members of New Jersey’s disability community and their loved ones access critical information and services
 menu-title: "Disability Information Hub"
 title-image:
-  image: /assets/images/impact-report/2024/header/disabilityhub.jpg
+  image: /assets/images/impact-report/2024/header/disabilityhub.webp
 figure:
   title: What New Jerseyans See
-  url: "/assets/images/impact-report/2024/examples/disabilityhub.png"
+  url: "/assets/images/impact-report/2024/examples/disabilityhub.webp"
   caption: The landing page for the new Disability Information Hub, which organizes key information around specific needs and an individual’s disability for ease of use.
   id: disability-hub-fig
 previous-page:

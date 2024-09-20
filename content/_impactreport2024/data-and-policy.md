@@ -2,7 +2,7 @@
 title: Helped tens of thousands of New Jerseyans engage with State officials on policy making and spending decisions
 menu-title: "Data + Policy"
 title-image:
-  image: /assets/images/impact-report/2024/header/dataandpolicy.jpg
+  image: /assets/images/impact-report/2024/header/dataandpolicy.webp
 figure:
   title: What New Jerseyans See
   url: "/assets/images/impact-report/2024/examples/allourideas.bin"

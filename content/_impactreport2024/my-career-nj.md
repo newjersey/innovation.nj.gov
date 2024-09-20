@@ -2,10 +2,10 @@
 title: Helped over 123,000 workers find job openings and training programs and explore new careers in New Jersey
 menu-title: "My Career NJ"
 title-image:
-  image: /assets/images/impact-report/2024/header/mycareernj.jpg
+  image: /assets/images/impact-report/2024/header/mycareernj.webp
 figure:
   title: What New Jerseyans See
-  url: "/assets/images/impact-report/2024/examples/mycareernj.png"
+  url: "/assets/images/impact-report/2024/examples/mycareernj.webp"
   caption: The landing page for MyCareerNJ, which guides workers as they search for new careers, training opportunities, and more.
   id: my-career-nj-fig
 previous-page:

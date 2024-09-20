@@ -2,10 +2,10 @@
 title: Launched one of the nation’s first AI tools specifically built for State employees
 menu-title: "NJ AI Assistant"
 title-image:
-  image: /assets/images/impact-report/2024/header/aiassistant.jpg
+  image: /assets/images/impact-report/2024/header/aiassistant.webp
 figure:
   title: What New Jerseyans See
-  url: "/assets/images/impact-report/2024/examples/aiassistant.png"
+  url: "/assets/images/impact-report/2024/examples/aiassistant.webp"
   caption: "The interface for the NJ AI Assistant, where State employees can interact with the powerful AI tool and enter prompts, documents, and other information in a safe, sandbox environment."
   id: ai-assistant-fig
 previous-page:

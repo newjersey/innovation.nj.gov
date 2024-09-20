@@ -2,10 +2,10 @@
 title: Connected millions of New Jerseyans with vital information, services, and programs
 menu-title: "COVID-19 Response"
 title-image:
-  image: /assets/images/impact-report/2024/header/covid19hub.jpg
+  image: /assets/images/impact-report/2024/header/covid19hub.webp
 figure:
   title: What New Jerseyans See
-  url: "/assets/images/impact-report/2024/examples/covid19hub.png"
+  url: "/assets/images/impact-report/2024/examples/covid19hub.webp"
   caption: The Covid19.NJ.gov landing page, which featured rotating articles to highlight important updates, critical information, and the most searched for articles based on user data.
   id: covid19-hub-fig
 previous-page:

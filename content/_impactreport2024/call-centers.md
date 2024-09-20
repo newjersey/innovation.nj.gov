@@ -2,7 +2,7 @@
 title: Modernized 11 call centers, enabling agencies to manage over 5.5 million calls in a little over a year, save millions of dollars, reduce wait times, and boost call resolution rates by 50%
 menu-title: "Call Center Modernization"
 title-image:
-  image: /assets/images/impact-report/2024/header/callcenters.jpg
+  image: /assets/images/impact-report/2024/header/callcenters.webp
 previous-page:
   title: Helped over 45,000 entrepreneurs start and grow their new business in New Jersey
   link: "/impact-report/2024/business-experience"
