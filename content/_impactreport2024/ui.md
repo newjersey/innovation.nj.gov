@@ -75,9 +75,9 @@ Using a resident-first design approach, OOI worked with the NJ State Department 
                         <div class="position-absolute bottom-0 right-0">
                           <div class="margin-y-3">
                             <a
-                              href="#open-larger-image"
+                              href="#open-larger-image-ui-before-fig"
                               class="usa-button"
-                              aria-controls="open-larger-image"
+                              aria-controls="open-larger-image-ui-before-fig"
                               data-open-modal
                             >
                               <svg
@@ -92,7 +92,7 @@ Using a resident-first design approach, OOI worked with the NJ State Department 
                             </a>
                             <div
                               class="usa-modal usa-modal--xl"
-                              id="open-larger-image"
+                              id="open-larger-image-ui-before-fig"
                               aria-labelledby="modal-2-heading"
                               aria-describedby="modal-2-description"
                             >
@@ -142,9 +142,9 @@ Using a resident-first design approach, OOI worked with the NJ State Department 
                         <div class="position-absolute bottom-0 right-0">
                           <div class="margin-y-3">
                             <a
-                              href="#open-larger-image-after"
+                              href="#open-larger-image-ui-after-fig"
                               class="usa-button"
-                              aria-controls="open-larger-image-after"
+                              aria-controls="open-larger-image-ui-after-fig"
                               data-open-modal
                             >
                               <svg
@@ -159,7 +159,7 @@ Using a resident-first design approach, OOI worked with the NJ State Department 
                             </a>
                             <div
                               class="usa-modal usa-modal--xl"
-                              id="open-larger-image-after"
+                              id="open-larger-image-ui-after-fig"
                               aria-labelledby="modal-2-heading"
                               aria-describedby="modal-2-description"
                             >

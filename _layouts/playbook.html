@@ -49,71 +49,8 @@ layout: default
           {% if page.title-image %}
           <img src="{{page.title-image.image}}" alt="" />
 
-          {% endif %} {{ content }} {% if page.example-image %}
-          <h2>{{page.example-image.title}}</h2>
-          <figure>
-            <div class="position-relative">
-              <img src="{{page.example-image.image-url}}" alt="" />
-              <div class="position-absolute bottom-0 right-0">
-                <div class="margin-y-3">
-                  <a
-                    href="#open-larger-image"
-                    class="usa-button"
-                    aria-controls="open-larger-image"
-                    data-open-modal
-                  >
-                    <svg
-                      class="usa-icon usa-icon--size-3"
-                      focusable="false"
-                      role="img"
-                    >
-                      <use
-                        xlink:href="/assets/njwds/dist/img/sprite.svg#zoom_in"
-                      ></use>
-                    </svg>
-                  </a>
-                  <div
-                    class="usa-modal usa-modal--xl"
-                    id="open-larger-image"
-                    aria-labelledby="modal-2-heading"
-                    aria-describedby="modal-2-description"
-                  >
-                    <div class="usa-modal__content">
-                      <div class="usa-modal__main">
-                        <img
-                          src="{{page.example-image.image-url}}"
-                          alt="Descriptive Alt Text"
-                          class="modal__image"
-                        />
-                      </div>
-                      <button
-                        type="button"
-                        class="usa-button usa-modal__close"
-                        aria-label="Close this window"
-                        data-close-modal
-                      >
-                        <svg
-                          class="usa-icon"
-                          aria-hidden="true"
-                          focusable="false"
-                          role="img"
-                        >
-                          <use
-                            xlink:href="/assets/njwds/dist/img/sprite.svg#close"
-                          ></use>
-                        </svg>
-                      </button>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <figcaption class="font-mono-xs text-italic padding-top-1">
-              {{page.example-image.caption}}
-            </figcaption>
-          </figure>
-          {% endif %} {% if page.next-page or page.previous-page %}
+          {% endif %} {{ content }} {% if page.next-page or page.previous-page
+          %}
           <div class="grid-container padding-top-4 padding-x-0">
             <div class="grid-row">
               {% if page.previous-page %}

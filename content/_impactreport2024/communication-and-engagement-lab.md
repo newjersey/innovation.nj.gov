@@ -3,10 +3,11 @@ title: Increased visits from Spanish-language users to Business.NJ.gov by nearly
 menu-title: "Communication + Engagement Lab"
 title-image:
   image: /assets/images/impact-report/2024/header/celab.jpg
-example-image:
+figure:
   title: What New Jerseyans See
-  image-url: "/assets/images/impact-report/2024/examples/celab.png"
+  url: "/assets/images/impact-report/2024/examples/celab.png"
   caption: A still image of a New Jersey entrepreneur discussing the benefits of Business.NJ.gov from one of the video ads the C+E Lab produced for the Business.NJ.gov Success Starts Here ad campaign.
+  id: ce-lab-fig
 previous-page:
   title: Modernized 11 call centers, enabling agencies to manage over 5.5 million calls in a little over a year, save millions of dollars, reduce wait times, and boost call resolution rates by 50%
   link: "/impact-report/2024/call-centers/"
@@ -57,3 +58,5 @@ The C+E Lab encourages residents to take action by using proven consumer marketi
 - NJ State Department of Labor
 - NJ State Library
 - NJ State Office of the Secretary of Higher Education
+
+{% include figure.html %}
