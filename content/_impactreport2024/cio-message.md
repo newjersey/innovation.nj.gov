@@ -7,6 +7,9 @@ next-page:
   title: About the Office of Innovation and Our Work
   link: "/impact-report/2024/about/"
 order: 0
+pre-title-btn:
+  text: Print Version
+  url: /impact-report/2024/print
 ---
 
 Since Governor Murphy established the New Jersey Office of Innovation by appointing the state’s first Chief Innovation Officer six years ago, our team has had the privilege of serving New Jerseyans and working alongside thousands of dedicated, talented public service professionals across all levels of government. Government at its simplest is people serving people.

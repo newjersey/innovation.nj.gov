@@ -9,6 +9,7 @@ layout: default
     aria-label="Introduction"
     style="background-image: url({{page.hero.image}});"
   >
+    
     <div class="grid-container padding-top-10">
       {% if page.hero.title %}
       <h1
@@ -42,9 +43,11 @@ layout: default
           class="{% if page.menu %} usa-layout-docs__main desktop:grid-col-9 usa-layout-docs {% else %} width-full {% endif %} usa-prose"
           id="main-content"
         >
-          <h1>
-            {% if page.title-prefix %} {{ page.title-prefix }} {% endif %} {{
-            page.title }}
+        {% if page.pre-title-btn %}
+          <a href="{{page.pre-title-btn.url}}" class="usa-button usa-button--outline float-right margin-bottom-2" type="button">{{page.pre-title-btn.text}}</a>
+        {% endif %}
+          <h1 {% if page.pre-title-btn %} style="margin-top: 0 !important;" {% endif %}>
+            {% if page.title-prefix %} {{ page.title-prefix }} {% endif %} {{ page.title }}
           </h1>
           {% if page.title-image %}
           <img src="{{page.title-image.image}}" alt="" />
