@@ -49,42 +49,46 @@ layout: default
           {% if page.title-image %}
           <img src="{{page.title-image.image}}" alt="" />
 
-          {% endif %} {{ content }} {% if page.next-page or page.previous-page
-          %}
+          {% endif %} 
+          
+          {{ content }} 
+          
+          {% if page.next-page or page.previous-page %}
           <div class="grid-container padding-top-4 padding-x-0">
             <div class="grid-row">
               {% if page.previous-page %}
-              <a href="{{ page.previous-page.link }}">
-                <button class="usa-button usa-button--outline">
-                  <svg
-                    class="usa-icon"
-                    aria-hidden="true"
-                    focusable="false"
-                    role="img"
-                  >
-                    <use
-                      xlink:href="/assets/njwds/dist/img/sprite.svg#arrow_back"
-                    ></use>
-                  </svg>
-                  Previous
-                </button>
-              </a>
-              {% endif %} {% if page.next-page %}
-              <a href="{{ page.next-page.link }}">
-                <button class="usa-button usa-button--outline">
-                  Next
-                  <svg
-                    class="usa-icon"
-                    aria-hidden="true"
-                    focusable="false"
-                    role="img"
-                  >
-                    <use
-                      xlink:href="/assets/njwds/dist/img/sprite.svg#arrow_forward"
-                    ></use>
-                  </svg>
-                </button>
-              </a>
+                <a href="{{ page.previous-page.link }}" class="padding-right-1">
+                  <button class="usa-button usa-button--outline">
+                    <svg
+                      class="usa-icon"
+                      aria-hidden="true"
+                      focusable="false"
+                      role="img"
+                    >
+                      <use
+                        xlink:href="/assets/njwds/dist/img/sprite.svg#arrow_back"
+                      ></use>
+                    </svg>
+                    Previous
+                  </button>
+                </a>
+              {% endif %} 
+              {% if page.next-page %}
+                <a href="{{ page.next-page.link }}">
+                  <button class="usa-button usa-button--outline">
+                    Next
+                    <svg
+                      class="usa-icon"
+                      aria-hidden="true"
+                      focusable="false"
+                      role="img"
+                    >
+                      <use
+                        xlink:href="/assets/njwds/dist/img/sprite.svg#arrow_forward"
+                      ></use>
+                    </svg>
+                  </button>
+                </a>
               {% endif %}
             </div>
           </div>
