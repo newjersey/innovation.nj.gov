@@ -9,6 +9,9 @@ previous-page:
 next-page:
   title: Increased visits from Spanish-language users to Business.NJ.gov by nearly 800%, drove nearly 6 million engagements with college degree completion programs, and connected tens of thousands of New Jerseyans with career services
   link: "/impact-report/2024/communication-and-engagement-lab"
+link-out:
+  text: Call Center Modernization
+  url: _projects/call-center-modernization.md
 order: 8
 ---
 

@@ -14,6 +14,9 @@ previous-page:
 next-page:
   title: Helped more than 68,000 members of New Jersey’s LGBTQ+ community access critical information and services
   link: "/impact-report/2024/transgender-hub"
+link-out:
+  text: Disability Information Hub
+  url: _projects/disability-info-hub.md
 order: 10
 ---
 

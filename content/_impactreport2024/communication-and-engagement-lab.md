@@ -14,6 +14,9 @@ previous-page:
 next-page:
   title: Helped more than 12,000 members of New Jersey’s disability community and their loved ones access critical information and services
   link: "/impact-report/2024/disability-hub"
+link-out:
+  text: Communication + Engagement Lab
+  url: _projects/communication-engagement-lab.md
 order: 9
 ---
 

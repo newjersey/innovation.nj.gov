@@ -14,6 +14,9 @@ previous-page:
 next-page:
   title: Helped over 45,000 entrepreneurs start and grow their new business in New Jersey
   link: "/impact-report/2024/business-experience"
+link-out:
+  text: My Career NJ
+  url: _projects/nj-career-central.md
 order: 6
 ---
 

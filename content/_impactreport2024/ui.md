@@ -9,6 +9,9 @@ previous-page:
 next-page:
   title: Helped more than 115,000 expecting parents access benefits to care for their newborns
   link: "/impact-report/2024/maternity-timeline-tool"
+link-out:
+  text: Unemployment Insurance Claim Status Tool
+  url: _projects/ui-claim-tool.md
 order: 4
 ---
 

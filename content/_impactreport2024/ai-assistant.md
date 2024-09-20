@@ -14,6 +14,9 @@ previous-page:
 next-page:
   title: Connected millions of New Jerseyans with vital information, services, and programs
   link: "/impact-report/2024/covid19-response"
+link-out:
+  text: NJ AI Assistant
+  url: _projects/ai-assistant.md
 order: 12
 ---
 

@@ -14,6 +14,9 @@ previous-page:
 next-page:
   title: Helped tens of thousands of New Jerseyans engage with State officials on policy making and spending decisions
   link: "/impact-report/2024/data-and-policy/"
+link-out:
+  text: COVID-19 Response
+  url: _projects/COVID19.md
 order: 13
 ---
 

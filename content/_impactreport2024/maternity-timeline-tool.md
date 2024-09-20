@@ -14,6 +14,9 @@ previous-page:
 next-page:
   title: Helped over 123,000 workers find job openings and training programs and explore new careers in New Jersey
   link: "/impact-report/2024/my-career-nj"
+link-out:
+  text: Maternity Coverage Timeline Tool
+  url: _projects/maternity-coverage-tool.md
 order: 5
 ---
 

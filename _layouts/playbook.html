@@ -55,6 +55,11 @@ layout: default
           {% endif %} 
           
           {{ content }} 
+
+          {% if page.link-out %}
+            <h2> Read More</h2>
+            <p>See the latest at the <a href="{% link {{page.link-out.url}} %}">{{page.link-out.text}} project page</a>.</p>
+          {% endif %}
           
           {% if page.next-page or page.previous-page %}
           <div class="grid-container padding-top-4 padding-x-0">

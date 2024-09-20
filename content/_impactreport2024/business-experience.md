@@ -14,6 +14,9 @@ previous-page:
 next-page:
   title: Modernized 11 call centers, enabling agencies to manage over 5.5 million calls in a little over a year, save millions of dollars, reduce wait times, and boost call resolution rates by 50%
   link: "/impact-report/2024/call-centers"
+link-out:
+  text: Business Experience Initiative
+  url: _projects/business-experience-initiative.md
 order: 7
 ---
 

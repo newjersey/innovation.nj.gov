@@ -14,6 +14,9 @@ previous-page:
 next-page:
   title: Launched one of the nation’s first AI tools specifically built for State employees
   link: "/impact-report/2024/ai-assistant"
+link-out:
+  text: Transgender Information Hub
+  url: _projects/transgender-hub.md
 order: 11
 ---
 
