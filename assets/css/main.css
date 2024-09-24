@@ -63,3 +63,33 @@ svg {
   width: 100%;
   height: auto;
 }
+
+/* Playbook hero image specific CSS */
+.playbook-hero-text {
+  padding: 30px;
+  background-color: #1c254f;
+  font-size: 4.5vw;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@media (max-width: 1023px) {
+  .playbook-hero-text {
+    position: relative;
+    top: 0;
+    left: 0;
+    transform: none;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    font-size: 8vw;
+  }
+}
+
+@media (min-width: 1921px) {
+  .playbook-hero-text {
+    font-size: 5.5em;
+  }
+}
