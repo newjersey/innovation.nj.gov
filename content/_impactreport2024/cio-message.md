@@ -2,6 +2,9 @@
 permalink: /impact-report/2024/
 title: Message from the Chief Innovation Officer
 description: "New Jersey Office of Innovation: Impact Report 2024"
+titleoverride: Impact Report 2024
+open-graph:
+  title: Impact Report 2024 | Office of Innovation, State of New Jersey
 menu-group: Introduction
 next-page:
   title: About the Office of Innovation and Our Work

@@ -42,9 +42,21 @@
     <title>{{ title }}</title>
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="{{title}}" />
+    <meta
+      property="og:title"
+      {% if page.open-graph.title %}
+      content="{{page.open-graph.title}}"
+      {% else %}
+      content="{{title}}"
+      {% endif %} />
     <meta property="og:description" content="{{description}}" />
-    <meta property="og:image" content="https://innovation.nj.gov/assets/images/innovation-OG-image.jpg" />
+    <meta
+      property="og:image"
+      {% if page.open-graph.image %}
+      content="{{site.url}}{{page.open-graph.image}}"
+      {% else %}
+      content="{{site.url}}/assets/images/innovation-OG-image.jpg"
+      {% endif %} />
     <link
       rel="icon"
       type="image/png"
