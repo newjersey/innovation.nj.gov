@@ -57,6 +57,6 @@ As of August 2024, more than 115,000 New Jerseyans have used the Maternity Cover
 ## Partners
 
 - NJ State Department of Labor
-- Office of the First Lady
+- Office of First Lady Tammy Murphy
 
 {% include figure.html %}
