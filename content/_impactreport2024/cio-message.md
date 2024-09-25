@@ -27,10 +27,12 @@ It is an honor to serve as our State’s second Chief Innovation Officer. This i
 
 Now, at the start of our sixth year at the Office of Innovation, we are proud to take this moment to reflect on the impact our team has had, working in concert with our partners in public service across the state. We invite you to review our work and share your thoughts on how we may further drive continuous improvement and government excellence (drop us a note at [team@innovation.nj.gov](mailto:team@innovation.nj.gov)). We do this work out of a commitment to service and a belief that a government that works for all of us is necessary to build trust in our communities and meet the societal challenges we face, together. We look forward to continuing the progress we’ve made and building on the foundation highlighted in this report.
 
+<br>
 Yours in service,
 
 _Dave_
 
-Dave Cole
-Chief Innovation Officer
+<br>
+Dave Cole<br>
+Chief Innovation Officer<br>
 State of New Jersey
