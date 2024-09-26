@@ -14,7 +14,7 @@ The [Transgender Information Hub](http://transgender.nj.gov) is a central resour
 ### Impact + Metrics
 
 - For the first time, transgender New Jerseyans have a government resource dedicated to simplifying critical services and no longer need to spend hours visiting multiple sites.
-- As of April 2024, the Transgender Information Hub has been visited more than 53,000 times and connected these visitors to critical information and services. 
+- As of August 2024, the Transgender Information Hub has been visited more than 68,000 times and connected these visitors to critical information and services. 
 
 ### Status
 
@@ -32,4 +32,4 @@ The [Transgender Information Hub](http://transgender.nj.gov) is a central resour
 - NJ State Department of Children and Families
 - Garden State Equality
 
-*Last updated on 5/1/24*
+*Last updated on 9/26/24*
