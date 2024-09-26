@@ -22,6 +22,12 @@ Chaired by New Jersey's Chief Innovation Officer, Beth Simone Noveck, the Task F
 
 -   OOI is continuing to work with its partners to implement the Task Force’s recommendations including the Lifelong Learning Account pilot program (branded Fund My Future), which provides participants with unrestricted funds to help with training costs and related services. As of April 2024, over 120 residents have participated in the program across the State.
 
+### Resources and Additional Information
+
+-   [Read the Task Force's Roadmap and Recommendations](https://fowtf.innovation.nj.gov/resources.html) as well as the dozens of reports and papers that the Task Force examined as part of its research.
+-   You can also [read the six academic research papers](https://fowtf.innovation.nj.gov/resources.html) the Task Force also commissioned to further its understanding of the localized impacts of the Future of Work within the Garden State.
+-   NJ Spotlight News: [Workers need help facing uncertain future, task force says](https://www.njspotlightnews.org/2022/02/worker-training-savings-accounts-upgraded-unemployment-site-technology-task-force/)
+
 ### Partners
 
 -   Office of the Governor
@@ -31,11 +37,5 @@ Chaired by New Jersey's Chief Innovation Officer, Beth Simone Noveck, the Task F
 -   NJ State Office of the Secretary of Higher Education
 -   NJ State Department of Education
 -   NJ State Employment and Training Commission
-
-### Resources and Additional Information
-
--   [Read the Task Force's Roadmap and Recommendations](https://fowtf.innovation.nj.gov/resources.html) as well as the dozens of reports and papers that the Task Force examined as part of its research.
--   You can also [read the six academic research papers](https://fowtf.innovation.nj.gov/resources.html) the Task Force also commissioned to further its understanding of the localized impacts of the Future of Work within the Garden State.
--   NJ Spotlight News: [Workers need help facing uncertain future, task force says](https://www.njspotlightnews.org/2022/02/worker-training-savings-accounts-upgraded-unemployment-site-technology-task-force/)
 
 *Last updated on 5/1/24*
