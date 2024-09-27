@@ -1,6 +1,6 @@
 ---
 title: Reduced the time it takes to apply for Unemployment Insurance from nearly 4 hours to less than 25 minutes
-menu-title: "Unemployement Insurance Modernization"
+menu-title: "Unemployment Insurance Modernization"
 title-image:
   image: /assets/images/impact-report/2024/header/ui.webp
 previous-page:
