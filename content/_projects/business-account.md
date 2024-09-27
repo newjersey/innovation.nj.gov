@@ -17,10 +17,11 @@ With the user at the heart of every decision, OOI has transformed how businesses
 
 -   Entrepreneurs now have personalized Starter Kits specific to over 50 industries for starting their companies in New Jersey. This guide explains what forms and licenses they need, legal requirements, and more.
 -   Through advanced data-sharing, any new company can now legally form their business and check their license application status directly through their Account rather than by visiting multiple agencies.
--   For the first time, businesses now have a personalized calendar for deadlines and filings, as well as personalized funding and certification recommendations from a growing statewide database.
--   The personalized account function was used more than 345,000 times in 2023 – a 130% increase in usage from the previous year.
--   As of April 2024, more than 35,000 businesses have filed formation documents through Business.NJ.gov since the tool's launch in 2022, and the site now facilitates one out of seven new business formations in the state.
--   Additional support features released in 2023 allow for the formation of nonprofits and out-of-state businesses. As of April 2024, 1,500 out-of-state businesses have been authorized through the site as well as more than 500 non-profit formations.
+-   For the first time, businesses have a personalized calendar for deadlines and filings, as well as personalized funding and certification recommendations from a growing statewide database.
+- The personalized account function was used more than 345,000 times in 2023 – a 130% increase in usage from the previous year.
+- As of August 2024, more than 45,000 businesses have filed formation documents through Business.NJ.gov since the tool’s launch in 2022 , and the site now facilitates one out of seven new business formations in the state. 
+- Additional support features released in 2023 allow for the formation of nonprofits and out-of-state businesses. As of August 2024, over 2,000 out-of-state businesses have been authorized through the site, as well as more than 600 non-profit formations.
+
 
 ### Status
 
@@ -41,4 +42,4 @@ With the user at the heart of every decision, OOI has transformed how businesses
 -   NJ State Office of the Attorney General, Division of Consumer Affairs
 -   Statewide initiative, in partnership with all relevant State entities
 
-*Last updated on 5/1/24*
+*Last updated on 9/27/24*
