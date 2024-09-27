@@ -17,12 +17,15 @@ Working with the New Jersey State Office of Information Technology, the Office o
 
 - New Jersey is one of the first States in the nation to provide State employees with a safe environment to responsibly leverage AI tools to transform government services. 
 - State departments and agencies have already begun using generative AI in limited cases to improve services. Working with the Department of Labor, OOI has used AI to help rewrite emails in plain language and residents have been responding 35% faster as a result. 
-- At the ANCHOR property tax program call center, the New Jersey Division of Taxation has been using AI tools to analyze calls to generate better self-service menu options, so residents can find what they need without waiting on hold to speak to an agent, leading to a 50% increase in the number of successfully resolved calls. 
+- At the ANCHOR property tax program call center, the New Jersey Division of Taxation has been using AI tools to analyze calls to generate better self-service menu options, so residents can find what they need without waiting on hold to speak to an agent, leading to a 50% increase in the number of successfully resolved calls.
+- Two months after launching in July 2024, more than 4,000 State employees are actively using the AI Assistant – including teams at several State agencies that are regularly using it to help draft content and analyze user feedback. 
+- As of August 2024, two months after the Generative AI training was released, over 4,000 State employees have learned how to use AI safely, responsibly, and in line with State policies. 
+
 
 
 ### Status
 
-- The NJ AI Assistant was launched in July 2024, and future updates include the potential inclusion of additional AI models. 
+- The NJ AI Assistant was launched in July 2024, and future updates include potentially supporting different upload and output formats. 
 
 ### Resources and Additional Information
 
@@ -38,4 +41,4 @@ Working with the New Jersey State Office of Information Technology, the Office o
 - NJ State Civil Service Commission
 
 
-*Last updated on 7/9/24*
+*Last updated on 9/26/24*

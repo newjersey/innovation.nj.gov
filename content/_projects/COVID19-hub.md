@@ -15,9 +15,9 @@ Unlike traditional legacy government websites, which feature static content and 
 
 ### Impact + Metrics
 
--   As of April 2024, the COVID-19 Info Hub has been been visited more than 90 million times and provided these visitors with life-saving health information and critical resources. The site has been updated or enhanced more than 134,000 times.
--   The COVID-19 Vaccine Appointment Finder, which was created in response to user demand, was visited more than 5.3 million times, helping these residents get appointments for COVID-19 vaccines.
--   Building on the success of the COVID-19 Info Hub, OOI has been working with additional State partners to apply the same model of data- and user-driven content delivery to create information hubs that address specific needs or communities including low-income college students ([BasicNeeds.NJ.gov](https://basicneeds.nj.gov/)), transgender residents ([Transgender.NJ.gov](https://transgender.nj.gov)), individuals with disabilities, and more.
+-   As of September 2024, the COVID-19 Info Hub has been been visited more than 90 million times and provided these visitors with life-saving health information and critical resources. The site has been updated or enhanced more than 134,000 times.
+-   The COVID-19 Vaccine Appointment Finder, which was created in response to user demand, was used more than 5.3 million times, helping these residents get appointments for COVID-19 vaccines.
+-   Building on the success of the COVID-19 Info Hub, OOI has been working with additional State partners to apply the same model of data- and user-driven content delivery to create information hubs that address specific needs or communities including low-income college students ([BasicNeeds.NJ.gov](https://basicneeds.nj.gov/)), transgender residents ([Transgender.NJ.gov](https://transgender.nj.gov)), individuals with disabilities ([NJ.gov/Disabilities](http://NJ.gov/Disabilities)), and more.
 
 ### Status
 
@@ -41,4 +41,4 @@ Unlike traditional legacy government websites, which feature static content and 
 -   NJ 211
 -   Statewide initiative, in partnership with all State entities
 
-*Last updated on 5/1/24*
+*Last updated on 9/26/24*

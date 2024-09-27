@@ -19,7 +19,7 @@ Based on conversations with residents and frontline staff, OOI and the Departmen
 - With the tool, residents can check the status of their claim after they submit an application, see if there are steps needed to advance their claim, and then take action with new self-service features
 - As of July 2024, the improved claim status tool has been used more than 2 million times with more than 75% of users resolving issues on their own to advance their unemployment benefits application. 
 - Using the feedback widget, OOI and DOL are quickly responding to emerging needs. Shortly after the Claim Status Tool’s launch in March 2023, in response to user comments, a new update was released to make 1099 forms from current and previous years available in time for the April tax deadline. 
-- With help from the feedback widget, the Claims Status Tool is being made even more effective. When the tool was initially introduced in early 2023, 25% of surveyed residents were able to find what they needed, but as of May 2024, 65% of those surveyed are now able to find what they need.  
+- With help from the feedback widget, the Claims Status Tool is being made even more effective. When the tool was initially introduced in early 2023, only 25% of surveyed residents were able to find what they needed, but as of August 2024, 60% of those surveyed are now able to find what they need.  
 
 ### Status
 
@@ -29,4 +29,4 @@ Based on conversations with residents and frontline staff, OOI and the Departmen
 
 -   NJ State Department of Labor
 
-*Last updated on 7/29/24*
+*Last updated on 9/26/24*

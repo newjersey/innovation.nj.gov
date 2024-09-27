@@ -15,7 +15,7 @@ OOI partnered with the Business Action Center and other departments to centraliz
 
 ### Impact + Metrics
 
--  In 2023, the Live Chat saw a 32% increase in the number of businesses seeking answers, and as of April 2024, the Live Chat has enabled more than 130,000 virtual conversations between businesses and experts at the State’s Business Action Center, the Department of Treasury, the Department of Labor, and the State’s Economic Development Authority.
+-  In 2023, the Live Chat saw a 32% increase in the number of businesses seeking answers, and as of August 2024, the Live Chat has enabled more than 150,000 virtual replies to businesses by experts at the State’s Business Action Center, the Department of Treasury, the Department of Labor, and the State’s Economic Development Authority.
 
 ### Status
 
@@ -29,4 +29,4 @@ OOI partnered with the Business Action Center and other departments to centraliz
 -   NJ State Department of Treasury
 -   NJ State Department of Labor
 
-*Last updated on 5/1/24*
+*Last updated on 9/27/24*

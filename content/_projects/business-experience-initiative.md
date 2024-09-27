@@ -18,7 +18,7 @@ Rather than waiting to debut a large-scale solution after a multi-year developme
 ### Impact + Metrics
 
 -   With Business.NJ.gov, companies can now easily find the answer to any question they have, file critical forms, and get personalized recommendations -- all in one convenient place.
--   With over 4 million users and 19 million pageviews as of April 2024, Business.NJ.gov is the definitive starting point for New Jersey entrepreneurs, serving more than half a million people in the first three months of 2024 alone.
+-   With over 6 million users and 20 million pageviews as of August 2024, Business.NJ.gov is the definitive starting point for New Jersey entrepreneurs, serving more than a million people in the first six months of 2024 alone.
 -   With a Business.NJ.gov [Account](https://navigator.business.nj.gov/), aspiring entrepreneurs can now develop personalized guides to starting their business, register their business and track their applications, find relevant funding opportunities, and get a personalized tax calendar.
 -   By enabling data-sharing between agencies for the first time, we are consolidating dozens of forms and making them submittable through a single portal, Business.NJ.gov. 
 -   Businesses can access a centralized customer service experience in real time using the Business.NJ.Gov live chat - this allows businesses to get answers from experts and customer service representatives from multiple State agencies, alleviating the need to call several agencies.
@@ -37,4 +37,4 @@ Rather than waiting to debut a large-scale solution after a multi-year developme
 -   NJ State Department of Labor
 -   Statewide initiative, in partnership with all relevant State entities
 
-*Last updated on 5/1/24*
+*Last updated on 9/27/24*
