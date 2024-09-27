@@ -17,7 +17,7 @@ Residents using this resource have the option to leave feedback to improve it, w
 
 ### Impact + Metrics
 
-- As of April 2024, more than 95,000 New Jerseyans have used the Maternity Coverage Timeline Tool to understand their benefits, and more than 378,000 timelines have been created since the tool launched in May 2022.
+- As of August 2024, more than 115,000 New Jerseyans have used the Maternity Coverage Timeline Tool to understand their benefits, and more than 523,000 timelines have been created since the tool launched in May 2022.
 
 ### Status
 
@@ -32,4 +32,4 @@ Residents using this resource have the option to leave feedback to improve it, w
 - NJ State Department of Labor
 - Office of First Lady Tammy Murphy
 
-_Last updated on 5/2/24_
+_Last updated on 9/27/24_
