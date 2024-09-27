@@ -46,6 +46,17 @@ As of August 2024, more than 115,000 New Jerseyans have used the Maternity Cover
 <div class="usa-alert usa-alert--info usa-alert--no-icon">
   <div class="usa-alert__body">
     <p class="usa-alert__text">
+      "In just six years, the Office of Innovation has made vast contributions to our state and improved the lives of countless New Jerseyans. Their work with the Department of Labor to create the Maternity Coverage Tool has made it easier than ever to understand paid family leave benefits. Increasing use of this critical benefit is a core Nurture NJ recommendation, and this tool has already helped more than 115,000 New Jerseyans plan their parental leave. Through innovations in technology and policy, we will make New Jersey the safest, most equitable place to deliver and raise a baby."
+    </p>
+    <p>
+    - <em>New Jersey First Lady Tammy Murphy</em>
+    </p>
+  </div>
+</div>
+
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+  <div class="usa-alert__body">
+    <p class="usa-alert__text">
       "I just had a client reach out to us this week that she used the [maternity timeline] tool and was so happy to see exactly when she can start. She hadn’t realized that she can start her claim up to 4 weeks before her estimated due date…You can then clearly see the difference between taking Family Leave bonding time at once or in parts, as that can be confusing as well."
     </p>
     <p>
