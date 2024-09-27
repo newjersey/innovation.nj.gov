@@ -74,7 +74,7 @@ Using a resident-first design approach, OOI worked with the NJ State Department 
                 <div class="usa-card__body">
                     <figure>
                       <div class="position-relative">
-                        <img src="/assets/images/impact-report/2024/examples/ui-before.png" alt="" />
+                        <img src="/assets/images/impact-report/2024/examples/ui-before.webp" alt="" />
                         <div class="position-absolute bottom-0 right-0">
                           <div class="margin-y-3">
                             <a
@@ -102,7 +102,7 @@ Using a resident-first design approach, OOI worked with the NJ State Department 
                               <div class="usa-modal__content">
                                 <div class="usa-modal__main">
                                   <img
-                                    src="/assets/images/impact-report/2024/examples/ui-before.png"
+                                    src="/assets/images/impact-report/2024/examples/ui-before.webp"
                                     alt="Descriptive Alt Text"
                                     class="modal__image"
                                   />
