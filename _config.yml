@@ -186,4 +186,4 @@ defaults:
           collection: impactreport2024
           group-by: menu-group
       open-graph:
-        image: /assets/images/impact-report/2024/impact-report-thumbnail.webp
+        image: assets/images/impact-report/2024/impact-report-thumbnail.webp
