@@ -5,12 +5,22 @@ layout: default
 <main id="main-content">
   {% if page.hero %}
   <section
-    class="usa-hero padding-top-15 padding-bottom-15"
-    aria-label="Introduction"
-    style="background-image: url({{page.hero.image}});"
-  >
-    <div class="grid-container padding-top-10"></div>
-  </section>
+  class="usa-hero"
+  aria-label="Introduction"
+  style="background-image: none"
+  
+>
+  <div class="position-relative">
+    <div class="position-relative display-flex flex-align-center flex-justify-center">
+      <img class="" src="{{page.hero.image}}">
+    </div>
+    {% if page.hero.title %}
+    <h1 class="playbook-hero-text position-absolute"> {{page.hero.title}}</h1>
+    {% endif  %}
+  </img>
+  </div>
+  
+</section>
   {% endif %}
 
   <section class="usa-section">
@@ -26,11 +36,77 @@ layout: default
           class="{% if page.menu %} usa-layout-docs__main desktop:grid-col-9 usa-layout-docs {% else %} width-full {% endif %} usa-prose"
           id="main-content"
         >
-          <h1>
-            {% if page.title-prefix %} {{page.title-prefix}} {% endif
-            %}{{page.title}}
+          {% if page.pre-title-btn %}
+          <a
+            href="{{page.pre-title-btn.url}}"
+            class="usa-button usa-button--outline float-right margin-bottom-2"
+            type="button"
+            >{{page.pre-title-btn.text}}</a
+          >
+          {% endif %}
+          <h1
+            {%
+            if
+            page.pre-title-btn
+            %}
+            style="margin-top: 0 !important"
+            {%
+            endif
+            %}
+          >
+            {% if page.title-prefix %} {{ page.title-prefix }} {% endif %} {{
+            page.title }}
           </h1>
-          {{content}}
+          {% if page.title-image %}
+          <img src="{{page.title-image.image}}" alt="" />
+
+          {% endif %} {{ content }} {% if page.link-out %}
+          <h2>Read More</h2>
+          <p>
+            See the latest at the
+            <a href="{% link {{page.link-out.url}} %}"
+              >{{page.link-out.text}} project page</a
+            >.
+          </p>
+          {% endif %} {% if page.next-page or page.previous-page %}
+          <div class="grid-container padding-top-4 padding-x-0">
+            <div class="grid-row">
+              {% if page.previous-page %}
+              <a href="{{ page.previous-page.link }}" class="padding-right-1">
+                <button class="usa-button usa-button--outline">
+                  <svg
+                    class="usa-icon"
+                    aria-hidden="true"
+                    focusable="false"
+                    role="img"
+                  >
+                    <use
+                      xlink:href="/assets/njwds/dist/img/sprite.svg#arrow_back"
+                    ></use>
+                  </svg>
+                  Previous
+                </button>
+              </a>
+              {% endif %} {% if page.next-page %}
+              <a href="{{ page.next-page.link }}">
+                <button class="usa-button usa-button--outline">
+                  Next
+                  <svg
+                    class="usa-icon"
+                    aria-hidden="true"
+                    focusable="false"
+                    role="img"
+                  >
+                    <use
+                      xlink:href="/assets/njwds/dist/img/sprite.svg#arrow_forward"
+                    ></use>
+                  </svg>
+                </button>
+              </a>
+              {% endif %}
+            </div>
+          </div>
+          {% endif %}
         </main>
       </div>
     </div>

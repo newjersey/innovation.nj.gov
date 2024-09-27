@@ -84,6 +84,11 @@ collections:
     permalink: cel-playbook/:title/
     output: true
     sort_by: name
+  impactreport2024:
+    permalink: /impact-report/2024/:title/
+    directory: _impactreport2024/2024/
+    output: true
+    sort_by: order
   skills:
     output: true
   trainings:
@@ -105,6 +110,9 @@ defaults:
           url: /about
           collection: team
           group-by: menu-group
+      menu-header:
+        title: About Us
+        url: "/about/"
   - scope:
       path: ""
       type: "redirects"
@@ -131,6 +139,9 @@ defaults:
           url: /projects/
           collection: projects
           group-by: initiative
+          menu-header:
+          title: Our Work
+          url: "/projects/"
   - scope:
       path: ""
       type: "skills"
@@ -141,6 +152,9 @@ defaults:
           url: /skills/
           collection: skills
           group-by: menu-group
+          menu-header:
+            title: Innovation Skills
+            url: "/skills/"
   - scope:
       path: ""
       type: "playbooks"
@@ -150,7 +164,26 @@ defaults:
         image: /assets/images/cel-playbook-hero.jpg
       menu-group: The C+E Lab Playbook
       menu:
-        - title: The C+E Playbook
+        - title: About the Playbook
           url: /cel-playbook
           collection: playbooks
           group-by: menu-group
+          menu-header:
+            title: About the Playbook
+            url: "/cel-playbook/"
+  - scope:
+      path: ""
+      type: "impactreport2024"
+    values:
+      layout: playbook
+      hero:
+        image: /assets/images/impact-report/2024/hero.webp
+        title: "Impact Report 2024"
+      menu-group: Project Highlights
+      menu:
+        - title: Introduction
+          url: /impact-report/2024/
+          collection: impactreport2024
+          group-by: menu-group
+      open-graph:
+        image: /assets/images/impact-report/2024/impact-report-thumbnail.webp

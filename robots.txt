@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /impact-report/2024/ui/
+Disallow: /impact-report/2024/maternity-timeline-tool/
+Disallow: /impact-report/2024/my-career-nj/
+Disallow: /impact-report/2024/business-experience/
+Disallow: /impact-report/2024/call-centers/
+Disallow: /impact-report/2024/communication-and-engagement-lab/
+Disallow: /impact-report/2024/disability-hub/
+Disallow: /impact-report/2024/transgender-hub/
+Disallow: /impact-report/2024/ai-assistant/
+Disallow: /impact-report/2024/covid19-response/
+Disallow: /impact-report/2024/data-and-policy/
+Allow: /

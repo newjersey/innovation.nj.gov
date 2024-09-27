@@ -8,33 +8,29 @@
       href="/assets/njwds/dist/fonts/public-sans/PublicSans-Regular.woff2"
       as="font"
       type="font/woff2"
-      crossorigin />
+      crossorigin
+    />
     <link
       rel="preload"
       href="/assets/njwds/dist/fonts/public-sans/PublicSans-Bold.woff2"
       as="font"
       type="font/woff2"
-      crossorigin />
+      crossorigin
+    />
     <link
       rel="preload"
       href="/assets/njwds/dist/fonts/public-sans/PublicSans-Italic.woff2"
       as="font"
       type="font/woff2"
-      crossorigin />
+      crossorigin
+    />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://www.google-analytics.com" />
-    {% if page.description %}
-      {% assign description = page.description %}
-    {% else %}
-      {% assign description = page.content | markdownify | strip_html | 
- normalize_whitespace | truncatewords: '30' %}
-    {% endif %}
-    {% capture title %}
-    {% if page.titleoverride %}
-      {{page.titleoverride}} | {{ site.long_title }}
-    {% elsif page.title %}
-      {{page.title}} | {{ site.long_title }}
-    {% endif %}
+    {% if page.description %} {% assign description = page.description %} {%
+    else %} {% assign description = page.content | markdownify | strip_html |
+    normalize_whitespace | truncatewords: '30' %} {% endif %} {% capture title
+    %} {% if page.titleoverride %} {{page.titleoverride}} | {{ site.long_title
+    }} {% elsif page.title %} {{page.title}} | {{ site.long_title }} {% endif %}
     {%endcapture %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -42,41 +38,43 @@
     <title>{{ title }}</title>
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
-    <meta
-      property="og:title"
-      {% if page.open-graph.title %}
-      content="{{page.open-graph.title}}"
-      {% else %}
-      content="{{title}}"
-      {% endif %} />
+    <meta property="og:title" content="{{title}}" />
     <meta property="og:description" content="{{description}}" />
     <meta
       property="og:image"
-      {% if page.open-graph.image %}
-      content="{{site.url}}/{{page.open-graph.image}}"
-      {% else %}
-      content="{{site.url}}/assets/images/innovation-OG-image.jpg"
-      {% endif %} />
-    <link
-      rel="icon"
-      type="image/png"
-      href="/assets/images/favicon.png" />
+      content="https://innovation.nj.gov/assets/images/innovation-OG-image.jpg"
+    />
+    <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
     <script src="{{ site.baseurl }}/assets/njwds/dist/js/uswds-init.min.js"></script>
     <script src="{{ site.baseurl }}/assets/feedback-widget/feedback-widget.min.js"></script>
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/njwds/dist/css/styles.css" />
+    <link
+      rel="stylesheet"
+      href="{{ site.baseurl }}/assets/njwds/dist/css/styles.css"
+    />
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
+    <style>
+      @media print {
+        section {
+          border-bottom: none !important;
+        }
+        .pagebreak {
+          page-break-before: always;
+        } /* page-break-after works, as well */
+        .usa-alert,
+        .usa-card-group {
+          break-inside: avoid;
+        }
+      }
+    </style>
   </head>
   <body>
-    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
-    {% include banner.html %}
-    {% include header.html %}
     {{ content }}
-    {% include footer.html %}
-    {% include identifier.html %}
     <!-- Add global signup script -->
-    <script src="https://beta.nj.gov/global-signup/embed.js"></script>
     <script src="{{ site.baseurl }}/assets/njwds/dist/js/uswds.min.js"></script>
     {% include modal.html %}
-    <script async src="https://siteimproveanalytics.com/js/siteanalyze_6291948.js"></script>
+    <script
+      async
+      src="https://siteimproveanalytics.com/js/siteanalyze_6291948.js"
+    ></script>
   </body>
 </html>

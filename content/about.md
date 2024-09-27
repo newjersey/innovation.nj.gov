@@ -6,6 +6,9 @@ menu:
     url: /about/
     collection: team
     group-by: menu-group
+    menu-header:
+      title: About Us
+      url: "/about/"
 ---
 
 <p class="usa-intro">Our mission is to improve the lives of New Jerseyans by solving public problems differently.</p>
@@ -24,7 +27,6 @@ Our team is made up of dedicated and energetic individuals with experience in go
 - Solve problems using a multidisciplinary approach by providing strong domain expertise, breaking down silos, and forming partnerships - across teams, departments, agencies, levels of government, and nongovernmental partners
 - Deliver accessible solutions and policies that meet the needs of real people and organizations
 - Succeed in a highly ambiguous environment with little definition or structure
-
 
 ## How We Work + What We Do
 
