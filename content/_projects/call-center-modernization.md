@@ -15,9 +15,9 @@ Rather than a one-time modernization project, the Office of Innovation sought to
   
 ### Impact + Metrics
 
-- As of April 2024, six call centers – including those serving the ANCHOR property tax program, Temporary Disability and Family Leave, and Unemployment Insurance – have been modernized enabling them to efficiently manage over 4.3 million calls within the first year. 
+- As of August 2024, 11 call centers – including those serving the ANCHOR property tax program, Temporary Disability and Family Leave, and Unemployment Insurance – have been modernized enabling them to efficiently manage over 5.5 million calls in a little over a year.
 - The new system is projected to save millions of dollars for the Department of Treasury and the Department of Labor due to increased operational efficiency like a 50% boost in call resolution rates through self-service options and cost reductions from automated callbacks versus extended hold times that were not possible with previous platforms. 
-- A new automatic callback system reduced wait times from 40 minutes to under 2 minutes at a pilot agency by reserving a caller’s place in line and giving them a same-day call back when an agent is available, which significantly boosted resident satisfaction and agent support capacity. 
+- As of August 2024, OOI helped reduce phone wait times for the ANCHOR hotline from 40+ minutes to an average of just 90 seconds using a new automated callback system that reserves a caller’s place in line and gives them a call back when an agent is available. 
 - The new system allows agencies to handle higher call volumes by developing self-service tools in English and Spanish so callers can resolve their own queries, drastically reducing wait times and freeing agents to speak with more residents. 
 - Callers can now get important links and information through text messages, making it easier for residents to resolve issues even while waiting to speak with an agent.
 - The new system also provides critical data and insights from calls, so call center managers can proactively create new menu options and tools based on frequently asked questions as they emerge. 
@@ -29,8 +29,11 @@ Rather than a one-time modernization project, the Office of Innovation sought to
 
 ### Partners
 
--   NJ State Department of Labor 
--   NJ State Department of Treasury - Division of Taxation
+- NJ State Department of Agriculture
+- NJ State Department of Labor
+- NJ State Department of Law and Public Safety
+- NJ State Department of State - Business Action Center
+- NJ State Department of Treasury - Division of Taxation
 
 
-*Last updated on 5/10/24*
+*Last updated on 9/27/24*

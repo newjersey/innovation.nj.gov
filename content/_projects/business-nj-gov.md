@@ -16,7 +16,7 @@ To modernize how businesses interact with the State, OOI has employed a data-inf
 ### Impact + Metrics
 
 -   Rather than sifting through multiple websites, companies can now easily find the answer to any question they have, file critical forms, and get personalized recommendations -- all in one convenient place.
--   With over 4 million users and 19 million pageviews as of April 2024, Business.NJ.gov is the definitive starting point for New Jersey entrepreneurs, serving more than half a million people in the first three months of 2024 alone.
+-   With over 6 million users and over 20 million pageviews, Business.NJ.gov is the definitive starting point for New Jersey entrepreneurs, serving more than a million people in the first six months of 2024 alone.
 
 ### Status
 
@@ -36,4 +36,4 @@ To modernize how businesses interact with the State, OOI has employed a data-inf
 -   NJ State Department of Labor
 -   Statewide initiative, in partnership with all relevant State entities
 
-*Last updated on 5/1/24*
+*Last updated on 9/27/24*

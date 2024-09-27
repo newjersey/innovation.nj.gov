@@ -16,7 +16,8 @@ Expanding on the model pioneered by the COVID-19 Information Hub, OOI collaborat
 ### Impact + Metrics
 
 - With the launch of the Disability Information Hub, New Jerseyans with disabilities and their families and caregivers no longer have to navigate a maze of state agencies and instead have an easy to use, centralized portal for all their needs.
-- Nearly 200 programs offered by the State of New Jersey can be found through the Hub and resources are organized by a person’s disability to make navigation easier. 
+- Nearly 200 programs offered by the State of New Jersey can be found through the Hub and resources are organized by a person’s disability to make navigation easier.
+- As of August 2024, the Hub has helped connect more than 12,000 people to critical benefits and information since its launch in July 2024.
 - The Hub incorporated direct feedback from residents with disabilities and meets [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) and [Section 508](https://www.section508.gov) accessibility requirements. 
 
 ### Status
@@ -35,4 +36,4 @@ Expanding on the model pioneered by the COVID-19 Information Hub, OOI collaborat
 - NJ State Department of Human Services
 - NJ State Office of Information Technology
 
-*Last updated on 7/30/24*
+*Last updated on 9/26/24*

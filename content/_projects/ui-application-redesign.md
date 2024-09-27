@@ -15,8 +15,8 @@ Rather than spending years to update the legacy mainframe – the most sensitive
 
 ### Impact + Metrics
 
-- In April of 2024, a completely redesigned UI application was launched with 20% fewer questions. On average, the previous application took 3 hours and 50 minutes to submit. With the new application, half of applicants submitted theirs in less than 28 minutes.
-- As of May 2024, 92% of applicants now finish and submit on the same day and there has been a 14% reduction in applications that require manual review before entering the system.
+- In April of 2024, a completely redesigned UI application was launched with 20% fewer questions. On average, the previous application took 3 hours and 50 minutes to submit. With the new application, half of applicants submitted theirs in less than 25 minutes.
+- As of September 2024, 90% of applicants now finish and submit on the same day and there has been a 14% reduction in applications that require manual review before entering the system.
 - The application is also fully available in native Spanish, not Google Translate, and has been maximized for assistive devices. 
 - This partnership spurred the creation of a new Office of UI Modernization at the NJ State Department of Labor to oversee ongoing efforts to improve the UI system. 
 - Based on its agile approach and the success of its early efforts, New Jersey was selected by the US Department of Labor as one of two states to lead a national pilot to modernize the federal unemployment insurance system by improving the user experience and streamlining the delivery of benefits. 
@@ -47,4 +47,4 @@ Rather than spending years to update the legacy mainframe – the most sensitive
 -   United States Digital Service
 -   United States Digital Response
 
-*Last updated on 7/29/24*
+*Last updated on 9/26/24*
