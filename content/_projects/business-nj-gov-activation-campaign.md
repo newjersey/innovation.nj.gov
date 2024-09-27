@@ -15,8 +15,10 @@ To help the Business.NJ.gov team reach and activate audiences, the C+E Lab devel
 
 -   Ethnographic research uncovered what business owners/operators and entrepreneurs really want from government is help so they (and their business) can succeed.
 -   A communication strategy was developed to show how Business.NJ.gov helps independent business owners succeed.
--   Insight-based creative was tested and validated to increase awareness, intent, believability, and equitable appeal.
--   As of April 2024, since the campaign launched, total users are up nearly 90% year over year. Sessions from members of underserved communities are up nearly 200% year over year (year to date) and visits from Spanish-speaking users are up more than 2,600% year over year. So these efforts are reaching audiences not traditionally reached through State channels and magnifying the site’s impact by expanding its reach.
+- A zip code model to identify members of underserved communities was developed, allowing us to effectively reach, track and validate our efforts.
+- Insight-based creative was tested and validated to increase awareness, intent, believability, and equitable appeal.
+- As of August 2024, since the campaign launched, total users are up 75% year over year. Usage from members of underserved communities is up 172% year over year, and visits from Spanish-speaking users are up more than 778% year over year. So these efforts are reaching audiences not traditionally reached through State channels and magnifying the site’s impact by expanding its reach.
+
 
 ### Status
 
@@ -34,4 +36,4 @@ To help the Business.NJ.gov team reach and activate audiences, the C+E Lab devel
 -   NJ Redevelopment Authority
 -   NJ Small Business Development Centers
 
-*Last updated on 5/2/24*
+*Last updated on 9/27/24*
