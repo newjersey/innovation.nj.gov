@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/beeckcenter.png
 title: "CASE STUDY: Human-Centered Communication to Increase Service Uptake in New Jersey"
-promoted: 2 
+promoted: 3 
 date: September 12, 2024
 source: Beeck Center For Social Impact + Innovation
 cta:

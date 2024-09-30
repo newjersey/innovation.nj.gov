@@ -15,6 +15,8 @@ menu:
 <p class="usa-intro">The Office of Innovation partners with State departments and agencies to design, develop, and improve government products and services to ensure they are more effective, more efficient, and more responsive to the needs of New Jerseyans.
 </p>
 
+To see highlights of our work and how it has positively impacted the lives of New Jerseyans, [view our inaugural Impact Report](https://innovation.nj.gov/impact-report/2024/) or continue reading below. 
+
 ## How We Work
 
 The Office of Innovation uses modern, data-driven, human-centered, and agile processes to help Garden State residents and businesses access and benefit from State programs and services. We do this by deploying cross-functional teams that leverage data, design, engineering, policy, product, and communications expertise. Our teams place the resident at the center of our problem-solving process, work with our partners to better understand problems, and then iteratively solve those problems to deliver value and impact to the New Jerseyans we serve.
