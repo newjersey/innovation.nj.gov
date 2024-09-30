@@ -3,11 +3,13 @@ title: Helped more than 68,000 members of New Jersey’s LGBTQ+ community access
 menu-title: "Transgender Information Hub"
 title-image:
   image: /assets/images/impact-report/2024/header/transgenderhub.webp
+  alt-text: Two men and a child smiling at the camera
 figure:
   title: What New Jerseyans See
   url: "/assets/images/impact-report/2024/examples/transgenderhub.webp"
   caption: The Transgender.NJ.gov home page, which features supports, and information guides on how members of the LGBTQ+ community can access key State services and resources.
   id: transgender-hub-fig
+  alt-text: The Transgender.NJ.gov home page
 previous-page:
   title: Helped more than 12,000 members of New Jersey’s disability community and their loved ones access critical information and services
   link: "/impact-report/2024/disability-hub"

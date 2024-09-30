@@ -3,11 +3,13 @@ title: Helped over 45,000 entrepreneurs start and grow their new business in New
 menu-title: "The Business Experience Initiative"
 title-image:
   image: /assets/images/impact-report/2024/header/business.webp
+  alt-text: A smiling man in an apron at a restaurant
 figure:
   title: What New Jerseyans See
   url: "/assets/images/impact-report/2024/examples/business.webp"
   caption: Business.NJ.gov’s landing page, which features quick access buttons to help entrepreneurs and business owners find what they need for wherever they are in their journeys.
   id: bizx-fig
+  alt-text: Business.NJ.gov’s landing page
 previous-page:
   title: Helped over 123,000 workers find job openings and training programs and explore new careers in New Jersey
   link: "/impact-report/2024/my-career-nj"

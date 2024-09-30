@@ -179,6 +179,7 @@ defaults:
       hero:
         image: /assets/images/impact-report/2024/hero.webp
         title: "Impact Report 2024"
+        alt-text: Collage of images displayed throughout the report depicting various people performing many tasks
       menu-group: Project Highlights
       menu:
         - title: Introduction

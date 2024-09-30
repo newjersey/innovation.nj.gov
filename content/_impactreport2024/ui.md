@@ -3,6 +3,7 @@ title: Reduced the time it takes to apply for Unemployment Insurance from nearly
 menu-title: "Unemployment Insurance Modernization"
 title-image:
   image: /assets/images/impact-report/2024/header/ui.webp
+  alt-text: A woman and a child smiling and looking at a laptop
 previous-page:
   title: Our Values
   link: "/impact-report/2024/values/"
@@ -74,7 +75,7 @@ Using a resident-first design approach, OOI worked with the NJ State Department 
                 <div class="usa-card__body">
                     <figure>
                       <div class="position-relative">
-                        <img src="/assets/images/impact-report/2024/examples/ui-before.webp" alt="" />
+                        <img src="/assets/images/impact-report/2024/examples/ui-before.webp" alt="Unemployement insurance landing page before redesign" />
                         <div class="position-absolute bottom-0 right-0">
                           <div class="margin-y-3">
                             <a
@@ -103,7 +104,7 @@ Using a resident-first design approach, OOI worked with the NJ State Department 
                                 <div class="usa-modal__main">
                                   <img
                                     src="/assets/images/impact-report/2024/examples/ui-before.webp"
-                                    alt="Descriptive Alt Text"
+                                    alt="Unemployement insurance landing page before redesign"
                                     class="modal__image"
                                   />
                                 </div>
@@ -141,7 +142,7 @@ Using a resident-first design approach, OOI worked with the NJ State Department 
                 <div class="usa-card__body">
                     <figure>
                       <div class="position-relative">
-                        <img src="/assets/images/impact-report/2024/examples/ui-after.webp" alt="" />
+                        <img src="/assets/images/impact-report/2024/examples/ui-after.webp" alt="Unemployement insurance landing page after redesign" />
                         <div class="position-absolute bottom-0 right-0">
                           <div class="margin-y-3">
                             <a
@@ -170,7 +171,7 @@ Using a resident-first design approach, OOI worked with the NJ State Department 
                                 <div class="usa-modal__main">
                                   <img
                                     src="/assets/images/impact-report/2024/examples/ui-after.webp"
-                                    alt="Descriptive Alt Text"
+                                    alt="Unemployement insurance landing page after redesign"
                                     class="modal__image"
                                   />
                                 </div>
