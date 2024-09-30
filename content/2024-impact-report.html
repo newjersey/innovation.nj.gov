@@ -50,9 +50,12 @@ menu:
   <section class="usa-section border-bottom-2px border-base-light">
     <div class="grid-container">
       <div class="grid-row grid-gap">
-        <main class="width-full usa-prose" id="main-content">
+        <main class="width-full usa-prose">
           <h2>Table of Contents</h2>
+          {% capture menu_content %}
           {% include menu.html menu=page.menu %}
+          {% endcapture %}
+          {{menu_content | replace: '<a href="', '<a href="#'}}
         </main>
       </div>
     </div>
@@ -65,7 +68,7 @@ menu:
       <div class="grid-container">
         <div class="grid-row grid-gap">
           <main class="width-full usa-prose" id="main-content">
-            <h2>
+            <h2 id="{{chapter.url}}">
               {% if chapter.title-prefix %}
                 {{ chapter.title-prefix }}
               {% endif %}
