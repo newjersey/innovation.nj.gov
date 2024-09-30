@@ -3,11 +3,13 @@ title: Helped more than 12,000 members of New Jersey’s disability community an
 menu-title: "Disability Information Hub"
 title-image:
   image: /assets/images/impact-report/2024/header/disabilityhub.webp
+  alt-text: A man in a wheelchair smiling at the man next to him on street
 figure:
   title: What New Jerseyans See
   url: "/assets/images/impact-report/2024/examples/disabilityhub.webp"
   caption: The landing page for the new Disability Information Hub, which organizes key information around specific needs and an individual’s disability for ease of use.
   id: disability-hub-fig
+  alt-text: The landing page for the new Disability Information Hub
 previous-page:
   title: Increased visits from Spanish-language users to Business.NJ.gov by nearly 800%, drove nearly 6 million engagements with college degree completion programs, and connected tens of thousands of New Jerseyans with career services
   link: "/impact-report/2024/communication-and-engagement-lab"

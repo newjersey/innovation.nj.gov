@@ -45,20 +45,14 @@ layout: default
           >
           {% endif %}
           <h1
-            {%
-            if
-            page.pre-title-btn
-            %}
+            {% if page.pre-title-btn %}
             style="margin-top: 0 !important"
-            {%
-            endif
-            %}
+            {% endif %}
           >
-            {% if page.title-prefix %} {{ page.title-prefix }} {% endif %} {{
-            page.title }}
+            {% if page.title-prefix %} {{ page.title-prefix }} {% endif %} {{ page.title }}
           </h1>
           {% if page.title-image %}
-          <img src="{{page.title-image.image}}" alt="" />
+          <img src="{{page.title-image.image}}" alt="{{page.title-image.alt-text}}" />
 
           {% endif %} {{ content }} {% if page.link-out %}
           <h2>Read More</h2>

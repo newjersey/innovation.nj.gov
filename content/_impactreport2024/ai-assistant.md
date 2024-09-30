@@ -3,11 +3,13 @@ title: Launched one of the nation’s first AI tools specifically built for Stat
 menu-title: "NJ AI Assistant"
 title-image:
   image: /assets/images/impact-report/2024/header/aiassistant.webp
+  alt-text: Two co-workers collaborating on a computer
 figure:
   title: What New Jerseyans See
   url: "/assets/images/impact-report/2024/examples/aiassistant.webp"
   caption: "The interface for the NJ AI Assistant, where State employees can interact with the powerful AI tool and enter prompts, documents, and other information in a safe, sandbox environment."
   id: ai-assistant-fig
+  alt-text: Interface for the NJ AI Assistant
 previous-page:
   title: Helped more than 68,000 members of New Jersey’s LGBTQ+ community access critical information and services
   link: "/impact-report/2024/transgender-hub"

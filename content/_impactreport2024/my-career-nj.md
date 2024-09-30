@@ -3,11 +3,13 @@ title: Helped over 123,000 workers find job openings and training programs and e
 menu-title: "My Career NJ"
 title-image:
   image: /assets/images/impact-report/2024/header/mycareernj.webp
+  alt-text: A man instructs a group on how to use a large machine
 figure:
   title: What New Jerseyans See
   url: "/assets/images/impact-report/2024/examples/mycareernj.webp"
   caption: The landing page for MyCareerNJ, which guides workers as they search for new careers, training opportunities, and more.
   id: my-career-nj-fig
+  alt-text: The landing page for MyCareerNJ
 previous-page:
   title: Helped more than 115,000 expecting parents access benefits to care for their newborns
   link: "/impact-report/2024/maternity-timeline-tool"

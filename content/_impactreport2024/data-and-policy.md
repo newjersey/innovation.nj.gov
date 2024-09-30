@@ -3,11 +3,13 @@ title: Helped tens of thousands of New Jerseyans engage with State officials on 
 menu-title: "Data + Policy"
 title-image:
   image: /assets/images/impact-report/2024/header/dataandpolicy.webp
+  alt-text: A smiling woman sitting at a desk
 figure:
   title: What New Jerseyans See
   url: "/assets/images/impact-report/2024/examples/allourideas.bin"
   caption: An example of the questions New Jerseyans saw during the Your Future of Work survey that used All Our Ideas, an innovative platform that ranks comparisons between hundreds of options.
   id: data-and-policy-fig
+  alt-text: example of the questions New Jerseyans saw during the Your Future of Work survey
 previous-page:
   title: Connected millions of New Jerseyans with vital information, services, and programs
   link: "/impact-report/2024/covid19-response"

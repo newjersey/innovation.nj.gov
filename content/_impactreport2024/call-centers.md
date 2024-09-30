@@ -3,6 +3,7 @@ title: Modernized 11 call centers, enabling agencies to manage over 5.5 million 
 menu-title: "Call Center Modernization"
 title-image:
   image: /assets/images/impact-report/2024/header/callcenters.webp
+  alt-text: Two call center agents fist bumping
 previous-page:
   title: Helped over 45,000 entrepreneurs start and grow their new business in New Jersey
   link: "/impact-report/2024/business-experience"
