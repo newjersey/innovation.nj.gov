@@ -8,4 +8,70 @@ layout: page
 
 {{content}}
 
-<a class="usa-button" href="{{page.applyURL}}">Apply For This Job</a>
+<div class="margin-y-3">
+  <a
+    href="#example-modal-1"
+    class="usa-button"
+    aria-controls="example-modal-1"
+    data-open-modal
+    >Apply for this role</a
+  >
+  <div
+    class="usa-modal usa-modal--lg"
+    id="example-modal-1"
+    aria-labelledby="modal-1-heading"
+    aria-describedby="modal-1-description"
+  >
+    <div class="usa-modal__content">
+      <div class="usa-modal__main">
+        <h2 class="usa-modal__heading" id="modal-1-heading">
+          A note about our application review process
+        </h2>
+        <div class="usa-prose">
+          <p id="modal-1-description">
+            We apply a human-centered approach to our application review
+            process. Your application will be reviewed by real people with
+            technical expertise. For that reason, we ask that you take a few
+            minutes to compose your responses to these questions - you don't
+            have to write a lot, but we do want to know more about you and why
+            you're interested in this role.
+            <br /><br />
+            We do incorporate your responses to these questions in our overall
+            evaluation of your application, and while we acknowledge the value
+            of new emerging tools and technologies like generative AI, we are
+            looking for responses that authentically and effectively communicate
+            your interest in, and qualifications for this role.
+          </p>
+        </div>
+        <div class="usa-modal__footer">
+          <ul class="usa-button-group">
+            <li class="usa-button-group__item">
+              <a class="usa-button" href="{{page.applyURL}}"
+                >Apply For This Job</a
+              >
+            </li>
+            <li class="usa-button-group__item">
+              <button
+                type="button"
+                class="usa-button usa-button--unstyled padding-105 text-center"
+                data-close-modal
+              >
+                Go back
+              </button>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <button
+        type="button"
+        class="usa-button usa-modal__close"
+        aria-label="Close this window"
+        data-close-modal
+      >
+        <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+          <use xlink:href="/assets/img/sprite.svg#close"></use>
+        </svg>
+      </button>
+    </div>
+  </div>
+</div>
