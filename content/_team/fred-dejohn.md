@@ -1,6 +1,6 @@
 ---
 title: Fred DeJohn
-image: /assets/images/team/fred.jpg
+image: /assets/images/team/fred.webp
 ---
 
 Fred DeJohn is an attorney with extensive experience in finance, budget, and human resources in both government and higher education. He serves as the Office of Innovation's chief financial officer - in this capacity, Fred oversees the Office's financial operations, manages relationships with foundation and institutional funders, and advises the Chief Innovation Officer on organizational governance and human resource matters.

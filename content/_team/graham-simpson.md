@@ -1,6 +1,6 @@
 ---
 title: Graham Simpson
-image: /assets/images/team/graham.jpg
+image: /assets/images/team/graham.webp
 ---
 
 Graham Simpson works on policy and engagement work at the Office of Innovation. In that role, he supports and manages public policy initiatives, leads the Office's programs on public entrepreneurship and innovation skills training, and produces policy research. Graham is passionate about evidence-informed policy and helping policy professionals use and apply data.

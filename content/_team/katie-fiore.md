@@ -1,6 +1,6 @@
 ---
 title: Katie Fiore
-image: /assets/images/team/katie.png
+image: /assets/images/team/katie.webp
 ---
 
 Katie Fiore leads strategy for the Office of Innovation’s Communication & Engagement Lab, where she is working to modernize and advance the State’s ability to effectively market and promote key services, programs, and initiatives through the use of research- and data-driven best practices.

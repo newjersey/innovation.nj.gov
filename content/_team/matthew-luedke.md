@@ -1,6 +1,6 @@
 ---
 title: Matthew Luedke
-image: /assets/images/team/matthew.jpg
+image: /assets/images/team/matthew.webp
 ---
 
 Matt Luedke is a software engineer on the Office of Innovation’s Resident Experience team. He leverages his expertise on the Office’s Resident Experience Initiative to help New Jerseyans more easily and efficiently access state resources.

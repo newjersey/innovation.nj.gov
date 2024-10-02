@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/ben.jpg
+image: /assets/images/team/ben.webp
 title: Ben Turndorf
 ---
 

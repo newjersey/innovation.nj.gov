@@ -1,6 +1,6 @@
 ---
 title: Naman Agrawal
-image: /assets/images/team/naman.jpg
+image: /assets/images/team/naman.webp
 ---
 
 Naman Agrawal is a director of engineering at the Office of Innovation. He focuses on building technology that is accessible, user-focused, and tackles human problems, and works on products that help New Jerseyans access government services more efficiently. Naman also mentors engineers and facilitates opportunities to grow the discipline within the Office.

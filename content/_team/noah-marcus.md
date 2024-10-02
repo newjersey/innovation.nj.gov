@@ -1,9 +1,9 @@
 ---
 title: Noah Marcus
-image: /assets/images/team/noah.jpg
+image: /assets/images/team/noah.webp
 ---
 
-Noah Marcus is a computer scientist serving as a technology operations engineer for the Office of Innovation. He is responsible for maintaining, simplifying, and automating the Office’s internal systems and technology. Outside of leading the operations engineering work, he also contributes to the Office’s projects as a full stack engineer. 
+Noah Marcus is a computer scientist serving as a technology operations engineer for the Office of Innovation. He is responsible for maintaining, simplifying, and automating the Office’s internal systems and technology. Outside of leading the operations engineering work, he also contributes to the Office’s projects as a full stack engineer.
 
 Before joining the Office of Innovation, Noah was a research scientist at an applied research company’s cybersecurity division where he specialized in systems architecture, UI design, and critical cybersecurity research. As an independent volunteer during the pandemic, Noah also created several COVID-19 vaccine appointment tracking Twitter accounts that automatically alerted residents when vaccine appointments were available.
 

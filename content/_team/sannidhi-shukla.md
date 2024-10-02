@@ -1,6 +1,6 @@
 ---
 title: Sannidhi Shukla
-image: /assets/images/team/sannidhi.jpg
+image: /assets/images/team/sannidhi.webp
 ---
 
 Sanni Shukla is a software engineer at the Office of Innovation, working on the Resident Experience Initiative to help New Jerseyans more easily and efficiently access state resources.

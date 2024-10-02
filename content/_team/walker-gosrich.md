@@ -1,6 +1,6 @@
 ---
 title: Walker Gosrich
-image: /assets/images/team/walker.jpg
+image: /assets/images/team/walker.webp
 ---
 
 Walker is an AI research and management fellow working on the Data and Policy team at the Office of Innovation. He joins the Office as an Eagleton Science and Politics Fellow through the Eagleton Institute at Rutgers University. In this capacity, he brings his technical and policy expertise to help advance the responsible and effective use of AI-based tools.

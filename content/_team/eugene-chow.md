@@ -1,6 +1,6 @@
 ---
 title: Eugene K. Chow
-image: /assets/images/team/eugene.jpg
+image: /assets/images/team/eugene.webp
 ---
 
 Eugene K. Chow is an experienced speechwriter, journalist, and communications strategist, with more than a decade of public and private sector experience. With the Office of Innovation, he supports key public communication initiatives, such as the COVID-19 Information Hub, through content development and strategic messaging.

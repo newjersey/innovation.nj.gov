@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/amy.jpg
+image: /assets/images/team/amy.webp
 title: Amy Wu
 ---
 
