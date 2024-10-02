@@ -1,6 +1,6 @@
 ---
 title: Xavier Hughes
-image: /assets/images/team/xavier.jpeg
+image: /assets/images/team/xavier.webp
 ---
 
 Xavier Hughes specializes in large scale innovation, smart cities, big data, product development, conceptual design, and service innovation and automation. Within the Office of Innovation, Xavier provides project management support for the New Jersey Data for the American Dream (NJD4AD) initiative -- an interactive, mobile-responsive website offering data-driven advice for job seekers and employers about training opportunities and outcomes.

@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/connie.jpg
+image: /assets/images/team/connie.webp
 title: Connie Colvin
 ---
 

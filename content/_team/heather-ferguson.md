@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/heather.jpg
+image: /assets/images/team/heather.webp
 title: Heather Ferguson
 ---
 

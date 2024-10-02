@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/case.jpg
+image: /assets/images/team/case.webp
 title: Case Walker
 ---
 

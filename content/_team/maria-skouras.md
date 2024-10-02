@@ -1,6 +1,6 @@
 ---
 title: Maria Skouras
-image: /assets/images/team/maria.jpg
+image: /assets/images/team/maria.webp
 title-prefix: Dr.
 ---
 

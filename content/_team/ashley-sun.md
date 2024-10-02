@@ -1,6 +1,6 @@
 ---
 title: Ashley Sun
-image: /assets/images/team/ashley.jpg
+image: /assets/images/team/ashley.webp
 ---
 
 Ashley Sun (she/her) is a software engineer on the Resident Experience Initiative. She is currently working on the call center modernization project, which helps agencies across the state set up phone systems to support New Jerseyans accessing their programs. As a member of that team, she builds features that reduce wait times and increase call center capacity. Along the way, she is an advocate for designing the caller experience with compassion and empathy for the people on both ends of the call. Through her work she aims to reduce stress and frustration for callers navigating complex government services.
