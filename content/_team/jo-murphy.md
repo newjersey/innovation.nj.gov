@@ -1,6 +1,7 @@
 ---
 image: /assets/images/team/jo.webp
 title: Jo Murphy
+title-prefix: Dr.
 ---
 
 Dr. Jo is the inaugural executive assistant to the Chief Innovation Officer at the Office of Innovation. Having worked in social justice fields for decades, Jo works towards curating an equitable, efficient, and effective work environment for the team. 
