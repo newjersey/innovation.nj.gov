@@ -130,6 +130,11 @@ defaults:
       layout: "join"
   - scope:
       path: ""
+      type: "news"
+    values:
+      promoted: 1000
+  - scope:
+      path: ""
       type: "projects"
     values:
       order: 1000

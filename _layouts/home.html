@@ -332,18 +332,21 @@ layout: default
     <div class="grid-container">
       <h2 class="font-heading-xl margin-y-0">Our Impact</h2>
       <p class="usa-intro">
-        Just six years after the Office of Innovation&rsquo;s creation, we have helped
-        millions of New Jerseyans by partnering with State agencies and the
-        public, to design and deploy more effective and efficient government
+        Just six years after the Office of Innovation&rsquo;s creation, we have
+        helped millions of New Jerseyans by partnering with State agencies and
+        the public, to design and deploy more effective and efficient government
         services. Our inaugural Impact Report provides an overview of how.
       </p>
-      <a class="usa-button" href="/impact-report/2024/">Read About Our Impact</a>
+      <a class="usa-button" href="/impact-report/2024/"
+        >Read About Our Impact</a
+      >
     </div>
   </section>
   <section id="section-news" class="usa-section">
     <div class="grid-container">
       <h2 class="font-heading-xl margin-y-0">News</h2>
-      {% include card.html collection="news" promoted=true news=true %}
+      {% include card.html collection="news" promoted=true news=true truncate=3
+      %}
       <a class="usa-button" href="/news">Read All News</a>
     </div>
   </section>
