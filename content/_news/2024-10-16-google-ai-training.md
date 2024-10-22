@@ -9,4 +9,4 @@ cta:
   link: "https://blog.google/outreach-initiatives/google-org/google-org-public-sector-ai-funding/"
 ---
 
-New Jersey's pioneering efforts to train State workers on how to safely and responsibly leverage AI - developed by Chief AI Strategist Beth Simone Noveck and supported by the Office of Innovation - were highlighted in Google.org's recent announcement of expanded funding for free AI training programs for public sector workers. 
+New Jersey's pioneering efforts to train State workers on how to safely and responsibly leverage AI, which were developed by Chief AI Strategist Beth Simone Noveck and supported by the Office of Innovation and its partners, were highlighted in Google.org's recent announcement of expanded funding for free AI training programs for public sector workers. 
