@@ -35,6 +35,11 @@ a.text-primary-darker {
   text-decoration: underline;
 }
 
+/* text */
+.usa-prose>p {
+  max-width: fit-content;
+}
+
 /* SVG */
 path.white-fill {
   fill: white;
