@@ -26,6 +26,7 @@ Rather than standing by as AI develops, the Task Force presents an opportunity f
   
 ### Resources and Additional Information
 
+- Your Future of AI: [Results and Insights From a Survey of New Jersey's State Workforce on AI](https://innovation.nj.gov/news/state-worker-ai-survey.pdf)
 - [Responsible Use of Generative AI in New Jersey State Government Training Course](https://innovation.nj.gov/skills/ai/)
 - GovTech: [NJ Unveils AI Training, Tool for State Government Workers](https://www.govtech.com/artificial-intelligence/n-j-unveils-ai-training-tool-for-state-government-workers)
 - GovTech: [New Jersey Co-Creates AI Strategy With Public-Sector Staff](https://www.govtech.com/artificial-intelligence/new-jersey-co-creates-ai-strategy-with-public-sector-staff)
@@ -37,4 +38,4 @@ Rather than standing by as AI develops, the Task Force presents an opportunity f
 - New Jersey State Office of Information Technology
 - InnovateUS
 
-*Last updated on 9/26/24*
+*Last updated on 11/7/24*
