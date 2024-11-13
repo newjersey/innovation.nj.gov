@@ -22,10 +22,11 @@ Rather than standing by as AI develops, the Task Force presents an opportunity f
 
 ### Status
 
--   The Task Force’s numerous working groups continue to meet and have been charged with delivering recommendations in late 2024 on government actions to encourage the ethical and responsible use of artificial intelligence technologies.
+-   As of November 2024, The Task Force and its numerous working groups have delivered their recommendations to the Governor on how the State can encourage the ethical and responsible use of AI, improve government services, expand economic opportunities, and promote equitable outcomes.
   
 ### Resources and Additional Information
 
+- [New Jersey AI Task Force Report To The Governor on AI](/news/NJ-AI-Task-Force-Report.pdf)
 - [Responsible Use of Generative AI in New Jersey State Government Training Course](https://innovation.nj.gov/skills/ai/)
 - GovTech: [NJ Unveils AI Training, Tool for State Government Workers](https://www.govtech.com/artificial-intelligence/n-j-unveils-ai-training-tool-for-state-government-workers)
 - GovTech: [New Jersey Co-Creates AI Strategy With Public-Sector Staff](https://www.govtech.com/artificial-intelligence/new-jersey-co-creates-ai-strategy-with-public-sector-staff)
