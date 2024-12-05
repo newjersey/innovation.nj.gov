@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: Murphy Administration Releases Report Highlighting OOI’s Impact"
-promoted: 3 
+promoted: 
 date: September 27, 2024
 source: NJGov
 cta:
