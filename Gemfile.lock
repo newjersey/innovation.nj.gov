@@ -84,7 +84,7 @@ PLATFORMS
 
 DEPENDENCIES
   base64 (~> 0.2.0)
-  bundler (~> 2.5, >= 2.5.23)
+  bundler (~> 2.6.2)
   csv (~> 3.3)
   jekyll (~> 4.3.3)
   jekyll-sitemap
@@ -95,4 +95,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.5.23
+   2.6.2

@@ -5,7 +5,7 @@
   },
   "scripts": {
     "import-nj-node": "chmod u+x importNJNodePackages.sh && bash importNJNodePackages.sh",
-    "build": "npm run import-nj-node && bundle _2.5.23_ exec rake generate_jobs && bundle _2.5.23_ exec jekyll build",
-    "serve": "bundle _2.5.23_ exec jekyll serve"
+    "build": "npm run import-nj-node && bundle exec rake generate_jobs && bundle exec jekyll build",
+    "serve": "bundle exec jekyll serve"
   }
 }
