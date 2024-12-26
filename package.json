@@ -1,11 +1,12 @@
 {
   "dependencies": {
     "@newjersey/feedback-widget": "^0.3.2",
-    "@newjersey/njwds": "^1.0.0"
+    "@newjersey/njwds": "^1.0.0",
+    "bundler": "^0.8.0"
   },
   "scripts": {
     "import-nj-node": "chmod u+x importNJNodePackages.sh && bash importNJNodePackages.sh",
-    "build": "npm run import-nj-node && bundle _2.5.23_ exec rake generate_jobs && bundle _2.5.23_ exec jekyll build",
-    "serve": "bundle _2.5.23_ exec jekyll serve"
+    "build": "npm run import-nj-node && bundle exec rake generate_jobs && bundle exec jekyll build",
+    "serve": "bundle exec jekyll serve"
   }
 }
