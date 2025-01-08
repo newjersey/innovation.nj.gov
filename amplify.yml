@@ -3,9 +3,9 @@ frontend:
   phases:
     preBuild:
       commands:
-        - gem install bundler
+        - gem install bundler:2.6.2
         - bundle config set path 'vendor/bundle'
-        - bundle install
+        - bundle _2.6.2_ install
     build:
       commands:
         - npm run build
