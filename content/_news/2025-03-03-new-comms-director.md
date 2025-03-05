@@ -9,4 +9,4 @@ cta:
   link: "https://nj.gov/1234"
 ---
 
-The New Jersey State Office of Innovation would like to announce its new Communications Director, Nathan Osburn.
+The **New Jersey State Office of Innovation** would like to announce its new Communications Director, Nathan Osburn.
