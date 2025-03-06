@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/statescoop.png
 title: "ARTICLE: In New Jersey, Using AI Starts with Empowering Employees"
-promoted: 1 
+promoted: 2
 date: December 4, 2024
 source: StateScoop
 cta:
