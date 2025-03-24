@@ -1,4 +1,4 @@
 ---
-image: /assets/images/ceportfolio/emails/dfspanish-facil.png
+image: /assets/images/ceportfolio/emails/dfspanish-facil.webp
 title: Facil
 ---

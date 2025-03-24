@@ -1,4 +1,4 @@
 ---
-image: /assets/images/ceportfolio/emails/highered-apply.png
+image: /assets/images/ceportfolio/emails/highered-apply.webp
 title: Apply
 ---

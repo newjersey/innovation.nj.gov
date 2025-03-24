@@ -1,4 +1,4 @@
 ---
-image: /assets/images/ceportfolio/emails/dfenglish-secure.png
+image: /assets/images/ceportfolio/emails/dfenglish-secure.webp
 title: Secure
 ---

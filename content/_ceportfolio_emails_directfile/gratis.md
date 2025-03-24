@@ -1,4 +1,4 @@
 ---
-image: /assets/images/ceportfolio/emails/dfspanish-gratis.png
+image: /assets/images/ceportfolio/emails/dfspanish-gratis.webp
 title: Gratis
 ---
