@@ -1,4 +1,4 @@
 ---
-image: /assets/images/ceportfolio/emails/highered-fafsa.png
+image: /assets/images/ceportfolio/emails/highered-fafsa.webp
 title: FAFSA
 ---

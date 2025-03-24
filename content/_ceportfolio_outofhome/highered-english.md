@@ -1,4 +1,4 @@
 ---
 title: Higher Ed (English)
-image: /assets/images/ceportfolio/outofhome/highered-english.jpg
+image: /assets/images/ceportfolio/outofhome/highered-english.webp
 ---
