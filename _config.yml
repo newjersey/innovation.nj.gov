@@ -95,6 +95,39 @@ collections:
     directory: _impactreport2024/2024/
     output: true
     sort_by: order
+  comms-engagement-portfolio:
+    permalink: /comms-engagement-portfolio/:title/
+    directory: _comms-engagement-portfolio
+    output: true
+    sort_by: order
+  ceportfolio_tvstreaming:
+    output: false
+  ceportfolio_social_somecollege:
+    output: false
+  ceportfolio_social_highered:
+    output: false
+  ceportfolio_social_business:
+    output: false
+  ceportfolio_social_dfspanish:
+    output: false
+  ceportfolio_social_dfenglish:
+    output: false
+  ceportfolio_testimonials:
+    output: false
+  ceportfolio_outofhome:
+    output: false
+  ceportfolio_photo_businessoriginal:
+    output: false
+  ceportfolio_photo_businesshispanic:
+    output: false
+  ceportfolio_photo_somecollege:
+    output: false
+  ceportfolio_photo_highered:
+    output: false
+  ceportfolio_emails_directfile:
+    output: false
+  ceportfolio_emails_highered:
+    output: false
   skills:
     output: true
   trainings:
@@ -198,5 +231,22 @@ defaults:
           collection: impactreport2024
           group-by: menu-group
           sort-by: order
+      open-graph:
+        image: assets/images/impact-report/2024/impact-report-thumbnail.webp
+  - scope:
+      path: ""
+      type: "comms-engagement-portfolio"
+    values:
+      layout: playbook
+      hero:
+        image: /assets/images/impact-report/2024/hero.webp
+        title: "C+E Lab Portfolio"
+        alt-text: Collage of images displayed throughout the report depicting various people performing many tasks
+      menu-group: Our Work
+      menu:
+        - title: Introduction
+          url: /comms-engagement-portfolio
+          collection: comms-engagement-portfolio
+          group-by: menu-group
       open-graph:
         image: assets/images/impact-report/2024/impact-report-thumbnail.webp

@@ -1,0 +1,27 @@
+<ul class="usa-card-group padding-top-2">
+  {% assign list = site.[include.collection] %}
+  {% for item in list %}
+    <li class="tablet:grid-col-{{include.colwidth}} usa-card">
+      <div class="usa-card__container">
+        <header class="usa-card__header padding-bottom-2">
+          <h3 class="usa-card__heading">{{ item.title }}</h3>
+        </header>
+        <div class="usa-card__media">
+          {% if item.image %}
+            <div class="usa-card__img">
+              <img src="{{item.image}}" alt=""/>
+            </div>
+          {% elsif item.embed %}
+            {% if item.square %}
+              <div style="padding:100% 0 0 0;position:relative;"><iframe src="{{item.embed}}" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title=""></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+            {% elsif item.vertical %}
+              <div style="padding:177.78% 0 0 0;position:relative;"><iframe src="{{item.embed}}" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Opportunity - 9x16 - v02"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+            {% else %}
+              <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="{{item.embed}}" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title=""></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+            {% endif %}
+          {% endif %}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>
