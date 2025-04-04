@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/njcomlogo.png
 title: "COVERAGE: 400K N.J. Retirees Can Now Use this Free Tax Return Service"
-promoted: 2
+promoted: 3
 date: March 11, 2025
 source: NJ.COM
 cta:
