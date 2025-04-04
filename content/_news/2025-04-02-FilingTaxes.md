@@ -1,11 +1,11 @@
 ---
 image: /assets/images/news/NJ-seal.png
-title: "
+title: "COVERAGE: The tax filing deadline is coming. Here's how you can file your return for free."
 promoted: 1
 date: April 2, 2025
 source: NJ.com
 cta:
   text: Continue Reading
-  link: "https://www.nj.gov/governor/news/news/562025/approved/20250311a.shtml"
+  link: "https://www.nj.com/news/2025/04/the-tax-filing-deadline-is-coming-heres-how-you-can-file-your-return-for-free.html"
 ---
-With the update, Direct File now supports thousands more New Jerseyans who have employer-sponsored pension and retirement accounts and want a secure and ea
+With the tax return filing coming, NJ.com highlights Direct File as a tool for residents to file their returns for free.
