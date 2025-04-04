@@ -2,7 +2,7 @@
 image: /assets/images/news/NJ-seal.png
 title: "JAMES WAS HERE"
 promoted: 1
-date: March 13, 2025
+date: April 04, 2025
 source: Javes Viall
 cta:
   text: Continue Reading
