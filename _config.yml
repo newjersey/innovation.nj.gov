@@ -240,7 +240,7 @@ defaults:
       layout: playbook
       hero:
         image: /assets/images/ceportfolio/hero.webp
-        title: "Creative that moves New Jerseyans to act"
+        title: "Creative that moves New&nbsp;Jerseyans to act"
         alt-text: Collage of images depicting various people performing many tasks
         css-signifier: ce-portfolio
       menu-group: Our Work
