@@ -6,7 +6,7 @@ description: "We help stakeholders develop creative assets that drive uptake of 
 order: 0
 ---
 
-We help stakeholders develop creative assets that drive uptake of State programs and services.
+The Communication + Engagement Lab is the in-house marketing team for the State of New Jersey. We help stakeholders develop creative assets that drive uptake of State programs and services.
 
 ## Driven by residents. Created for residents. Starring residents.
 

@@ -3,13 +3,17 @@
   {% for item in list %}
     <li class="tablet:grid-col-{{include.colwidth}} usa-card">
       <div class="usa-card__container">
-        <header class="usa-card__header padding-bottom-2">
-          <h3 class="usa-card__heading">{{ item.title }}</h3>
-        </header>
+        <div>
+          {% if item.title != "" %}
+            <div class="usa-card__header padding-bottom-2">
+              <div class="usa-card__heading">{{ item.title }}</div>
+            </div>
+          {% endif %}
+        </div>
         <div class="usa-card__media">
           {% if item.image %}
             <div class="usa-card__img">
-              <img src="{{item.image}}" alt=""/>
+              <img src="{{item.image}}" alt="{{ item.alt }}"/>
             </div>
           {% elsif item.embed %}
             {% if item.square %}

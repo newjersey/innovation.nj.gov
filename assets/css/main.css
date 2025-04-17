@@ -82,6 +82,12 @@ svg {
   transform: translate(-50%, -50%);
 }
 
+.playbook-hero-text.ce-portfolio {
+  padding: 1rem;
+  font-size: 3rem;
+  text-align: center;
+}
+
 @media (max-width: 1023px) {
   .playbook-hero-text {
     position: relative;
@@ -93,11 +99,21 @@ svg {
     margin: 0;
     font-size: 8vw;
   }
+
+  .playbook-hero-text.ce-portfolio {
+    padding: 0.5rem;
+    font-size: 2rem;
+  }
 }
 
 @media (min-width: 1921px) {
   .playbook-hero-text {
     font-size: 5.5em;
+  }
+
+  .playbook-hero-text.ce-portfolio {
+    padding: 1.5rem;
+    font-size: 3rem;
   }
 }
 

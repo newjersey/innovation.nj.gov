@@ -224,6 +224,7 @@ defaults:
         image: /assets/images/impact-report/2024/hero.webp
         title: "Impact Report 2024"
         alt-text: Collage of images displayed throughout the report depicting various people performing many tasks
+        css-signifier: impact-report
       menu-group: Project Highlights
       menu:
         - title: Introduction
@@ -239,9 +240,10 @@ defaults:
     values:
       layout: playbook
       hero:
-        image: /assets/images/impact-report/2024/hero.webp
-        title: "C+E Lab Portfolio"
-        alt-text: Collage of images displayed throughout the report depicting various people performing many tasks
+        image: /assets/images/ceportfolio/hero.webp
+        title: "Creative that moves New Jerseyans to act"
+        alt-text: Collage of images depicting various people performing many tasks
+        css-signifier: ce-portfolio
       menu-group: Our Work
       menu:
         - title: Introduction
