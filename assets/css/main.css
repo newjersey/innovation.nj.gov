@@ -87,7 +87,7 @@ svg {
   font-size: 3rem;
   text-align: center;
   line-height: 1.05;
-  transform: translate(-50%, -100%);
+  transform: translate(-50%, -95%);
 }
 
 @media (max-width: 1023px) {
