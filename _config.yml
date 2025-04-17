@@ -224,7 +224,6 @@ defaults:
         image: /assets/images/impact-report/2024/hero.webp
         title: "Impact Report 2024"
         alt-text: Collage of images displayed throughout the report depicting various people performing many tasks
-        css-signifier: impact-report
       menu-group: Project Highlights
       menu:
         - title: Introduction
@@ -251,4 +250,4 @@ defaults:
           collection: comms-engagement-portfolio
           group-by: menu-group
       open-graph:
-        image: assets/images/impact-report/2024/impact-report-thumbnail.webp
+        image: /assets/images/ceportfolio/hero-thumbnail.webp
