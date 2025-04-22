@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<section class="usa-section">
+  {% assign title = page.title %}
+  {% assign content = page.content | markdownify %}
+
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <main class="width-full usa-prose" id="main-content">
+        <h1>
+          {{ title }}
+        </h1>
+
+        <p class="text-bold">{{ page.author }}</p>
+        <p class="text-bold">{{ page.date | date_to_string: "ordinal", "US" }}</p>
+        </br>
+        {{ content }}
+      </main>
+    </div>
+  </div>
+</section>

@@ -3,6 +3,12 @@
     {% assign list = site.[include.collection] | where_exp: "item", "item.promoted > 0" | reverse | sort: "promoted" %}
   {% elsif include.news %}
     {% assign list = site.[include.collection] | reverse %}
+  {% elsif include.blog %}
+    {% if site.future %}
+      {% assign list = site.[include.collection] | sort: "promoted" | reverse %}
+    {% else %}
+      {% assign list = site.[include.collection] | where_exp: "item", "item.date < site.time" | sort: "promoted" | reverse %}
+    {% endif %}
   {% else %}
     {% assign list = site.[include.collection] %}
   {% endif %}
@@ -15,15 +21,24 @@
     {% else %}
       {% assign colwidth = "12" %}
     {% endif %}
+    {% if item.titleoverride %}
+      {% assign title = item.titleoveride %}
+    {% else %}
+      {% assign title = item.title %}
+    {% endif %}
     {% unless include.ignore contains item.title %}
       <li class="tablet:grid-col-{{colwidth}} usa-card {% if item.image %}usa-card--flag{% endif %}" id="{{item.title |slugify}}">
         <div class="usa-card__container">
           <header class="usa-card__header">
             <h3 class="usa-card__heading" id="{{item.title |slugify}}_heading">
               {% if item.title-prefix %}
-                {{ item.title-prefix }}
+                {{ item.title-prefix | append: item.title }}
+              {% elsif include.blog %}
+                {{ item.title | remove_first: "BLOG: " }}
+              {% else %}
+                {{ item.title }}
               {% endif %}
-              {{ item.title }}</h3>
+              </h3>
             {% if item.role %}
               <h4 class="margin-top-05">{{ item.role }}</h4>
             {% endif %}
@@ -31,12 +46,16 @@
               <div class="text-uppercase text-base margin-top-1">
                 <span class="border-right margin-right-1 padding-right-1">{{ item.date | date: '%B %d, %Y' }}</span>
                 {{ item.source }}</div>
+            {% elsif include.blog %}
+              <div class="text-uppercase text-base margin-top-1">
+                <span class="border-right margin-right-1 padding-right-1">{{ item.date | date: '%B %d, %Y' }}</span>
+                {{ item.author }}</div>
             {% endif %}
           </header>
           {% assign svg = item.image | split: "." | last %}
           {% if svg == "svg" %}
             <div class="usa-card__media">
-              <div class="{% if include.news %}bg-white{% endif %} usa-card__img width-full padding-left-5 padding-right-5 padding-top-3 text-center">
+              <div class="{% if include.news %}bg-white{% endif %} usa-card__img width-full padding-left-5 padding-right-5 padding-top-3 text-center bg-transparent margin-top-auto margin-bottom-auto">
                 <object
                   class="svg-img height-auto width-full"
                   type="image/svg+xml"
@@ -70,13 +89,11 @@
                 target="_blank"
                 {% endif %}>{{ item.cta.text }}</a>
             {% elsif include.summarize or include.excerpt %}
-              {% assign collection = 
- site.collections | where: "label", include.collection | first %}
-              {% if
- collection.output == true %}
-                {% assign url = item.url %} {% else %}
-                {% capture url %}/{{include.collection}}/#{{item.title | slugify}}{%
-        endcapture %}
+              {% assign collection = site.collections | where: "label", include.collection | first %}
+              {% if collection.output == true %}
+                {% assign url = item.url %}
+              {% else %}
+                {% capture url %}/{{include.collection}}/#{{item.title | slugify}}{% endcapture %}
               {% endif %}
               <a class="usa-button margin-top-2" href="{{url}}">Continue Reading</a>
             {% elsif item.cta %}

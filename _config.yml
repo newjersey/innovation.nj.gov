@@ -30,6 +30,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://innovation.nj.gov"
 twitter_username: njgov
 github_username: newjersey
+future: true
+
 # Build settings
 
 plugins:
@@ -72,13 +74,17 @@ collections:
   projects:
     permalink: /:collection/:title/
     output: true
-    sort_by: title 
+    sort_by: title
   news:
     output: false
     sort_by: date
+  blog:
+    permalink: /:collection/:path/
+    sort_by: date
+    output: true
   team:
     permalink: about/:collection/:title/
-    sort_by: title 
+    sort_by: title
     output: true
   playbooks:
     permalink: cel-playbook/:title/
@@ -145,8 +151,8 @@ defaults:
           collection: projects
           group-by: initiative
           menu-header:
-          title: Our Work
-          url: "/projects/"
+            title: Our Work
+            url: "/projects/"
   - scope:
       path: ""
       type: "skills"
@@ -194,4 +200,3 @@ defaults:
           sort-by: order
       open-graph:
         image: assets/images/impact-report/2024/impact-report-thumbnail.webp
-
