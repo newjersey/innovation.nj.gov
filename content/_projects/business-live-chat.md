@@ -31,4 +31,4 @@ OOI partnered with the Business Action Center and other departments to centraliz
 * NJ State Department of Labor  
 * NJ Office of the Attorney General, Division of Consumer Affairs
 
-Last updated on 2/26/25
+*Last updated on 2/26/25*
