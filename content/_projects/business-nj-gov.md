@@ -36,4 +36,4 @@ To modernize how businesses interact with the State, OOI has employed a data-inf
 * NJ State Department of Labor  
 * Statewide initiative, in partnership with all relevant State entities
 
-Last updated on 2/26/25
+*Last updated on 2/26/25*
