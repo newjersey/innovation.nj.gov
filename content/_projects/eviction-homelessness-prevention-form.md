@@ -3,15 +3,15 @@ title: NJ Eviction and Homelessness Prevention Certification Form
 initiative: COVID Response
 ---
 
-The COVID-19 Eviction Protection Tool helpeds prevent low-income New Jerseyans from being evicted if they suffered economic hardships during the COVID-19 pandemic. The online self-certification tool helpeds users understand the protections they wereare eligible for and submit the necessary forms.
+The COVID-19 Eviction Protection Tool helped prevent low-income New Jerseyans from being evicted if they suffered economic hardships during the COVID-19 pandemic. The online self-certification tool helped users understand the protections they were eligible for and submit the necessary forms.
 
 ### Challenge
 
-In preparation for the end of the State’s eviction moratorium, New Jersey introduced protections for low-income renters who struggled during the pandemic. Those who qualified couldfy can submit a self-certification form to their landlords, and those with pending legal actions against them can submit the form to NJ Courts.
+In preparation for the end of the State’s eviction moratorium, New Jersey introduced protections for low-income renters who struggled during the pandemic. Those who qualified could submit a self-certification form to their landlords, and those with pending legal actions against them could submit the form to NJ Courts.
 
 ### Innovation In Action
 
-To ensure residents in need could stay in their homes, OOI created an easy-to-use online form that madekes the process as seamless as possible. The interactive tool guideds users through the process with a series of questions, automatically generates their self-certification form, and with back-end data sharing, users only needed to fill out their information once and couldan share it with all relevant agencies.
+To ensure residents in need could stay in their homes, OOI created an easy-to-use online form that made the process as seamless as possible. The interactive tool guided users through the process with a series of questions, automatically generated their self-certification form, and with back-end data sharing, users only needed to fill out their information once and could share it with all relevant agencies.
 
 ### Impact \+ Metrics
 
