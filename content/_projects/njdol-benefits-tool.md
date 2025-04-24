@@ -7,29 +7,29 @@ The [Benefits Eligibility Tool](https://getstarted.nj.gov/labor/) was an online 
 
 ### Challenge
 
-New Jersey's unemployment rate more than quadrupled from March 2020 to April 2020 due to the COVID-19 pandemic. Hundreds of thousands of families were left struggling to meet basic needs. In response to this unprecedented challenge, the State and federal governments created new laws, programs, and benefits to help. But many residents were unfamiliar with these programs and uncertain which was right for them.
+New Jersey’s unemployment rate more than quadrupled from March 2020 to April 2020 due to the COVID-19 pandemic. Hundreds of thousands of families were left struggling to meet basic needs. In response to this unprecedented challenge, the State and federal governments created new laws, programs, and benefits to help. But many residents were unfamiliar with these programs and uncertain which was right for them.
 
 ### Innovation In Action
 
-To help people navigate the new landscape of programs and ensure they received the maximum amount of benefits possible, OOI built a tool to preliminarily check a user's eligibility for nearly 20 programs based on their answers to a series of simple questions. The tool then provided the user with next steps for how to apply for those benefits. Development of the tool was informed by interviews with potential users, and as a result, the tool covered an array of scenarios including whether a worker was laid-off, self-employed, caring for a sick family member, or tending to their children during a school closure.
+To help people navigate the new landscape of programs and ensure they received the maximum amount of benefits possible, OOI built a tool to preliminarily check a user’s eligibility for nearly 20 programs based on their answers to a series of simple questions. The tool then provided the user with next steps for how to apply for those benefits. Development of the tool was informed by interviews with potential users, and as a result, the tool covered an array of scenarios including whether a worker was laid-off, self-employed, caring for a sick family member, or tending to their children during a school closure.
 
-### Impact + Metrics
+### Impact \+ Metrics
 
--   The eligibility tool was used more than 80,000 times, connecting residents with critical programs and services and increasing their chances of applying for the right programs and getting the maximum amount of benefits allowed.
--   With an online tool available, users were less likely to call the NJ State Department of Labor to inquire about their eligibility for programs thereby diverting calls from over-burdened call centers and providing call center representatives more time to focus on complicated cases.
+* The eligibility tool was used more than 80,000 times, connecting residents with critical programs and services and increasing their chances of applying for the right programs and getting the maximum amount of benefits allowed.  
+* With an online tool available, users were less likely to call the NJ State Department of Labor to inquire about their eligibility for programs thereby diverting calls from over-burdened call centers and providing call center representatives more time to focus on complicated cases.
 
 ### Status
 
--   The tool was updated several times during the pandemic as new federal, state, and local benefits became available. Many of the programs have sunsetted as the pandemic has evolved, so the tool is no longer actively in use.
+* The tool was updated several times during the pandemic as new federal, state, and local benefits became available. Many of the programs have sunsetted as the pandemic has evolved, so the tool is no longer actively in use.
 
 ### Resources and Additional Information
 
--   USDR Case Study: <https://www.usdigitalresponse.org/case-studies/clarifying-benefits-eligibility-for-new-jersey-residents>
--   [GitHub repository](https://github.com/newjersey/dol-eligibility-tool)
+* USDR Case Study: [https://www.usdigitalresponse.org/case-studies/clarifying-benefits-eligibility-for-new-jersey-residents](https://www.usdigitalresponse.org/case-studies/clarifying-benefits-eligibility-for-new-jersey-residents)  
+* [GitHub repository](https://github.com/newjersey/dol-eligibility-tool)
 
 ### Partners
 
--   NJ State Department of Labor
--   U.S. Digital Response
+* NJ State Department of Labor  
+* U.S. Digital Response
 
-*Last updated on 5/1/24*
+*Last updated on 5/1/24* 
