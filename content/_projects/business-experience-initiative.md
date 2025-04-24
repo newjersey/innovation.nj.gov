@@ -37,4 +37,4 @@ Rather than waiting to debut a large-scale solution after a multi-year developme
 * NJState Department of Labor  
 * Statewide initiative, in partnership with all relevant State entities
 
-Last updated on 2/26/25
+*Last updated on 2/26/25*
