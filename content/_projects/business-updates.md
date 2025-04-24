@@ -13,21 +13,28 @@ The rapid creation of emergency aid programs, new safety requirements, and other
 
 To provide the State with the means to more effectively and proactively reach businesses, OOI launched an email update program to inform businesses about regulations and news. The newsletter uses plain-language and focuses on actionable news and information. Through the continuous analysis of data analytics and periodic engagement with users, OOI improves communication and service delivery.
 
-### Impact + Metrics
+### Impact \+ Metrics
 
-- In 2024, the number of subscribers more than doubled and now exceeds 270,000 as of August. 
-- The Business.NJ.gov Updates program has generated millions of interactions with subscribers, significantly increasing awareness of an array of policy priorities and programs. The program has generated more than 260,000 engagements with updates on funding programs, regulatory guidance, and other information pertinent to the business community.
-
+* In 2024, the number of subscribers more than doubled and now exceeds 270,000.   
+* The Business.NJ.gov Updates program has generated millions of interactions with subscribers, significantly increasing awareness of an array of policy priorities and programs. As of February 2025, the program has generated more than 377,000 engagements with updates on funding programs, regulatory guidance, and other information pertinent to the business community.
 
 ### Status
 
--   OOI continues to work with State departments and agencies to directly send updates to tens of thousands of businesses' inboxes.
+* OOI continues to work with State departments and agencies to directly send updates to hundreds of thousands of businesses’ inboxes.
 
 ### Resources and Additional Information
 
--   [Sign Up for Business.NJ.gov Updates](https://business.nj.gov/newsletter-signup)
+* [Sign Up for Business.NJ.gov Updates](https://business.nj.gov/newsletter-signup)
 
 ### Partners
+
+* Office of the Governor  
+* NJ State Department of State, Business Action Center  
+* NJ Economic Development Authority  
+* Statewide initiative, in partnership with all relevant State entities
+
+*Last updated on 4/3/25*
+
 
 -   Office of the Governor
 -   NJ State Department of State, Business Action Center
