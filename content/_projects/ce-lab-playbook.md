@@ -28,4 +28,4 @@ To equip busy government employees with the skills they need to run effective mo
 * [Watch the C+E Lab Playbook launch at Code For America Summit 2024](https://www.youtube.com/watch?v=oVcmgfU6lS4)  
 * Beeck Center Case Study: [Human-Centered Communication to Increase Service Uptake in New Jersey](https://beeckcenter.georgetown.edu/wp-content/uploads/2024/09/DSN-Spotlight_NJ-CE_v3.pdf)
 
-Last updated on 3/4/25
+*Last updated on 3/4/25*
