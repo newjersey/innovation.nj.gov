@@ -13,23 +13,21 @@ Most people who work in New Jersey qualify for paid leave benefits under Tempora
 
 Working closely with community partners and expecting parents to understand their needs, OOI saw an opportunity to use technology to simplify a confusing aspect of family leave and reduce stress. After asking parents a series of questions, the tool automatically provides start and end dates for leave based on their specific circumstances and preferences, giving parents clarity about the benefits they can access and when.
 
-Residents using this resource have the option to leave feedback to improve it, which our team analyzes to make updates, ensuring the tool is continuously improving. The feedback is anonymized and analyzed by a generative artificial intelligence model, which identifies common trends in even large volumes of feedback that point toward areas for improvement.
+### Impact \+ Metrics
 
-### Impact + Metrics
-
-- As of August 2024, more than 115,000 New Jerseyans have used the Maternity Coverage Timeline Tool to understand their benefits, and more than 523,000 timelines have been created since the tool launched in May 2022.
+* As of April 2025, more than 150,000 New Jerseyans have used the Maternity Coverage Timeline Tool to understand their benefits, and more than 750,000 timelines have been created since the tool launched in May 2022\.
 
 ### Status
 
-- The tool was launched in May 2022, a second iteration was released in July 2022, and the tool continues to undergo iterative improvements based on user feedback and data.
+* The tool was launched in May 2022, a second iteration was released in July 2022, and the tool continues to undergo iterative improvements based on user feedback and performance on each webpage of the tool.
 
 ### Resources and Additional Information
 
-- NJ BIZ: [NJ launches online tool to estimate state maternity coverage](https://njbiz.com/nj-launches-online-tool-to-estimate-state-maternity-coverage/)
+* NJ BIZ: [NJ launches online tool to estimate state maternity coverage](https://njbiz.com/nj-launches-online-tool-to-estimate-state-maternity-coverage/)
 
 ### Partners
 
-- NJ State Department of Labor
-- Office of First Lady Tammy Murphy
+* NJ State Department of Labor  
+* Office of First Lady Tammy Murphy 
 
-_Last updated on 9/27/24_
+*Last updated on 4/22/25*
