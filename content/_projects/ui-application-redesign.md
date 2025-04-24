@@ -11,40 +11,43 @@ As the COVID-19 pandemic upended lives and the economy, millions of New Jerseyan
 
 ### Innovation In Action
 
-Rather than spending years to update the legacy mainframe – the most sensitive and difficult part of the UI system – OOI worked with the Department of Labor using an agile and resident-first design approach to make immediate improvements, starting with the initial claim application. As a key part of this process, project partners interviewed residents at community centers, libraries, and beyond to understand their specific frustrations with applying for Unemployment Insurance and what questions were misunderstood and leading to delays in receiving benefits. OOI then tested a series of changes with residents including simplified, plain-language questions, bigger text and answer buttons, and clarifying text on potentially confusing questions. Updates also included ensuring the application is mobile-friendly and meets accessibility design standards. 
+Rather than spending years to update the legacy mainframe – the most sensitive and difficult part of the UI system – OOI worked with the Department of Labor using an agile and resident-first design approach to make immediate improvements, starting with the initial claim application. Initially, OOI helped the team launch a "facelift" to the existing application with mobile friendly, accessible designs, before a full-scale redesign of the application launched in April 2024\.   
 
-### Impact + Metrics
+Project partners interviewed residents at community centers, libraries, and beyond to understand their specific frustrations with applying for Unemployment Insurance and what questions were misunderstood and leading to delays in receiving benefits. OOI then tested a series of changes with residents including simplified, plain-language questions, bigger text and answer buttons, and clarifying text on potentially confusing questions. Updates also included ensuring the application is mobile-friendly and meets accessibility design standards. 
 
-- In April of 2024, a completely redesigned UI application was launched with 20% fewer questions. On average, the previous application took 3 hours and 50 minutes to submit. With the new application, half of applicants submitted theirs in less than 25 minutes.
-- As of September 2024, 90% of applicants now finish and submit on the same day and there has been a 14% reduction in applications that require manual review before entering the system.
-- The application is also fully available in native Spanish, not Google Translate, and has been maximized for assistive devices. 
-- This partnership spurred the creation of a new Office of UI Modernization at the NJ State Department of Labor to oversee ongoing efforts to improve the UI system. 
-- Based on its agile approach and the success of its early efforts, New Jersey was selected by the US Department of Labor as one of two states to lead a national pilot to modernize the federal unemployment insurance system by improving the user experience and streamlining the delivery of benefits. 
+### Impact \+ Metrics
 
+* In April 2024, a completely redesigned UI application was launched with 20% fewer questions. On average, the previous application took 3 hours and 50 minutes to submit. With the new application, half of applicants submitted theirs in less than 25 minutes.  
+* There was also a 14% reduction in applications that require manual review before entering the system.  
+* As of March 2025, more than 90% of applicants now finish and submit on the same day.  
+* The application is also fully available in native Spanish, and has been optimized for assistive devices.   
+* This partnership spurred the creation of a new Office of UI Modernization at the NJ State Department of Labor to oversee ongoing efforts to improve the UI system.   
+* Based on its agile approach and the success of its early efforts, New Jersey was selected by the US Department of Labor as one of two states to lead a national pilot to modernize the federal unemployment insurance system by improving the user experience and streamlining the delivery of benefits.   
+* In September 2024, GovTech’s Center for Digital Government provided a Government Experience award to this project for raising the bar on the experience of government services.
 
 ### Status
 
--   The UI application system continues to be updated using agile processes, which continually introduces improvements.
-    
+* The UI application system continues to be updated using agile processes, which continually introduces improvements.
+
 ### Resources and Additional Information
 
-- US Department of Labor: [New Jersey’s Open Source Code for Unemployment Insurance Application and Identity Verification](https://www.dol.gov/agencies/eta/ui-modernization/customer-experience/view-sample-UI-application)
-- [Github Repository](https://github.com/USDepartmentofLabor/ui-claimant-experience-pilot)
-- New Jersey Monitor: [State unveils ‘new and innovative’ update to unemployment system](https://newjerseymonitor.com/2024/05/21/state-unveils-new-and-innovative-update-to-unemployment-system/)
-- NorthJersey.com: [Remember how hard it was to file for unemployment during COVID? NJ made changes](https://www.northjersey.com/story/news/2024/05/21/nj-has-improved-the-process-to-file-for-unemployment/73785807007/)
-- NJ.com: [Lose your job? It’s now easier to apply for N.J. unemployment, officials say.](https://www.nj.com/news/2024/05/lose-your-job-its-now-easier-to-apply-for-nj-unemployment-officials-say.html)
--   New Jersey Business: [NJDOL Receives $11M+ Grant to Continue Unemployment System Improvements](https://njbmagazine.com/njb-news-now/njdol-receives-11m-grant-to-continue-unemployment-system-improvements/)
--   Heldrich Center Case Study: [New Jersey’s Worker-centered Approach to Improving the Administration of Unemployment Insurance](https://heldrich.rutgers.edu/sites/default/files/2023-09/New_Jersey%E2%80%99s_Worker-centered_Approach_to_Improving_the_Administration_of_Unemployment_Insurance.pdf)
--   Washington Post OpEd: [Better Government Tech Starts With People. New Jersey Shows How.](https://www.washingtonpost.com/opinions/2023/06/13/new-jersey-digital-unemployment-insurance/)
--   NJBIZ: [NJDOL updates unemployment app, with further improvements expected](https://njbiz.com/njdol-updates-unemployment-app-with-further-improvements-expected/)
--   InsiderNJ: [New Jersey Selected as Pilot State for Federal Unemployment Improvement Project](https://www.insidernj.com/press-release/new-jersey-selected-pilot-state-federal-unemployment-improvement-project/)
+* US Department of Labor: [New Jersey’s Open Source Code for Unemployment Insurance Application and Identity Verification](https://www.dol.gov/agencies/eta/ui-modernization/customer-experience/view-sample-UI-application)  
+* [Github Repository](https://github.com/USDepartmentofLabor/ui-claimant-experience-pilot)  
+* New Jersey Monitor: [State unveils ‘new and innovative’ update to unemployment system](https://newjerseymonitor.com/2024/05/21/state-unveils-new-and-innovative-update-to-unemployment-system/)  
+* NorthJersey.com: [Remember how hard it was to file for unemployment during COVID? NJ made changes](https://www.northjersey.com/story/news/2024/05/21/nj-has-improved-the-process-to-file-for-unemployment/73785807007/)  
+* NJ.com: [Lose your job? It’s now easier to apply for N.J. unemployment, officials say.](https://www.nj.com/news/2024/05/lose-your-job-its-now-easier-to-apply-for-nj-unemployment-officials-say.html)  
+* New Jersey Business: [NJDOL Receives $11M+ Grant to Continue Unemployment System Improvements](https://njbmagazine.com/njb-news-now/njdol-receives-11m-grant-to-continue-unemployment-system-improvements/)  
+* Heldrich Center Case Study: [New Jersey’s Worker-centered Approach to Improving the Administration of Unemployment Insurance](https://heldrich.rutgers.edu/sites/default/files/2023-09/New_Jersey%E2%80%99s_Worker-centered_Approach_to_Improving_the_Administration_of_Unemployment_Insurance.pdf)  
+* Washington Post OpEd: [Better Government Tech Starts With People. New Jersey Shows How.](https://www.washingtonpost.com/opinions/2023/06/13/new-jersey-digital-unemployment-insurance/)  
+* NJBIZ: [NJDOL updates unemployment app, with further improvements expected](https://njbiz.com/njdol-updates-unemployment-app-with-further-improvements-expected/)  
+* InsiderNJ: [New Jersey Selected as Pilot State for Federal Unemployment Improvement Project](https://www.insidernj.com/press-release/new-jersey-selected-pilot-state-federal-unemployment-improvement-project/)
 
 ### Partners
 
--   NJ State Department of Labor
--   NJ State Office of Information Technology
--   U.S. Department of Labor
--   United States Digital Service
--   United States Digital Response
+* NJ State Department of Labor  
+* NJ State Office of Information Technology  
+* U.S. Department of Labor  
+* United States Digital Service  
+* United States Digital Response
 
-*Last updated on 9/26/24*
+*Last updated on 3/4/25*
