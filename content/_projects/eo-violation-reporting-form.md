@@ -11,23 +11,23 @@ To prevent the spread of COVID-19 and ease the strain on hospitals in the early 
 
 ### Innovation In Action
 
-To reduce the strain on the State's call centers, OOI created an online tool to streamline the reporting process. Online submissions were then shared with the Office of Emergency Management and the Office of the Attorney General to follow up.
+To reduce the strain on the State’s call centers, OOI created an online tool to streamline the reporting process. Online submissions were then shared with the Office of Emergency Management and the Office of the Attorney General to follow up.
 
-### Impact + Metrics
+### Impact \+ Metrics
 
--   Using the tool, residents reported more than 65,000 EO violations.
+* Using the tool, residents reported more than 65,000 EO violations.
 
 ### Status
 
--   The reporting form remains active, however the majority of COVID-related Executive Orders have been rescinded as part of the State's reopening.
+* The reporting form remains active, however the majority of COVID-related Executive Orders have been rescinded as part of the State’s reopening.
 
 ### Key Partners
 
--   Office of the Governor
--   NJ Department of State, Business Action Center
--   NJ Economic Development Authority
--   NJ State Department of Treasury
--   NJ State Department of Labor
--   Statewide initiative, in partnership with all relevant State entities
+* Office of the Governor  
+* NJ Department of State, Business Action Center  
+* NJ Economic Development Authority  
+* NJ State Department of Treasury  
+* NJ State Department of Labor  
+* Statewide initiative, in partnership with all relevant State entities
 
 *Last updated on 5/1/24*
