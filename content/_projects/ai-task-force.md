@@ -39,4 +39,4 @@ Rather than standing by as AI develops, the Task Force presents an opportunity f
 * New Jersey State Office of Information Technology  
 * InnovateUS
 
-Last updated on 11/14/24
+*Last updated on 11/14/24*
