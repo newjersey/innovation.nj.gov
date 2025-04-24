@@ -27,4 +27,4 @@ OOI deployed a research-backed and multi-disciplinary approach to exploring this
 * Rutgers School of Labor and Management Relations  
 * NJ State Office of the Attorney General, Division on Civil Rights
 
-Last updated on 3/5/25
+*Last updated on 3/5/25*
