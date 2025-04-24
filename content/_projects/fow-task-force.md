@@ -3,39 +3,39 @@ title: Future of Work Task Force
 initiative: Data + Policy
 ---
 
-The Future of Work Task Force was formed in 2018 to study how technological advancements will impact New Jersey's economy and workforce, and to produce a comprehensive policy roadmap to prepare and protect New Jerseyans from disruptive changes. The Task Force issued its policy roadmap and recommendations in early 2022.
+The Future of Work Task Force formed in 2018 to study how technological advancements will impact New Jersey’s economy and workforce, and to produce a comprehensive policy roadmap to prepare and protect New Jerseyans from disruptive changes. The Task Force issued its report in 2022, and recommendations are being implemented on an ongoing basis.
 
 ### Challenge
 
-The Task Force was charged with determining which technologies will reshape work in New Jersey, identifying which industries and communities will be affected, and exploring how technology can improve workplace conditions, create different jobs, and grow the State's economy. Lastly, the Task Force was asked to devise strategies that State government, private sector, and nonprofits can employ to prepare for these changes.
+The Task Force was charged with determining which technologies will reshape work in New Jersey, identifying which industries and communities will be affected, and exploring how technology can improve workplace conditions, create different jobs, and grow the State’s economy. Lastly, the Task Force was asked to devise strategies that State government, private sector, and nonprofits can employ to prepare for these changes.
 
 ### Innovation In Action
 
-Chaired by New Jersey's Chief Innovation Officer, Beth Simone Noveck, the Task Force assembled a diverse body of experts not just to study the problem, but to act. So in addition to providing recommendations, the Task Force simultaneously helped implement several key initiatives to build opportunities for workers in New Jersey.
+The Task Force assembled a diverse body of experts not just to study the problem, but to act. So in addition to providing recommendations, the Task Force simultaneously helped implement several key initiatives to build opportunities for workers in New Jersey.
 
-### Impact + Metrics
+### Impact \+ Metrics
 
--   In early 2022, the Task force [delivered](https://fowtf.innovation.nj.gov/resources.html) its policy roadmap with 19 core recommendations that underscore the State's need to invest in policies, platforms, and programs that respond to both the challenges and the opportunities technology creates to foster worker rights, worker safety, and lifelong learning.
--   Many of the Roadmap's recommendations have already been implemented including the launch of the [Future of Work Accelerator](https://accelerator.fow.nj.gov/), a 9-month program that supports innovations to advance workers' health and safety, improve access to benefits, and strengthen training opportunities in New Jersey. [Learn more about the Accelerator's design and structure.](https://accelerator.fow.nj.gov/about-the-accelerator)
+* In early 2022, the Task force [delivered](https://fowtf.innovation.nj.gov/resources.html) its policy roadmap with 19 core recommendations that underscore the State’s need to invest in policies, platforms, and programs that respond to both the challenges and the opportunities technology creates to foster worker rights, worker safety, and lifelong learning.  
+* Many of the roadmap’s recommendations have already been implemented including the launch of the [Future of Work Accelerator](https://accelerator.fow.nj.gov/), a 9-month program that supports innovations to advance workers’ health and safety, improve access to benefits, and strengthen training opportunities in New Jersey. [Learn more about the Accelerator’s design and structure.](https://accelerator.fow.nj.gov/about-the-accelerator)
 
 ### Status
 
--   OOI is continuing to work with its partners to implement the Task Force’s recommendations including the Lifelong Learning Account pilot program (branded Fund My Future), which provides participants with unrestricted funds to help with training costs and related services. As of April 2024, over 120 residents have participated in the program across the State.
-
-### Resources and Additional Information
-
--   [Read the Task Force's Roadmap and Recommendations](https://fowtf.innovation.nj.gov/resources.html) as well as the dozens of reports and papers that the Task Force examined as part of its research.
--   You can also [read the six academic research papers](https://fowtf.innovation.nj.gov/resources.html) the Task Force also commissioned to further its understanding of the localized impacts of the Future of Work within the Garden State.
--   NJ Spotlight News: [Workers need help facing uncertain future, task force says](https://www.njspotlightnews.org/2022/02/worker-training-savings-accounts-upgraded-unemployment-site-technology-task-force/)
+* OOI is continuing to work with its partners to implement the Task Force’s recommendations including the [Lifelong Learning Account pilot program (branded](https://innovation.nj.gov/projects/lifelong-learning-accounts) [Fund My Future)](https://innovation.nj.gov/projects/lifelong-learning-accounts/), which provides participants with unrestricted funds to help with training costs and related services. Over 120 residents have participated in the program across the State.
 
 ### Partners
 
--   Office of the Governor
--   Heldrich Center for Workforce Development at Rutgers University
--   NJ State Department of Labor
--   NJ Economic Development Authority
--   NJ State Office of the Secretary of Higher Education
--   NJ State Department of Education
--   NJ State Employment and Training Commission
+* Office of the Governor  
+* Heldrich Center for Workforce Development at Rutgers University  
+* NJ State Department of Labor  
+* NJ Economic Development Authority  
+* NJ State Office of the Secretary of Higher Education  
+* NJ State Department of Education  
+* NJ State Employment and Training Commission
 
-*Last updated on 5/1/24*
+### Resources and Additional Information
+
+* [Read the Task Force’s Roadmap and Recommendations](https://fowtf.innovation.nj.gov/resources.html) as well as the dozens of reports and papers that the Task Force examined as part of its research.  
+* You can also [read the six academic research papers](https://fowtf.innovation.nj.gov/resources.html) the Task Force also commissioned to further its understanding of the localized impacts of the Future of Work within the Garden State.  
+* NJ Spotlight News: [Workers need help facing uncertain future, task force says](https://www.njspotlightnews.org/2022/02/worker-training-savings-accounts-upgraded-unemployment-site-technology-task-force/)
+
+*Last updated on 3/5/25*
