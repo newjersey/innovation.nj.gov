@@ -7,22 +7,22 @@ As part of a statewide investigation into potential misconduct at nursing homes 
 
 ### Challenge
 
-Nursing homes were hit particularly hard during the onset of the pandemic, so the State initiated a statewide investigation into potential misconduct. To help the NJ Attorney General’s investigation, residents were urged to share information. 
+Nursing homes were hit particularly hard during the onset of the pandemic, so the State initiated a statewide investigation into potential misconduct. To help the NJ Attorney General’s investigation, residents were urged to share information.
 
 ### Innovation In Action
 
-OOI created an online form for the NJ Attorney General's Office that allowed individuals to submit photos, documents, and other evidence of wrongdoing. Users were able to submit information anonymously or identify themselves if they wished to help further the investigation.
+OOI created an online form for the NJ Attorney General’s Office that allowed individuals to submit photos, documents, and other evidence of wrongdoing. Users were able to submit information anonymously or identify themselves if they wished to help further the investigation.
 
-### Impact + Metrics
+### Impact \+ Metrics
 
--   By the end of 2021, more than 300 complaints of nursing home misconduct were filed through the reporting form.
+* By the end of 2021, more than 300 complaints of nursing home misconduct were filed through the reporting form.
 
 ### Status
 
--   Deployed as a pandemic response project, the nursing home misconduct form is no longer active.
+* Deployed as a pandemic response project, the nursing home misconduct form is no longer active.
 
 ### Key Partners
 
--   NJ State Office of the Attorney General
+* NJ State Office of the Attorney General
 
 *Last updated on 5/1/24*
