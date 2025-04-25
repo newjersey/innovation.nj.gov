@@ -15,8 +15,8 @@ Rather than standing by as AI develops, the Task Force presents an opportunity f
 
 ### Impact \+ Metrics
 
-* To equip State employees with the knowledge and skills to responsibly leverage AI to solve real problems for New Jerseyans, the Office of Innovation, in collaboration with InnovateUS, released one of the nation’s first [comprehensive generative AI (GenAI) training programs](https://innovation.nj.gov/skills/ai/).  
-* To ensure State employees have the tools to safely and responsibly leverage AI to  improve government services and operations, the Office of Innovation, in partnership with the Office of Information Technology, launched the [NJ AI Assistant](https://innovation.nj.gov/projects/ai-assistant/), a powerful GenAI platform that provides a safe “sandbox” environment for State employees to begin using the technology.  
+* To equip State employees with the knowledge and skills to responsibly leverage AI to solve real problems for New Jerseyans, the Office of Innovation, in collaboration with InnovateUS, released one of the nation’s first [comprehensive generative AI (GenAI) training programs](/skills/ai/).  
+* To ensure State employees have the tools to safely and responsibly leverage AI to  improve government services and operations, the Office of Innovation, in partnership with the Office of Information Technology, launched the [NJ AI Assistant](/projects/ai-assistant/), a powerful GenAI platform that provides a safe “sandbox” environment for State employees to begin using the technology.  
 * In a national first, New Jersey consulted workers in the state about generative AI. Given the technology’s potential to transform the nature of work and the skills needed to succeed, the State of New Jersey’s Artificial Intelligence Task Force sought to hear directly from workers about their hopes and concerns about the technology. The results will inform the Task Force’s recommendations to the Governor.  
 * New Jersey was also the first state to launch a comprehensive survey of public-sector employees’ knowledge, attitudes and interests around AI. Rather than a top-down process, the Task Force is building an ethical framework for AI in State government by engaging its employees
 
@@ -26,12 +26,12 @@ Rather than standing by as AI develops, the Task Force presents an opportunity f
 
 ### Resources and Additional Information
 
-* [New Jersey AI Task Force Report To The Governor](https://innovation.nj.gov/news/NJ-AI-Task-Force-Report.pdf)
-* [Results and Insights from NJ’s Survey of State Workers on AI](https://innovation.nj.gov/news/NJ-State-Worker-Survey.pdf)
-* [Responsible Use of Generative AI in New Jersey State Government Training Course](https://innovation.nj.gov/skills/ai/)  
+* [New Jersey AI Task Force Report To The Governor](/news/NJ-AI-Task-Force-Report.pdf)
+* [Results and Insights from NJ’s Survey of State Workers on AI](/news/NJ-State-Worker-Survey.pdf)
+* [Responsible Use of Generative AI in New Jersey State Government Training Course](/skills/ai/)  
 * [GovTech: NJ Unveils AI Training, Tool for State Government Workers](https://www.govtech.com/artificial-intelligence/n-j-unveils-ai-training-tool-for-state-government-workers)  
 * GovTech: [New Jersey Co-Creates AI Strategy With Public-Sector Staff](https://www.govtech.com/artificial-intelligence/new-jersey-co-creates-ai-strategy-with-public-sector-staff)  
-* [NJ.gov/aisurvey](https://innovation.nj.gov/ai-and-you/)
+* [NJ.gov/aisurvey](/ai-and-you/)
 
 ### Key Partners
 

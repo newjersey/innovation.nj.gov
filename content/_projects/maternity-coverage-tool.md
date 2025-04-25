@@ -3,7 +3,7 @@ title: Maternity Coverage Timeline Tool
 initiative: Resident Experience Initiative
 ---
 
-The [Maternity Coverage Timeline Tool](http://myleavebenefits.nj.gov/timeline) helps expecting parents plan when and how to use their family leave by providing a personalized calendar of how much leave time they have with State benefits. This work is part of the Resident Experience Initiative.
+The [Maternity Coverage Timeline Tool](https://myleavebenefits.nj.gov/timeline) helps expecting parents plan when and how to use their family leave by providing a personalized calendar of how much leave time they have with State benefits. This work is part of the Resident Experience Initiative.
 
 ### Challenge
 

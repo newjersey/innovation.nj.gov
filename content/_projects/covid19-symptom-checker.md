@@ -3,7 +3,7 @@ title: COVID-19 Symptom Checker
 initiative: COVID Response
 ---
 
-[The COVID-19 Symptom Checker](https://innovation.nj.gov/assets/images/symptom-checker.png) was an interactive online tool that provided medical guidance to New Jerseyans about the virus during the earliest days of the pandemic. Using anonymous data, the tool also provided State officials with a way to track the disease’s spread on the ground when few other means existed.
+[The COVID-19 Symptom Checker](/assets/images/symptom-checker.png) was an interactive online tool that provided medical guidance to New Jerseyans about the virus during the earliest days of the pandemic. Using anonymous data, the tool also provided State officials with a way to track the disease’s spread on the ground when few other means existed.
 
 ### Challenge
 

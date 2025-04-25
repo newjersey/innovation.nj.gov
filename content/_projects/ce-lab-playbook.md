@@ -3,7 +3,7 @@ title: C+E Lab Playbook
 initiative: Communication + Engagement Lab
 ---
 
-To help government agencies better connect residents to critical programs through marketing campaigns, the C+E Lab has created a [step-by-step playbook](https://innovation.nj.gov/cel-playbook/) that teaches public sector employees how to use data, research, and other proven best practices from modern consumer marketing. The Playbook walks readers through the C+E Lab’s process to uncover and validate an approach that moves audiences to act \- whether they are a communications director, program manager, developer, product manager, or public policy practitioner. 
+To help government agencies better connect residents to critical programs through marketing campaigns, the C+E Lab has created a [step-by-step playbook](/cel-playbook/) that teaches public sector employees how to use data, research, and other proven best practices from modern consumer marketing. The Playbook walks readers through the C+E Lab’s process to uncover and validate an approach that moves audiences to act \- whether they are a communications director, program manager, developer, product manager, or public policy practitioner. 
 
 ### Challenge
 
@@ -24,7 +24,7 @@ To equip busy government employees with the skills they need to run effective mo
 
 ### Resources and Additional Information
 
-* [Read the C+E Lab Playbook](https://innovation.nj.gov/cel-playbook/)  
+* [Read the C+E Lab Playbook](/cel-playbook/)  
 * [Watch the C+E Lab Playbook launch at Code For America Summit 2024](https://www.youtube.com/watch?v=oVcmgfU6lS4)  
 * Beeck Center Case Study: [Human-Centered Communication to Increase Service Uptake in New Jersey](https://beeckcenter.georgetown.edu/wp-content/uploads/2024/09/DSN-Spotlight_NJ-CE_v3.pdf)
 

@@ -20,7 +20,7 @@ The Task Force assembled a diverse body of experts not just to study the problem
 
 ### Status
 
-* OOI is continuing to work with its partners to implement the Task Force’s recommendations including the [Lifelong Learning Account pilot program (branded](https://innovation.nj.gov/projects/lifelong-learning-accounts) [Fund My Future)](https://innovation.nj.gov/projects/lifelong-learning-accounts/), which provides participants with unrestricted funds to help with training costs and related services. Over 120 residents have participated in the program across the State.
+* OOI is continuing to work with its partners to implement the Task Force’s recommendations including the [Lifelong Learning Account pilot program (branded](/projects/lifelong-learning-accounts) [Fund My Future)](/projects/lifelong-learning-accounts/), which provides participants with unrestricted funds to help with training costs and related services. Over 120 residents have participated in the program across the State.
 
 ### Partners
 

@@ -3,7 +3,7 @@ title: BasicNeeds.NJ.gov
 initiative: Resident Experience Initiative
 ---
 
-[BasicNeeds.NJ.gov](http://BasicNeeds.NJ.Gov) is a central source of information for college students in New Jersey who need support meeting their basic needs. The site features easily-accessible, actionable information to help students with food, housing, childcare, transportation, and other challenges overcome them so they can continue their pursuit of higher education.
+[BasicNeeds.NJ.gov](https://BasicNeeds.NJ.Gov) is a central source of information for college students in New Jersey who need support meeting their basic needs. The site features easily-accessible, actionable information to help students with food, housing, childcare, transportation, and other challenges overcome them so they can continue their pursuit of higher education.
 
 ### Challenge:
 
