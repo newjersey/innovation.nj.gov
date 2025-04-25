@@ -17,7 +17,7 @@ In partnership with the NJ State Department of Labor, OOI moved the Department t
 
 * The new call center has enabled the Department of Labor to serve over 60,000 additional residents per year, while slashing hold times and generating millions of dollars in projected cost savings by building vital systems in-house and increasing operational efficiency.  
 * Callers can now get information about their claim status through an automatic status update tool rather than waiting to speak to an agent.  
-* The success of this work has spurred several agencies to partner with OOI to [modernize their call centers](https://innovation.nj.gov/projects/ui-call-center/). Using this initial project as a guide, OOI developed an approach that can be replicated with greater speed and efficiency with additional call centers. In 2024, 11 call centers including the ANCHOR property tax program, Temporary Disability and Family Leave, and Unemployment Insurance efficiently managed over 10 million calls.
+* The success of this work has spurred several agencies to partner with OOI to [modernize their call centers](/projects/ui-call-center/). Using this initial project as a guide, OOI developed an approach that can be replicated with greater speed and efficiency with additional call centers. In 2024, 11 call centers including the ANCHOR property tax program, Temporary Disability and Family Leave, and Unemployment Insurance efficiently managed over 10 million calls.
 
 ### Status
 

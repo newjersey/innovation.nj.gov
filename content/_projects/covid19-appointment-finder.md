@@ -21,7 +21,7 @@ OOI saw the opportunity to streamline a confusing and time-intensive process by 
 
 ### Status
 
-* The Appointment Finder was deactivated in September 2023\. Appointments are now available through the federal [vaccines.gov](http://vaccines.gov) portal.
+* The Appointment Finder was deactivated in September 2023\. Appointments are now available through the federal [vaccines.gov](https://vaccines.gov) portal.
 
 ### Resources and Additional Information
 

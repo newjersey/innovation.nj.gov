@@ -3,7 +3,7 @@ title: Transgender Information Hub
 initiative: Resident Experience Initiative
 ---
 
-The [Transgender Information Hub](http://transgender.nj.gov) is a central resource for the transgender and non-binary community in New Jersey that provides guidance and answers to common questions. The site features critical information from nearly a dozen agencies in a supportive, user-friendly format.
+The [Transgender Information Hub](https://transgender.nj.gov) is a central resource for the transgender and non-binary community in New Jersey that provides guidance and answers to common questions. The site features critical information from nearly a dozen agencies in a supportive, user-friendly format.
 
 ### Challenge
 
