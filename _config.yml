@@ -72,18 +72,18 @@ collections:
   projects:
     permalink: /:collection/:title/
     output: true
-    sort_by: order
+    sort_by: title 
   news:
     output: false
     sort_by: date
   team:
     permalink: about/:collection/:title/
-    sort_by: order
+    sort_by: title 
     output: true
   playbooks:
     permalink: cel-playbook/:title/
     output: true
-    sort_by: name
+    sort_by: title
   impactreport2024:
     permalink: /impact-report/2024/:title/
     directory: _impactreport2024/2024/
@@ -191,6 +191,7 @@ defaults:
           url: /impact-report/2024/
           collection: impactreport2024
           group-by: menu-group
+          sort-by: order
       open-graph:
         image: assets/images/impact-report/2024/impact-report-thumbnail.webp
 
