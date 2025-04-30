@@ -1,8 +1,19 @@
 {% if page.figure %}
-<h2>{{page.figure.title}}</h2>
-<figure>
+  {% if page.figure.alt-text == null or page.figure.alt-text == "" %}
+    {% assign altText = "Image" %}
+  {% else %}
+    {% assign altText = page.figure.alt-text %}
+  {% endif %}
+
+  {% if page.figure.title %}
+<h2>{{ page.figure.title }}</h2>
+  {% else %}
+<br/>
+  {% endif %}
+
+<figure class="figure">
   <div class="position-relative">
-    <img src="{{page.figure.url}}" alt="{{page.figure.alt-text}}" />
+    <img src="{{page.figure.url}}" alt="{{altText}}" />
     <div class="position-absolute bottom-0 right-0">
       <div class="margin-y-3">
         <a
@@ -25,7 +36,7 @@
             <div class="usa-modal__main">
               <img
                 src="{{page.figure.url}}"
-                alt="{{page.figure.alt-text}}"
+                alt="{{altText}}"
                 class="modal__image"
               />
             </div>

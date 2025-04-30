@@ -3,18 +3,21 @@
   .tablet\:grid-col-6.usa-card.usa-card--flag .usa-card__media {
     width: 10rem;
   }
+
   .tablet\:grid-col-6.usa-card--flag .usa-card__body,
   .tablet\:grid-col-6.usa-card--flag .usa-card__footer,
   .tablet\:grid-col-6.usa-card--flag .usa-card__header {
     margin-left: 10rem;
   }
 }
+
 .usa-card__img--square {
   background-size: contain;
   background-repeat: no-repeat;
   background-color: transparent;
   background-position: top center;
 }
+
 .usa-card__img--square-cover {
   background-size: cover;
 }
@@ -24,12 +27,15 @@
 a.text-primary-darker {
   color: #243413;
 }
+
 .usa-section--dark h2 {
   color: white;
 }
+
 .usa-graphic-list__heading a {
   text-decoration: none;
 }
+
 .usa-graphic-list__heading a:hover,
 .usa-graphic-list__heading a:focus {
   text-decoration: underline;
@@ -43,6 +49,7 @@ path.white-fill {
 .st0 {
   fill: #1b8bcf;
 }
+
 svg {
   background: transparent;
 }
@@ -92,4 +99,10 @@ svg {
   .playbook-hero-text {
     font-size: 5.5em;
   }
+}
+
+/* Figure (inline images) */
+.figure {
+  margin-inline-start: 0;
+  margin-inline-end: 0;
 }
