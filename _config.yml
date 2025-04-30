@@ -30,7 +30,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://innovation.nj.gov"
 twitter_username: njgov
 github_username: newjersey
-future: true
+future: false
 
 # Build settings
 
