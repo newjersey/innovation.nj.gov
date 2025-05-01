@@ -32,8 +32,6 @@ So we worked to ensure that pages were ADA compliant and adhered to Web Content 
 
 As the development process moved along, we kept testing with users directly. Every page and piece of content being designed needed to ensure that the disability community could find what they needed quickly and easily. Because of that purposeful, diligent collaboration, content started coming together in a way that made sense for the types of people and communities who might access the site.
 
-{% include figure.html %}
-
 ## “Not about us, without us.”
 
 We call this approach co-designing.
