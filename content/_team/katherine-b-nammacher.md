@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/katherine.webp
+image: /assets/images/team/katherine-b-nammacher-headshot.webp
 title: Katherine B. Nammacher
 ---
 

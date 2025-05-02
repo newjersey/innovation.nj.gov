@@ -1,6 +1,6 @@
 ---
 title: David Powell
-image: /assets/images/team/david.webp
+image: /assets/images/team/david-powel-headshot.webp
 ---
 
 David Powell serves as a content lead at the Office of Innovation. In this role, he functions as a primary content developer and editor for the New Jersey COVID-19 Information Hub, Business.NJ.gov, and email publications that reach millions of state residents.

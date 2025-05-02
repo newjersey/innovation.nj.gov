@@ -1,6 +1,6 @@
 ---
 title: Noah Marcus
-image: /assets/images/team/noah.webp
+image: /assets/images/team/noah-marcus-headshot.webp
 ---
 
 Noah Marcus is a computer scientist serving as a technology operations engineer for the Office of Innovation. He is responsible for maintaining, simplifying, and automating the Office’s internal systems and technology. Outside of leading the operations engineering work, he also contributes to the Office’s projects as a full stack engineer.

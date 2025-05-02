@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/edward.webp
+image: /assets/images/team/edward-paulino-headshot.webp
 title: Edward Paulino
 ---
 

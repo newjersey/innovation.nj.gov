@@ -1,5 +1,5 @@
 ---
-image:
+image: /assets/images/team/maitri-bhateja-headshot.webp
 title: Maitri Bhateja
 ---
 

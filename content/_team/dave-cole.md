@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/dave.webp
+image: /assets/images/team/dave-cole-headshot.webp
 title: Dave Cole
 order: 1
 role: New Jersey State Chief Innovation Officer

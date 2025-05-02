@@ -1,6 +1,6 @@
 ---
 title: Soma Sai Kumar Badri
-image: /assets/images/team/soma.webp
+image: /assets/images/team/soma-sai-kumar-badri-headshot.webp
 ---
 
 Soma is a software engineer with the Office of Innovation's Business Experience Initiative team in which he is working on improving the experience of starting, operating, and growing a business in New Jersey.

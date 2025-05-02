@@ -1,5 +1,5 @@
 ---
-image: 
+image: /assets/images/team/andrew-wong-crocitto-headshot.webp
 title: Andrew Wong-Crocitto
 ---
 

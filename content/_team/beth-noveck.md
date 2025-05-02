@@ -1,6 +1,6 @@
 ---
 title: Beth Simone Noveck
-image: /assets/images/team/beth.webp
+image: /assets/images/team/beth-noveck-headshot.webp
 order: 2
 role: New Jersey State Chief Artificial Intelligence Strategist
 title-prefix: Dr.

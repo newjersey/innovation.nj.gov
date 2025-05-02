@@ -1,6 +1,6 @@
 ---
 title: Hannah Chatham
-image: /assets/images/team/hannah.webp
+image: /assets/images/team/hannah-chatham-headshot.webp
 ---
 
 Hannah Chatham (she/her) serves as a product designer for the Office of Innovation, currently diving deep into best ways to provide more access for working parents as they apply for public benefits. She works at the intersection of research and design; listening to needs and iterating with visual solutions.

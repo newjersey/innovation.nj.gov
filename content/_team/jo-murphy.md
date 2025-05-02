@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/jo.webp
+image: /assets/images/team/jo-murphy-headshot.webp
 title: Jo Murphy
 title-prefix: Dr.
 ---

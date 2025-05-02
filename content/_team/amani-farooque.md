@@ -1,5 +1,5 @@
 ---
-image:
+image: /assets/images/team/amani-farooque-headshot.webp
 title: Amani Farooque
 ---
 

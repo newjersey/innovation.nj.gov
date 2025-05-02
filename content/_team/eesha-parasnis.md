@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/eesha.webp
+image: /assets/images/team/eesha-parasnis-headshot.webp
 title: Eesha Parasnis
 ---
 

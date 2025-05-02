@@ -1,6 +1,6 @@
 ---
 title: Graham Simpson
-image: /assets/images/team/graham.webp
+image: /assets/images/team/graham-simpson-headshot.webp
 ---
 
 Graham Simpson is director of the Office of Innovation's Data and Policy team. In that role, he works on policy and engagement work at the Office of Innovation. In that role, he produces policy research, conducts data analysis, and strategizes ways to improve ways to better understand and enhance the impact of OOI's work on New Jersey residents. With the rest of the Data and Policy Team, Graham collaborates with internal office portfolio teams, other New Jersey State agencies and departments, and directly with office leadership. Graham has also: managed New Jersey's COVID-19 Information Hub, drove early stage development of BasicNeeds.NJ.gov and Transgender.NJ.gov, and led the office's innovation skills training programs. 

@@ -1,5 +1,5 @@
 ---
-image: 
+image: /assets/images/team/marc-santosusso-headshot.webp
 title: Marc Santosusso
 ---
 

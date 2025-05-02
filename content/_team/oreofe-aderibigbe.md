@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/oreofe.webp
+image: /assets/images/team/oreofe-aderibigbe-headshot.webp
 title: Oreofe Aderibigbe
 ---
 

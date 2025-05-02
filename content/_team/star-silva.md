@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/star.webp
+image: /assets/images/team/star-silva-headshot.webp
 title: Star Silva
 ---
 

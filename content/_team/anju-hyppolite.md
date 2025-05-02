@@ -1,6 +1,6 @@
 ---
 title: AnJu Hyppolite
-image: /assets/images/team/anju.webp
+image: /assets/images/team/anju-hyppolite-headshot.webp
 ---
 
 A.J. Hyppolite is a software engineer at the Office of Innovation, where she helps make government services more accessible for all New Jerseyans. Her current work on the Resident Experience Initiative helps streamline the delivery of government programs and services throughout the Garden State. She has also contributed to the Business Experience Initiative, helping to develop a one-stop application that improves the user experience for entrepreneurs looking to start, operate, and grow their businesses in New Jersey.

@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/jasmine.webp
+image: /assets/images/team/jasmine-noor-headshot.webp
 title: Jasmine Noor
 ---
 

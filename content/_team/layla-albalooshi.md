@@ -1,5 +1,5 @@
 ---
-image: 
+image: /assets/images/team/layla-albalooshi-headshot.webp
 title: Layla Albalooshi
 ---
 

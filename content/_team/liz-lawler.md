@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/liz.webp
+image: /assets/images/team/liz-lawler-headshot.webp
 title: Liz Lawler
 ---
 

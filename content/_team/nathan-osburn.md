@@ -1,5 +1,5 @@
 ---
-image: 
+image: /assets/images/team/nathan-osburn-headshot.webp
 title: Nathan Osburn
 ---
 
