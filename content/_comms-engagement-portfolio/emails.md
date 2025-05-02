@@ -7,8 +7,10 @@ Email is a great way to explain a complex program to people and to “nurture”
 
 ## DirectFile
 
-{% include simple-card.html collection="ceportfolio_emails_directfile" colwidth=6 %}
+{% assign directFileEmailItems = site.data.cePortfolioMedia | where_exp: "item", "item.group == 'emails-direct-file'" | sort: "title" %}
+{% include simple-card.html items=directFileEmailItems colwidth=6 %}
 
 ## Higher Ed
 
-{% include simple-card.html collection="ceportfolio_emails_highered" colwidth=6 %}
+{% assign higherEdEmailItems = site.data.cePortfolioMedia | where_exp: "item", "item.group == 'emails-higher-ed'" | sort: "title" %}
+{% include simple-card.html items=higherEdEmailItems colwidth=6 %}

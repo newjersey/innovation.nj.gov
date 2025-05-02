@@ -7,16 +7,23 @@ At every video shoot, the featured residents are photographed for use across all
 
 ## Business.NJ.gov Original Campaign
 
-{% include simple-card.html collection="ceportfolio_photo_businessoriginal" colwidth=6 %}
+{% assign businessOriginalItems = site.data.cePortfolioMedia | where_exp: "item", "item.group == 'photo-business-original'" | sort: "title" %}
+{% include simple-card.html items=businessOriginalItems colwidth=6 %}
 
 ## Business.NJ.gov Hispanic 
 
-{% include simple-card.html collection="ceportfolio_photo_businesshispanic" colwidth=6 %}
+
+{% assign businessHispanicItems = site.data.cePortfolioMedia | where_exp: "item", "item.group == 'photo-business-hispanic'" | sort: "title" %}
+{% include simple-card.html items=businessHispanicItems colwidth=6 %}
 
 ## Some College No Degree
 
-{% include simple-card.html collection="ceportfolio_photo_somecollege" colwidth=6 %}
+
+{% assign someCollegeItems = site.data.cePortfolioMedia | where_exp: "item", "item.group == 'photo-some-college'" | sort: "title" %}
+{% include simple-card.html items=someCollegeItems colwidth=6 %}
 
 ## Higher Ed Campaign
 
-{% include simple-card.html collection="ceportfolio_photo_highered" colwidth=6 %}
+
+{% assign higherEdItems = site.data.cePortfolioMedia | where_exp: "item", "item.group == 'photo-higher-ed'" | sort: "title" %}
+{% include simple-card.html items=higherEdItems colwidth=6 %}

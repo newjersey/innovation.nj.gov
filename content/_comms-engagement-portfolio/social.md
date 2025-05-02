@@ -7,20 +7,24 @@ Social media is one of the best places to activate residents. Our ads work hard 
 
 ## Business.NJ.gov Paid Social Videos (English)
 
-{% include simple-card.html collection="ceportfolio_social_business" colwidth=4 %}
+{% assign socialBusinessItems = site.data.cePortfolioMedia | where_exp: "item", "item.group == 'social-business'" | sort: "title" %}
+{% include simple-card.html items=socialBusinessItems colwidth=6 %}
 
 ## Some College No Degree Paid Social Videos (English)
 
-{% include simple-card.html collection="ceportfolio_social_somecollege" colwidth=4 %}
+{% assign socialSomeCollegeItems = site.data.cePortfolioMedia | where_exp: "item", "item.group == 'social-some-college'" | sort: "title" %}
+{% include simple-card.html items=socialSomeCollegeItems colwidth=6 %}
 
 ## Higher Ed Paid Social Videos (English)
 
-{% include simple-card.html collection="ceportfolio_social_highered" colwidth=4 %}
+{% assign socialHigherEdItems = site.data.cePortfolioMedia | where_exp: "item", "item.group == 'social-higher-ed'" | sort: "title" %}
+{% include simple-card.html items=socialHigherEdItems colwidth=6 %}
 
 ## Direct File (English)
-
-{% include simple-card.html collection="ceportfolio_social_dfenglish" colwidth=4 %}
+{% assign socialDfEngishItems = site.data.cePortfolioMedia | where_exp: "item", "item.group == 'social-df-english'" | sort: "title" %}
+{% include simple-card.html items=socialDfEngishItems colwidth=6 %}
 
 ## Direct File (Spanish)
 
-{% include simple-card.html collection="ceportfolio_social_dfspanish" colwidth=4 %}
+{% assign socialDfSpanishItems = site.data.cePortfolioMedia | where_exp: "item", "item.group == 'social-df-spanish'" | sort: "title" %}
+{% include simple-card.html items=socialDfSpanishItems colwidth=6 %}
