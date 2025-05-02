@@ -1,5 +1,5 @@
 ---
-image: 
+image: /assets/images/team/emily-terwelp-headshot.webp
 title: Emily Terwelp
 ---
 

@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/crystal.webp
+image: /assets/images/team/crystal-penalosa-headshot.webp
 title: Crystal Peñalosa
 ---
 

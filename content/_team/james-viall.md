@@ -1,5 +1,5 @@
 ---
-image: 
+image: /assets/images/team/james-viall-headshot.webp
 title: James Viall
 ---
 

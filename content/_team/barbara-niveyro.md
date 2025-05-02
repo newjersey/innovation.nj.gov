@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/barbara.webp
+image: /assets/images/team/barbara-niveyro-headshot.webp
 title: Barbara Niveyro
 ---
 

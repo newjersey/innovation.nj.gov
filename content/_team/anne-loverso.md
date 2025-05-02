@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/anne.webp
+image: /assets/images/team/anne-loverso-headshot.webp
 title: Anne LoVerso
 ---
 

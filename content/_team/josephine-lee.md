@@ -1,5 +1,5 @@
 ---
-image: 
+image: /assets/images/team/josephine-lee-headshot.webp
 title: Josephine Lee
 ---
 

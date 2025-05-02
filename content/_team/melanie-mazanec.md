@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/melanie.webp
+image: /assets/images/team/melanie-mazanec-headshot.webp
 title: Melanie Mazanec
 ---
 

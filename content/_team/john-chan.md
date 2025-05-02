@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/john.webp
+image: /assets/images/team/john-chan-headshot.webp
 title: John Chan
 ---
 

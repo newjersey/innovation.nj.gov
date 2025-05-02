@@ -1,6 +1,6 @@
 ---
 title: Ruthie Nachmany
-image: /assets/images/team/ruthie.webp
+image: /assets/images/team/ruthie-nachmany-headshot.webp
 ---
 
 Ruthie is a product manager on the Resident Experience initiative at the Office of Innovation. She is currently focused on supporting New Jersey residents who receive unemployment insurance.

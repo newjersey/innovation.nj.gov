@@ -1,5 +1,5 @@
 ---
-image: 
+image: /assets/images/team/elizabeth-zhang-headshot.webp
 title: Elizabeth Zhang
 ---
 

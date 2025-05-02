@@ -1,6 +1,6 @@
 ---
 title: Melissa Cliver
-image: /assets/images/team/melissa.webp
+image: /assets/images/team/melissa-cliver-headshot.webp
 ---
 
 Melissa Cliver serves as a product designer for the Office of Innovation’s Resident Experience initiative. She is currently focusing on streamlining safety net services for the most vulnerable.

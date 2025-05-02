@@ -1,5 +1,5 @@
 ---
-image:
+image: /assets/images/team/alex-robinson-headshot.webp
 title: Alex Robinson
 ---
 

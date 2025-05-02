@@ -1,6 +1,6 @@
 ---
 title: Kai D. Feder
-image: /assets/images/team/kai.webp
+image: /assets/images/team/kai-feder-headshot.webp
 ---
 
 Kai D. Feder serves as the chief of staff at the Office of Innovation, where he oversees the office’s day-to-day operations and advises the Chief Innovation Officer on strategic direction, leads projects and policy initiatives, and manages intergovernmental and external affairs. His career in government and public policy has spanned numerous issue areas, ranging from economic development and technology, to transportation and infrastructure, and has included positions in both the public and private sectors.

@@ -1,6 +1,6 @@
 ---
 title: Jessica Lax
-image: /assets/images/team/jessica.webp
+image: /assets/images/team/jessica-lax-headshot.webp
 ---
 
 Jessica Lax plays a leading role in the Office of Innovation’s efforts to improve the experience of starting, operating, and growing a business in the Garden State. She is a civic sector strategist that leverages human-centered design and interdisciplinary collaboration to create more just and impactful organizations, programs and policies.

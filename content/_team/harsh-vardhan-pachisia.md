@@ -1,5 +1,5 @@
 ---
-image: 
+image: /assets/images/team/harsh-vardhan-pachisia-headshot.webp
 title: Harsh Vardhan Pachisia
 ---
 

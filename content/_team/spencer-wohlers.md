@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/spencer.webp
+image: /assets/images/team/spencer-wohlers-headshot.webp
 title: Spencer Wohlers
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: E.J. Kalafarski
-image: /assets/images/team/ej.webp
+image: /assets/images/team/ej-kalafarski-headshot.webp
 ---
 
 E.J. Kalafarski is a technology strategist with the Office of Innovation where he serves as director of the Business Experience Initiative. This work leverages human-centered design and agile, data-driven practices to make it easier and faster to do business in New Jersey. He focuses on building organizations and products that run intuitively and iterate fast.

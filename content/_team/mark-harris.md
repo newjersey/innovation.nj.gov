@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/mark.webp
+image: /assets/images/team/mark-harris-headshot.webp
 title: Mark Harris
 ---
 

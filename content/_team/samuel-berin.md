@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/sam.webp
+image: /assets/images/team/samuel-berin-headshot.webp
 title: Samuel Berin
 ---
 

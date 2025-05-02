@@ -1,6 +1,6 @@
 ---
 title: James Sallee
-image: /assets/images/team/james.webp
+image: /assets/images/team/james-sallee-headshot.webp
 ---
 
 James Sallee is a product manager on the Resident Experience team at the Office of Innovation. In this role, he contributes to an array of projects that make government services more accessible to all New Jerseyians.

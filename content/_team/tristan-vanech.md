@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/tristan.webp
+image: /assets/images/team/tristan-vanech-headshot.webp
 title: Tristan Vanech
 ---
 
