@@ -1,8 +1,8 @@
 <ul class="usa-card-group padding-top-2">
-  {% assign list = site.[include.collection] %}
+  {% assign list = include.items %}
   {% for item in list %}
     <li class="tablet:grid-col-{{include.colwidth}} usa-card">
-      <div class="usa-card__container">
+      <div class="usa-card__container flex-justify">
         <div>
           {% if item.title != "" %}
             <div class="usa-card__header padding-bottom-2">
@@ -13,15 +13,15 @@
         <div class="usa-card__media">
           {% if item.image %}
             <div class="usa-card__img">
-              <img src="{{item.image}}" alt="{{ item.alt }}"/>
+              <img src="{{item.image.src}}" alt="{{ item.image.alt }}"/>
             </div>
           {% elsif item.embed %}
-            {% if item.square %}
-              <div style="padding:100% 0 0 0;position:relative;"><iframe src="{{item.embed}}" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title=""></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-            {% elsif item.vertical %}
-              <div style="padding:177.78% 0 0 0;position:relative;"><iframe src="{{item.embed}}" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Opportunity - 9x16 - v02"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+            {% if item.embed.square %}
+              <div style="padding:100% 0 0 0;position:relative;"><iframe src="{{item.embed.src}}" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title=""></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+            {% elsif item.embed.vertical %}
+              <div style="padding:177.78% 0 0 0;position:relative;"><iframe src="{{item.embed.src}}" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Opportunity - 9x16 - v02"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
             {% else %}
-              <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="{{item.embed}}" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title=""></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+              <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="{{item.embed.src}}" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title=""></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
             {% endif %}
           {% endif %}
         </div>

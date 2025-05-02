@@ -8,5 +8,8 @@
     "import-nj-node": "chmod u+x importNJNodePackages.sh && bash importNJNodePackages.sh",
     "build": "npm run import-nj-node && bundle exec rake generate_jobs && bundle exec jekyll build",
     "serve": "bundle exec jekyll serve"
+  },
+  "devDependencies": {
+    "@shopify/prettier-plugin-liquid": "^1.9.3"
   }
 }
