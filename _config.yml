@@ -74,7 +74,7 @@ collections:
   projects:
     permalink: /:collection/:title/
     output: true
-    sort_by: title
+    sort_by: order
   news:
     output: false
     sort_by: date
@@ -89,7 +89,7 @@ collections:
   playbooks:
     permalink: cel-playbook/:title/
     output: true
-    sort_by: title
+    sort_by: name
   impactreport2024:
     permalink: /impact-report/2024/:title/
     directory: _impactreport2024/2024/

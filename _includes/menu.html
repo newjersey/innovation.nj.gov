@@ -1,12 +1,10 @@
 
 {% for item in include.menu %}
   {% if item.collection %}
-    {% if item.sort-by %} 
+    {% if item.sort-by  %} 
       {% assign sort-by = item.sort-by %}
-    {% else %}
-      {% assign sort-by = "title" %}
     {% endif %}
-    {% assign menu-groups = site.[item.collection] | sort: sort-by | group_by: item.group-by %}
+      {% assign menu-groups = site.[item.collection] | group_by: item.group-by %}
   {% endif %}
 {% endfor %}
 
@@ -53,7 +51,7 @@
         {% endif %}
         {% if group.items %}
           <ul class="usa-sidenav__sublist">
-            {% assign sub-menu = group.items | sort: sort-by %}
+            {% assign sub-menu = group.items %}
             {% for item in
  sub-menu %}
               {% if item.title != menu-group-parent.title %}
