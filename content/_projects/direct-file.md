@@ -8,7 +8,8 @@ Direct File is a guided tax filing service for residents with simple tax situati
 ### Challenge  
 
 The IRS estimates that individual taxpayers carry a burden of about $160 \- and several hours \- preparing their returns. Through Direct File, New Jersey aimed to stand up a free, secure, user-friendly option that allows many residents to file both their federal and state taxes with one tool.  
-Innovation In Action
+
+### Innovation In Action
 
 OOI set up a unique partnership with Code for America, a civic tech nonprofit, to build on its FileYourStateTaxes tool. The team was able to break down New Jersey’s complex tax codes into just a few simple questions while leveraging the tool’s account management capabilities, design system, and API integration to transfer federal return data from the IRS. OOI worked with tax experts at the New Jersey Division of Taxation and the United Way of Greater Newark’s free tax assistance program to understand regulatory requirements and define the scope of the product. Importantly, the team also worked with residents themselves to co-design and continually improve the user experience.
 
