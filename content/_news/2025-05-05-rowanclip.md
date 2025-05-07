@@ -1,5 +1,5 @@
 ---
-image: /assets/images/news/
+image: /assets/images/news/RowanLogo.png
 title: "COVERAGE: CIO Keynotes AI Conference at Rowan University"
 promoted: 2
 date: May 5, 2025
