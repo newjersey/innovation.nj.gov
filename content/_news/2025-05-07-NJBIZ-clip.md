@@ -8,4 +8,4 @@ cta:
   text: Continue Reading
   link: "https://njbiz.com/nj-business-portal-saves-time/"
 ---
-NJBIZ highlights how Business.NJ.gov has become an "essential resource" for New Jerseyans wanting to start and grow a business over the past five years.
+NJBIZ highlights how Business.NJ.gov has become an "essential resource" for New Jerseyans wanting to start a business.
