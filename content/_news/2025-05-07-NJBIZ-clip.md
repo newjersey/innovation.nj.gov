@@ -1,5 +1,5 @@
 ---
-image: /assets/images/news/NJ-seal.png
+image: /assets/images/news/nj-biz.png
 title: "COVERAGE: NJ Business Portal Saves Time for New Entrepreneurs"
 promoted: 1
 date: May 7, 2025
