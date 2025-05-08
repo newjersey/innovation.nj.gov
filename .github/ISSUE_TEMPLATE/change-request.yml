@@ -1,0 +1,29 @@
+name: Change Request
+description:
+  A request for content / feature changes to the innovation.nj.gov website
+title: "[Request]: "
+labels: ["Request"]
+type: "Task"
+assignees:
+ - jviall
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What is it you want to add/change/remove?
+      description: Describe the changes you wish to be made.
+      placeholder: |
+        THIS REPO IS ACCESSIBLE BY THE PUBLIC. _Do not enter any sensitive info_. Reach out to the internal team directly if you need to communicate sensitive information about this request.
+
+    validations:
+      required: true
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective
+      description: What needs to be completed before this task can be considered "Done"?
+      placeholder: |
+        THIS REPO IS ACCESSIBLE BY THE PUBLIC. _Do not enter any sensitive info_. Reach out to the internal team directly if you need to communicate sensitive information about this request.
+
+    validations:
+      required: false
