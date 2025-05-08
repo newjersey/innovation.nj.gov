@@ -2,7 +2,7 @@ name: Change Request
 description:
   A request for content / feature changes to the innovation.nj.gov website
 title: "[Request]: "
-labels: ["Request"]
+labels: ["Request", "notify"]
 type: "Task"
 assignees:
  - jviall
