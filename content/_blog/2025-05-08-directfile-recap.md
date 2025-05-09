@@ -7,7 +7,7 @@ excerpt: Many New Jerseyans liked using the new, free, easy way to file their ta
 image: /assets/images/news/NJ-seal.png
 ---
 
-![A screenshot image of two screens in the NJ Direct File website, shows a form for entering income information and determining eligibility for the Earned Income Tax Credit](/assests/images/news/nj-direct-file.png)
+![A screenshot image of two screens in the NJ Direct File website, shows a form for entering income information and determining eligibility for the Earned Income Tax Credit](/assets/images/news/nj-direct-file.png)
 _The New Jersey Direct File tool makes it easy to file your tax return for free_
 
 New Jersey’s first year of participation in the IRS Direct File program resulted in residents who participated saving an estimated $1.3 million in filing costs and receiving about $3.2 million in tax refunds. The [100% free tool](http://directfile.nj.gov) allowed nearly 8,500 New Jerseyans with simple tax situations to file federal and state tax returns quickly, securely, seamlessly, and with very high satisfaction scores.
