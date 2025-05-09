@@ -1,0 +1,242 @@
+# emails-direct-file
+- title: Easy
+  group: emails-direct-file
+  image: 
+    src: /assets/images/ceportfolio/emails/dfenglish-easy.webp
+    alt: ""
+- title: Facil
+  group: "emails-direct-file"
+  image: 
+    src: /assets/images/ceportfolio/emails/dfspanish-facil.webp
+    alt: ""
+- title: Free
+  group: "emails-direct-file"
+  image: 
+    src: /assets/images/ceportfolio/emails/dfenglish-free.webp
+    alt: ""
+- title: Gratis
+  group: "emails-direct-file"
+  image: 
+    src: /assets/images/ceportfolio/emails/dfspanish-gratis.webp
+    alt: ""
+- title: Secure
+  group: "emails-direct-file"
+  image: 
+    src: /assets/images/ceportfolio/emails/dfenglish-secure.webp
+    alt: ""
+- title: Seguro
+  group: "emails-direct-file"
+  image: 
+    src: /assets/images/ceportfolio/emails/dfspanish-seguro.webp
+    alt: ""
+# emails-higher-ed
+- title: Apply
+  group: "emails-higher-ed"
+  image: 
+    src: /assets/images/ceportfolio/emails/highered-apply.webp
+    alt: ""
+- title: FAFSA
+  group: "emails-higher-ed"
+  image: 
+    src: /assets/images/ceportfolio/emails/highered-fafsa.webp
+    alt: ""
+# out-of-home
+- title: DirectFile (English)
+  group: "out-of-home"
+  embed: 
+    src: "https://player.vimeo.com/video/1068907937?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+- title: DirectFile (Spanish)
+  group: "out-of-home"
+  embed: 
+    src: "https://player.vimeo.com/video/1068908359?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+- title: Higher Ed (English)
+  group: "out-of-home"
+  image: 
+    src: /assets/images/ceportfolio/outofhome/highered-english.webp
+    alt: ""
+- title: Higher Ed (Spanish)
+  group: "out-of-home"
+  image: 
+    src: /assets/images/ceportfolio/outofhome/highered-spanish.webp
+    alt: ""
+- title: Summer EBT (English)
+  group: "out-of-home"
+  image: 
+    src: /assets/images/ceportfolio/outofhome/sebt-english.webp
+    alt: ""
+# photo-business-hispanic
+- title: ""
+  group: "photo-business-hispanic"
+  image: 
+    src: /assets/images/ceportfolio/photo/businesshispanic-1.webp
+    alt: Hispanic business woman, maroon background
+- title: ""
+  group: "photo-business-hispanic"
+  image: 
+    src: /assets/images/ceportfolio/photo/businesshispanic-2.webp
+    alt: Hispanic business woman, purple background
+- title: ""
+  group: "photo-business-hispanic"
+  image: 
+    src: /assets/images/ceportfolio/photo/businesshispanic-3.webp
+    alt: Hispanic businessman, pink background
+# photo-business-original
+- title: ""
+  group: "photo-business-original"
+  image: 
+    src: /assets/images/ceportfolio/photo/businessoriginal-1.webp
+    alt: Business woman at desk
+- title: ""
+  group: "photo-business-original"
+  image: 
+    src: /assets/images/ceportfolio/photo/businessoriginal-2.webp
+    alt: Business owner at audioboard
+- title: ""
+  group: "photo-business-original"
+  image: 
+    src: /assets/images/ceportfolio/photo/businessoriginal-3.webp
+    alt: Business man smiling
+# photo-higher-ed
+- title: ""
+  group: "photo-higher-ed"
+  image: 
+    src: /assets/images/ceportfolio/photo/highered-1.webp
+    alt: New graduate proudly wearing her scrubs with her daughter
+- title: ""
+  group: "photo-higher-ed"
+  image: 
+    src: /assets/images/ceportfolio/photo/highered-2.webp
+    alt: Group of college students on campus
+- title: ""
+  group: "photo-higher-ed"
+  image: 
+    src: /assets/images/ceportfolio/photo/highered-3.webp
+    alt: Happy female college student walks to class
+# photo-some-college
+- title: ""
+  group: "photo-some-college"
+  image: 
+    src: /assets/images/ceportfolio/photo/somecollege-1.webp
+    alt: Male college student on laptop
+- title: ""
+  group: "photo-some-college"
+  image: 
+    src: /assets/images/ceportfolio/photo/somecollege-2.webp
+    alt: Male college student smiling
+- title: ""
+  group: "photo-some-college"
+  image: 
+    src: /assets/images/ceportfolio/photo/somecollege-3.webp
+    alt: Female college student in classroom
+# social-business
+- title: Pretty Sweet
+  group: "social-business"
+  embed: 
+    src: "https://player.vimeo.com/video/839052935?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    square: true
+- title: Teaching
+  group: "social-business"
+  embed: 
+    src: "https://player.vimeo.com/video/839052975?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    square: true
+- title: Vision
+  group: "social-business"
+  embed: 
+    src: "https://player.vimeo.com/video/839053024?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    square: true
+# social-df-english
+- title: 100% Free
+  group: "social-df-english"
+  image: 
+    src: /assets/images/ceportfolio/social/dfenglish-100-free.webp
+    alt: "Flyer with text, 'With IRS Direct File, filing your taxes is 100% Free. Really'."
+- title: Got Your Back
+  group: "social-df-english"
+  image: 
+    src: /assets/images/ceportfolio/social/dfenglish-got-your-back.webp
+    alt: "Flyer with text, 'Need help filing your taxes in New Jersey? Good news, IRS Direct File has your back'."
+- title: Said No One Ever
+  group: "social-df-english"
+  image: 
+    src: /assets/images/ceportfolio/social/dfenglish-said-no-one-ever.webp
+    alt: "Flyer with text, 'Filing your taxes is easy (said no one ever). Until IRS Direct File'."
+# social-df-spanish
+- title: 100% Gratis
+  group: "social-df-spanish"
+  image: 
+    src: /assets/images/ceportfolio/social/dfspanish-100-free.webp
+    alt: "Flyer with text in Spanish, 'Con IRS Direct File, declarar tus impuestos es 100% Gratis. En serio'."
+- title: Te Respalda
+  group: "social-df-spanish"
+  image: 
+    src: /assets/images/ceportfolio/social/dfspanish-got-your-back.webp
+    alt: "Flyer with text in Spanish, '¿Necesita ayuda para declarar sus impuestos en New Jersey? Buenas noticias, IRS Direct File te respalda'."
+- title: Dijo Nadie Nunca
+  group: "social-df-spanish"
+  image: 
+    src: /assets/images/ceportfolio/social/dfspanish-said-no-one-ever.webp
+    alt: "Flyer with text in Spanish, 'Declarar tus impuestos es fácil (dijo nadie nunca). Hasta que llegó IRS Direct File'."
+# social-higher-ed
+- title: “Earn a College Degree Affordably”
+  group: "social-higher-ed"
+  embed:
+    src: "https://player.vimeo.com/video/1063241267?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    vertical: true
+- title: “In-Demand”
+  group: "social-higher-ed"
+  embed:
+    src: "https://player.vimeo.com/video/1063242152?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    vertical: true
+- title: “What Can NJ Colleges Do For You?”
+  group: "social-higher-ed"
+  embed:
+    src: "https://player.vimeo.com/video/1063241612?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    vertical: true
+# social-some-college
+- title: “Everyone Has Their Own Reason”
+  group: "social-some-college"
+  embed:
+    src: "https://player.vimeo.com/video/864922691?h=1b0920dafc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    square: true
+- title: “Change This Uniform”
+  group: "social-some-college"
+  embed:
+    src: "https://player.vimeo.com/video/864922618?h=64e5841a73&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    square: true
+- title: “Why Do You Want to Go Back?”
+  group: "social-some-college"
+  embed:
+    src: "https://player.vimeo.com/video/864923088?h=7d56157366&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    square: true
+# testimonials
+- title: Business.NJ.gov Spanish Language
+  group: "testimonials"
+  embed:
+    src: "https://player.vimeo.com/video/1074706841?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+- title: Higher Ed Campaign
+  group: "testimonials"
+  embed:
+    src: "https://player.vimeo.com/video/1065078411?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+- title: My Career NJ
+  group: "testimonials"
+# tv-streaming
+- title: '"Owning a Small Business"'
+  group: "tv-streaming"
+  embed:
+    src: "https://player.vimeo.com/video/839057051?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+- title: '"El Èxito Comienza Aqui"'
+  group: "tv-streaming"
+  embed:
+    src: "https://player.vimeo.com/video/1063170877?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+- title: '"Closer Than You Think"'
+  group: "tv-streaming"
+  embed:
+    src: "https://player.vimeo.com/video/996845985?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+- title: '"What You Need for Where You Are"'
+  group: "tv-streaming"
+  embed:
+    src: "https://player.vimeo.com/video/1074715064?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+- title: '"So Many Reasons"'
+  group: "tv-streaming"
+  embed:
+    src: "https://player.vimeo.com/video/859531849?h=446d79520b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"

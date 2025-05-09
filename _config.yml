@@ -74,7 +74,7 @@ collections:
   projects:
     permalink: /:collection/:title/
     output: true
-    sort_by: title
+    sort_by: order
   news:
     output: false
     sort_by: date
@@ -89,10 +89,15 @@ collections:
   playbooks:
     permalink: cel-playbook/:title/
     output: true
-    sort_by: title
+    sort_by: name
   impactreport2024:
     permalink: /impact-report/2024/:title/
     directory: _impactreport2024/2024/
+    output: true
+    sort_by: order
+  comms-engagement-portfolio:
+    permalink: /comms-engagement-portfolio/:title/
+    directory: _comms-engagement-portfolio
     output: true
     sort_by: order
   skills:
@@ -200,3 +205,23 @@ defaults:
           sort-by: order
       open-graph:
         image: assets/images/impact-report/2024/impact-report-thumbnail.webp
+  - scope:
+      path: ""
+      type: "comms-engagement-portfolio"
+    values:
+      layout: playbook
+      hero:
+        image: /assets/images/ceportfolio/hero.webp
+        title: "Creative that moves New&nbsp;Jerseyans to act"
+        alt-text: Collage of images depicting various people performing many tasks
+        css-signifier: ce-portfolio
+      order-by: order
+      menu-group: Our Work
+      menu:
+        - title: Introduction
+          url: /comms-engagement-portfolio
+          collection: comms-engagement-portfolio
+          order-by: order
+          group-by: menu-group
+      open-graph:
+        image: /assets/images/ceportfolio/hero-thumbnail.webp
