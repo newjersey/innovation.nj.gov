@@ -1,5 +1,5 @@
 ---
-title: AnJu Hyppolite
+title: A.J. Hyppolite
 image: /assets/images/team/anju-hyppolite-headshot.webp
 ---
 
