@@ -32,7 +32,7 @@
           <header class="usa-card__header">
             <h3 class="usa-card__heading" id="{{item.title |slugify}}_heading">
               {% if item.title-prefix %}
-                {{ item.title-prefix | append: item.title }}
+              {{ item.title-prefix }} {{ item.title }}
               {% elsif include.blog %}
                 {{ item.title | remove_first: "BLOG: " }}
               {% else %}
