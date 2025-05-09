@@ -2,7 +2,7 @@
 layout: blog
 title: Making it easier for the disability community to find services through NJ.gov/disabilities
 author: Crystal Peñalosa, Digital Product Lead
-promoted: 1
+promoted:
 excerpt: The Office of Innovation worked across agencies and the disability community to create a popular hub of resources for New Jerseyans with disabilities, their families, and caregivers.
 image: /assets/images/njdhs.jpg
 figure:
