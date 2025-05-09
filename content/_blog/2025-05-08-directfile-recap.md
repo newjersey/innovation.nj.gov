@@ -4,7 +4,7 @@ title: Taxpayers Save Time, Money in First Year of Direct File in New Jersey
 author: Dave Cole, Chief Innovation Officer
 promoted: 1
 excerpt: Many New Jerseyans liked using the new, free, easy way to file their taxes directly with government. The 8,500 participants this year saved roughly $1.3 million in filing fees and received over $3 million in refunds.
-image: /assets/images/NJ-seal.png
+image: /assets/images/nj-seal.svg
 ---
 
 New Jersey’s first year of participation in the IRS Direct File program resulted in residents who participated saving an estimated $1.3 million in filing costs and receiving about $3.2 million in tax refunds. The [100% free tool](http://directfile.nj.gov) allowed nearly 8,500 New Jerseyans with simple tax situations to file federal and state tax returns quickly, securely, seamlessly, and with very high satisfaction scores.
@@ -31,11 +31,11 @@ The tool, which remains usable for those with filing extensions, automatically b
 This year, eligible filers included those who lived in New Jersey for all of 2024, earned all 2024 income in the state, made below certain income thresholds, and used the same filing status for both federal and state income tax returns. The tool was [expanded](https://www.nj.gov/governor/news/news/562025/approved/20250311a.shtml) during this year’s filing season to include those with distributions from employer-sponsored pension and retirement accounts.
 
 New Jerseyans who completed the post-filing survey were asked to provide any additional feedback. Their comments were positive, including:  
-*“I’ve used tax software for over 20 years now. This was easy and didn’t cost me anything.”*  
-*“It’s perfect. I couldn’t believe how easy it was. You saved me over $200 in fees.”*  
-*“This saved me money and time. Make it more known\!”*  
-*“My favorite thing about this site is that I don’t have to fill in so much info because a large majority of it was filled in automatically from my federal return. It does all of the work.”*  
-*“Thank you for this wonderful tool. It’s a very simple and easy-to-use tool for someone who doesn’t know much about these processes.”*  
-*“It’s a wonderful free application to submit tax returns. I would recommend all to file through this.”*
+>*“I’ve used tax software for over 20 years now. This was easy and didn’t cost me anything.”*
+>*“It’s perfect. I couldn’t believe how easy it was. You saved me over $200 in fees.”*  
+>*“This saved me money and time. Make it more known\!”*  
+>*“My favorite thing about this site is that I don’t have to fill in so much info because a large majority of it was filled in automatically from my federal return. It does all of the work.”*  
+>*“Thank you for this wonderful tool. It’s a very simple and easy-to-use tool for someone who doesn’t know much about these processes.”*  
+>*“It’s a wonderful free application to submit tax returns. I would recommend all to file through this.”*
 
 Given the feedback we’ve received, we know that New Jerseyans found Direct File to be an effective and efficient way to file their state and federal taxes, and we are excited to build on this foundation.
