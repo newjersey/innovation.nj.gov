@@ -3,43 +3,48 @@
   group: emails-direct-file
   image: 
     src: /assets/images/ceportfolio/emails/dfenglish-easy.webp
-    alt: ""
+    alt: "An easy way to file your taxes."
 - title: Facil
   group: "emails-direct-file"
   image: 
     src: /assets/images/ceportfolio/emails/dfspanish-facil.webp
-    alt: ""
+    alt: "Una manera fácil de presentar sus impuestos."
 - title: Free
   group: "emails-direct-file"
   image: 
     src: /assets/images/ceportfolio/emails/dfenglish-free.webp
-    alt: ""
+    alt: "File your taxes for free."
 - title: Gratis
   group: "emails-direct-file"
   image: 
     src: /assets/images/ceportfolio/emails/dfspanish-gratis.webp
-    alt: ""
+    alt: "Presenta tus impuestos gratis."
 - title: Secure
   group: "emails-direct-file"
   image: 
     src: /assets/images/ceportfolio/emails/dfenglish-secure.webp
-    alt: ""
+    alt: "A secure way to file your taxes."
 - title: Seguro
   group: "emails-direct-file"
   image: 
     src: /assets/images/ceportfolio/emails/dfspanish-seguro.webp
-    alt: ""
+    alt: "Una manera segura de presentar sus impuestos."
 # emails-higher-ed
 - title: Apply
   group: "emails-higher-ed"
   image: 
     src: /assets/images/ceportfolio/emails/highered-apply.webp
-    alt: ""
+    alt: "Apply to college today."
 - title: FAFSA
   group: "emails-higher-ed"
   image: 
     src: /assets/images/ceportfolio/emails/highered-fafsa.webp
-    alt: ""
+    alt: "Fill out your FAFSA."
+- title: Enroll
+  group: "emails-higher-ed"
+  image:
+    src: /assets/images/ceportfolio/emails/highered-enroll.webp
+    alt: "Enroll at a New Jersey college."
 # out-of-home
 - title: DirectFile (English)
   group: "out-of-home"
@@ -53,33 +58,33 @@
   group: "out-of-home"
   image: 
     src: /assets/images/ceportfolio/outofhome/highered-english.webp
-    alt: ""
+    alt: "A billboard of a group of college students sitting on the steps of a university building."
 - title: Higher Ed (Spanish)
   group: "out-of-home"
   image: 
     src: /assets/images/ceportfolio/outofhome/highered-spanish.webp
-    alt: ""
+    alt: "A billboard of a Mom proudly wearing her scrubs as her daughter looks on."
 - title: Summer EBT (English)
   group: "out-of-home"
   image: 
     src: /assets/images/ceportfolio/outofhome/sebt-english.webp
-    alt: ""
+    alt: "A photo of a mom and her son shopping in a grocery store."
 # photo-business-hispanic
 - title: ""
   group: "photo-business-hispanic"
   image: 
     src: /assets/images/ceportfolio/photo/businesshispanic-1.webp
-    alt: Hispanic business woman, maroon background
+    alt: Business woman, maroon background
 - title: ""
   group: "photo-business-hispanic"
   image: 
     src: /assets/images/ceportfolio/photo/businesshispanic-2.webp
-    alt: Hispanic business woman, purple background
+    alt: Business woman, purple background
 - title: ""
   group: "photo-business-hispanic"
   image: 
     src: /assets/images/ceportfolio/photo/businesshispanic-3.webp
-    alt: Hispanic businessman, pink background
+    alt: Businessman, pink background
 # photo-business-original
 - title: ""
   group: "photo-business-original"
@@ -219,6 +224,8 @@
     src: "https://player.vimeo.com/video/1065078411?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
 - title: My Career NJ
   group: "testimonials"
+  embed:
+    src: "https://player.vimeo.com/video/1082583768?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
 # tv-streaming
 - title: '"Owning a Small Business"'
   group: "tv-streaming"
