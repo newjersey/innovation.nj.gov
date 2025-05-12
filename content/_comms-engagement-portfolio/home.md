@@ -4,10 +4,15 @@ title: C+E Creative Portfolio
 menu-group: "Introduction"
 description: "We help stakeholders develop creative assets that drive uptake of State programs and services."
 order: 0
+figure:
+  url: /assets/images/kevin-nunez-council-disabilities.png
+  caption: Kevin Nuñez (right) of the New Jersey Council on Developmental Disabilities speaks via Zoom at the launch of the Disability Information Hub last year.
+  id: kevin-nunez-council-disabilities
+  alt-text: "Screenshot of a Zoom meeting"
 ---
-
-The Communication + Engagement Lab is the in-house marketing team for the State of New Jersey. We help stakeholders develop creative assets that drive uptake of State programs and services.
 
 ## Driven by residents. Created for residents. Starring residents.
 
-The C+E Lab puts residents at the center of everything we do—starting by uncovering resident insights to discover what motivates them and then using those insights to inform messaging that moves audiences to action. 
+The Communication \+ Engagement Lab is an in-house marketing team for the State of New Jersey. Our full service team helps stakeholders activate New Jerseyans—by using data and research to uncover their motivations and aspirations. Guided by these insights, we develop strategies that meet residents where they are, whether they're watching videos, scrolling through social media, listening to the radio, or seeing ads online. Our messaging speaks to them and moves them to act. 
+
+To learn more about our resident-centered work, click here. 
