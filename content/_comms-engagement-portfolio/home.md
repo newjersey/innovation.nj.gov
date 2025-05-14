@@ -13,6 +13,6 @@ figure:
 
 ## Driven by residents. Created for residents. Starring residents.
 
-The Communication \+ Engagement Lab is an in-house marketing team for the State of New Jersey. Our full service team helps stakeholders activate New Jerseyans—by using data and research to uncover their motivations and aspirations. Guided by these insights, we develop strategies that meet residents where they are, whether they're watching videos, scrolling through social media, listening to the radio, or seeing ads online. Our messaging speaks to them and moves them to act. 
+The Communication \+ Engagement Lab is an in-house marketing team for the State of New Jersey. Our full service team helps stakeholders activate New Jerseyans by using data and research to uncover their motivations and aspirations. Guided by these insights, we develop strategies that meet residents where they are, whether they're watching videos, scrolling through social media, listening to the radio, or seeing ads online. Our messaging speaks to them and moves them to act. 
 
-To learn more about our resident-centered work, click here. 
+To learn more about our resident-centered work, [click here](/projects/communication-engagement-lab). 

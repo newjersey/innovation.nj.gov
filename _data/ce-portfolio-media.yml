@@ -45,27 +45,29 @@
   image:
     src: /assets/images/ceportfolio/emails/highered-enroll.webp
     alt: "Enroll at a New Jersey college."
-# out-of-home
+# out-of-home-direct-file
 - title: DirectFile (English)
-  group: "out-of-home"
+  group: "out-of-home-direct-file"
   embed: 
     src: "https://player.vimeo.com/video/1068907937?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
 - title: DirectFile (Spanish)
-  group: "out-of-home"
+  group: "out-of-home-direct-file"
   embed: 
     src: "https://player.vimeo.com/video/1068908359?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+# out-of-home-higher-ed
 - title: Higher Ed (English)
-  group: "out-of-home"
+  group: "out-of-home-higher-ed"
   image: 
     src: /assets/images/ceportfolio/outofhome/highered-english.webp
     alt: "A billboard of a group of college students sitting on the steps of a university building."
 - title: Higher Ed (Spanish)
-  group: "out-of-home"
+  group: "out-of-home-higher-ed"
   image: 
     src: /assets/images/ceportfolio/outofhome/highered-spanish.webp
     alt: "A billboard of a Mom proudly wearing her scrubs as her daughter looks on."
+# out-of-home-summer-ebt
 - title: Summer EBT (English)
-  group: "out-of-home"
+  group: "out-of-home-summer-ebt"
   image: 
     src: /assets/images/ceportfolio/outofhome/sebt-english.webp
     alt: "A photo of a mom and her son shopping in a grocery store."
@@ -149,35 +151,35 @@
   embed: 
     src: "https://player.vimeo.com/video/839053024?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     square: true
-# social-df-english
+# social-df
 - title: 100% Free
-  group: "social-df-english"
+  group: "social-df"
   image: 
     src: /assets/images/ceportfolio/social/dfenglish-100-free.webp
     alt: "Flyer with text, 'With IRS Direct File, filing your taxes is 100% Free. Really'."
 - title: Got Your Back
-  group: "social-df-english"
+  group: "social-df"
   image: 
     src: /assets/images/ceportfolio/social/dfenglish-got-your-back.webp
     alt: "Flyer with text, 'Need help filing your taxes in New Jersey? Good news, IRS Direct File has your back'."
 - title: Said No One Ever
-  group: "social-df-english"
+  group: "social-df"
   image: 
     src: /assets/images/ceportfolio/social/dfenglish-said-no-one-ever.webp
     alt: "Flyer with text, 'Filing your taxes is easy (said no one ever). Until IRS Direct File'."
-# social-df-spanish
+# social-df
 - title: 100% Gratis
-  group: "social-df-spanish"
+  group: "social-df"
   image: 
     src: /assets/images/ceportfolio/social/dfspanish-100-free.webp
     alt: "Flyer with text in Spanish, 'Con IRS Direct File, declarar tus impuestos es 100% Gratis. En serio'."
 - title: Te Respalda
-  group: "social-df-spanish"
+  group: "social-df"
   image: 
     src: /assets/images/ceportfolio/social/dfspanish-got-your-back.webp
     alt: "Flyer with text in Spanish, '¿Necesita ayuda para declarar sus impuestos en New Jersey? Buenas noticias, IRS Direct File te respalda'."
 - title: Dijo Nadie Nunca
-  group: "social-df-spanish"
+  group: "social-df"
   image: 
     src: /assets/images/ceportfolio/social/dfspanish-said-no-one-ever.webp
     alt: "Flyer with text in Spanish, 'Declarar tus impuestos es fácil (dijo nadie nunca). Hasta que llegó IRS Direct File'."
@@ -213,37 +215,43 @@
   embed:
     src: "https://player.vimeo.com/video/864923088?h=7d56157366&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     square: true
-# testimonials
+# testimonials-business
 - title: Business.NJ.gov Spanish Language
-  group: "testimonials"
+  group: "testimonials-business"
   embed:
     src: "https://player.vimeo.com/video/1074706841?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+# testimonials-higher-ed
 - title: Higher Ed Campaign
-  group: "testimonials"
+  group: "testimonials-higher-ed"
   embed:
     src: "https://player.vimeo.com/video/1065078411?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+# testimonials-my-career
 - title: My Career NJ
-  group: "testimonials"
+  group: "testimonials-my-career"
   embed:
     src: "https://player.vimeo.com/video/1082583768?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-# tv-streaming
+# tv-streaming-business
 - title: '"Owning a Small Business"'
-  group: "tv-streaming"
+  group: "tv-streaming-business"
   embed:
     src: "https://player.vimeo.com/video/839057051?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+# tv-streaming-business-spanish
 - title: '"El Èxito Comienza Aqui"'
-  group: "tv-streaming"
+  group: "tv-streaming-business-spanish"
   embed:
     src: "https://player.vimeo.com/video/1063170877?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+# tv-streaming-some-college
 - title: '"Closer Than You Think"'
-  group: "tv-streaming"
+  group: "tv-streaming-some-college"
   embed:
     src: "https://player.vimeo.com/video/996845985?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+# tv-streaming-my-career
 - title: '"What You Need for Where You Are"'
-  group: "tv-streaming"
+  group: "tv-streaming-my-career"
   embed:
     src: "https://player.vimeo.com/video/1074715064?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+# tv-streaming-higher-ed
 - title: '"So Many Reasons"'
-  group: "tv-streaming"
+  group: "tv-streaming-higher-ed"
   embed:
     src: "https://player.vimeo.com/video/859531849?h=446d79520b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
