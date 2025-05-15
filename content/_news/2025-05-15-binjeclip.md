@@ -8,4 +8,4 @@ cta:
   text: Continue Reading
   link: "https://binje.com/state-touts-success-of-business-nj-gov-on-five-year-anniversary"
 ---
-Business In New Jersey Everday highlights the impact of five years of Business.NJ.gov, which has helped thousands of businesses launch and grow.
+Business In New Jersey Everday highlights the recent impact report by Business.NJ.gov which shows that businesses start faster when using the tool.
