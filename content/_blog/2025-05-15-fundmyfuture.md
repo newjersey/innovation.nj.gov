@@ -5,6 +5,10 @@ author: Katie Fiore, Director, Communication + Engagement Lab
 promoted: 1
 excerpt: How the Office of Innovation’s Communications + Engagement Lab transformed the communication of an upskilling program into a promise for a better future.
 image: /assets/images/news/njdol.jpg
+figure:
+  url: /assets/images/news/
+  caption: The new program name, Fund My Future, spoke to the needs and aspirations of New Jersey families.
+  alt-text: A family of four is shown in the process of moving into a new home. 
 ---
 In 2024, the State of New Jersey launched a bold new initiative to address a pressing issue: helping chronically unemployed and underemployed residents gain the skills they need for higher-paying, more sustainable jobs. The program, centered around the concept of "Lifelong Learning Accounts" (LiLAs), was designed to provide financial support for career training, upskilling, and required wraparound services such as transportation, child care, and more. But as the team behind the effort quickly discovered, simply offering a well-intentioned service isn’t enough. To make a real impact, the program needed emotional connection.
 
