@@ -10,7 +10,7 @@ At every video shoot, the featured residents are photographed for use across all
 {% assign businessOriginalItems = site.data.ce-portfolio-media | where_exp: "item", "item.group == 'photo-business-original'" | sort: "title" %}
 {% include simple-card.html items=businessOriginalItems colwidth=6 %}
 
-## Business.NJ.gov Spanish-speaking Business Owners
+## Business.NJ.gov <br /> Spanish-speaking Business Owners
 
 
 {% assign businessHispanicItems = site.data.ce-portfolio-media | where_exp: "item", "item.group == 'photo-business-hispanic'" | sort: "title" %}

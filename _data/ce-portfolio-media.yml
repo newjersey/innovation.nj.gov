@@ -4,7 +4,7 @@
   image: 
     src: /assets/images/ceportfolio/emails/dfenglish-easy.webp
     alt: "An easy way to file your taxes."
-- title: Facil
+- title: Fácil
   group: "emails-direct-file"
   image: 
     src: /assets/images/ceportfolio/emails/dfspanish-facil.webp
@@ -46,27 +46,27 @@
     src: /assets/images/ceportfolio/emails/highered-enroll.webp
     alt: "Enroll at a New Jersey college."
 # out-of-home-direct-file
-- title: DirectFile (English)
+- title: English
   group: "out-of-home-direct-file"
   embed: 
     src: "https://player.vimeo.com/video/1068907937?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-- title: DirectFile (Spanish)
+- title: Spanish
   group: "out-of-home-direct-file"
   embed: 
     src: "https://player.vimeo.com/video/1068908359?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
 # out-of-home-higher-ed
-- title: Higher Ed (English)
+- title: English
   group: "out-of-home-higher-ed"
   image: 
     src: /assets/images/ceportfolio/outofhome/highered-english.webp
     alt: "A billboard of a group of college students sitting on the steps of a university building."
-- title: Higher Ed (Spanish)
+- title: Spanish
   group: "out-of-home-higher-ed"
   image: 
     src: /assets/images/ceportfolio/outofhome/highered-spanish.webp
     alt: "A billboard of a Mom proudly wearing her scrubs as her daughter looks on."
 # out-of-home-summer-ebt
-- title: Summer EBT (English)
+- title: English
   group: "out-of-home-summer-ebt"
   image: 
     src: /assets/images/ceportfolio/outofhome/sebt-english.webp
@@ -216,17 +216,17 @@
     src: "https://player.vimeo.com/video/864923088?h=7d56157366&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     square: true
 # testimonials-business
-- title: Business.NJ.gov Spanish Language
+- title: Spanish-speaking Business Owners
   group: "testimonials-business"
   embed:
     src: "https://player.vimeo.com/video/1074706841?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
 # testimonials-higher-ed
-- title: Higher Ed Campaign
+- title: English
   group: "testimonials-higher-ed"
   embed:
     src: "https://player.vimeo.com/video/1065078411?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
 # testimonials-my-career
-- title: My Career NJ
+- title: English
   group: "testimonials-my-career"
   embed:
     src: "https://player.vimeo.com/video/1082583768?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
