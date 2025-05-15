@@ -1,5 +1,5 @@
 ---
-image: /assets/images/news/nj-biz.png
+image: /assets/images/news/BINJE.png
 title: "COVERAGE: State touts success of Business.NJ.gov"
 promoted: 1
 date: May ,15 2025
