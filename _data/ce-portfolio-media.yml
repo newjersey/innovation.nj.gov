@@ -136,81 +136,81 @@
     src: /assets/images/ceportfolio/photo/somecollege-3.webp
     alt: Female college student in classroom
 # social-business
-- title: Pretty Sweet
+- title: '"Pretty Sweet"'
   group: "social-business"
   embed: 
     src: "https://player.vimeo.com/video/839052935?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     square: true
-- title: Teaching
+- title: '"Teaching"'
   group: "social-business"
   embed: 
     src: "https://player.vimeo.com/video/839052975?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     square: true
-- title: Vision
+- title: '"Vision"'
   group: "social-business"
   embed: 
     src: "https://player.vimeo.com/video/839053024?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     square: true
 # social-df
-- title: 100% Free
+- title: '"100% Free"'
   group: "social-df"
   image: 
     src: /assets/images/ceportfolio/social/dfenglish-100-free.webp
     alt: "Flyer with text, 'With IRS Direct File, filing your taxes is 100% Free. Really'."
-- title: Got Your Back
+- title: '"Got Your Back"'
   group: "social-df"
   image: 
     src: /assets/images/ceportfolio/social/dfenglish-got-your-back.webp
     alt: "Flyer with text, 'Need help filing your taxes in New Jersey? Good news, IRS Direct File has your back'."
-- title: Said No One Ever
+- title: '"Said No One Ever"'
   group: "social-df"
   image: 
     src: /assets/images/ceportfolio/social/dfenglish-said-no-one-ever.webp
     alt: "Flyer with text, 'Filing your taxes is easy (said no one ever). Until IRS Direct File'."
 # social-df
-- title: 100% Gratis
+- title: '"100% Gratis"'
   group: "social-df"
   image: 
     src: /assets/images/ceportfolio/social/dfspanish-100-free.webp
     alt: "Flyer with text in Spanish, 'Con IRS Direct File, declarar tus impuestos es 100% Gratis. En serio'."
-- title: Te Respalda
+- title: '"Te Respalda"'
   group: "social-df"
   image: 
     src: /assets/images/ceportfolio/social/dfspanish-got-your-back.webp
     alt: "Flyer with text in Spanish, '¿Necesita ayuda para declarar sus impuestos en New Jersey? Buenas noticias, IRS Direct File te respalda'."
-- title: Dijo Nadie Nunca
+- title: '"Dijo Nadie Nunca"'
   group: "social-df"
   image: 
     src: /assets/images/ceportfolio/social/dfspanish-said-no-one-ever.webp
     alt: "Flyer with text in Spanish, 'Declarar tus impuestos es fácil (dijo nadie nunca). Hasta que llegó IRS Direct File'."
 # social-higher-ed
-- title: “Earn a College Degree Affordably”
+- title: '"Earn a College Degree Affordably"'
   group: "social-higher-ed"
   embed:
     src: "https://player.vimeo.com/video/1063241267?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     vertical: true
-- title: “In-Demand”
+- title: '"In-Demand"'
   group: "social-higher-ed"
   embed:
     src: "https://player.vimeo.com/video/1063242152?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     vertical: true
-- title: “What Can NJ Colleges Do For You?”
+- title: '"What Can NJ Colleges Do For You?"'
   group: "social-higher-ed"
   embed:
     src: "https://player.vimeo.com/video/1063241612?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     vertical: true
 # social-some-college
-- title: “Everyone Has Their Own Reason”
+- title: '"Everyone Has Their Own Reason"'
   group: "social-some-college"
   embed:
     src: "https://player.vimeo.com/video/864922691?h=1b0920dafc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     square: true
-- title: “Change This Uniform”
+- title: '"Change This Uniform"'
   group: "social-some-college"
   embed:
     src: "https://player.vimeo.com/video/864922618?h=64e5841a73&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     square: true
-- title: “Why Do You Want to Go Back?”
+- title: '"Why Do You Want to Go Back?"'
   group: "social-some-college"
   embed:
     src: "https://player.vimeo.com/video/864923088?h=7d56157366&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
@@ -236,12 +236,12 @@
   embed:
     src: "https://player.vimeo.com/video/839057051?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
 # tv-streaming-business-spanish
-- title: '"El Èxito Comienza Aqui"'
+- title: '"El Èxito Comienza Aquí"'
   group: "tv-streaming-business-spanish"
   embed:
     src: "https://player.vimeo.com/video/1063170877?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
 # tv-streaming-some-college
-- title: '"Closer Than You Think"'
+- title: '"So Many Reasons"'
   group: "tv-streaming-some-college"
   embed:
     src: "https://player.vimeo.com/video/996845985?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
@@ -251,7 +251,7 @@
   embed:
     src: "https://player.vimeo.com/video/1074715064?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
 # tv-streaming-higher-ed
-- title: '"So Many Reasons"'
+- title: '"Closer Than You Think"'
   group: "tv-streaming-higher-ed"
   embed:
     src: "https://player.vimeo.com/video/859531849?h=446d79520b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"

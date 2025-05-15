@@ -13,7 +13,7 @@ Our videos are developed based on insights into our audience’s motivations and
 {% assign tvStreamingItems = site.data.ce-portfolio-media | where_exp: "item", "item.group == 'tv-streaming-business'" | sort: "title" %}
 {% include simple-card.html items=tvStreamingItems colwidth=6 %}
 
-## Business.NJ.gov Spanish-speaking business owners
+## Business.NJ.gov Spanish-speaking <br /> Business Owners
 {% assign tvStreamingItems = site.data.ce-portfolio-media | where_exp: "item", "item.group == 'tv-streaming-business-spanish'" | sort: "title" %}
 {% include simple-card.html items=tvStreamingItems colwidth=6 %}
 
