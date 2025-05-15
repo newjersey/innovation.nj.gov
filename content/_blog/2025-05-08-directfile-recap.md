@@ -2,7 +2,7 @@
 layout: blog
 title: Taxpayers Save Time, Money in First Year of Direct File in New Jersey
 author: Dave Cole, Chief Innovation Officer
-promoted: 1
+promoted: 
 excerpt: Many New Jerseyans liked using the new, free, easy way to file their taxes directly with government. The 8,500 participants this year saved roughly $1.3 million in filing fees and received over $3 million in refunds.
 image: /assets/images/news/NJ-seal.png
 figure:
