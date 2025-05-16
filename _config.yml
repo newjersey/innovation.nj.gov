@@ -162,7 +162,7 @@ defaults:
       path: ""
       type: "skills"
     values:
-      menu-group: Learn More
+      menu-group: Resources
       menu:
         - title: About Innovation Skills
           url: /skills/
