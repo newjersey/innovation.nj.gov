@@ -2,7 +2,7 @@
 image: /assets/images/BINJE.png
 title: "COVERAGE: State touts success of Business.NJ.gov"
 promoted: 1
-date: May ,15 2025
+date: May 15, 2025
 source: BINJE
 cta:
   text: Continue Reading
