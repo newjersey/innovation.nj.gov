@@ -20,11 +20,10 @@ Social media is one of the best places to activate residents. Our ads work hard 
 {% assign socialHigherEdItems = site.data.ce-portfolio-media | where_exp: "item", "item.group == 'social-higher-ed'" | sort: "title" %}
 {% include simple-card.html items=socialHigherEdItems colwidth=6 %}
 
-## Direct File
-{% assign socialDfEngishItems = site.data.ce-portfolio-media | where_exp: "item", "item.group == 'social-df'" | sort: "title" %}
-{% include simple-card.html items=socialDfEngishItems colwidth=6 %}
+## My Career NJ
+{% assign socialMyCareerItems = site.data.ce-portfolio-media | where_exp: "item", "item.group == 'social-my-career'" | sort: "title" %}
+{% include simple-card.html items=socialMyCareerItems colwidth=6 %}
 
 ## Direct File
-
-{% assign socialDfSpanishItems = site.data.ce-portfolio-media | where_exp: "item", "item.group == 'social-df'" | sort: "title" %}
-{% include simple-card.html items=socialDfSpanishItems colwidth=6 %}
+{% assign socialDfItems = site.data.ce-portfolio-media | where_exp: "item", "item.group == 'social-df'" | sort: "title" %}
+{% include simple-card.html items=socialDfItems colwidth=6 %}
