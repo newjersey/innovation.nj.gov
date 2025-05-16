@@ -135,6 +135,22 @@
   image: 
     src: /assets/images/ceportfolio/photo/somecollege-3.webp
     alt: Female college student in classroom
+# photo-my-career
+- title: ""
+  group: "photo-my-career"
+  image: 
+    src: /assets/images/ceportfolio/photo/mycareer-1.webp
+    alt: Two IT coworkers collaborate on a project
+- title: ""
+  group: "photo-my-career"
+  image: 
+    src: /assets/images/ceportfolio/photo/mycareer-2.webp
+    alt: A nurse cares for a patient
+- title: ""
+  group: "photo-my-career"
+  image: 
+    src: /assets/images/ceportfolio/photo/mycareer-3.webp
+    alt: Two manufacturing coworkers in a meeting
 # social-business
 - title: '"Pretty Sweet"'
   group: "social-business"
@@ -215,6 +231,37 @@
   embed:
     src: "https://player.vimeo.com/video/864923088?h=7d56157366&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     square: true
+# social-my-career
+- title: '"Whereever You Are"'
+  group: "social-my-career"
+  embed:
+    src: "https://player.vimeo.com/video/1084713665?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    vertical: true
+- title: '"All in One Place"'
+  group: "social-my-career"
+  embed:
+    src: "https://player.vimeo.com/video/1084716305?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    vertical: true
+- title: '"Finding the Right Job"'
+  group: "social-my-career"
+  embed:
+    src: "https://player.vimeo.com/video/1084718165?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    vertical: true
+- title: '"Esté Donde Esté en Su Carrera"'
+  group: "social-my-career"
+  embed:
+    src: "https://player.vimeo.com/video/1084721652?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    vertical: true
+- title: '"Todos en un Solo Lugar"'
+  group: "social-my-career"
+  embed:
+    src: "https://player.vimeo.com/video/1084721582?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    vertical: true
+- title: '"Encontrar El Trabajo Adecuado"'
+  group: "social-my-career"
+  embed:
+    src: "https://player.vimeo.com/video/1084721508?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    vertical: true
 # testimonials-business
 - title: Spanish-speaking Business Owners
   group: "testimonials-business"

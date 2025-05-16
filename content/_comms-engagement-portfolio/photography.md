@@ -27,3 +27,8 @@ At every video shoot, the featured residents are photographed for use across all
 
 {% assign higherEdItems = site.data.ce-portfolio-media | where_exp: "item", "item.group == 'photo-higher-ed'" | sort: "title" %}
 {% include simple-card.html items=higherEdItems colwidth=6 %}
+
+## My Career NJ
+
+{% assign myCareerItems = site.data.ce-portfolio-media | where_exp: "item", "item.group == 'photo-my-career'" | sort: "title" %}
+{% include simple-card.html items=myCareerItems colwidth=6 %}
