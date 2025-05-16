@@ -224,4 +224,4 @@ defaults:
           order-by: order
           group-by: menu-group
       open-graph:
-        image: /assets/images/ceportfolio/hero-thumbnail.webp
+        image: assets/images/ceportfolio/hero-thumbnail.webp
