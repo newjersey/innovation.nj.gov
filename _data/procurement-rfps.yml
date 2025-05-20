@@ -1,0 +1,9 @@
+# Items here show up as solitications for procurement on the /join page
+# Each item has a link to a document, or zip archive of several documents
+# and a human readable title for the link.
+#
+# .e.g.
+# - title: Some RFP Zip
+#   url: /assets/documents/resx-rfp-03-31-1995.zip
+#
+# When there are no items, the /join page's copy should appropriately reflect that.
