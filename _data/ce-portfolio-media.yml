@@ -173,27 +173,26 @@
   image: 
     src: /assets/images/ceportfolio/social/dfenglish-100-free.webp
     alt: "Flyer with text, 'With IRS Direct File, filing your taxes is 100% Free. Really'."
-- title: '"Got Your Back"'
-  group: "social-df"
-  image: 
-    src: /assets/images/ceportfolio/social/dfenglish-got-your-back.webp
-    alt: "Flyer with text, 'Need help filing your taxes in New Jersey? Good news, IRS Direct File has your back'."
-- title: '"Said No One Ever"'
-  group: "social-df"
-  image: 
-    src: /assets/images/ceportfolio/social/dfenglish-said-no-one-ever.webp
-    alt: "Flyer with text, 'Filing your taxes is easy (said no one ever). Until IRS Direct File'."
-# social-df
 - title: '"100% Gratis"'
   group: "social-df"
   image: 
     src: /assets/images/ceportfolio/social/dfspanish-100-free.webp
     alt: "Flyer with text in Spanish, 'Con IRS Direct File, declarar tus impuestos es 100% Gratis. En serio'."
+- title: '"Got Your Back"'
+  group: "social-df"
+  image: 
+    src: /assets/images/ceportfolio/social/dfenglish-got-your-back.webp
+    alt: "Flyer with text, 'Need help filing your taxes in New Jersey? Good news, IRS Direct File has your back'."
 - title: '"Te Respalda"'
   group: "social-df"
   image: 
     src: /assets/images/ceportfolio/social/dfspanish-got-your-back.webp
     alt: "Flyer with text in Spanish, '¿Necesita ayuda para declarar sus impuestos en New Jersey? Buenas noticias, IRS Direct File te respalda'."
+- title: '"Said No One Ever"'
+  group: "social-df"
+  image: 
+    src: /assets/images/ceportfolio/social/dfenglish-said-no-one-ever.webp
+    alt: "Flyer with text, 'Filing your taxes is easy (said no one ever). Until IRS Direct File'."
 - title: '"Dijo Nadie Nunca"'
   group: "social-df"
   image: 
@@ -237,25 +236,25 @@
   embed:
     src: "https://player.vimeo.com/video/1084713665?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     vertical: true
-- title: '"All in One Place"'
-  group: "social-my-career"
-  embed:
-    src: "https://player.vimeo.com/video/1084716305?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-    vertical: true
-- title: '"Finding the Right Job"'
-  group: "social-my-career"
-  embed:
-    src: "https://player.vimeo.com/video/1084718165?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-    vertical: true
 - title: '"Esté Donde Esté en Su Carrera"'
   group: "social-my-career"
   embed:
     src: "https://player.vimeo.com/video/1084721652?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     vertical: true
+- title: '"All in One Place"'
+  group: "social-my-career"
+  embed:
+    src: "https://player.vimeo.com/video/1084716305?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    vertical: true
 - title: '"Todos en un Solo Lugar"'
   group: "social-my-career"
   embed:
     src: "https://player.vimeo.com/video/1084721582?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    vertical: true
+- title: '"Finding the Right Job"'
+  group: "social-my-career"
+  embed:
+    src: "https://player.vimeo.com/video/1084718165?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
     vertical: true
 - title: '"Encontrar El Trabajo Adecuado"'
   group: "social-my-career"
@@ -291,7 +290,7 @@
 - title: '"So Many Reasons"'
   group: "tv-streaming-some-college"
   embed:
-    src: "https://player.vimeo.com/video/996845985?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    src: "https://player.vimeo.com/video/859531849?h=446d79520b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
 # tv-streaming-my-career
 - title: '"What You Need for Where You Are"'
   group: "tv-streaming-my-career"
@@ -301,4 +300,4 @@
 - title: '"Closer Than You Think"'
   group: "tv-streaming-higher-ed"
   embed:
-    src: "https://player.vimeo.com/video/859531849?h=446d79520b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    src: "https://player.vimeo.com/video/996845985?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
