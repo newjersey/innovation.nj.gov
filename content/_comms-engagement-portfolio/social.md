@@ -21,9 +21,9 @@ Social media is one of the best places to activate residents. Our ads work hard 
 {% include simple-card.html items=socialHigherEdItems colwidth=6 %}
 
 ## My Career NJ
-{% assign socialMyCareerItems = site.data.ce-portfolio-media | where_exp: "item", "item.group == 'social-my-career'" | sort: "title" %}
+{% assign socialMyCareerItems = site.data.ce-portfolio-media | where_exp: "item", "item.group == 'social-my-career'" %}
 {% include simple-card.html items=socialMyCareerItems colwidth=6 %}
 
 ## Direct File
-{% assign socialDfItems = site.data.ce-portfolio-media | where_exp: "item", "item.group == 'social-df'" | sort: "title" %}
+{% assign socialDfItems = site.data.ce-portfolio-media | where_exp: "item", "item.group == 'social-df'" %}
 {% include simple-card.html items=socialDfItems colwidth=6 %}
