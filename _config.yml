@@ -104,6 +104,8 @@ collections:
     output: true
   trainings:
     output: false
+  ai-how-tos:
+    output: false
   redirects:
     permalink: /:slug/
     output: true
