@@ -2,7 +2,7 @@
 layout: blog
 title: Why Emotional Connection is Key to Program Uptake
 author: Katie Fiore, Director, Communication + Engagement Lab
-promoted: 1
+promoted:
 excerpt: How the Office of Innovation’s Communications + Engagement Lab transformed the communication of an upskilling program into a promise for a better future.
 image: /assets/images/news/njdol.jpg
 figure:
