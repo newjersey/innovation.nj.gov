@@ -4,7 +4,7 @@ title: Making Government Call Centers More Human-Centered and More Efficient
 author: Joe DeLaTorre, Product Manager, and Jessica Lax, Senior Advisor for Responsible AI
 promoted: 1
 excerpt: New Jersey used best practices in menu design to modernize 12 call centers... and continues to enhance the caller experience by leveraging AI.
-image: 
+image: /assets/images/news/NJ-seal.png
 figure:
   url: 
   caption: 
