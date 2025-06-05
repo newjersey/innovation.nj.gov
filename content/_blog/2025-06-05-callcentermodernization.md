@@ -23,6 +23,8 @@ In New Jersey, our Office of Innovation is helping reimagine the phone systems t
 
 The results are clear: when menus are simpler, language is clearer, and self-service options are thoughtfully built in… the caller experience – and the overall system performance – improves.
 
+{% include figure.html %}
+
 ### **Why Menu Design Matters**
 
 For many residents, calling a government office isn’t just about their question — it’s about **access to crucial services**. To food assistance. To unemployment benefits. To tax support. To a new business license.
