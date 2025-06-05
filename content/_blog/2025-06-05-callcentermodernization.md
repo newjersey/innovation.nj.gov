@@ -7,8 +7,8 @@ excerpt: New Jersey used best practices in menu design to modernize 12 call cent
 image: /assets/images/news/NJ-seal.png
 figure:
   url: 
-  caption: Jessica Lax and Joe DeLaTorre present to 100 attendees at the Code for America conference on how to leverage AI to modernize call centers and deliver better customer experiences.
-  alt-text: Jessica Lax and Joe DeLaTorre are standing near a podium on stage at the Code for America conference with a presentation in the background.
+  caption: Office of Innovation employees Jessica Lax, Joe DeLaTorre, and Case Walker present to 100 attendees at the Code for America conference on how to leverage AI to modernize call centers and deliver better customer experiences.
+  alt-text: Office of Innovation employees Jessica Lax and Joe DeLaTorre are standing near a podium on stage with a presentation in the background. Jessica is speaking.
 open-graph:
     image: 
 ---
