@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/nj-biz.png
 title: "COVERAGE: NJ Business Portal Saves Time for New Entrepreneurs"
-promoted: 2
+promoted: 3
 date: May 7, 2025
 source: NJBIZ
 cta:
