@@ -1,11 +1,11 @@
 ---
-image: /assets/images/BINJE.png
-title: "COVERAGE: State touts success of Business.NJ.gov"
-promoted: 
-date: May 15, 2025
-source: BINJE
+image: /assets/images/
+title: "COVERAGE: IRS Direct File Sees Higher Scores Among Users"
+promoted: 3
+date: May 30, 2025
+source: FEDERAL NEWS NETWORK
 cta:
   text: Continue Reading
-  link: "https://binje.com/state-touts-success-of-business-nj-gov-on-five-year-anniversary"
+  link: "https://federalnewsnetwork.com/it-modernization/2025/05/irs-direct-file-sees-higher-scores-among-users-despite-a-push-to-shutter-it/"
 ---
-Business In New Jersey Everday highlights the recent impact report by Business.NJ.gov which shows that businesses start faster when using the tool.
+In New Jersey's first year using Direct File, tax-return filers gave high customer satisfaction scores for the tool that allowed them to file quickly, easily, and for free. 
