@@ -1,11 +1,11 @@
 ---
-image: /assets/images/news/
-title: "COVERAGE: Podcast 
+image: /assets/images/news/statescoop-podcast.webp
+title: "COVERAGE: Inside New Jersey’s Call Center Modernizations"
 promoted: 2
 date: June 12, 2025
-source: State Scoop Podcast
+source: State Scoop
 cta:
   text: Continue Reading
   link: "https://statescoop.com/radio/inside-new-jerseys-ai-powered-warm-callback-system/"
 ---
-In StateScoop's Priorities podcast, Dave Cole and Joe DeLaTorre discuss New Jersey's success in modernizing 12 call centers over the past few years.
+In StateScoop's Priorities podcast, Dave Cole and Joe DeLaTorre discuss New Jersey's success in modernizing 12 call centers by leveraging "warm callbacks," AI, and more.
