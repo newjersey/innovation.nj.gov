@@ -3,7 +3,7 @@ image: /assets/images/news/statescoop-podcast.webp
 title: "COVERAGE: Inside New Jersey’s Call Center Modernizations"
 promoted: 2
 date: June 12, 2025
-source: State Scoop
+source: STATESCOOP
 cta:
   text: Continue Reading
   link: "https://statescoop.com/radio/inside-new-jerseys-ai-powered-warm-callback-system/"
