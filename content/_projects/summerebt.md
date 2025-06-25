@@ -9,12 +9,11 @@ The Office of Innovation worked with the NJ Department of Agriculture (NJDA) to 
 
 Children can qualify for Summer EBT benefits through their school district (that participates in the National School Lunch Program / School Breakfast Program) if they have been certified as eligible to receive federal free or reduced price meals. They may also qualify if they are recipients of SNAP, TANF, income-eligible Medicaid, or Foster care programs (STMF). 
 
-### Innovation In Action
-
 After issuing benefits to school meal recipients, NJDA faced challenges determining which STMF children had already received benefits and which ones still needed them, because these data sources are stored at different agencies without an easy way to verify if a child is in both datasets. NJDA came to OOI for support in deduplicating these multiple datasets to identify the eligible recipients of Summer-EBT benefits.
 
-In 2024, our data science team developed a process to identify unique eligible students, iteratively refining a machine learning model to deduplicate the data in close collaboration with NJDA. In 2025, we built on that successful foundation to identify duplicates and issue all benefits at the beginning of the program season (instead of in stages). We now are building a process to issue benefits on a weekly basis to newly-eligible children throughout the summer.
+### Innovation In Action
 
+In 2024, our data science team developed a process to identify unique eligible students, iteratively refining a machine learning model to deduplicate the data in close collaboration with NJDA. In 2025, we built on that successful foundation to identify duplicates and issue all benefits at the beginning of the program season (instead of in stages). We now are building a process to issue benefits on a weekly basis to newly-eligible children throughout the summer.
 
 ### Impact \+ Metrics
 
