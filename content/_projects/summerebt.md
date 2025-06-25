@@ -33,7 +33,7 @@ In 2024, our data science team developed a process to identify unique eligible s
 
 * New Jersey Department of Agriculture
 * New Jersey Department of Human Services
-* New Jersey Deoartment of Education
+* New Jersey Department of Education
 
 *Added 6/25/25*
 
