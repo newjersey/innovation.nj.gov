@@ -27,7 +27,7 @@ In 2024, our data science team developed a process to identify unique eligible s
 
 ### Resources and Additional Information
 
-* [Summer EBT Program for Kids Official Page](https://njbiz.com/nj-launches-online-tool-to-estimate-state-maternity-coverage/)
+* [Summer EBT Program for Kids Official Page](https://www.nj.gov/summerebt/)
 
 ### Partners
 
