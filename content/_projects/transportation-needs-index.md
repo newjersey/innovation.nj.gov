@@ -1,38 +1,41 @@
 ---
 title: Transportation Needs Index
-initiative: Data and Policy
+initiative: Data + Policy
 ---
 
-The Office of Innovation worked with the NJ Department of Agriculture (NJDA) to solve complex data challenges and issue $120 Summer Electronic Benefit Transfer (Summer-EBT) grocery benefits to thousands of eligible children in 2024 and 2025 that would not have received them otherwise.
+Policy leaders and decisionmakers in New Jersey need to be able to easily understand local data in order to find areas that would benefit from new kinds of transit solutions. OOI and the Department of Environmental Protection teamed up to create a new index that is helping inform those discussions.
 
 ### Challenge
 
-Children can qualify for Summer EBT benefits through their school district (that participates in the National School Lunch Program / School Breakfast Program) if they have been certified as eligible to receive federal free or reduced price meals. They may also qualify if they are recipients of SNAP, TANF, income-eligible Medicaid, or Foster care programs (STMF). 
+In recent years, the New Jersey Department of Environmental Protection has seen the number and types of innovative “eMobility” transportation solutions continue to grow. New and revitalized modes including carshares, microtransit, bikeshares, and shuttle services can provide cleaner, more affordable, and reliable transportation options. 
 
-After issuing benefits to school meal recipients, NJDA faced challenges determining which STMF children had already received benefits and which ones still needed them, because these data sources are stored at different agencies without an easy way to verify if a child is in both datasets. NJDA came to OOI for support in deduplicating these multiple datasets to identify the eligible recipients of Summer-EBT benefits.
+With this backdrop, investments in eMobility need to be informed by a robust set of data and tools that help with decisionmaking in collaboration with on-the-ground community groups. 
 
 ### Innovation In Action
 
-In 2024, our data science team developed a process to identify unique eligible students, iteratively refining a machine learning model to deduplicate the data in close collaboration with NJDA. In 2025, we built on that successful foundation to identify duplicates and issue all benefits at the beginning of the program season (instead of in stages). We now are building a process to issue benefits on a weekly basis to newly-eligible children throughout the summer.
+The project team searched for innovative approaches to this challenge and identified the Jersey City on the Move transportation study as a promising framework. They modified and built off that approach, while also soliciting additional feedback from transportation planning professionals. 
+
+The team found and analyzed multiple data sources, including disability status, vehicle access, poverty levels, age demographics, and population density along with proximity to bus stops and rail stations. With this data, NJDEP then created a data visualization that helps identify communities where transportation investments could have the greatest impact.
+
+This Transportation Needs Index now serves as a data-driven analysis tool to identify areas where high needs intersect with limited transit access. The interactive map lets users view demographic needs, transit access, and overburdened community layers across New Jersey, with options to explore individual scores and combined priority areas. By exclusively using publicly available data sources and openly sharing the methodology, the index creates an initial foundation for others to build on. 
+
 
 ### Impact \+ Metrics
 
-* About 106,000 children on STMF received benefits in 2024 because of our deduplication efforts, about 15% of total benefit recipients. That totals about $12.8 million in additional benefits issued to children identified as eligible by OOI.
-* As of June 2025, about 76,000 children on STMF have been identified to receive benefits, about 11% of total benefit recipients. This totals about $9.1 million in additional benefits to be issued to children identified as eligible by OOI.
+* NJDEP is using the Transportation Needs Index to help inform upcoming public engagements in which local transportation needs are discussed.This Community Transportation Needs Assessment initiative is tapping local leaders to conduct on-the-ground engagements, and the index is a key resource to help guide efforts at the local level.  
+* As of May 2025, the Index and related Story Map and App) have been accessed over 500 times since their launch in March 2025.
 
 ### Status
 
-* The first benefits for Summer 2025 went out in June 2025. 
-* OOI will support benefit issuance processes and decision-making tools to help NJDA make informed choices related to ongoing deduplication efforts.
+* The Transportation Needs Index will continue to evolve as the team receives new ideas and feedback to enhance it.
 
 ### Resources and Additional Information
 
-* [Summer EBT Program for Kids Official Page](https://www.nj.gov/summerebt/)
+* [Transportation Needs Index](https://experience.arcgis.com/experience/270e8785ee8c432cbd7fbdc195c7b293)  
+* [StoryMap](https://storymaps.arcgis.com/stories/7e6916e5a99e4eb08ee6c749d5bcf9ce) (provides additional context, visual layers, and detailed insights into the Index) including how demographic and transit access data are combined to identify priority areas across New Jersey).
 
 ### Partners
 
-* New Jersey Department of Agriculture
-* New Jersey Department of Human Services
-* New Jersey Deoartment of Education
+* New Jersey Department of Environmental Protection
 
 *Added 6/25/25*
