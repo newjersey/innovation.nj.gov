@@ -227,11 +227,7 @@ defaults:
           group-by: menu-group
       open-graph:
         image: assets/images/ceportfolio/hero-thumbnail.webp
-
+# @see https://github.com/riboseinc/jekyll-external-links
 external_links:
   selector: "main a"
-  ignored_selectors:
-    - a[href*=travis]
-    - a[href*=coverity]
-    - a[href*=codecov]
   marker_html: "<span class='usa-link usa-link--external' />"
