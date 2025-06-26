@@ -1,4 +1,4 @@
-# Items here show up as solitications for procurement on the /join page
+# Items here show up as solicitations for procurement on the /join page
 # Each item has a link to a document, or zip archive of several documents
 # and a human readable title for the link.
 #
@@ -9,6 +9,6 @@
 #   url: /assets/documents/rfp-03-31-1995.zip
 #   updates:
 #     - title: Amendment 1
-#       url: /assets/documents/rfp-ammendment-1-04-01-2020.pdf
+#       url: /assets/documents/rfp-amendment-1-04-01-2020.pdf
 #
 # When there are no items, the /join page's copy should appropriately reflect that.
