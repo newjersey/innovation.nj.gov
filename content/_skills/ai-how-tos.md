@@ -9,7 +9,7 @@ permalink: /skills/ai-how-tos/
     </div>
 </div>
 
-The New Jersey Office of Innovation is working to develop genAI how-to guides on everything from drafting content, building custom genAI tools, to creating call center menus. We will be publishing new guides regularly, so check back or join our [newsletter](https://innovation.nj.gov/signup/).
+The New Jersey Office of Innovation is working to develop genAI how-to guides on everything from drafting content, building custom genAI tools, to creating call center menus. We will be publishing new guides regularly, so check back or join our [newsletter](/signup/).
 
 New Jersey state employees can use our custom and secure [AI Assistant](https://ai-assistant.nj.gov/) for any genAI work.
 

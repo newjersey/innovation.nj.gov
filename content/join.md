@@ -8,13 +8,13 @@ layout: page
 
 The New Jersey State Office of Innovation is looking for team members that are eager to tackle urgent, complex challenges and make an impact at scale. Our work improves the lives of New Jerseyans by solving problems differently - we use modern technologies and best practices from the public and private sector to transform government.
 
-Our [team members](https://innovation.nj.gov/about/team/our-team/) are talented, experienced, and dedicated to making a positive difference.
+Our [team members](/about/team/our-team/) are talented, experienced, and dedicated to making a positive difference.
 
-Are you motivated to modernize benefit programs to enable agencies to efficiently serve millions of New Jerseyans? Our [Unemployment Insurance modernization work](https://innovation.nj.gov/projects/ui-application-redesign/) has reduced the median time it takes to complete an application to less than 28 minutes – down from nearly 4 hours on average.
+Are you motivated to modernize benefit programs to enable agencies to efficiently serve millions of New Jerseyans? Our [Unemployment Insurance modernization work](/projects/ui-application-redesign/) has reduced the median time it takes to complete an application to less than 28 minutes – down from nearly 4 hours on average.
 
-Do you want to build new tools that help residents access benefits? More than 100,000 expecting parents in New Jersey have used the [Maternity Coverage Timeline Tool](https://innovation.nj.gov/projects/maternity-coverage-tool/) to help identify what benefits they can access and when.
+Do you want to build new tools that help residents access benefits? More than 100,000 expecting parents in New Jersey have used the [Maternity Coverage Timeline Tool](/projects/maternity-coverage-tool/) to help identify what benefits they can access and when.
 
-Are you excited about serving Garden State businesses and aspiring entrepreneurs through the creation of a modernized and centralized customer service experience? [Business.NJ.gov](https://innovation.nj.gov/projects/business-nj-gov/) has served more than 4 million people, and facilitated the creation of tens of thousands of businesses.
+Are you excited about serving Garden State businesses and aspiring entrepreneurs through the creation of a modernized and centralized customer service experience? [Business.NJ.gov](/projects/business-nj-gov/) has served more than 4 million people, and facilitated the creation of tens of thousands of businesses.
 
 At the Office of Innovation, we use data-driven, agile, and human-centered design practices to make an impact across issue and policy areas. We embed with our partners and work rapidly to identify, test, and deploy solutions that help New Jerseyans.
 
@@ -30,7 +30,7 @@ If you are interested in becoming a part of the team, explore current openings b
   {% endfor %}
   {% endif %}
 
-We regularly add new roles, so check back in a few weeks for new opportunities or submit a [general interest application](https://innovation.nj.gov/join/general-interest/).
+We regularly add new roles, so check back in a few weeks for new opportunities or submit a [general interest application](/join/general-interest/).
 
 ### The New Jersey Office of Innovation is proud to be an equal opportunity employer
 
