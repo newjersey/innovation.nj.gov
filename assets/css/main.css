@@ -41,6 +41,10 @@ a.text-primary-darker {
   text-decoration: underline;
 }
 
+.usa-button .usa-link--external:after {
+  background-color: white;
+}
+
 /* SVG */
 path.white-fill {
   fill: white;
