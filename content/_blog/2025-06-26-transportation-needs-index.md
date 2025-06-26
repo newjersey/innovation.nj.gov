@@ -13,86 +13,68 @@ open-graph:
   image:
 ---
 
-When people think about innovation in government, they often picture sleek websites or new mobile apps. But for millions of residents, the most important service isn’t digital — it’s a phone call.
+*Note: This originally appeared as a guest post on [Technical.ly](https://technical.ly/civic-news/new-jersey-transportation-needs-index-guest-post/)*
 
-Too often, that call can be frustrating, with long menus, confusing options, misrouting to someone who doesn’t have the answer, long hold times, and other barriers.
+How can we empower New Jerseyans to more easily understand and take action on pressing transportation needs in their communities? 
 
-We’re working to change that.
+That’s the question that my team at the state’s Office of Innovation and our colleagues at the [Department of Environmental Protection](https://dep.nj.gov/) (DEP) asked over the past year. As DEP began calling for applications for transportation planning grants, there was a growing public desire for a tool that provided a baseline analysis by combining disparate data sources to help identify transportation gaps.
 
-In New Jersey, our Office of Innovation is helping reimagine the phone systems that support public services. Over the last two years, we’ve partnered with agencies to modernize 12 state call centers.
+Our collaboration recently resulted in rolling out the [Transportation Needs Index](https://storymaps.arcgis.com/stories/7e6916e5a99e4eb08ee6c749d5bcf9ce). The user-friendly portal featuring data visualizations highlights existing transit infrastructure (like bus stops and rail stations) and combines it with community demographic data (such as household income and vehicle ownership).
 
-The results are clear: when menus are simpler, language is clearer, and self-service options are thoughtfully built in… the caller experience – and the overall system performance – improves.
+This pilot platform is now helping communities and decision-makers in New Jersey see more clearly where investments and partnerships might make the biggest impact – a model that could be replicated in other states and regions.
 
-{% include figure.html %}
+### **Start by finding collaborators**
 
-### **Why Menu Design Matters**
+In summer 2024, DEP was working to create a toolkit for communities around the state to guide investments of zero-emission, shared-use mobility (eMobility) solutions, including car shares, shuttle services, scooters and more traditional modes.
 
-For many residents, calling a government office isn’t just about their question — it’s about **access to crucial services**. To food assistance. To unemployment benefits. To tax support. To a new business license.
+The first step in the toolkit was identifying communities and conducting needs assessments, but there were no statewide resource combining existing transportation infrastructure with relevant community demographics. While people could try to stitch together helpful data on an ad hoc basis, this would be a heavy lift for local decision-makers and community organizations trying to guide upcoming engagements and discussions.
 
-But we heard from callers about how the system itself had been a barrier. Some callers press “0” out of confusion. Others try random options until someone can transfer them. Many give up entirely.
+A new analysis and index could have the potential to, for example, highlight an area that has high rates of poverty and low rates of car ownership while also lacking transit options. Such a community could be a promising candidate for a car share, shuttle service or other “last mile” eMobility solution.
 
-These small moments add up. They strain agents, drive up wait times, and erode public trust.
+Luckily, when it came to developing a model for a new index, our team didn’t have to start from scratch. Jersey City had conducted a year-long transportation study to identify areas of the city that were underserved by transit. Its approach combined analyzing proximity to transit infrastructure with household demographic data to create a combined score. 
 
-That’s why we took a human-centered and data-driven approach to redesigning call menus.
+Informed by their approach, we ultimately created a pilot that rolled out in March, incorporating a variety of New Jersey data, including:
 
-Our goal isn’t just to make the system more efficient. It’s to actually help more callers and to give them a good experience, while also helping agents feel more empowered to do a great job.
+* Disability status data;  
+* Vehicle access;  
+* Poverty levels;  
+* Age demographics;  
+* Population density; and  
+* Existing proximity to bus stops and rail stations.
 
-### **Best Practices for Simpler, Smarter Menus**
+With this data, we were able to create a composite score that pinpoints areas with high transportation needs but low transit access, making them prime candidates for investments in areas like eMobility.
 
-We worked with agency teams, call center managers, and frontline agents to identify what works. Here are a few lessons we’ve put into practice:
+For example, while this [area](https://experience.arcgis.com/experience/270e8785ee8c432cbd7fbdc195c7b293#data_s=id%3A9797eb718fb14273a957ccb1a45dbe76-19548bf4e42-layer-25-19548bf034c-layer-24%3A3311) in the city of Passaic has a high transportation access score, it could still be a strong candidate for mobility investments because it also has higher-than-average poverty levels, senior and youth population and population density. Its composite needs score is 37 (numbers above 25 are considered high needs).   
 
-- **Keep menus short:** Callers can realistically remember 3 to 5 options. More than that, and they tune out or get confused.
+### **How data sparks change**
 
-- **Use plain language:** Avoid government jargon. Speak the way real people talk when asking for help. (If callers don’t hear a plain-language option, they’ll often select random options, get routed to the wrong agent, or miss self-service options that save them time.)
+With this depth of information, we worked with DEP’s geographic information system experts to create a [data visualization tool](https://experience.arcgis.com/experience/270e8785ee8c432cbd7fbdc195c7b293) that illuminates communities where transportation investments could yield a significant impact. 
 
-- **Reduce sub-menus:** Every added layer increases complexity and the chance for drop-off.
+In other words, the new Transportation Needs Index allows users to see how transportation infrastructure and community demographics intersect in ways that were never before available at a glance.
 
-- **Design for how people think:** Analyze caller data such as transcripts — not government org charts — when grouping options on menus.
+The index has become a key part of DEP’s Mobility Planning Toolkit. Already, it has been accessed over 500 times. Even more local leaders, organizations and residents will be using it due to planning grants from DEP, including nearly [$1 million in grants announced on June 19](https://dep.nj.gov/newsrel/25_0032/) for several communities.
 
-- **Offer self-service where it makes sense:** If a question is frequently asked and always has the same answer, make that answer automatically available in the system. You can even text a link to a webpage or short video.
+For example, officials can use the index to start data-driven conversations with their communities, serving as a quantitative complement to the many comments, suggestions and other qualitative input they receive from individuals and local community groups. 
 
-- **Include the “other” option:** “For all other issues, press 6,” is something we use and study. This option keeps users from being blocked and is an important diagnostic tool. If a high percentage of callers are selecting “Other” then you might be missing a critical option, or using language callers don’t understand.
+It’s important to note that the Index only serves as one piece of input. It is no substitute for the nuanced local conversations around affordability, reliability and the everyday on-the-ground experience of people. 
 
-- **Always find a path forward:** Give users an option to select if they still need help, and don’t force them to go back.
+Additionally, some transportation systems like privately operated public bus networks, paratransit, ferries, bike share and biking infrastructure were not included in the pilot version of the index.  
 
-These changes do more than reduce frustration. They drive measurable results.
+### **What to know before taking on a transit index in your region**
 
-In some of our modernized centers, we’ve seen:
+The best civic tech almost always requires an ongoing, iterative approach to maintain effectiveness and relevance. This was no exception. Other key takeaways from this project include:
 
-- **Wait times drop,** especially when more callers have the opportunity to self-serve
+* Routinely check in with subject matter experts;  
+* Stay focused on meeting end-user needs;  
+* Start small (which is always better than not starting at all\!); and  
+* Never underestimate the power of combining and presenting data in a new way.
 
-- **Up to a 15% increase** in total callers served, because more efficient routing leads to higher resolution rates
+This is the first time this type of data has been combined at the state level, creating a robust resource for planners, city officials and community members, many of whom simply don’t have the time or resources to undertake this alone. With a small, focused, specialized team, we were able to bring all this data together at scale statewide for all New Jersey communities relatively quickly. 
 
-- **Significant growth in calls resolved**, often without needing an agent
+In other words, through a team approach, we are able to compile and present a large trove of data that empowers more people to come to the table, informed with the basic facts about transit and transportation in their part of the state.
 
-### **Where GenAI Can Help**
+We welcome feedback from around the state from people who are using it to make data-informed decisions, as well as from local groups and individuals who want to engage more deeply in planning processes. 
 
-Improving call menus takes time—but GenAI can help teams move faster by acting as a **thought or drafting partner**.
+My hope is that other states and jurisdictions will replicate this approach and even improve upon it, so that we can all understand our transit landscapes better and make the best possible decisions about where to invest and what kinds of mobility partnerships to create. 
 
-We’ve developed a genAI Prompt Toolkit that helps agency staff draft and revise call menus using AI. We are exploring genAI to support with:
-
-- Drafting an initial Interactive Voice Response (IVR) menu based on program information
-
-- Rewriting confusing menu options in plain language
-
-- Identifying opportunities for caller self-service options by analyzing FAQs and redacted caller transcripts
-
-- Improving agent scripts so they are in plain language
-
-- Supporting with translation
-
-- Helping surface relevant information to agents
-
-- Adding or refining a call option with minimal effort
-
-It’s not about handing over system design to AI — it’s about giving teams a head start. AI-generated drafts should always be reviewed, refined, and tested by real humans who understand the mission and values behind the work. No matter what you use generative AI for, remember it’s not an expert – you are. Ensure that you review what it produces and protect private information.
-
-👉 [Explore the GenAI Prompt Toolkit and IVR Best Practices](/skills/ai-how-tos/)
-
-### **Looking Ahead**
-
-We’re continuing to refine our tools and strategies, and we’re committed to sharing what we learn. Call centers are often the **front door** to government — and one of the few places residents can get real-time help. That makes them a critical part of building trust and delivering effective public service.
-
-We hope these resources help other teams take the first step toward more human-centered — and more efficient — call centers.
-
-If you’re working on this challenge in your own agency, connect with us.
+With richer conversations in every community, we can create a clearer path toward a more connected and sustainable future for all residents.
