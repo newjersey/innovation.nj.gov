@@ -1,16 +1,16 @@
 ---
 layout: blog
-title: 
-author: Joe DeLaTorre, Product Manager, and Jessica Lax, Senior Advisor for Responsible AI
+title: Unlocking New Jersey's Full Transit Potential
+author: Edward Paulino, Innovation Fellow
 promoted: 1
-excerpt: New Jersey used best practices in menu design to modernize 12 call centers... and continues to enhance the caller experience by leveraging AI.
-image: /assets/images/news/NJ-seal.png
+excerpt: A new interactive map pulls from several New Jersey data sets to show where transportation needs are high but access to transportation is low. 
+image: /assets/images/news/
 figure:
-  url: /assets/images/news/CallCenterModPanel.jpg
-  caption: Office of Innovation employees Jessica Lax, Joe DeLaTorre, and Case Walker present to 100 attendees at the Code for America Summit on how to leverage AI to modernize call centers and deliver better customer experiences.
-  alt-text: Office of Innovation employees Jessica Lax and Joe DeLaTorre are standing near a podium on stage with a presentation in the background. Jessica is speaking.
+  url: 
+  caption: 
+  alt-text: 
 open-graph:
-  image: assets/images/news/CallCenterModPanel.jpg
+  image:
 ---
 
 When people think about innovation in government, they often picture sleek websites or new mobile apps. But for millions of residents, the most important service isn’t digital — it’s a phone call.
