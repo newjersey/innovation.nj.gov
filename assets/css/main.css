@@ -41,7 +41,13 @@ a.text-primary-darker {
   text-decoration: underline;
 }
 
-.usa-button .usa-link--external:after {
+.usa-link:hover,
+a:hover .usa-link--external:after {
+  background-color: #0b4778;
+}
+
+a.usa-button .usa-link--external:after,
+a.usa-button:hover .usa-link--external:after {
   background-color: white;
 }
 
