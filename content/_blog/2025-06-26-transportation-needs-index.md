@@ -23,7 +23,10 @@ Our collaboration recently resulted in rolling out the [Transportation Needs Ind
 
 This pilot platform is now helping communities and decision-makers in New Jersey see more clearly where investments and partnerships might make the biggest impact – a model that could be replicated in other states and regions.
 
-<iframe src="https://experience.arcgis.com/experience/270e8785ee8c432cbd7fbdc195c7b293" frameborder="0" style="border:0;" allowfullscreen></iframe>
+<div class="iframe-container">
+  <iframe src="https://experience.arcgis.com/experience/270e8785ee8c432cbd7fbdc195c7b293" frameborder="0" style="border:0;" allowfullscreen></iframe>
+</div>
+
 
 ### **Start by finding collaborators**
 
