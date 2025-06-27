@@ -27,6 +27,7 @@ In 2024, our data science team developed a process to identify unique eligible s
 
 ### Resources and Additional Information
 
+* [Press Release: NJ Distributes Summer EBT Benefits to More Than 693,000 Eligible Children](https://www.nj.gov/agriculture/news/press/2025/press250623a.html)
 * [Summer EBT Program for Kids Official Page](https://www.nj.gov/summerebt/)
 
 ### Partners
