@@ -25,7 +25,7 @@ To modernize how businesses interact with the State, OOI has employed a data-inf
 
 ### Resources and Additional Information
 
-* Report: [Business.NJ.gov 2020-2025 Impact Report](https://business.nj.gov/page/impactreport)
+* Report: [Business.NJ.gov 2020-2025 Impact Report](https://business.nj.gov/impactreport)
 * Release: [Business.NJ.gov Marks Five Years of Helping New Jerseyans Start Businesses Faster](https://nj.gov/governor/news/news/562025/approved/20250506a.shtml)
 
 ### Partners
