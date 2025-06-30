@@ -25,7 +25,8 @@ To modernize how businesses interact with the State, OOI has employed a data-inf
 
 ### Resources and Additional Information
 
-* [Medium: Open Sourcing a New Approach to Serving Businesses in New Jersey](https://medium.com/njinnovation/open-sourcing-a-new-approach-to-serving-businesses-in-new-jersey-849f42c6c13)
+* Report: [Business.NJ.gov 2020-2025 Impact Report](https://business.nj.gov/impactreport)
+* Release: [Business.NJ.gov Marks Five Years of Helping New Jerseyans Start Businesses Faster](https://nj.gov/governor/news/news/562025/approved/20250506a.shtml)
 
 ### Partners
 
@@ -36,4 +37,4 @@ To modernize how businesses interact with the State, OOI has employed a data-inf
 * NJ State Department of Labor  
 * Statewide initiative, in partnership with all relevant State entities
 
-*Last updated on 2/26/25*
+*Last updated on 6/30/25*
