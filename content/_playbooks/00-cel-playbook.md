@@ -1,20 +1,16 @@
 ---
-title: C+E Lab Playbook
-layout: playbook
 permalink: /cel-playbook/
-hero:
-  image: /assets/images/cel-playbook-hero.jpg
-menu:
-  - title: About the Playbook
-    url: /cel-playbook/
-    collection: playbooks
-    group-by: menu-group
-    menu-header:
-      title: About the Playbook
-      url: "/cel-playbook/"
----
+title: About The C+E Lab Playbook
+titleoverride: C+E Lab Playbook
+open-graph:
+  title: C+E Lab Playbook | Office of Innovation, State of New Jersey
+menu-group: Introduction
+order: 0
+pre-title-btn:
+  text: Print Version
+  url: /cel-playbook/print
 
-## About This Playbook
+---
 
 **The greatest gift you can give your audience is understanding what they really care about.**
 

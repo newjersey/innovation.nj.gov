@@ -1,5 +1,6 @@
 ---
 title: Validating Your Creative Concept(s)
+order: 6
 ---
 
 Execute a quantitative survey to identify a winning creative approach and ensure it is equitable in appeal.

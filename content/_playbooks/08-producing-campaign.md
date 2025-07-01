@@ -1,5 +1,6 @@
 ---
 title: Producing Your Campaign
+order: 8
 ---
 
 Up until now you have been learning, strategizing, and developing tactics. During production, you shift gears and start “building” your campaign – from producing creative assets and setting up media campaigns to implementing tracking and setting up reports.
