@@ -53,7 +53,7 @@ The Office of Innovation occasionally posts procurement opportunities to support
 {% assign open-solicitations = site.data.contract-solicitations | where_exp:"item", "item.open == true" %}
 {% assign closed-solicitations = site.data.contract-solicitations | where_exp:"item", "item.open == false" %}
 
-## Current Solicitations
+### Current Solicitations
 
 {% if open-solicitations.size > 0 %}
 {% for rfp in open-solicitations %}
@@ -68,7 +68,7 @@ There are no open requests at this time.
 
     {% if closed-solicitations.size > 0 %}
 
-## Closed Solicitations
+### Closed Solicitations
 
 {% for rfp in closed-solicitations %}
 - [{{rfp.title}}]({{rfp.url}})
