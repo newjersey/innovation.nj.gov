@@ -50,7 +50,7 @@ You must be authorized to work in the United States. Candidates may be required 
 The Office of Innovation occasionally posts procurement opportunities to support our efforts to improve the lives of New Jerseyans by modernizing how the State delivers programs, policies, and services. Open opportunities, when available, will be listed below.
 
 {% if site.data.contract-solicitations and site.data.contract-solicitations.size > 0 %}
-{% assign open-solicitations = site.data.contract-solicitations | where_exp:"item", "item.open == true" %}
+{% assign open-solicitations = site.data.contract-solicitations | where_exp:"item", "item.open == true or item.open == '' or item.open == nil" %}
 {% assign closed-solicitations = site.data.contract-solicitations | where_exp:"item", "item.open == false" %}
 
 ### Current Solicitations

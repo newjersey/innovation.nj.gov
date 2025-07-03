@@ -7,6 +7,7 @@
 # .e.g.
 # - title: Some RFP Zip
 #   url: /assets/documents/rfp-03-31-1995.zip
+#   open: true
 #   updates:
 #     - title: Amendment 1
 #       url: /assets/documents/rfp-amendment-1-04-01-2020.pdf
