@@ -1,10 +1,9 @@
-
 {% for item in include.menu %}
   {% if item.collection %}
-    {% if item.sort-by  %} 
+    {% if item.sort-by %}
       {% assign sort-by = item.sort-by %}
     {% endif %}
-      {% assign menu-groups = site.[item.collection] | group_by: item.group-by %}
+    {% assign menu-groups = site.[item.collection] | group_by: item.group-by %}
   {% endif %}
 {% endfor %}
 
@@ -52,16 +51,14 @@
         {% if group.items %}
           <ul class="usa-sidenav__sublist">
             {% assign sub-menu = group.items %}
-            {% for item in
- sub-menu %}
-              {% if item.title != menu-group-parent.title %}
+            {% for item in sub-menu %}
+              {% if item.title != menu-group-parent.title and item.layout != "print" %}
                 <li class="usa-sidenav__item">
                   <a href="{{item.url}}" class="{% if page.url == item.url%}usa-current{% endif %}">
                     {% if item.title-prefix %}
                       {{ item.title-prefix }}
                     {% endif %}
-                    {% if
- item.menu-title %}
+                    {% if item.menu-title %}
                       {{ item.menu-title }}
                     {% else %}
                       {{ item.title }}
