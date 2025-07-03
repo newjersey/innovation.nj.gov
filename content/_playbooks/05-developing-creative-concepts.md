@@ -1,5 +1,6 @@
 ---
 title: Developing Your Creative Concept(s)
+order: 5
 ---
 
 Objectives and strategies are brought to life with messaging and imagery.

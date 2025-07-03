@@ -1,5 +1,6 @@
 ---
 title: "Conducting Discovery: Desk Research"
+order: 2
 ---
 
 The goal of Marketing Discovery \| Desk Research is to strengthen your understanding of the real problem to be solved, the audiences you are solving for, what they care about, and what moves them to action.
