@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: newjersey/innovation.nj.gov
   branch: jviall/decap-cms # Branch to update (optional; defaults to master)
   api_root: https://api.github.com
   base_url: https://z2o7ybyt5b.execute-api.us-east-1.amazonaws.com
