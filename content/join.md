@@ -49,23 +49,34 @@ You must be authorized to work in the United States. Candidates may be required 
 
 The Office of Innovation occasionally posts procurement opportunities to support our efforts to improve the lives of New Jerseyans by modernizing how the State delivers programs, policies, and services. Open opportunities, when available, will be listed below.
 
-### Closed Solicitations
-
-- [Resident Experience Initiative (ResX) Qualified Bidders List and Agile Development Services RFP](/assets/documents/ResX.RFP.FINAL.zip) 
-
-### Current Solicitations
-
 {% if site.data.contract-solicitations and site.data.contract-solicitations.size > 0 %}
-{% for rfp in site.data.contract-solicitations %}
+{% assign open-solicitations = site.data.contract-solicitations | where_exp:"item", "item.open == true" %}
+{% assign closed-solicitations = site.data.contract-solicitations | where_exp:"item", "item.open == false" %}
 
+## Current Solicitations
+
+{% if open-solicitations.size > 0 %}
+{% for rfp in open-solicitations %}
+- [{{rfp.title}}]({{rfp.url}})
+  {% for rfpUpdate in rfp.updates %}
+  - [{{rfpUpdate.title}}]({{rfpUpdate.url}})
+  {% endfor %}
+{% endfor %}
+{% else %}
+There are no open requests at this time.
+{% endif %}
+
+    {% if closed-solicitations.size > 0 %}
+
+## Closed Solicitations
+
+{% for rfp in closed-solicitations %}
 - [{{rfp.title}}]({{rfp.url}})
   {% for rfpUpdate in rfp.updates %}
   - [{{rfpUpdate.title}}]({{rfpUpdate.url}})
     {% endfor %}
-
 {% endfor %}
-{% else %}
-There are no open requests at this time.
+{% endif %}
 {% endif %}
 
 ### Other Contracting Opportunities with the State of New Jersey
