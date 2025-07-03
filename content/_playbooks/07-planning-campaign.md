@@ -1,5 +1,6 @@
 ---
 title: Planning Your Campaign
+order: 7
 ---
 
 Pull together your defined strategies and validated messaging to create specific tactics to reach, activate, and optimize audiences by using media placements, creative execution, data collection, and reporting.

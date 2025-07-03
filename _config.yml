@@ -182,13 +182,10 @@ defaults:
         image: /assets/images/cel-playbook-hero.jpg
       menu-group: The C+E Lab Playbook
       menu:
-        - title: About the Playbook
+        - title: Introduction
           url: /cel-playbook
           collection: playbooks
           group-by: menu-group
-          menu-header:
-            title: About the Playbook
-            url: "/cel-playbook/"
   - scope:
       path: ""
       type: "impactreport2024"
