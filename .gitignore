@@ -135,3 +135,6 @@ dist
 .pnp.*
 
 .idea/
+
+# AWS CDK
+cdk.out
