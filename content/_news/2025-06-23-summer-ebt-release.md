@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: New Jersey Distributes Summer EBT Benefits to More Than 693,000 Eligible Children"
-promoted: 1
+promoted: 2
 date: June 23, 2025
 source: NJGOV
 cta:
