@@ -9,7 +9,8 @@ media_folder: "assets/uploads"
 collections:
   - name: "blog"
     label: "Blog"
-    folder: "_blog/"
+    folder: "content/_blog/"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { name: title, label: Title, widget: string }
       - { name: author, label: Author, widget: string }
