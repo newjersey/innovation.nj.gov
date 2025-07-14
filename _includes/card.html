@@ -5,10 +5,12 @@
     {% assign list = site.[include.collection] | reverse %}
   {% elsif include.blog %}
     {% if site.future %}
-      {% assign list = site.[include.collection] | sort: "promoted" | reverse %}
+      {% assign list = site.[include.collection] | where_exp: "item", "item.promoted == nil or item.promoted <= 0" | sort | reverse %}
     {% else %}
-      {% assign list = site.[include.collection] | where_exp: "item", "item.date < site.time" | sort: "promoted" | reverse %}
+      {% assign list = site.[include.collection] | where_exp: "item", "item.date < site.time" | where_exp: "item", "item.promoted == nil or item.promoted <= 0" | sort | reverse %}
     {% endif %}
+    {% assign promoted = site.[include.collection] | where_exp: "item", "item.promoted > 0" | sort: "promoted" | reverse %}
+    {% assign list = promoted | concat: list %}
   {% else %}
     {% assign list = site.[include.collection] %}
   {% endif %}

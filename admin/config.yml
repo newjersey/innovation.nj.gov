@@ -1,17 +1,75 @@
 backend:
   name: github
   repo: newjersey/innovation.nj.gov
-  branch: jviall/decap-cms # Branch to update (optional; defaults to master)
   api_root: https://api.github.com
   base_url: https://z2o7ybyt5b.execute-api.us-east-1.amazonaws.com
   auth_endpoint: auth
-media_folder: "assets/uploads"
+  publish_mode: editorial_workflow
+  squash_merges: true
+media_folder: "assets/images"
 collections:
   - name: "blog"
     label: "Blog"
-    folder: "_blog/"
+    folder: "content/_blog/"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - { name: title, label: Title, widget: string }
-      - { name: author, label: Author, widget: string }
-      - { name: content, label: Content, widget: markdown }
-      - { name: layout, label: Layout, widget: hidden, default: blog }
+      # Read-only fields
+      - name: layout
+        label: Layout
+        widget: hidden
+        default: blog
+      # Required fields
+      - name: title
+        label: Title
+        widget: string
+        required: true
+      - name: author
+        label: Author
+        widget: string
+        required: true
+      # Optional fields
+      - name: excerpt
+        label: Excerpt
+        widget: string
+        hint: Optional text either summarizing the content or quoting it. Used to display the article in a list as a preview.
+      - name: image
+        label: Featured Image
+        widget: image
+        media_folder: "assets/images"
+        allow_multiple: false
+        choose_url: false
+        required: false
+      - name: promoted
+        label: Promoted Order
+        hint: You can have up to 3 promoted posts in total. \"0\" values are ignored
+        widget: number
+        value_type: "int"
+        default: 0
+        min: 0
+        max: 3
+        required: true
+      - name: figure
+        label: Inline Image
+        hint: Embed this image by inserting the following text "{% include figure.html %}" somewhere in the body of content.
+        widget: object
+        required: false
+        fields:
+          - name: url
+            label: Image
+            widget: image
+            media_folder: "assets/images"
+            allow_multiple: false
+            choose_url: false
+            required: false
+          - name: caption
+            label: Image Caption
+            widget: string
+            required: false
+          - name: alt-text
+            label: Image "alt" text
+            widget: string
+            required: false
+      - name: body
+        label: Body
+        required: true
+        widget: markdown
