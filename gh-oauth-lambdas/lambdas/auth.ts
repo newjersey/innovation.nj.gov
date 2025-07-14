@@ -28,6 +28,8 @@ export const handler = async (event: APIGatewayEvent) => {
     "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
   };
 
+  console.debug("OAuth Auth Event", event);
+
   if (event.httpMethod === "OPTIONS") {
     return {
       statusCode: 200,
@@ -57,6 +59,7 @@ export const handler = async (event: APIGatewayEvent) => {
       state: event.queryStringParameters?.state || "default-state",
     });
 
+    console.debug("Successfull Auth response");
     // Return a redirect response
     return {
       statusCode: 302,

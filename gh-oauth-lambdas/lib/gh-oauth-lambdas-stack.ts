@@ -60,7 +60,7 @@ export class GhOauthLambdasStack extends cdk.Stack {
     });
     const callbackLambda = new NodejsFunction(this, functionNameCallback, {
       functionName: functionNameCallback,
-      entry: "lambdas/auth.ts",
+      entry: "lambdas/callback.ts",
       runtime: Runtime.NODEJS_22_X,
       memorySize: 512,
       logGroup: logGroupCallback,

@@ -1,26 +1,43 @@
 import { AuthorizationCode } from "simple-oauth2";
-import https from "https";
 import { APIGatewayEvent } from "aws-lambda";
+import { SSMClient, GetParameterCommand } from "@aws-sdk/client-ssm";
+
+const ssmClient = new SSMClient();
 
 type MessageData = {
   token: unknown;
   provider: string;
-  user: UserInfo;
 };
 
 export const handler = async (event: APIGatewayEvent) => {
   if (!process.env.GITHUB_CLIENT_ID) {
     throw new Error("No value for environment variable 'GITHUB_CLIENT_ID'");
   }
-
-  if (!process.env.GITHUB_CLIENT_SECRET) {
-    throw new Error("No value for environment variable 'GITHUB_CLIENT_SECRET'");
+  if (!process.env.CALLBACK_URL) {
+    throw new Error("No value for environment variable 'CALLBACK_URL'");
   }
+
+  const GITHUB_CLIENT_SECRET = await ssmClient
+    .send(
+      new GetParameterCommand({
+        Name: process.env.GITHUB_CLIENT_SECRET_PARAMETER_NAME,
+        WithDecryption: true,
+      }),
+    )
+    .then(({ Parameter }) => {
+      if (!Parameter?.Value) {
+        throw new Error("No value for GITHUB_CLIENT_SECRET");
+      }
+      return Parameter.Value;
+    });
+
   const headers = {
-    "Access-Control-Allow-Origin": "*", // Replace with your Jekyll site domain
+    "Access-Control-Allow-Origin": "*",
     "Access-Control-Allow-Headers": "Content-Type",
-    "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+    "Access-Control-Allow-Methods": "GET, OPTIONS",
   };
+
+  console.debug("OAuth Callback Event", event);
 
   if (event.httpMethod === "OPTIONS") {
     return {
@@ -35,32 +52,39 @@ export const handler = async (event: APIGatewayEvent) => {
 
     // Handle GitHub error responses
     if (error) {
+      console.error("OAuth Error", error);
       return {
         statusCode: 400,
         headers,
         body: JSON.stringify({
-          error: `OAuth error: ${error}`,
+          error: `OAuth error`,
           message: "Authentication failed",
         }),
       };
     }
 
     if (!code) {
+      console.error("Error: No Authorization Code Received", error);
       return {
         statusCode: 400,
         headers,
         body: JSON.stringify({
-          error: "No authorization code received",
+          error: "OAuth error",
           message: "Authentication failed",
         }),
       };
     }
 
+    console.debug(
+      "Configuring OAuth client with ID",
+      process.env.GITHUB_CLIENT_ID,
+    );
+
     // Configure OAuth2 client
     const client = new AuthorizationCode({
       client: {
         id: process.env.GITHUB_CLIENT_ID,
-        secret: process.env.GITHUB_CLIENT_SECRET,
+        secret: GITHUB_CLIENT_SECRET,
       },
       auth: {
         tokenHost: "https://github.com",
@@ -69,16 +93,16 @@ export const handler = async (event: APIGatewayEvent) => {
       },
     });
 
+    console.debug("Getting token from code: ", code);
+
     // Exchange code for token
     const accessToken = await client.getToken({
       code,
-      redirect_uri: process.env.CALLBACK_URL!,
-      scope: "repo,user",
+      redirect_uri: process.env.CALLBACK_URL,
     });
     const token = accessToken.token.access_token;
 
-    // Get user info from GitHub API
-    const userInfo = await getUserInfo(token);
+    console.debug("Successful Callback with token: ", { token, code });
 
     // Return success response with token data
     return {
@@ -87,10 +111,9 @@ export const handler = async (event: APIGatewayEvent) => {
         ...headers,
         "Content-Type": "text/html",
       },
-      body: createPostMessagePage({
-        token: token,
+      body: renderResponse("success", {
+        token,
         provider: "github",
-        user: userInfo,
       }),
     };
   } catch (error) {
@@ -98,104 +121,45 @@ export const handler = async (event: APIGatewayEvent) => {
     return {
       statusCode: 500,
       headers,
-      body: JSON.stringify({
-        error: "Authentication callback failed",
-      }),
+      body: renderResponse("error"),
     };
   }
 };
 
-type UserInfo = {
-  login: string;
-  name: string;
-  email: string;
-  avatar_url: string;
-};
-
-/**
- * Get user information from GitHub API
- */
-const getUserInfo = async (accessToken: unknown) => {
-  return new Promise<UserInfo>((resolve, reject) => {
-    const options = {
-      hostname: "api.github.com",
-      port: 443,
-      path: "/user",
-      method: "GET",
-      headers: {
-        Authorization: `token ${accessToken}`,
-        "User-Agent": "DecapCMS-OAuth-Handler",
-        Accept: "application/vnd.github.v3+json",
-      },
-    };
-
-    const req = https.request(options, (res) => {
-      let data = "";
-
-      res.on("data", (chunk) => {
-        data += chunk;
-      });
-
-      res.on("end", () => {
-        try {
-          const result = JSON.parse(data);
-          resolve({
-            login: result.login,
-            name: result.name,
-            email: result.email,
-            avatar_url: result.avatar_url,
-          } as UserInfo);
-        } catch (e) {
-          reject(new Error("Failed to parse user info"));
-        }
-      });
-    });
-
-    req.on("error", (e) => {
-      reject(e);
-    });
-
-    req.end();
-  });
-};
-// Create a secure postMessage page for Decap CMS OAuth flow
-const createPostMessagePage = (data: MessageData) => {
+/** Render a html response with a script to finish a client-side github authentication */
+function renderResponse(
+  status: "success" | "error",
+  content?: MessageData,
+): string {
   return `<!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Authorization Complete</title>
-    <meta charset="utf-8">
-    <meta http-equiv="Content-Security-Policy" content="script-src 'unsafe-inline'; object-src 'none';">
+  <meta charset="utf-8">
+  <title>Authorizing ...</title>
 </head>
 <body>
-    <h2>Authorization Successful</h2>
-    <p>You can close this window and return to your CMS.</p>
-    <script>
-        // Decap CMS OAuth communication protocol
-        (function() {
-            if (!window.opener) {
-                document.body.innerHTML += "<p><strong>Error:</strong> This page should be opened in a popup window.</p>";
-                return;
-            }
-            
-            try {
-                // Send success message to Decap CMS parent window
-                window.opener.postMessage({
-                    token: "${data.token}",
-                    provider: "github"
-                }, "*");
-                
-                // Auto-close after a short delay
-                setTimeout(function() {
-                    window.close();
-                }, 1000);
-                
-            } catch (error) {
-                console.error("Failed to communicate with parent window:", error);
-                document.body.innerHTML += "<p><strong>Please close this window manually.</strong></p>";
-            }
-        })();
-    </script>
+  <p id="message"></p>
+  <script>
+    // Output a message to the user
+    function sendMessage(message) {
+      document.getElementById("message").innerText = message;
+      document.title = message
+    }
+    // Handle a window message by sending the auth to the "opener"
+    function receiveMessage(message) {
+      console.debug("receiveMessage", message);
+      window.opener.postMessage(
+        'authorization:github:${status}:${JSON.stringify(content)}',
+        message.origin
+      );
+      window.removeEventListener("message", receiveMessage, false);
+      sendMessage("Authorized, closing ...");
+    }
+    sendMessage("Authorizing ...");
+    window.addEventListener("message", receiveMessage, false);
+    console.debug("postMessage", "authorizing:github", "*")
+    window.opener.postMessage("authorizing:github", "*");
+  </script>
 </body>
 </html>`;
-};
+}
