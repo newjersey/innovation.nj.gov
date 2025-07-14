@@ -12,7 +12,58 @@ collections:
     folder: "content/_blog/"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - { name: title, label: Title, widget: string }
-      - { name: author, label: Author, widget: string }
-      - { name: body, label: Body, widget: markdown }
-      - { name: layout, label: Layout, widget: hidden, default: blog }
+      # Read-only fields
+      - name: layout
+        label: Layout
+        widget: hidden
+        default: blog
+      # Required fields
+      - name: title
+        label: Title
+        widget: string
+        required: true
+      - name: author
+        label: Author
+        widget: string
+        required: true
+      # Optional fields
+      - name: excerpt
+        label: Excerpt
+        widget: string
+        hint: Optional text either summarizing the content or quoting it. Used to display the article in a list as a preview.
+      - name: image
+        label: Featured Image
+        widget: image
+        media_folder: "assets/images"
+        allow_multiple: false
+        choose_url: false
+      - name: promoted
+        label: Promoted
+        widget: number
+        value_type: "int"
+        min: 1
+        max: 3
+      - name: figure
+        label: Inline Image
+        hint: Embed this image by inserting the following text "{% include figure.html %}" somewhere in the body of content.
+        widget: object
+        fields:
+          - name: url
+            label: Image
+            widget: image
+            media_folder: "assets/images"
+            allow_multiple: false
+            choose_url: false
+            required: true
+          - name: caption
+            label: Image Caption
+            widget: string
+            required: true
+          - name: alt-text
+            label: Image "alt" text
+            widget: string
+            required: true
+      - name: body
+        label: Body
+        required: true
+        widget: markdown
