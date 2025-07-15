@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/statescoop-podcast.webp
 title: "COVERAGE: Inside New Jersey’s Call Center Modernizations"
-promoted: 3
+promoted: 
 date: June 12, 2025
 source: STATESCOOP
 cta:
