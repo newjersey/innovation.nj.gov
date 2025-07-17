@@ -19,7 +19,7 @@ The tool is called the NJ AI Assistant, and it’s helping these professionals d
 
 {% include figure.html %}
 
-### **How is it being used?**
+## How is it being used?
 
 The NJ AI Assistant is being used in many powerful ways…
 
@@ -29,7 +29,7 @@ The AI Assistant is also helping with the high volume of feedback that New Jerse
 
 The tool is even helping agencies analyze transcripts of calls to [help create better call center menus](https://innovation.nj.gov/blog/2025-06-05-callcentermodernization/), so that when New Jerseyans call to get help, they get to the right information or the right agent quicker than ever before.
 
-### **What do employees think of the tool?**
+## What do employees think of the tool?
 
 By and large, the state’s public-sector professionals have said they like having a simple, state-approved genAI tool that they know is secure within the government’s IT infrastructure.  They also give high marks to [the training we developed with a nonprofit (Innovate US)](https://innovate-us.org/workshop-series/artificial-intelligence-for-the-public-sector) that goes along with the tool – a training now used by over 25 states and local partners.
 
@@ -45,7 +45,7 @@ In fact, we actually fed a document with hundreds of open-ended responses from t
 4. ***Brainstorming and Idea Generation:** Aiding in the creation and refinement of content and projects.*  
 5. ***Technical Support:** Assisting with coding, data analysis, and creating presentation outlines, streamlining workflows and boosting efficiency.*
 
-### **What's next?**
+## What's next?
 
 Already, we’ve improved the tool this year based on recommendations from the people who use it. As a result, they can now upload up to 10 files of various types, as well as larger file sizes. 
 
@@ -53,7 +53,7 @@ Looking forward, the team is conducting outreach to various agencies to help the
 
 We want to build on the fact that the tool was used more than half-a-million times over the past year. And notably, since the tool was built in-house, the cost has been only about $1 a month per user based on that volume, versus about $20 per user per month for off-the-shelf commercial licenses. So we’re saving millions of dollars along the way.
 
-### **Summary**
+## Summary
 
 This is a great example of how we can work together across agencies to build a safe and secure genAI tool that helps New Jersey’s government deliver better on our public-service mission.
 
