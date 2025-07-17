@@ -7,8 +7,8 @@ excerpt: On its first anniversary, the New Jersey AI Assistant is helping thousa
 image: /assets/images/news/NJ-seal.png
 figure:
   url: /assets/images/news/
-  caption: A screenshot of the New Jersey AI Assistant tool that thousands of the state's public sector professionals are now using. 
-  alt-text: 
+  caption: The request to provide a top 5 list of ways people use the NJ AI Assistant tool is provided based on an uploaded document that contains all the open-field responses from the survey.
+  alt-text: A screenshot of the NJ AI Assistant tool is shown with two bubbles, showing the prompt as well as the output referenced in the blog text.
 open-graph:
   image: assets/images/news/
 ---
@@ -33,12 +33,17 @@ The tool is even helping agencies analyze transcripts of calls to [help create b
 
 By and large, the state’s public-sector professionals have said they like having a simple, state-approved genAI tool that they know is secure within the government’s IT infrastructure.  They also give high marks to [the training we developed with a nonprofit (Innovate US)](https://innovate-us.org/workshop-series/artificial-intelligence-for-the-public-sector) that goes along with the tool – a training now used by over 25 states and local partners.
 
-We recently surveyed the state employees who use the tool. Most of the respondents indicated that they use it daily or weekly, and that it often saves them hours of time. The most popular use cases were: creating text, summarizing text, analyzing text, brainstorming, and conducting research.
+We recently surveyed the state employees who use the tool. Most of the respondents indicated that they use it daily or weekly, and that it often saves them hours of time. 
 
-In fact, we actually fed hundreds of open-ended responses from that survey into the AI Assistant itself and asked it to summarize them. The tool provided this output:
+In fact, we actually fed a document with hundreds of open-ended responses from that survey into the AI Assistant itself and asked it to provide - in 100 words or less - the top five ways respondents use the tool. The tool provided this output (also see image):
 
-*“The respondents employ AI for a variety of tasks aimed at enhancing communication, productivity, and problem-solving. A common use is drafting and editing emails, memos, and reports to ensure clarity and professionalism. AI is also frequently utilized for summarizing lengthy documents and complex information, aiding quick comprehension and decision-making. Technical tasks, such as coding, data analysis, and creating presentation outlines, are supported by AI, improving efficiency and streamlining workflows. Additionally, AI assists in brainstorming ideas, simplifying language, translating text, and organizing content, with some respondents using it for automating repetitive processes and facilitating decision-making across different work scenarios.”*
+*Respondents primarily use the AI Assistant for:*
 
+1. ***Drafting and Editing:** Enhancing emails, memos, and reports for clarity and professionalism.*  
+2. ***Summarizing Documents:** Condensing lengthy texts and complex information for quick comprehension.*  
+3. ***Proofreading and Grammar Checks:** Ensuring communication is polished and error-free.*  
+4. ***Brainstorming and Idea Generation:** Aiding in the creation and refinement of content and projects.*  
+5. ***Technical Support:** Assisting with coding, data analysis, and creating presentation outlines, streamlining workflows and boosting efficiency.*
 
 ### **What's next?**
 
