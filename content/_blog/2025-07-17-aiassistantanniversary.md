@@ -17,8 +17,6 @@ A year ago this month, we rolled out a generative AI tool that thousands of the 
 
 The tool is called the NJ AI Assistant, and it’s helping these professionals do more with their time and improve services to the public, while also saving money along the way.
 
-{% include figure.html %}
-
 ## How is it being used?
 
 The NJ AI Assistant is being used in many powerful ways…
@@ -28,6 +26,8 @@ For example, the tool is helping broaden accessibility for non-English speakers.
 The AI Assistant is also helping with the high volume of feedback that New Jersey receives from the [widget](https://innovation.nj.gov/projects/feedback-widget/) that has been placed at the bottom of over a dozen state government websites over the past two years. With over 430,000 ratings, 70,000 comments, and 22,000 emails from the public, the AI Assistant can quickly identify common issues and themes that need to be addressed related to a particular program, website, or perhaps more broadly over the long-term.
 
 The tool is even helping agencies analyze transcripts of calls to [help create better call center menus](https://innovation.nj.gov/blog/2025-06-05-callcentermodernization/), so that when New Jerseyans call to get help, they get to the right information or the right agent quicker than ever before.
+
+{% include figure.html %}
 
 ## What do employees think of the tool?
 
