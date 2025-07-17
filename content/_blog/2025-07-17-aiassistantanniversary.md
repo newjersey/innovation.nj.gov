@@ -61,4 +61,4 @@ The result is that we’re now a model for how states can harness AI in a respon
 
 That’s good news for taxpayers, for government, and for the millions of people that state agencies serve throughout the Garden State.
 
-[Learn more about the NJ AI Assistant tool.](https://innovation.nj.gov/projects/ai-assistant)
+[Learn more about the NJ AI Assistant tool](https://innovation.nj.gov/projects/ai-assistant).
