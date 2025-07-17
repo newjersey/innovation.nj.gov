@@ -1,0 +1,17 @@
+<div class="usa-accordion">
+  {% for faq in site.data[include.faq] %}
+  <h3 class="usa-accordion__heading">
+    <button
+      type="button"
+      class="usa-accordion__button"
+      aria-expanded="false"
+      aria-controls="{{faq.faqid}}"
+    >
+      {{faq.question | markdownify }}
+    </button>
+  </h3>
+  <div id="{{faq.faqid}}" class="usa-accordion__content usa-prose" hidden>
+    {{faq.answer | markdownify }}
+  </div>
+  {% endfor %}
+</div>
