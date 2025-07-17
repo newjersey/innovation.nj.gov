@@ -6,11 +6,11 @@ promoted: 1
 excerpt: On its first anniversary, the New Jersey AI Assistant is helping thousands of public-sector professionals use GenAI to save time and money while improving services for residents.
 image: /assets/images/news/NJ-seal.png
 figure:
-  url: /assets/images/news/AIAssistantScreenshot
+  url: /assets/images/news/AIAssistantScreenshot.png
   caption: The request to provide a top 5 list of ways people use the NJ AI Assistant tool is provided based on an uploaded document that contains all the open-field responses from the survey.
   alt-text: A screenshot of the NJ AI Assistant tool is shown with two bubbles, showing the prompt as well as the output referenced in the blog text.
 open-graph:
-  image: assets/images/news/AIAssistantScreenshot
+  image: assets/images/news/AIAssistantScreenshot.png
 ---
 
 A year ago this month, we rolled out a generative AI tool that thousands of the state’s public-sector professionals now use. It’s one of the main reasons that [the state was recently top-ranked for AI readiness.](https://www.nj.gov/governor/news/news/562025/approved/20250715d.shtml)
