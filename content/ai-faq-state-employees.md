@@ -50,44 +50,4 @@ There are four key principles that guide the State’s use of Generative AI:
 
 ## Frequently Asked Questions
 
-<div class="usa-accordion">
-    <h3 class="usa-accordion__heading">
-        <button
-        type="button"
-        class="usa-accordion__button"
-        aria-expanded="false"
-        aria-controls="ai-faq1"
-        >
-        Can I enter PII into publicly available AI Assistants like ChatGPT, Claude, Gemini?
-        </button>
-    </h3>
-    <div id="ai-faq1" class="usa-accordion__content usa-prose" hidden>
-    No. PII may only be entered into AI tools under state licenses that include proper privacy protections: data is securely stored and never shared with external parties. Examples of approved tools are listed under “State-Approved AI Tools and Approval Process.” If you’re not sure whether a given tool complies, ask your CIO.
-    </div>
-    <h3 class="usa-accordion__heading">
-        <button
-            type="button"
-            class="usa-accordion__button"
-            aria-expanded="false"
-            aria-controls="ai-faq2"
-        >
-            Can I enter PII into an AI Assistant procured through a state contract with appropriate privacy and security measures?
-        </button>
-    </h3>
-    <div id="ai-faq2" class="usa-accordion__content usa-prose" hidden>
-        Yes, you may enter PII into an AI Assistant procured through state contact. Some examples of approved tools are listed under “State-Approved AI Tools and Approval Process.” If you’re not sure whether a given tool complies, ask your CIO.
-    </div>
-    <h3 class="usa-accordion__heading">
-        <button
-            type="button"
-            class="usa-accordion__button"
-            aria-expanded="false"
-            aria-controls="ai-faq3"
-        >
-            What is the state’s current policy for responsible use of AI?
-        </button>
-    </h3>
-    <div id="ai-faq3" class="usa-accordion__content usa-prose" hidden>
-        See circular. [link to be inserted]
-    </div>
-</div>
+{% include faq.html faq="ai-faq" %}
