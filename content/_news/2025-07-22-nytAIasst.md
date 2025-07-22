@@ -1,9 +1,9 @@
 ---
 image: /assets/images/news/New-York-Times-emblem.jpg
-title: "COVERAGE: The Cities and States that are Getting it Right"
+title: "COVERAGE: Coverage: The Cities and States That Are Getting It Right"
 promoted: 1
 date: July 22, 2025
-source: NEW YORK TIMES
+source: The New York Times
 cta:
   text: Continue Reading
   link: "https://www.nytimes.com/2025/07/22/opinion/trump-budget-state-city-local.html"
