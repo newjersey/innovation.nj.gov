@@ -1,5 +1,5 @@
 ---
-image: /assets/images/news/New-York-Times-emblem.jpeg
+image: /assets/images/news/New-York-Times-emblem.jpg
 title: "COVERAGE: The Cities and States that are Getting it Right"
 promoted: 1
 date: July 22, 2025
