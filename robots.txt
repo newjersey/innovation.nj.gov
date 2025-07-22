@@ -12,4 +12,5 @@ Disallow: /impact-report/2024/covid19-response/
 Disallow: /impact-report/2024/data-and-policy/
 Disallow: /impact-report/2024/print/
 Disallow: /cel-playbook/print/
+Disallow: /ai-faq-state-employees/
 Allow: /

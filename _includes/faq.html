@@ -1,3 +1,4 @@
+{% if site.data[include.faq] %}
 <div class="usa-accordion">
   {% for faq in site.data[include.faq] %}
   <h3 class="usa-accordion__heading">
@@ -15,3 +16,4 @@
   </div>
   {% endfor %}
 </div>
+{% endif %}
