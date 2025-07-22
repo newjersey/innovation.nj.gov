@@ -27,6 +27,7 @@ Working with the New Jersey State Office of Information Technology, the Office o
 
 ### Resources and Additional Information
 
+* [Office of Innovation Blog: On First Anniversary, GenAI Tool is Helping Thousands of Public Sector Professionals](https://innovation.nj.gov/projects/ai-assistant/)
 * [Responsible Use of Generative AI in New Jersey State Government Training Course](/skills/ai/)  
 * [GovTech: NJ Unveils AI Training, Tool for State Government Workers](https://www.govtech.com/artificial-intelligence/n-j-unveils-ai-training-tool-for-state-government-workers)  
 * [NJ BIZ: NJ Launches New AI Tool, Training for State Employees](https://njbiz.com/nj-launches-new-ai-tool-training-for-state-employees/)  
