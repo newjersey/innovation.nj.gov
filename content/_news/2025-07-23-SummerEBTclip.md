@@ -9,4 +9,4 @@ cta:
   link: "https://www.nj.com/mosaic/2025/07/how-nj-is-using-ai-to-ensure-thousands-of-kids-dont-go-hungry-this-summer.html"
 ---
 
-Leveraging AI, the Office of Innovation helped 106,000 more eligible children in 2024 (and 76,000 more in 2025) get access to nutritious food through the Summer Electronic Benefit Transfer program. 
+Leveraging AI, the Office of Innovation helped 106,000 additional eligible children in 2024 (and 76,000 more in 2025) get access to nutritious food through the Summer Electronic Benefit Transfer program. 
