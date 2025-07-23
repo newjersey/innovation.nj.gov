@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/New-York-Times-emblem.jpg
 title: "COVERAGE: The Cities and States That Are Getting It Right"
-promoted: 1
+promoted: 2
 date: July 22, 2025
 source: The New York Times
 cta:
