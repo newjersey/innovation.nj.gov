@@ -51,6 +51,7 @@ exclude:
   - README.md
   - amplify.yml
   - build.js
+  - gh-oauth-lambdas/
 
 #   - .sass-cache/
 #   - .jekyll-cache/

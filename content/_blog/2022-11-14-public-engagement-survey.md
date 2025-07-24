@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: How we used a simple survey tool to elevate public engagement
+slug: public-engagement-survey
 author: Edward Paulino
 image: /assets/images/nj-logo.svg
 excerpt: When COVID-19 hit, we found a new way to engage New Jerseyans and bring out their best ideas for how to invest millions of dollars in reducing greenhouse gases.
