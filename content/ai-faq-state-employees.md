@@ -1,7 +1,7 @@
 ---
 title: Generative AI in New Jersey State Government
 layout: page
-permalink: /ai-faq-state-employees
+permalink: /ai-faq-state-employees/
 ---
 
 ## Generative AI Training for Public Professionals and the NJ AI Assistant
