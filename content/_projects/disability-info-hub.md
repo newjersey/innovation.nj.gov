@@ -16,7 +16,7 @@ OOI collaborated with the NJ State Department of Human Services, the Office of t
 ### Impact \+ Metrics
 
 * With the launch of the Disability Information Hub, New Jerseyans with disabilities and their families and caregivers no longer have to navigate a maze of state agencies and instead have an easy to use, centralized portal for all their needs.  
-* As of April 2025, the Hub has had more than 90,000 visits by people seeking benefits and information since its launch in July 2024\.  
+* As of July 2025, the Hub has had more than 135,000 visits by people seeking benefits and information since its launch in July 2024.  
 * Nearly 200 programs offered by the State of New Jersey can be found through the Hub and resources are organized by a person’s disability to make navigation easier.   
 * The Hub incorporates direct feedback from residents with disabilities and meets WCAG and Section 508 accessibility requirements.
 
@@ -27,7 +27,8 @@ OOI collaborated with the NJ State Department of Human Services, the Office of t
 
 ### Resources and Additional Information
 
-* [NJ.gov/Disabilities](https://www.nj.gov/disabilities/)  
+* [NJ.gov/Disabilities](https://www.nj.gov/disabilities/)
+* Office of Innovation Blog: [Making it easier for the disability community to find services through NJ.gov/disabilities](/blog/2025-05-01-nj-gov-disabilities-hub/)
 * GovTech: [NJ Launches Online Information Hub for Disability Services](https://www.govtech.com/gov-experience/n-j-launches-online-information-hub-for-disability-services)  
 * KYW: [New Jersey launches online hub for disability information, resources](https://www.audacy.com/kywnewsradio/news/local/new-jersey-online-hub-disability-information)  
 * NJ Family: [A New Hub Houses Info on Disability-Related Programs and Services in NJ](https://www.njfamily.com/a-new-hub-houses-info-on-disability-related-programs-and-services-in-nj/)
@@ -38,4 +39,4 @@ OOI collaborated with the NJ State Department of Human Services, the Office of t
 * NJ State Department of Human Services  
 * NJ State Office of Information Technology
 
-*Last updated on 4/22/25*
+*Last updated on 7/25/25*
