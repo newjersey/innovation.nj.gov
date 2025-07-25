@@ -28,7 +28,7 @@ OOI collaborated with the NJ State Department of Human Services, the Office of t
 ### Resources and Additional Information
 
 * [NJ.gov/Disabilities](https://www.nj.gov/disabilities/)
-* Office of Innovation Blog: [Making it easier for the disability community to find services through NJ.gov/disabilities](https://innovation.nj.gov/blog/2025-05-01-nj-gov-disabilities-hub/)
+* Office of Innovation Blog: [Making it easier for the disability community to find services through NJ.gov/disabilities](/blog/2025-05-01-nj-gov-disabilities-hub/)
 * GovTech: [NJ Launches Online Information Hub for Disability Services](https://www.govtech.com/gov-experience/n-j-launches-online-information-hub-for-disability-services)  
 * KYW: [New Jersey launches online hub for disability information, resources](https://www.audacy.com/kywnewsradio/news/local/new-jersey-online-hub-disability-information)  
 * NJ Family: [A New Hub Houses Info on Disability-Related Programs and Services in NJ](https://www.njfamily.com/a-new-hub-houses-info-on-disability-related-programs-and-services-in-nj/)
