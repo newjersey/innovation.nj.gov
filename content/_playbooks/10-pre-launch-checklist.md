@@ -1,6 +1,6 @@
 ---
 title: Pre-Launch Checklist
-order: 9
+order: 10
 ---
 
 Here is a handy checklist to make sure all needed tasks are done and requirements organized before your campaign is pushed live:
