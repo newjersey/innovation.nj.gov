@@ -25,4 +25,8 @@ Whether you are promoting program or service benefits, driving participation, or
 
 If you would like to receive occasional updates, tips, and new resources, enter your email below.
 
-<script src="https:/public.govdelivery.com/assets/Signup.js__;!!J30X0ZrnC1oQtbA!IgUpQaWZvtrIzy3NN6JWZfttKQGdWUC_arkA_fkjsyZoqMGNzOsNHFnmGlcZ6ZxduT_gZqA1fe9RKrtzKg48UpDzWVc$" data-account-code="NJGOV" data-signup-id="47578" ></script>
+<script
+  src="https://public.govdelivery.com/assets/Signup.js"
+  data-account-code="NJGOV"
+  data-signup-id="47578"
+></script>
