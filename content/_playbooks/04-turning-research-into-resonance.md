@@ -19,17 +19,17 @@ A "critical insight" is a concise, audience-centered idea that reveals an emotio
 
 A good critical insight is:
 
-- **Audience-centered:** focuses on what matters to the people you want to reach, not what your program delivers.
-- **Emotionally grounded:** connects to real feelings, not just surface-level facts or observations.
+- **Audience-centered:** Focuses on what matters to the people you want to reach, not what your program delivers.
+- **Emotionally grounded:** Connects to real feelings, not just surface-level facts or observations.
 - **Revealing or surprising:** Brings a fresh perspective or uncovers a truth that reframes how you see the problem.
 - **Actionable:** Points clearly toward how to communicate, design, or deliver in a way that meets people where they are - which means putting the right message, delivered in the right format, in the right place, and at the right time in their journey.
 - **Obvious after the fact:** A strong insight often feels instantly true once named, even if it wasn't clear before.
 
-Sometimes a critical insight jumps out at you during an audience interview the moment you hear a respondent say it (i.e., "It's like you are grieving" or "free money is nice but it's not the same thing as having a thriving business.")
+Sometimes a critical insight jumps out at you during an audience interview the moment you hear a respondent say it (i.e., "It's like you are grieving" or "free money is nice but it's not the same thing as having a thriving business").
 
 If that doesn't happen, you just need to do a bit of leg work to uncover it. Start by reviewing your interview notes and look for patterns. What aspirations came up more than once? What hopes, fears, or motivations might be behind what people said? What is the ultimate progress your audience is trying to make?
 
-Use the [Audience Insight Canvas](/assets/playbook/Audience%20Insight%20Canvas_R4.pdf){:target="\_blank"} to organize what you heard and begin to interpret what it might mean. Then identify one critical insight - a clear, meaningful sentence that captures what your audience is really feeling or experiencing. This can either be a sentence literally said by a respondent in an interview, pulled from an article or research paper, or a statement you craft to bring the identified insight to life. This becomes the anchor for your strategy and communication.
+Use the [Audience Insight Canvas](/assets/playbook/Audience%20Insight%20Canvas_R4.pdf){:target="\_blank"} to organize what you heard and begin to interpret what it might mean. Then identify one critical insight--a clear, meaningful sentence that captures what your audience is really feeling or experiencing. This can either be a sentence literally said by a respondent in an interview, pulled from an article or research paper, or a statement you craft to bring the identified insight to life. This becomes the anchor for your strategy and communication.
 
 <div class="usa-alert usa-alert--info margin-top-5">
     <div class="usa-alert__body">
@@ -42,7 +42,7 @@ Use the [Audience Insight Canvas](/assets/playbook/Audience%20Insight%20Canvas_R
                 It's possible research could confirm (or not confirm) things you've wondered about. If you don't hear anything surprising it could mean that your questions were leading or resulting in specific responses about your original theories, instead of really probing into your audience.If you aren't finding yourself with those kinds of results, look at your questions and see if they need some adjustment.
             </li>
             <li>
-                If your insight doesn't shift how you see your audience, or doesn't make someone on your team say "yes, that's it", keep going. You're not just summarizing, you're discovering the why that makes everything else clearer.
+                If your insight doesn't shift how you see your audience, or doesn't make someone on your team say "yes, that's it," keep going. You're not just summarizing, you're discovering the why that makes everything else clearer.
             </li>
         </ul>
     </div>
@@ -80,35 +80,45 @@ A good value proposition statement will:
 
 Your statement should combine five key parts. Together, they help you connect both the practical benefit and the deeper emotional payoff:
 
-1. **Audience (Who is this for?)**
+1.  **Audience (Who is this for?)**
 
-   Ground your statement in the people you want to reach. Be specific.
+    Ground your statement in the people you want to reach. Be specific.
 
-   _Example: For new parents, veterans returning to work, small business owners in rural areas_
+    _Example: For new parents, veterans returning to work, small business owners in rural areas_
 
-2. **Progress they are trying to make (What shift are they working toward?)**
+    <br/>
 
-   What are they hoping to change, overcome, or improve? This is about meaningful progress, not just solving a surface problem. It is about helping people achieve the vision they have for their lives.
+2.  **Progress they are trying to make (What shift are they working toward?)**
 
-   _Example: buy a house with a yard their kids can run around in, run a successful business, secure a job that gives they can feel a sense of purpose_
+    What are they hoping to change, overcome, or improve? This is about meaningful progress, not just solving a surface problem. It is about helping people achieve the vision they have for their lives.
 
-3. **Your program, product, or service (What are you offering?)**
+    _Example: buy a house with a yard their kids can run around in, run a successful business, secure a job that gives they can feel a sense of purpose_
 
-   Describe what your initiative provides, simply and clearly.
+    <br/>
 
-   _Example: free job training, subsidized transit pass, mental health support hotline_
+3.  **Your program, product, or service (What are you offering?)**
 
-4. **Benefits (What does it help them do or access?)**
+    Describe what your initiative provides, simply and clearly.
 
-   Focus on the practical outcome. How does your offering remove barriers, create access, or provide real help?
+    _Example: free job training, subsidized transit pass, mental health support hotline_
 
-   _Example: gain new skills to secure a higher paying job, get to work on time without a car, talk to a live person to help you get the support you need_
+    <br/>
 
-5. **What's in it for me (What is the deeper emotional or personal payoff?)**
+4.  **Benefits (What does it help them do or access?)**
 
-   This is where your insight connects to motivation. It is not just about a quick fix or temporary benefit. It is about the lasting change that helps people live according to their values, show up for others, or unlock a better version of their life. In advertising, this is often called the end-end benefit.
+    Focus on the practical outcome. How does your offering remove barriers, create access, or provide real help?
 
-   _Example: be a role model for your kids, have financial stability, make impact in your community, keep working until retirement_
+    _Example: gain new skills to secure a higher paying job, get to work on time without a car, talk to a live person to help you get the support you need_
+
+    <br/>
+
+5.  **What's in it for me (What is the deeper emotional or personal payoff?)**
+
+    This is where your insight connects to motivation. It is not just about a quick fix or temporary benefit. It is about the lasting change that helps people live according to their values, show up for others, or unlock a better version of their life. In advertising, this is often called the end-end benefit.
+
+    _Example: be a role model for your kids, have financial stability, make impact in your community, keep working until retirement_
+
+    <br/>
 
 When you combine these parts, you create a message that centers your audience, connects to their reality, and makes a clear, human case for why your initiative matters.
 
@@ -158,7 +168,7 @@ Use our [Value Proposition Generator](/assets/playbook/Value%20Proposition%20Gen
 
 In theory, identifying the critical insight could happen in as quickly as 2 to 4 hours, depending on how many interviews you've conducted and how much time your team has already spent reviewing the findings. Check out the [Conducting Discovery: Qualitative Interviews](/cel-playbook/03-marketing-discovery-qualitative-interview/) section of the Playbook if you need more information on best practices around audience interviews.
 
-The reality is it can take a bit of time to uncover the right insights and craft the most impactful way to talk about it. This work is important so don't rush it if you don't have to. Give yourself the space to do the work, share it with others to confirm it resonates, and then iterate where appropriate.
+The reality is it can take a bit of time to uncover the right insights and craft the most impactful way to talk about it. This work is important, so don't rush it if you don't have to. Give yourself the space to do the work, share it with others to confirm it resonates, and then iterate where appropriate.
 
 ## Do it in a day
 
@@ -175,7 +185,7 @@ Get the team together for a morning or afternoon and tackle the challenge togeth
 
 - Use the [Value Proposition Generator](/assets/playbook/Value%20Proposition%20Generator.pdf){:target="\_blank"} to draft a short statement that reflects what your audience will get out of your program, and why it will matter to them.
 - Focus on what people want to achieve or become, not just what your program does.
-- Share your draft with someone outside the project team. Ask: does it feel human, clear, and relevant? Would a resident see themselves in it? Ask a partner, a stakeholder, or even someone represented of your target audience. Remember, you aren't conducting a new round of research, you are simply validating your language makes it easy to understand the idea you are trying to communicate.
+- Share your draft with someone outside the project team. Ask: does it feel human, clear, and relevant? Would a resident see themselves in it? Ask a partner, a stakeholder, or even someone represented by your target audience. Remember, you aren't conducting a new round of research, you are simply validating your language makes it easy to understand the idea you are trying to communicate.
 
 ## Outputs
 
