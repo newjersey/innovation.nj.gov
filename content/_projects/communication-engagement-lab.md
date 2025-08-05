@@ -33,8 +33,8 @@ The C+E Lab encourages residents to take action by using proven consumer marketi
 
 ### Resources and Additional Information
 
-- [Communication + Engagement Lab Portfolio](/comms-engagement-portfolio)
-- [Communication + Engagement Lab's Playbook](/cel-playbook)
+- [Communication + Engagement Lab Portfolio](/cel/portfolio)
+- [Communication + Engagement Lab's Playbook](/cel/playbook)
 - [Beeck Center Case Study: Human-Centered Communication to Increase Service Uptake in New Jersey](https://beeckcenter.georgetown.edu/wp-content/uploads/2024/09/DSN-Spotlight_NJ-CE_v3.pdf)
 
 ### Partners

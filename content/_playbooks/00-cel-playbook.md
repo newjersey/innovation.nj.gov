@@ -1,5 +1,5 @@
 ---
-permalink: /cel-playbook/
+permalink: /cel/playbook/
 title: About The C+E Lab Playbook
 titleoverride: C+E Lab Playbook
 open-graph:

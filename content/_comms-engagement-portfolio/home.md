@@ -1,5 +1,5 @@
 ---
-permalink: /comms-engagement-portfolio
+permalink: /cel/portfolio/
 title: C+E Creative Portfolio
 menu-group: "Introduction"
 description: "We help stakeholders develop creative assets that drive uptake of State programs and services."
