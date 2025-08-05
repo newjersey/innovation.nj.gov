@@ -29,7 +29,7 @@ Sometimes a critical insight jumps out at you during an audience interview the m
 
 If that doesn't happen, you just need to do a bit of leg work to uncover it. Start by reviewing your interview notes and look for patterns. What aspirations came up more than once? What hopes, fears, or motivations might be behind what people said? What is the ultimate progress your audience is trying to make?
 
-Use the [Audience Insight Canvas](/assets/cel/toolkit/audience-insight-canvas-r4.pdf){:target="\_blank"} to organize what you heard and begin to interpret what it might mean. Then identify one critical insight--a clear, meaningful sentence that captures what your audience is really feeling or experiencing. This can either be a sentence literally said by a respondent in an interview, pulled from an article or research paper, or a statement you craft to bring the identified insight to life. This becomes the anchor for your strategy and communication.
+Use the [Audience Insight Canvas](/assets/cel/toolkit/audience-insight-canvas-r4.pdf){:target="\_blank"} to organize what you heard and begin to interpret what it might mean. Then identify one critical insight: a clear, meaningful sentence that captures what your audience is really feeling or experiencing. This can either be a sentence literally said by a respondent in an interview, pulled from an article or research paper, or a statement you craft to bring the identified insight to life. This becomes the anchor for your strategy and communication.
 
 <div class="usa-alert usa-alert--info margin-top-5">
     <div class="usa-alert__body">
