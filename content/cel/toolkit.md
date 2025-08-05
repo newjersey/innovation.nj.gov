@@ -4,7 +4,7 @@ permalink: /cel/toolkit/
 layout: page
 ---
 
-Practical tools to help public sector teams connect with (and activate!) the people they serve
+<p class="usa-intro">Practical tools to help public sector teams connect with &mdash;and activate&mdash; the people they serve.</p>
 
 Government programs are built to help people, but even the most vital services can miss the mark if we fail to communicate in ways that truly resonate. The People Centered Marketing Toolkit from the State of New Jersey Office of Innovation’s Communication + Engagement Lab is here to help.
 
