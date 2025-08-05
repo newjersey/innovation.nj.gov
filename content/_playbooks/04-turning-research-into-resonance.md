@@ -29,7 +29,7 @@ Sometimes a critical insight jumps out at you during an audience interview the m
 
 If that doesn't happen, you just need to do a bit of leg work to uncover it. Start by reviewing your interview notes and look for patterns. What aspirations came up more than once? What hopes, fears, or motivations might be behind what people said? What is the ultimate progress your audience is trying to make?
 
-Use the [Audience Insight Canvas](/assets/playbook/Audience%20Insight%20Canvas_R4.pdf){:target="\_blank"} to organize what you heard and begin to interpret what it might mean. Then identify one critical insight--a clear, meaningful sentence that captures what your audience is really feeling or experiencing. This can either be a sentence literally said by a respondent in an interview, pulled from an article or research paper, or a statement you craft to bring the identified insight to life. This becomes the anchor for your strategy and communication.
+Use the [Audience Insight Canvas](/assets/cel/toolkit/audience-insight-canvas-r4.pdf){:target="\_blank"} to organize what you heard and begin to interpret what it might mean. Then identify one critical insight--a clear, meaningful sentence that captures what your audience is really feeling or experiencing. This can either be a sentence literally said by a respondent in an interview, pulled from an article or research paper, or a statement you craft to bring the identified insight to life. This becomes the anchor for your strategy and communication.
 
 <div class="usa-alert usa-alert--info margin-top-5">
     <div class="usa-alert__body">
@@ -126,7 +126,7 @@ Example statement:
 
 _For new parents who are trying to return to work after having a child, our free job training program helps you gain the skills you need to land a higher paying job that will provide financial stability for you and your family._
 
-Use our [Value Proposition Generator](/assets/playbook/Value%20Proposition%20Generator.pdf){:target="\_blank"} to draft a statement that reflects what your audience will get out of your program and why that matters to them. Focus on the ultimate progress people are trying to make, not just the features of your program. Remember, it's never about the program or service, it's always about what the program or service will help people do.
+Use our [Value Proposition Generator](/assets/cel/toolkit/value-proposition-generator.pdf){:target="\_blank"} to draft a statement that reflects what your audience will get out of your program and why that matters to them. Focus on the ultimate progress people are trying to make, not just the features of your program. Remember, it's never about the program or service, it's always about what the program or service will help people do.
 
 <div class="usa-alert usa-alert--info margin-top-5">
     <div class="usa-alert__body">
@@ -183,12 +183,12 @@ Get the team together for a morning or afternoon and tackle the challenge togeth
 
 ### Step 2: Develop your "what's in it for me" statement
 
-- Use the [Value Proposition Generator](/assets/playbook/Value%20Proposition%20Generator.pdf){:target="\_blank"} to draft a short statement that reflects what your audience will get out of your program, and why it will matter to them.
+- Use the [Value Proposition Generator](/assets/cel/toolkit/value-proposition-generator.pdf){:target="\_blank"} to draft a short statement that reflects what your audience will get out of your program, and why it will matter to them.
 - Focus on what people want to achieve or become, not just what your program does.
 - Share your draft with someone outside the project team. Ask: does it feel human, clear, and relevant? Would a resident see themselves in it? Ask a partner, a stakeholder, or even someone represented by your target audience. Remember, you aren't conducting a new round of research, you are simply validating your language makes it easy to understand the idea you are trying to communicate.
 
 ## Outputs
 
-- A critical insight documented in the [Audience Insight Canvas](/assets/playbook/Audience%20Insight%20Canvas_R4.pdf){:target="\_blank"} that reflects the progress your audience is trying to make.
-- A [value proposition statement](/assets/playbook/Value%20Proposition%20Generator.pdf){:target="\_blank"}) that clearly communicates "what's in it for me" to your audience.
+- A critical insight documented in the [Audience Insight Canvas](/assets/cel/toolkit/audience-insight-canvas-r4.pdf){:target="\_blank"} that reflects the progress your audience is trying to make.
+- A [value proposition statement](/assets/cel/toolkit/value-proposition-generator.pdf){:target="\_blank"}) that clearly communicates "what's in it for me" to your audience.
 - A shared foundation to guide messaging, strategy, and creative development.
