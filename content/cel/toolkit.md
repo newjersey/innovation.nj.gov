@@ -30,3 +30,7 @@ If you would like to receive occasional updates, tips, and new resources, enter 
   data-account-code="NJGOV"
   data-signup-id="47578"
 ></script>
+
+## Get In Touch
+
+Let's chat! [Send us a message](mailto:celab@innovation.nj.gov?subject=Chat with the NJ OOI's Communication + Engagement Lab) and we'll get the conversation started.
