@@ -1,5 +1,5 @@
 ---
-permalink: /cel-playbook/
+permalink: /cel/playbook/
 title: About The C+E Lab Playbook
 titleoverride: C+E Lab Playbook
 open-graph:
@@ -9,7 +9,6 @@ order: 0
 pre-title-btn:
   text: Print Version
   url: /cel-playbook/print
-
 ---
 
 **The greatest gift you can give your audience is understanding what they really care about.**

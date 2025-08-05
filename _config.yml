@@ -96,7 +96,7 @@ collections:
     output: true
     sort_by: order
   comms-engagement-portfolio:
-    permalink: /comms-engagement-portfolio/:title/
+    permalink: /cel/portfolio/:title/
     directory: _comms-engagement-portfolio
     output: true
     sort_by: order
