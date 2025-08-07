@@ -3,6 +3,25 @@ layout: default
 ---
 
 <section class="usa-section">
+  {% if page.hero %}
+  <section
+  class="usa-hero margin-bottom-5"
+  aria-label="Introduction"
+  style="background-image: none"
+  
+>
+  <div class="position-relative">
+    <div class="position-relative display-flex flex-align-center flex-justify-center">
+      <img class="" src="{{page.hero.image}}" alt="{{page.hero.alt-text}}">
+    </div>
+    {% if page.hero.title %}
+    <h1 class="playbook-hero-text position-absolute {{page.hero.css-signifier}}"> {{page.hero.title}}</h1>
+    {% endif  %}
+  </img>
+  </div>
+  
+</section>
+  {% endif %}
   <div class="grid-container">
     <div class="grid-row grid-gap">
       {% if page.menu %}
