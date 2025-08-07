@@ -80,7 +80,3 @@ Not everyone has the time to go through the full process. That’s why we boiled
 Mission-critical pieces of information are called out as Red Flags, and more advanced applications of the process are noted as Pro Tips.
 
 Whether you follow the full process from start-to-finish, or cherry pick components to experiment with, the tools and tools and techniques in this Playbook will help you better connect with your constituents and move them to action.
-
-## Get In Touch
-
-Let's chat! [Send us a message](mailto:celab@innovation.nj.gov?subject=Chat with the NJ OOI's Communication + Engagement Lab) and we'll get the conversation started.
