@@ -10,7 +10,7 @@ figure: /assets/images/news/JobProtectionCheckerSpanish.png
   caption: The Job Protection Checker was the first tool that the Office of Innovation translated using its Translation Management System.
   alt-text: This screenshot shows the first question presented when a Spanish-speaker uses New Jersey's Job Protection Tool to understand what kind of job protections they might have. It asks whether their reason for wanting to take leave is for maternity, a recent newborn, caregiving, physical/mental health, or adopting/fostering.
 open-graph:
-  image: 
+  image: /assets/images/news/JobProtectionCheckerSpanish.png
 ---
 
 "Language access in the United States starts with plain English" — I often share this with colleagues, emphasizing that the first step in translation is turning complex jargon into clear, actionable, and empathetic English. As a woman who speaks English as a second language, this approach now comes naturally to me after realizing that my multilingual background is a strength, not a weakness.
