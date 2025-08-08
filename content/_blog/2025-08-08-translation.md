@@ -73,28 +73,46 @@ Thoughtful approaches to procurement in this area are crucial—yes, navigating 
 
 As a direct result of this effort, this year we shared our machine translation best practices and evaluation criteria that we are socializing with other state agencies. For starters, we successfully translated the [Job Protection Coverage Checker](https://innovation.nj.gov/projects/job-protect-checker/), marking it as the first public service platform we translated using a TMS, leveraging GitHub and Figma integrations to accelerate the process.
 
-**5 Takeaways for Using Machine Translation in Content Design**
-
-1. **Start, continue, and finish with a human in the loop:** Supervise, edit, and transcreate, completing the text as needed to create culturally sensitive translations.
-   **How?** Continually working with the same professional translator will allow you to work in an agile way, avoiding the blockers and inconsistencies that working with different vendors can create.
-
-2. **Define your style and train teams and tools:** Voice and tone reflect the organization’s values, and are expressed in your communication. This will also achieve consistency, strengthening your content, and will be amplified in the translation process.  
-   **How?** Create style guides and glossaries—starting with English and then in the targeted languages—test them, and use them to train your teams, partners, AI tools, and audience.  
-
-3. **Use more than one AI tool:** Emerging technologies are unpredictable and can hallucinate. Use different tools, compare and validate.  
-   **How?** Start with your preferred AI tool. The clearer the prompts, the better the results the tool will give. Step-by-step instructions and providing examples will enhance your results\!
-
-4. **Prepare for the translation domino effect:** Translating just one page is rarely enough. What's your holistic approach?  
-   **How?** It requires writers, designers, engineers, and subject matter experts to collaborate, identifying both an immediate, simple workflow and a desired, scalable one for the future.
-
-5. **Plan a handoff and validation process:** How are we going to deliver, receive, and implement the translations? Who will review it?  
-   **How?** Identify bilingual professionals to review and agree on a maintenance plan. When you do this, ensure these professionals are recognized for their bilingual work—for example, in their role's title and the bandwidth they need—and are fluent in the required language(s).
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+  <div class="usa-alert__body">
+    <p class="usa-alert__text usa-prose">
+      <h2>5 Takeaways for Using Machine Translation in Content Design</h2>
+      <ol class="usa-list">
+        <li>
+          <b>Start, continue, and finish with a human in the loop:</b> Supervise, edit, and transcreate, completing the text as needed to create culturally sensitive translations.
+          <br/>
+          <b>How?</b> Continually working with the same professional translator will allow you to work in an agile way, avoiding the blockers and inconsistencies that working with different vendors can create.
+        </li>
+        <li>
+          <b>Define your style and train teams and tools:</b> Voice and tone reflect the organization’s values, and are expressed in your communication. This will also achieve consistency, strengthening your content, and will be amplified in the translation process.
+          <br/>
+          <b>How?</b> Create style guides and glossaries—starting with English and then in the targeted languages—test them, and use them to train your teams, partners, AI tools, and audience.
+        </li>
+        <li>
+          <b>Use more than one AI tool:</b> Emerging technologies are unpredictable and can hallucinate. Use different tools, compare and validate.
+          <br/>
+          <b>How?</b> Start with your preferred AI tool. The clearer the prompts, the better the results the tool will give. Step-by-step instructions and providing examples will enhance your results!
+        </li>
+        <li>
+          <b>Prepare for the translation domino effect:</b> Translating just one page is rarely enough. What's your holistic approach?
+          <br/>
+          <b>How?</b> It requires writers, designers, engineers, and subject matter experts to collaborate, identifying both an immediate, simple workflow and a desired, scalable one for the future.
+        </li>
+        <li>
+          <b>Plan a handoff and validation process:</b> How are we going to deliver, receive, and implement the translations? Who will review it?
+          <br/>
+          <b>How?</b> Identify bilingual professionals to review and agree on a maintenance plan. When you do this, ensure these professionals are recognized for their bilingual work—for example, in their role's title and the bandwidth they need—and are fluent in the required language(s).
+        </li>
+      </ol>
+    </p>
+  </div>
+</div>
 
 ## Advancing Language Access Across State Government
 
 This growing body of work aligns with a new State law \[P.L.2023, c.263\] that supports language access and resonates with me deeply. The law mandates the translation of vital State agency documents and information into the top languages spoken by New Jersey residents with limited English proficiency.
 
-## Clearly, we have the momentum right now to advance the idea that true, effective translation means conveying the essential spirit and meaning of the original text, ensuring that even when software is used as an aid, documents are thoughtfully translated. This human-centered approach is vital for us at the Office of Innovation, as we continue to explore more frameworks and scale accessibility with AI and machine translation.
+Clearly, we have the momentum right now to advance the idea that true, effective translation means conveying the essential spirit and meaning of the original text, ensuring that even when software is used as an aid, documents are thoughtfully translated. This human-centered approach is vital for us at the Office of Innovation, as we continue to explore more frameworks and scale accessibility with AI and machine translation.
 
 ## The Path Forward: Scaling Language Access
 
