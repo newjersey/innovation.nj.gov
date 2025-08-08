@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@newjersey/feedback-widget": "^0.3.2",
-    "@newjersey/njwds": "^1.0.0",
+    "@newjersey/njwds": "^2.0.0",
     "bundler": "^0.8.0"
   },
   "scripts": {

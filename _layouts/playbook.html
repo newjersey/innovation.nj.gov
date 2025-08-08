@@ -25,6 +25,11 @@ layout: default
 
   <section class="usa-section">
     <div class="grid-container">
+      {% if page.pre-title-btn %}
+      <div class="grid-row display-flex flex-justify-end desktop:margin-top-neg-4 desktop:margin-bottom-2">
+        <a href="{{page.pre-title-btn.url}}" class="usa-button usa-button--outline" type="button" >{{page.pre-title-btn.text}}</a>
+      </div>
+      {% endif %}
       <div class="grid-row grid-gap">
         {% if page.menu %}
         <div class="usa-layout-docs__sidenav desktop:grid-col-3">
@@ -33,17 +38,9 @@ layout: default
         {% endif %}
 
         <main
-          class="{% if page.menu %} usa-layout-docs__main desktop:grid-col-9 usa-layout-docs {% else %} width-full {% endif %} usa-prose"
+          class="{% if page.menu %} usa-layout-docs__main desktop:grid-col-9 usa-layout-docs {% else %} width-full {% endif %}"
           id="main-content"
         >
-          {% if page.pre-title-btn %}
-          <a
-            href="{{page.pre-title-btn.url}}"
-            class="usa-button usa-button--outline float-right margin-bottom-2"
-            type="button"
-            >{{page.pre-title-btn.text}}</a
-          >
-          {% endif %}
           <h1
             {% if page.pre-title-btn %}
             style="margin-top: 0 !important"
