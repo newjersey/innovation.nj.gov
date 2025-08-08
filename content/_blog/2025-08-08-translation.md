@@ -65,7 +65,7 @@ Scaling manual translation efforts to more and more services and languages, or u
 
 To use a cooking analogy, we might understand the ingredients and recipes—our vocabularies and competencies—but that alone won't deliver a great meal efficiently. We also need tools like ovens and blenders to speed up and amplify our efforts. With the sheer volume of content we need to process for broad language access, a comprehensive Translation Management System (TMS) becomes our essential kitchen. It enables us to nimbly prepare, monitor, and adjust while also ensuring quality and scale.
 
-FIGURE/IMAGE GOES HERE
+{% include figure.html %}
 
 A Translation Management System (TMS) is a software platform designed to centralize, streamline, and automate various aspects of the translation and localization process. Think of it as a hub that connects content, people (translators, reviewers, project managers), and translation technologies, enhancing the efficiency of multilingual content production.
 
