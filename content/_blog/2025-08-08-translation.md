@@ -5,10 +5,10 @@ author: Barbara Niveyro, Bilingual Content Design Lead
 promoted: 1
 excerpt: The Office of Innovation is leading with a human-centered approach to ensure meaningful translations, even as it uses AI to scale up.
 image: /assets/images/news/NJ-seal.png
-figure:
+figure: /assets/images/news/JobProtectionCheckerSpanish.png
   url: 
-  caption: 
-  alt-text: 
+  caption: The Job Protection Checker was the first tool that the Office of Innovation translated using its Translation Management System.
+  alt-text: This screenshot shows the first question presented when a Spanish-speaker uses New Jersey's Job Protection Tool to understand what kind of job protections they might have. It asks whether their reason for wanting to take leave is for maternity, a recent newborn, caregiving, physical/mental health, or adopting/fostering.
 open-graph:
   image: 
 ---
@@ -57,8 +57,6 @@ The strategies learned during the UI modernization project — that we condensed
 * **A glossary to help with understanding Family Leave benefits.**  
 * **Information about tenants' rights during eviction situations.**
 
-FIGURE/IMAGE 1 GOES HERE
-
 ## Harnessing AI for Translation
 
 With the knowledge we gained from this work, we fed our in-house Generative AI tool (the NJ AI Assistant) with bilingual style guides and glossaries — as my colleague [Ruthie Nachmany mentioned in a previous blog](https://innovation.nj.gov/blog/2025-07-17-aiassistantanniversary/).
@@ -67,7 +65,7 @@ Scaling manual translation efforts to more and more services and languages, or u
 
 To use a cooking analogy, we might understand the ingredients and recipes—our vocabularies and competencies—but that alone won't deliver a great meal efficiently. We also need tools like ovens and blenders to speed up and amplify our efforts. With the sheer volume of content we need to process for broad language access, a comprehensive Translation Management System (TMS) becomes our essential kitchen. It enables us to nimbly prepare, monitor, and adjust while also ensuring quality and scale.
 
-FIGURE/IMAGE 2 GOES HERE
+FIGURE/IMAGE GOES HERE
 
 A Translation Management System (TMS) is a software platform designed to centralize, streamline, and automate various aspects of the translation and localization process. Think of it as a hub that connects content, people (translators, reviewers, project managers), and translation technologies, enhancing the efficiency of multilingual content production.
 
