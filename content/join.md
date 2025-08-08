@@ -57,27 +57,31 @@ The Office of Innovation occasionally posts procurement opportunities to support
 
 {% if open-solicitations.size > 0 %}
 {% for rfp in open-solicitations %}
-- [{{rfp.title}}]({{rfp.url}})
-  {% for rfpUpdate in rfp.updates %}
-  - [{{rfpUpdate.title}}]({{rfpUpdate.url}})
-  {% endfor %}
-{% endfor %}
-{% else %}
-There are no open requests at this time.
-{% endif %}
 
-    {% if closed-solicitations.size > 0 %}
-
-### Closed Solicitations
-
-{% for rfp in closed-solicitations %}
 - [{{rfp.title}}]({{rfp.url}})
   {% for rfpUpdate in rfp.updates %}
   - [{{rfpUpdate.title}}]({{rfpUpdate.url}})
     {% endfor %}
-{% endfor %}
-{% endif %}
-{% endif %}
+    {% endfor %}
+    {% else %}
+
+There are no open requests at this time.
+
+    {% endif %}
+
+{% if closed-solicitations.size > 0 %}
+
+### Closed Solicitations
+
+{% for rfp in closed-solicitations %}
+
+- [{{rfp.title}}]({{rfp.url}})
+  {% for rfpUpdate in rfp.updates %}
+  - [{{rfpUpdate.title}}]({{rfpUpdate.url}})
+    {% endfor %}
+    {% endfor %}
+    {% endif %}
+    {% endif %}
 
 ### Other Contracting Opportunities with the State of New Jersey
 
