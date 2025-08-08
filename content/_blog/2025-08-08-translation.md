@@ -105,10 +105,3 @@ This journey is sometimes daunting, often exhilarating, and consistently challen
 Multilingual content design is an evolving discipline, and Spanish is merely a starting point. Significant research and co-creation are essential to grasp the multicultural nuances required for engaging translations in each language. Continuously enriching our translation memory and the NJ AI Assistant with these learnings is a substantial yet impactful endeavor that helps us honor and better serve the diverse languages and cultures of the people of New Jersey. 
 
 Thank you, 谢谢, Gracias, Dhanyavaad, 감사합니다, Obrigado\!
-
-
-The result is that we’re now a model for how states can harness AI in a responsible and cost-effective way.
-
-That’s good news for taxpayers, for government, and for the millions of people that state agencies serve throughout the Garden State.
-
-[Learn more about the NJ AI Assistant tool](https://innovation.nj.gov/projects/ai-assistant).
