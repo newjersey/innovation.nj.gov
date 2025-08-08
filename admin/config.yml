@@ -38,7 +38,8 @@ collections:
         allow_multiple: false
         choose_url: false
       - name: promoted
-        label: Promoted
+        label: Promoted Order
+        hint: there can only be only be 3 promoted posts in total
         widget: number
         value_type: "int"
         min: 1
