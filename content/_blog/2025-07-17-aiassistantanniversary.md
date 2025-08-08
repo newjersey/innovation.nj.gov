@@ -2,7 +2,7 @@
 layout: blog
 title: On First Anniversary, GenAI Tool is Helping Thousands of Public Sector Professionals
 author: Ruthie Nachmany, Product Lead, Platform Team
-promoted: 
+promoted:
 excerpt: On its first anniversary, the New Jersey AI Assistant is helping thousands of public-sector professionals use GenAI to save time and money while improving services for residents.
 image: /assets/images/news/NJ-seal.png
 figure:
@@ -31,23 +31,23 @@ The tool is even helping agencies analyze transcripts of calls to [help create b
 
 ## What do employees think of the tool?
 
-By and large, the state’s public-sector professionals have said they like having a simple, state-approved genAI tool that they know is secure within the government’s IT infrastructure.  They also give high marks to [the training we developed with a nonprofit (Innovate US)](https://innovate-us.org/workshop-series/artificial-intelligence-for-the-public-sector) that goes along with the tool – a training now used by over 25 states and local partners.
+By and large, the state’s public-sector professionals have said they like having a simple, state-approved genAI tool that they know is secure within the government’s IT infrastructure. They also give high marks to [the training we developed with a nonprofit (Innovate US)](https://innovate-us.org/workshop-series/artificial-intelligence-for-the-public-sector) that goes along with the tool – a training now used by over 25 states and local partners.
 
-We recently surveyed the state employees who use the tool. Most of the respondents indicated that they use it daily or weekly, and that it often saves them hours of time. 
+We recently surveyed the state employees who use the tool. Most of the respondents indicated that they use it daily or weekly, and that it often saves them hours of time.
 
 In fact, we actually fed a document with hundreds of open-ended responses from that survey into the AI Assistant itself and asked it to provide - in 100 words or less - the top five ways respondents use the tool. The tool provided this output (also see image):
 
-*Respondents primarily use the AI Assistant for:*
+_Respondents primarily use the AI Assistant for:_
 
-1. ***Drafting and Editing:** Enhancing emails, memos, and reports for clarity and professionalism.*  
-2. ***Summarizing Documents:** Condensing lengthy texts and complex information for quick comprehension.*  
-3. ***Proofreading and Grammar Checks:** Ensuring communication is polished and error-free.*  
-4. ***Brainstorming and Idea Generation:** Aiding in the creation and refinement of content and projects.*  
-5. ***Technical Support:** Assisting with coding, data analysis, and creating presentation outlines, streamlining workflows and boosting efficiency.*
+1. **\*Drafting and Editing:** Enhancing emails, memos, and reports for clarity and professionalism.\*
+2. **\*Summarizing Documents:** Condensing lengthy texts and complex information for quick comprehension.\*
+3. **\*Proofreading and Grammar Checks:** Ensuring communication is polished and error-free.\*
+4. **\*Brainstorming and Idea Generation:** Aiding in the creation and refinement of content and projects.\*
+5. **\*Technical Support:** Assisting with coding, data analysis, and creating presentation outlines, streamlining workflows and boosting efficiency.\*
 
 ## What's next?
 
-Already, we’ve improved the tool this year based on recommendations from the people who use it. As a result, they can now upload up to 10 files of various types, as well as larger file sizes. 
+Already, we’ve improved the tool this year based on recommendations from the people who use it. As a result, they can now upload up to 10 files of various types, as well as larger file sizes.
 
 Looking forward, the team is conducting outreach to various agencies to help them uncover how AI might help with particular activities and efforts related to their respective teams and mission areas.
 
