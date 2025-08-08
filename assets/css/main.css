@@ -1,3 +1,19 @@
+/* we previously applied the usa-prose class fairly aggressively */
+/* uswds applies a global max-width on all paragraphs, which conflicts with the current design */
+p {
+  max-width: none;
+}
+
+ol li,
+ul li {
+  margin-bottom: .25rem;
+  max-width: 68ex;
+}
+
+main {
+  line-height: 1.6;
+}
+
 /* Cards */
 @media (min-width: 40em) {
   .tablet\:grid-col-6.usa-card.usa-card--flag .usa-card__media {

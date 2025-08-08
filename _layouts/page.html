@@ -21,13 +21,13 @@ layout: default
   <div class="grid-container">
     <div class="grid-row grid-gap">
       {% if page.menu %}
-      <div class="usa-layout-docs__sidenav desktop:grid-col-3">
+      <div class="usa-layout-docs__sidenav order-2 desktop:order-first desktop:grid-col-3">
         {% include menu.html menu=page.menu %}
       </div>
       {% endif %}
 
       <main
-        class="{% if page.menu %} usa-layout-docs__main desktop:grid-col-9 usa-layout-docs {% else %} width-full {% endif %} usa-prose"
+        class="{% if page.menu %} usa-layout-docs__main desktop:grid-col-9 usa-layout-docs {% else %} width-full {% endif %}"
         id="main-content"
       >
         {% if page.title %}
