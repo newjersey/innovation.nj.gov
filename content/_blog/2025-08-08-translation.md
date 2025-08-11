@@ -17,7 +17,7 @@ open-graph:
 
 My journey with language began early: as a kid, I was a Spanish-Portuguese interpreter for my grandparents and an English-Spanish translator as I navigated my own naturalization process from Argentina. Then, in my early career in the film industry, providing subtitles in other languages was much more than just a technical task: how do you write accessible yet poetic translations that describe the ethereal sounds of the Himalayas as the sun rises? How do you capture that essence in American English, Peruvian Spanish, or Haitian Creole?
 
-I now have a profound appreciation for meaningful communication in across languages, a value shared by the Office of Innovation and with colleagues throughout the New Jersey government.
+I now have a profound appreciation for meaningful communication across languages, a value shared by the Office of Innovation and with colleagues throughout the New Jersey government.
 
 ## Our First Case Study: Unemployment Insurance
 
