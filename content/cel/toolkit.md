@@ -4,6 +4,7 @@ permalink: /cel/toolkit/
 layout: page
 hero:
   image: /assets/images/cetoolkit/toolkit-header.webp
+  alt-text: "A group of four family members smiling and giving a thumbs-up"
 ---
 
 <p class="usa-intro">Practical tools to help public sector teams connect with &mdash;and activate&mdash; the people they serve.</p>
