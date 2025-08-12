@@ -18,7 +18,7 @@ You can use the tools individually or together as part of your campaign planning
 
 - [**Audience Insight Canvas.**](/assets/cel/toolkit/audience-insight-canvas_r4.pdf) Turn research into clear, usable direction for messaging with a canvas to organize your insights and framing.
 - [**Value Proposition Generator.**](/assets/cel/toolkit/value-proposition-generator.pdf) A template to write statements that lead with what matters most to your audience.
-- [**Creative Standards Guide.**](/assets/cel/toolkit/Recruitment.Process.for.Marketing.Toolkit.docx) A document to help you keep your marketing outreach materials consistent, accessible, and impactful.
+- [**Marketing Assets Standards Guide**](/assets/cel/toolkit/Marketing-Assets-Standards-Guide.pdf) A document to help you keep your marketing outreach materials consistent, accessible, and impactful.
 - [**UTM Generator.**](/assets/cel/toolkit/utm-builder-and-manager-playbook.xlsx) This dynamic spreadsheet generates unique tracking URL’s so you can track your campaign’s performance.
 
 Whether you are promoting program or service benefits, driving participation, or building trust, these tools help you communicate more effectively.
