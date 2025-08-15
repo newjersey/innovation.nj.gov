@@ -7,11 +7,13 @@ backend:
   publish_mode: editorial_workflow
   squash_merges: true
 media_folder: "assets/images"
+
 collections:
   - name: "blog"
-    label: "Blog"
+    label: "Blog Posts"
     folder: "content/_blog/"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true
     fields:
       # Read-only fields
       - name: layout
