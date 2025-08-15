@@ -7,4 +7,3 @@ Aditi is a product director at the Office of Innovation. She supports a team of 
 
 Before joining the Office of Innovation, Aditi led product strategy efforts at a leading consulting firm, where she partnered with Fortune 50 clients to bring innovative platform products to life. With professional experience in four countries, she brings a unique perspective that helps her effectively engage and connect with a wide range of end users. Her expertise spans digital healthcare and retail industries with a focus on growing B2C products in international markets. 
 
-Outside of work, Aditi is creating the ultimate vegan food map and is always open to new recommendations. She enjoys solving Rubik’s cubes, perfecting her jab-cross, and recycling her sticky notes into origami masterpieces – mostly swans.
