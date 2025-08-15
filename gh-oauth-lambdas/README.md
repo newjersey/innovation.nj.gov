@@ -6,8 +6,6 @@ This AWS CDK stack defines two Lambda functions and a single API Gateway through
 
 1. First you need to get the value for the `GITHUB_CLIENT_ID` environment variable. This is stored in our Bitwarden vault under `Decap OAuth Github App`.
 
-2. Once you're ready to deploy, make sure your current working directory is `./gh-oauth-lambdas/`. Then run:
-
 ```sh
 GITHUB_CLIENT_ID="[client-id]" npx cdk deploy
 ```
