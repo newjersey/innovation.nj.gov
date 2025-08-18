@@ -9,3 +9,5 @@ Prior to this role, Jessica played a leading role in the Office of Innovation’
 
 Prior to joining the Office of Innovation, Jessica worked with dozens of public, private, and non-profit organizations, including the National Park Service, the New York City Economic Development Corporation, and the Kresge Foundation. She led projects that resulted in the commitment to close jails on Rikers Island, the creation of NYC’s first incubator for low-income entrepreneurs, the expansion of bicycle lanes on the Brooklyn Bridge, and the adoption of a masterplan to transform flooding vacant lots in North Miami.
 
+Jessica received her master's of urban planning from Hunter College, and her bachelor's in environmental studies from the University of Michigan.
+
