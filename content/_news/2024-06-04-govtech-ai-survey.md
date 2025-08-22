@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/govtech.png
 title: "ARTICLE: New Jersey Co-Creates AI Strategy With Public-Sector Staff"
-promoted: 
+promoted: 0
 date: June 4, 2024 
 source: Government Technology
 cta:

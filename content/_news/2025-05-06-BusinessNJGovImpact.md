@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: Business.NJ.gov Celebrates 5 Years of Helping Thousands of Businesses"
-promoted: 
+promoted: 0
 date: May 6, 2025
 source: NJGOV
 cta:

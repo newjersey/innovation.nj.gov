@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/njdol.jpg
 title: "RELEASE: NJ Receives $11M+ Federal Grant to Continue Unemployment System Improvements"
-promoted: 
+promoted: 0
 date: October 12, 2023
 source: Department of Labor & Workforce Development
 cta:

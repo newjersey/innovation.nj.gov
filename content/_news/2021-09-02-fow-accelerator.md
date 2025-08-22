@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/fowa-pic.jpg
 title: "POST: Innovating an Inclusive Open Innovation Challenge"
-promoted:
+promoted: 0
 date: September 2, 2021
 source: Medium
 cta:

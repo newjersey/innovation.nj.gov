@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: Murphy Administration Releases Report from Artificial Intelligence Task Force, Furthers Leadership As The Innovation State"
-promoted:
+promoted: 0
 date: November 12, 2024
 source: NJGov
 cta:

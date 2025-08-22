@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: Governor Murphy Establishes State Artificial Intelligence Task Force"
-promoted: 
+promoted: 0
 date: October 10, 2023
 source: NJGOV
 cta:

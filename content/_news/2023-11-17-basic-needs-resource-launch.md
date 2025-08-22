@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: Office of the Secretary of Higher Education Launches BasicNeeds.NJ.gov Resource Hub at Convening of Campus Practitioners"
-promoted: 
+promoted: 0
 date: November 17, 2023
 source: NJGOV
 cta:
