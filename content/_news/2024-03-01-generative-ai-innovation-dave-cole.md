@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/statescoop.png
 title: "COVERAGE: Chief Innovation Officer Dave Cole Discusses Priorities, Plans"
-promoted: 
+promoted: 0
 date: March 1, 2024
 source: STATESCOOP
 cta:

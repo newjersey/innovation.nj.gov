@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/statescoop-podcast.webp
 title: "LISTEN: Why New Jersey’s Innovation Office Is Expanding"
-promoted: 
+promoted: 0
 date: September 4, 2024
 source: StateScoop
 cta:

@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: Governor Murphy Unveils AI Tool For State Employees and Training Course For Responsible Use"
-promoted:
+promoted: 0
 date: July 3, 2024
 source: NJGOV
 cta:

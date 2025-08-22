@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/ROI-NJ.svg
 title: "COVERAGE: Dave Cole named chief innovation officer for state"
-promoted:
+promoted: 0
 date: February 1, 2024
 source: ROI NJ
 cta:

@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/civic-innovation-corps.png
 title: "POST: Finding a Path Through Civic Tech: Asking What Technology Can Do For Our World"
-promoted:
+promoted: 0
 date: October 4, 2021
 source: Medium
 cta:

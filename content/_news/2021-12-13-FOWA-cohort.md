@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/medium-logo.png
 title: "POST: Assembling the Future of Work Accelerator’s Inaugural Cohort"
-promoted: 
+promoted: 0
 date: December 13, 2021
 source: Medium
 cta:

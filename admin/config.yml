@@ -6,7 +6,8 @@ backend:
   auth_endpoint: auth
   publish_mode: editorial_workflow
   squash_merges: true
-media_folder: "assets/images"
+media_folder: assets/images
+public_folder: /assets/images
 
 collections:
   - name: "blog"
@@ -14,6 +15,7 @@ collections:
     folder: "content/_blog/"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
+    summary: "{{title}} - {{date | date('MM/DD/YYYY')}} – {{body | truncate(50, '***')}}"
     fields:
       # Read-only fields
       - name: layout
@@ -29,6 +31,11 @@ collections:
         label: Author
         widget: string
         required: true
+      - name: date
+        label: Publish Date
+        widget: datetime
+        default: { { now } }
+        required: true
       # Optional fields
       - name: excerpt
         label: Excerpt
@@ -43,12 +50,12 @@ collections:
         required: false
       - name: promoted
         label: Promoted Order
-        hint: You can have up to 3 promoted posts in total. \"0\" values are ignored
+        hint: There is only 1 promoted blog post at a time. \"0\" values (the default) are unpromoted.
         widget: number
         value_type: "int"
         default: 0
         min: 0
-        max: 3
+        max: 1
         required: true
       - name: figure
         label: Inline Image
@@ -75,3 +82,59 @@ collections:
         label: Body
         required: true
         widget: markdown
+  - name: "news"
+    label: "News Posts"
+    folder: "content/_news/"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    summary: "{{title}} - {{date | date('MM/DD/YYYY')}} – {{body | truncate(50, '***')}}"
+    create: true
+    fields:
+      # Required fields
+      - name: title
+        label: Title
+        widget: string
+        required: true
+      - name: date
+        label: Publish Date
+        hint: This should be the date the referenced article was published
+        widget: datetime
+        default: { { now } }
+        required: true
+      - name: source
+        label: Source
+        hint: e.g. the name of the site/org/dept that published the article
+        widget: string
+        required: true
+      - name: image
+        label: Icon Image
+        widget: image
+        media_folder: "assets/images"
+        allow_multiple: false
+        choose_url: false
+        required: true
+      - name: promoted
+        label: Promoted Order
+        hint: You can have up to 3 promoted posts in total. \"0\" values (the default) are unpromoted.
+        widget: number
+        value_type: "int"
+        default: 0
+        min: 0
+        max: 3
+        required: true
+      - name: body
+        label: Description
+        hint: A brief description of the article's content.
+        required: true
+        widget: markdown
+      - name: cta
+        label: Article Link
+        widget: object
+        required: true
+        fields:
+          - name: link
+            label: Url
+            widget: string
+          - name: text
+            label: Button Text
+            default: Continue Reading
+            widget: string

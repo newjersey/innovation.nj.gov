@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/ROI-NJ.svg
 title: "COVERAGE: NJDOL to fund 2-year, $10M pilot program to provide job coaching, training and support"
-promoted: 
+promoted: 0
 date: February 8, 2023
 source: ROI-NJ
 cta:
