@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/statescoop.png
 title: "COVERAGE: New Jersey's new coronavirus website lets users ask questions"
-date: March 24, 2020
+date: 2020-03-24
 source: State Scoop
 cta:
   text: Continue Reading

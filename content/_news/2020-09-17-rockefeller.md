@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/njcn_rockefeller.jpeg
 title: "FEATURE: An Equity-Based Job Search Site with Heart Creates a Quiet Revolution in Public Problem Solving"
-date: September 17, 2020
+date: 2020-09-17
 source: The Rockefeller Foundation
 cta:
   text: Continue Reading

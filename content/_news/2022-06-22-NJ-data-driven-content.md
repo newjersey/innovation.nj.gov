@@ -2,7 +2,7 @@
 image: /assets/images/news/statescoop.png
 title: "CASE STUDY: Inside New Jersey’s data-driven content strategy to boost service delivery"
 promoted: 0
-date: June 22, 2022
+date: 2022-06-22
 source: StateScoop
 cta:
   text: Continue Reading

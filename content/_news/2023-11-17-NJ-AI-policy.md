@@ -2,7 +2,7 @@
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: Governor Murphy Announces New Policy to Promote State Employees’ Responsible Use of Generative Artificial Intelligence"
 promoted: 0
-date: November 17, 2023
+date: 2023-11-17
 source: NJGOV
 cta:
   text: Continue Reading

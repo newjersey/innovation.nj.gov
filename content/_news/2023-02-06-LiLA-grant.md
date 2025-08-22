@@ -2,7 +2,7 @@
 image: /assets/images/news/NJ-seal.png
 title: "GRANT OPPORTUNITY: Lifelong Learning Accounts (LiLA)"
 promoted: 0
-date: February 6, 2023
+date: 2023-02-06
 source: NJDOL
 cta:
   text: Continue Reading

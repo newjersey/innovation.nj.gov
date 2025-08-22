@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/fow_njspotlight.jpg
 title: "COVERAGE: Workers fear losing full-time jobs, no training, corporate surveillance"
-date: September 25, 2020
+date: 2020-09-25
 source: NJ Spotlight
 cta:
   text: Continue Reading

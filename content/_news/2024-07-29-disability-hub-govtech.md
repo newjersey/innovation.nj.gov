@@ -2,7 +2,7 @@
 image: /assets/images/news/govtech.png
 title: "COVERAGE: NJ Launches Online Information Hub for Disability Services"
 promoted: 0
-date: July 29, 2024
+date: 2024-07-29
 source: Government Technology
 cta:
   text: Continue Reading

@@ -2,7 +2,7 @@
 image: /assets/images/news/beeckcenter.png
 title: "CASE STUDY: How a Live Chat Tool Streamlined Business Support Services in NJ"
 promoted: 0
-date: August 13, 2024
+date: 2024-08-13
 source: Beeck Center For Social Impact + Innovation
 cta:
   text: Continue Reading

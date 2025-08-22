@@ -2,7 +2,7 @@
 image: /assets/images/news/federal_news_network_logo.jpg
 title: "COVERAGE: IRS Direct File Sees Higher Scores Among Users"
 promoted: 0
-date: May 30, 2025
+date: 2025-05-30
 source: FEDERAL NEWS NETWORK
 cta:
   text: Continue Reading

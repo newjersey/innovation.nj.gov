@@ -2,7 +2,7 @@
 image: /assets/images/news/nj-biz.png
 title: "COVERAGE: NJ launches widget to help cannabiz hopefuls navigate setting up a business"
 promoted: 0
-date: March 18, 2022
+date: 2022-03-18
 source: NJBIZ
 cta:
   text: Continue Reading

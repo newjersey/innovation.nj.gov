@@ -2,7 +2,7 @@
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: NJ Dept of Labor Announces New Job Protection Checker to Guide Workers on Family and Medical Leave Laws"
 promoted: 0
-date: March 13, 2025
+date: 2025-03-13
 source: NJGOV
 cta:
   text: Continue Reading

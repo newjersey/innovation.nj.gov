@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/india-visit.jpg
 title: "COVERAGE: Gov. Phil Murphy announces economic mission trip to India"
-date: July 16, 2019
+date: 2019-07-16
 source: News India Times
 cta:
   text: Continue Reading

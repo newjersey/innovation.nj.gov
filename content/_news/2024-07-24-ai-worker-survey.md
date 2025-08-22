@@ -2,7 +2,7 @@
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: Murphy Administration Seeks NJ Worker Input on Generative AI"
 promoted: 0
-date: July 24, 2024
+date: 2024-07-24
 source: NJGOV
 cta:
   text: Continue Reading

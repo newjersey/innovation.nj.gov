@@ -2,7 +2,7 @@
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: NJ Launches Campaign Empowering Residents to Pursue Affordable, Accessible Degrees in the State"
 promoted: 0
-date: October 1, 2024
+date: 2024-10-01
 source: NJGov
 cta:
   text: Continue Reading

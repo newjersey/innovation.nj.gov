@@ -2,7 +2,7 @@
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: Office of Innovation and NJ Human Services Launch Disability Information Hub"
 promoted: 0
-date: July 26, 2024
+date: 2024-07-26
 source: NJGOV
 cta:
   text: Continue Reading

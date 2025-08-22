@@ -2,7 +2,7 @@
 image: /assets/images/news/nj-biz.png
 title: "COVERAGE: NJ launches tool to help college students make ends meet "
 promoted: 0
-date: November 20, 2023
+date: 2023-11-20
 source: NJBIZ
 cta:
   text: Continue Reading

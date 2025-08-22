@@ -2,7 +2,7 @@
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: New Jersey Named National Leader in AI Innovation in New Report"
 promoted: 0
-date: July 15, 2025
+date: 2025-07-15
 source: NJGOV
 cta:
   text: Continue Reading

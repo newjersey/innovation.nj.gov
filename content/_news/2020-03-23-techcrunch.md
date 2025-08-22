@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/techcrunch.png
 title: "COVERAGE: New Jersey launches online portal to give residents accurate answers about COVID-19"
-date: March 23, 2020
+date: 2020-03-23
 source: TechCrunch
 cta:
   text: Continue Reading

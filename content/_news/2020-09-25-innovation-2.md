@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/fow_image4.png
 title: "POST: What We Learned About the Future of Work from 4,000 Workers in New Jersey"
-date: September 25, 2020
+date: 2020-09-25
 source: New Jersey Office of Innovation Medium
 cta:
   text: Continue Reading

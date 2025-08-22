@@ -2,7 +2,7 @@
 image: /assets/images/news/drum-awards.png
 title: "AWARD: Office of Innovation's C+E Lab Wins Gold At Drum Awards"
 promoted:  
-date: June 5, 2024
+date: 2024-06-05
 source: Marketing Americas
 cta:
   text: Continue Reading

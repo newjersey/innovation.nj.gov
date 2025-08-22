@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/fow_image2.jpeg
 title: "POST: How New Jersey Asked Workers About the Future of Work: The Importance of Partnership"
-date: September 25, 2020
+date: 2020-09-25
 source: New Jersey Office of Innovation Medium
 cta:
   text: Continue Reading

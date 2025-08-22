@@ -2,7 +2,7 @@
 image: /assets/images/news/RowanLogo2.jpg
 title: "COVERAGE: CIO Keynotes AI Conference at Rowan University"
 promoted: 0
-date: May 5, 2025
+date: 2025-05-05
 source: ROWAN TODAY
 cta:
   text: Continue Reading

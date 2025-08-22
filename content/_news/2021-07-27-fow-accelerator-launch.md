@@ -2,7 +2,7 @@
 image: /assets/images/news/fow-news.jpg
 title: "POST: More Than Innovation, Sparking A Movement To Support Workers"
 promoted: 0
-date: July 27, 2021
+date: 2021-07-27
 source: Medium
 cta:
   text: Continue Reading

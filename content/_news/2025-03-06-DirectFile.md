@@ -2,7 +2,7 @@
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: New Jersey Launches Innovative IRS Direct File Program"
 promoted: 0
-date: January 28, 2025
+date: 2025-01-28
 source: NJGOV
 cta:
   text: Continue Reading
