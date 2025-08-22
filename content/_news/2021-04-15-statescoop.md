@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/statescoop.png
 title: "COVERAGE: To get digital services right, government needs to stay crisis-ready"
-date: April 15, 2021
+date: 2021-04-15
 source: StateScoop
 cta:
   text: Continue Reading

@@ -2,7 +2,7 @@
 image: /assets/images/news/govx-award.jpg
 title: "AWARD: Office of Innovation Wins GovX Award from the Center for Digital Government"
 promoted: 0
-date: September 18, 2024
+date: 2024-09-18
 source: Center For Digital Government
 cta:
   text: Continue Reading

@@ -2,7 +2,7 @@
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: Governor Murphy Announces Dave Cole as New Jersey State Chief Innovation Officer"
 promoted: 0
-date: January 31, 2024
+date: 2024-01-31
 source: NJGOV
 cta:
   text: Continue Reading

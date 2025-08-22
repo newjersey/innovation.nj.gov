@@ -2,7 +2,7 @@
 image: /assets/images/news/NJ-seal.png
 title: "RELEASE: Governor Murphy and Acting U.S. Labor Secretary Su Highlight New, Easy-to-Use Online Unemployment Insurance Application"
 promoted: 0
-date: May 21, 2024 
+date: 2024-05-21
 source: NJGOV
 cta:
   text: Continue Reading

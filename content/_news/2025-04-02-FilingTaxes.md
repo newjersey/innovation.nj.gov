@@ -2,7 +2,7 @@
 image: /assets/images/news/njcomlogo.png
 title: "COVERAGE: The tax filing deadline is coming. Here's how you can file your return for free."
 promoted: 0
-date: April 2, 2025
+date: 2025-04-02
 source: NJ.COM
 cta:
   text: Continue Reading

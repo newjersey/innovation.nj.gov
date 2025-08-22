@@ -2,7 +2,7 @@
 image: /assets/images/news/govtech.png
 title: "COVERAGE: New Jersey One of Three Top-Ranked States in AI Readiness Assessment"
 promoted: 0
-date: July 9, 2025
+date: 2025-07-09
 source: GOVTECH
 cta:
   text: Continue Reading

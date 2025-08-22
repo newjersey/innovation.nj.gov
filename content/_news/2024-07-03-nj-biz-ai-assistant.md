@@ -2,7 +2,7 @@
 image: /assets/images/news/nj-biz.png
 title: "Coverage: NJ Launches New AI Tool, Training for State Employees"
 promoted: 0
-date: July 3, 2024
+date: 2024-07-03
 source: NJ Biz
 cta:
   text: Continue Reading

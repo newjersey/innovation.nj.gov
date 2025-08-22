@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/use-of-force-dashboard.jpeg
 title: "COVERAGE: 'Beta Version' of State's Use of Force Dashboard Launched"
-date: April 6, 2021
+date: 2021-04-06
 source: Cape May County Herald
 cta:
   text: Continue Reading

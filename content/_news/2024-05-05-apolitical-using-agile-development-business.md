@@ -2,7 +2,7 @@
 image: /assets/images/news/apolitical-logo.png
 title: "ARTICLE: How the Office of Innovation Used Agile Practices to Build Business.NJ.gov "
 promoted: 0
-date: May 5, 2024 
+date: 2024-05-05
 source: Apolitical
 cta:
   text: Continue Reading

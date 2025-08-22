@@ -2,7 +2,7 @@
 image: /assets/images/news/govtech.png
 title: "COVERAGE: New Jersey Unveils AI Policy to Guide Use by State Employees"
 promoted: 0
-date: November 20, 2023
+date: 2023-11-20
 source: Government Technology
 cta:
   text: Continue Reading

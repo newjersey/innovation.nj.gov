@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/covid19jobs.jpeg
 title: "CASE STUDY: How New Jersey connected workforce supply and demand during the pandemic"
-date: February 18, 2021
+date: 2021-02-18
 source: New Jersey Office of Innovation Medium
 cta:
   text: Continue Reading

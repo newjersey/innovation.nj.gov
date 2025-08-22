@@ -2,7 +2,7 @@
 image: /assets/images/news/govtech.png
 title: "COVERAGE: NJ AI Task Force Report Addresses Workforce, Innovation"
 promoted: 0
-date: December 3, 2024
+date: 2024-12-03
 source: Government Technology
 cta:
   text: Continue Reading

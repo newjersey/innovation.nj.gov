@@ -2,7 +2,7 @@
 image: /assets/images/news/statescoop.png
 title: "COVERAGE: Chief Innovation Officer Discusses OOI's Impact and Hiring Sprint"
 promoted: 0
-date: August 29, 2024
+date: 2024-08-29
 source: StateScoop
 cta:
   text: Continue Reading

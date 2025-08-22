@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/BSN-bloomberg.jpeg
 title: "COVERAGE: 6 Lessons Cities Can Learn from New Jersey’s Cutting-Edge Innovation Team"
-date: December 2, 2020
+date: 2020-12-02
 source: Bloomberg Cities
 cta:
   text: Continue Reading

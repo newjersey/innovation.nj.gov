@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/bfs-article.jpeg
 title: "POST: Open Sourcing a New Approach to Serving Businesses in New Jersey"
-date: September 12, 2020
+date: 2020-09-12
 source: New Jersey Office of Innovation Medium
 cta:
   text: Continue Reading

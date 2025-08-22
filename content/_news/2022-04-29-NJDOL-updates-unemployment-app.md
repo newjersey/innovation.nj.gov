@@ -2,7 +2,7 @@
 image: /assets/images/news/nj-biz.png
 title: "COVERAGE: NJDOL updates unemployment app, with further improvements expected"
 promoted: 0
-date: April 29, 2022
+date: 2022-04-29
 source: NJBIZ
 cta:
   text: Continue Reading

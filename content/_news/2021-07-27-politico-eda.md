@@ -2,7 +2,7 @@
 image: /assets/images/news/politico.jpg
 title: "COVERAGE: New Jersey ranks 3rd in distributing grants to small business"
 promoted: 0
-date: July 27, 2021
+date: 2021-07-27
 source: Politico
 cta:
   text: Continue Reading

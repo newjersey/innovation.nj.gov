@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/statescoop.png
 title: "COVERAGE: New Jersey's innovation office shares digital service from the pandemic"
-date: July 16, 2020
+date: 2020-07-16
 source: State Scoop
 cta:
   text: Continue Reading

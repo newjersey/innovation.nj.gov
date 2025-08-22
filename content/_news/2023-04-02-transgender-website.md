@@ -2,7 +2,7 @@
 image: /assets/images/news/transgender-nj-gov.png
 title: "COVERAGE: New Jersey Launches Information Hub for Trans Individuals"
 promoted: 0
-date: April 4, 2023
+date: 2023-04-04
 source: Government Technology
 cta:
   text: Continue Reading

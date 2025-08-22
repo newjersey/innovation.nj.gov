@@ -2,7 +2,7 @@
 image: /assets/images/news/govtech.png
 title: "COVERAGE: Chief A.I. Strategist Quoted in Government Technology Article Highlighting NJ's National Leadership on AI"
 promoted: 0
-date: March 8, 2024 
+date: 2024-03-08
 source: Government Technology
 cta:
   text: Continue Reading

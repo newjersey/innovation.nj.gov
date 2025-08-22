@@ -2,7 +2,7 @@
 image: /assets/images/news/govtech.png
 title: "COVERAGE: New Jersey leads with AI Assistant for state workers"
 promoted: 0
-date: May 1, 2025
+date: 2025-05-01
 source: GOVTECH
 cta:
   text: Continue Reading

@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/digital-service-article.jpeg
 title: "POST: Four Ways State Government Digital Service Teams Can Support the COVID-19 Response"
-date: June 29, 2020
+date: 2020-06-29
 source: New Jersey Office of Innovation Medium
 cta:
   text: Continue Reading

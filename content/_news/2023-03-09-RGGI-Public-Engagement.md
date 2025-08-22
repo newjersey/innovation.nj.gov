@@ -2,7 +2,7 @@
 image: /assets/images/news/rggi-bg.png
 title: "POST: How New Jersey Tapped the Public to Help Shape its Climate Future"
 promoted: 0
-date: March 9, 2023
+date: 2023-03-09
 source: Medium.com
 cta:
   text: Continue Reading

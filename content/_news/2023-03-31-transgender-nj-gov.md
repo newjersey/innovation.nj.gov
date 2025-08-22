@@ -2,7 +2,7 @@
 image: /assets/images/news/transgender-web.jpg
 title: "RELEASE: On International Transgender Day of Visibility, Governor Murphy Announces the Launch of New Transgender Information Hub"
 promoted: 0
-date: March 31, 2023
+date: 2023-03-31
 source: NJGOV
 cta:
   text: Continue Reading
