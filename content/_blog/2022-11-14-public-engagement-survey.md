@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: How we used a simple survey tool to elevate public engagement
+date: 2022-11-14
 slug: public-engagement-survey
 author: Edward Paulino
 image: /assets/images/nj-logo.svg
