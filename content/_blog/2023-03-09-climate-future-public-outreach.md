@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: How New Jersey Tapped the Public to Help Shape its Climate Future
+date: 2023-03-09
 author: Edward Paulino
 image: /assets/images/nj-logo.svg
 promoted: 0

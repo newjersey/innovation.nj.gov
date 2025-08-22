@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: On First Anniversary, GenAI Tool is Helping Thousands of Public Sector Professionals
+date: 2025-07-17
 author: Ruthie Nachmany, Product Lead, Platform Team
 promoted: 0
 excerpt: On its first anniversary, the New Jersey AI Assistant is helping thousands of public-sector professionals use GenAI to save time and money while improving services for residents.

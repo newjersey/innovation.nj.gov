@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Unlocking New Jersey's Full Transit Potential
+date: 2025-06-26
 author: Edward Paulino, Innovation Fellow
 promoted: 0
 excerpt: A new interactive map pulls from several New Jersey data sets to show where transportation needs are high but access to transportation is low.
