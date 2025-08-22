@@ -15,7 +15,7 @@ collections:
     folder: "content/_blog/"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
-    summary: "{{title}} - {{date | date('MM/DD/YYYY')}} – {{body | truncate(50, '***')}}"
+    summary: '{{title}} ({{date | date("MM/DD/YYYY")}}): "{{body | truncate(80, "...")}}"'
     fields:
       # Read-only fields
       - name: layout
@@ -34,6 +34,7 @@ collections:
       - name: date
         label: Publish Date
         widget: datetime
+        date_format: true
         default: { { now } }
         required: true
       # Optional fields
@@ -86,7 +87,7 @@ collections:
     label: "News Posts"
     folder: "content/_news/"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    summary: "{{title}} - {{date | date('MM/DD/YYYY')}} – {{body | truncate(50, '***')}}"
+    summary: '{{title}} // ({{date | date("MM/DD/YYYY")}}) // "{{body | truncate(80, "...")}}"'
     create: true
     fields:
       # Required fields
@@ -98,6 +99,7 @@ collections:
         label: Publish Date
         hint: This should be the date the referenced article was published
         widget: datetime
+        date_format: true
         default: { { now } }
         required: true
       - name: source
