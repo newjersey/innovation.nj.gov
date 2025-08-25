@@ -21,6 +21,10 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
     summary: '{{title}} ({{date | date("MM/DD/YYYY")}}): "{{body | truncate(80, "...")}}"'
+    view_groups:
+      - label: Promoted
+        field: promoted
+        pattern: ^[1-9][0-9]*$
     fields:
       # Read-only fields
       - name: layout
@@ -94,6 +98,10 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     summary: '{{title}} ({{date | date("MM/DD/YYYY")}}): "{{body | truncate(80, "...")}}"'
     create: true
+    view_groups:
+      - label: Promoted
+        field: promoted
+        pattern: ^[1-9][0-9]*$
     fields:
       # Required fields
       - name: title
