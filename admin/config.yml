@@ -2,13 +2,17 @@ backend:
   name: github
   repo: newjersey/innovation.nj.gov
   branch: main
-  api_root: https://api.github.com
   base_url: https://z2o7ybyt5b.execute-api.us-east-1.amazonaws.com
   auth_endpoint: auth
   squash_merges: true
 publish_mode: editorial_workflow
 media_folder: assets/images
 public_folder: /assets/images
+use_graphql: true
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
 
 collections:
   - name: "blog"
