@@ -87,7 +87,7 @@ collections:
     label: "News Posts"
     folder: "content/_news/"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    summary: '{{title}} // ({{date | date("MM/DD/YYYY")}}) // "{{body | truncate(80, "...")}}"'
+    summary: '{{title}} ({{date | date("MM/DD/YYYY")}}): "{{body | truncate(80, "...")}}"'
     create: true
     fields:
       # Required fields
