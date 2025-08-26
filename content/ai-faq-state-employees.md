@@ -14,7 +14,7 @@ The State’s Generative AI training program has officially launched: government
 
 ### Review the State’s Policy on Acceptable Use of Generative AI
 
-All state government employees using Generative AI should review the State’s [current policy to guide responsible use of the technology](https://sonj-my.sharepoint.com/:w:/g/personal/walker_gosrich_oit_nj_gov/EWKTs7_EwW1NkTdMwATYfJEBOngSzn8Vkx6Q7sfDneOMeA?e=rP9dzW).
+All state government employees using Generative AI should review the State’s [current policy to guide responsible use of the technology](https://nj.gov/it/docs/ps/25-OIT-001-State-of-New-Jersey-Guidance-on-Responsible-Use-of-Generative-AI.pdf).
 
 ### State-Approved AI Tools and Approval Process
 
