@@ -23,3 +23,5 @@ You can use the tools individually or together as part of your campaign planning
 - [**UTM Generator.**](/assets/cel/toolkit/utm-builder-and-manager-playbook.xlsx) This dynamic spreadsheet generates unique tracking URL’s so you can track your campaign’s performance.
 
 Whether you are promoting program or service benefits, driving participation, or building trust, these tools help you communicate more effectively.
+
+To learn more about how to use these tools please see the [C+E Lab Playbook](/cel/playbook/).
