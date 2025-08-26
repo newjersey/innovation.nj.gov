@@ -14,13 +14,13 @@ The State’s Generative AI training program has officially launched: government
 
 ### Review the State’s Policy on Acceptable Use of Generative AI
 
-All state government employees using Generative AI should review the State’s [current policy to guide responsible use of the technology](https://sonj-my.sharepoint.com/:w:/g/personal/walker_gosrich_oit_nj_gov/EWKTs7_EwW1NkTdMwATYfJEBOngSzn8Vkx6Q7sfDneOMeA?e=rP9dzW).
+All state government employees using Generative AI should review the State’s [current policy to guide responsible use of the technology](https://nj.gov/it/docs/ps/25-OIT-001-State-of-New-Jersey-Guidance-on-Responsible-Use-of-Generative-AI.pdf).
 
 ### State-Approved AI Tools and Approval Process
 
 Updated: 06/19/2025
 
-State-Approved AI Tools have been approved for use with sensitive and internal data, including PII, at the discretion of your Agency Chief Information Officer (see the [AI Use Guidelines B.4](https://sonj-my.sharepoint.com/:w:/r/personal/walker_gosrich_oit_nj_gov/_layouts/15/Doc.aspx?sourcedoc=%7BBFB39362-C1C4-4D6D-9137-4CC004D87C91%7D&file=NJ%20Joint%20AI%20Circular%20Final%20Draft-1.1-2025-05-05.docx&action=default&mobileredirect=true&ct=1748552665659&wdOrigin=OFFICECOM-WEB.MAIN.UPLOAD&cid=98cfc4fc-a9d9-4a8f-bc95-7cb9272e215c&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=8452abff-9526-410d-8558-c0961b040575)). The list of State-Approved AI Tools is maintained here and updated regularly. These are the only AI tools in which the use of sensitive data is permitted.
+State-Approved AI Tools have been approved for use with sensitive and internal data, including PII, at the discretion of your Agency Chief Information Officer (see the [AI Use Guidelines B.4](https://nj.gov/it/docs/ps/25-OIT-001-State-of-New-Jersey-Guidance-on-Responsible-Use-of-Generative-AI.pdf)). The list of State-Approved AI Tools is maintained here and updated regularly. These are the only AI tools in which the use of sensitive data is permitted.
 
 _State-Approved General-Purpose AI Tools:_
 
