@@ -359,22 +359,16 @@ layout: default
     <div class="grid-container">
       <h2 class="font-heading-xl margin-y-0">News</h2>
       {% include card.html collection="news" promoted=true news=true
-      new-tab=true truncate=3 %}
+      new-tab=true limit=3 %}
       <a class="usa-button" href="/news">Read All News</a>
     </div>
   </section>
-  {% comment %} Filter out future posts {% endcomment %} {% unless site.future
-  %} {% assign numPromotedBlogPosts = site.blog | where_exp: "item", "item.date
-  <= site.time" | where_exp: "item", "item.promoted > 0" | size %} {% else %} {%
-  assign numPromotedBlogPosts = site.blog | where_exp: "item", "item.promoted >
-  0" | size %} {% endunless %} {% if numPromotedBlogPosts> 0 %}
   <section id="section-blog" class="usa-section">
     <div class="grid-container">
       <h2 class="font-heading-xl margin-y-0">Blog</h2>
-      {% include card.html collection="blog" promoted=true blog=true truncate=1
+      {% include card.html collection="blog" promoted=true blog=true limit=1
       excerpt=true %}
       <a class="usa-button" href="/blog/">Read All Blog Posts</a>
     </div>
   </section>
-  {% endif %}
 </main>

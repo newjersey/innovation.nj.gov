@@ -1,21 +1,13 @@
 <ul class="usa-card-group padding-top-2">
   {% if include.promoted %}
-    {% assign list = site.[include.collection] | where_exp: "item", "item.promoted > 0" | reverse | sort: "promoted" %}
-  {% elsif include.news %}
-    {% assign list = site.[include.collection] | reverse %}
-  {% elsif include.blog %}
-    {% if site.future %}
-      {% assign list = site.[include.collection] | where_exp: "item", "item.promoted == nil or item.promoted <= 0" | sort | reverse %}
-    {% else %}
-      {% assign list = site.[include.collection] | where_exp: "item", "item.date < site.time" | where_exp: "item", "item.promoted == nil or item.promoted <= 0" | sort | reverse %}
-    {% endif %}
-    {% assign promoted = site.[include.collection] | where_exp: "item", "item.promoted > 0" | sort: "promoted" | reverse %}
+    {% assign list = site.[include.collection] | where_exp: "item", "item.date < site.time" | where_exp: "item", "item.promoted == blank or item.promoted <= 0" | sort | reverse %}
+    {% assign promoted = site.[include.collection] | where_exp: "item", "item.promoted > 0 and item.promoted != blank" | sort: "promoted"%}
     {% assign list = promoted | concat: list %}
   {% else %}
     {% assign list = site.[include.collection] %}
   {% endif %}
-  {% if include.truncate %}
-    {% assign list = list | slice: 0, include.truncate %}
+  {% if include.limit %}
+    {% assign list = list | slice: 0, include.limit %}
   {% endif %}
   {% for item in list %}
     {% if include.summarize %}

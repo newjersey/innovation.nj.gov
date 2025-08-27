@@ -146,7 +146,7 @@ defaults:
       path: ""
       type: "news"
     values:
-      promoted: 1000
+      promoted: 0
   - scope:
       path: ""
       type: "projects"
