@@ -39,7 +39,7 @@ Each tool is simple, actionable, and designed to help you focus your time and ef
 
 The **Audience Insight Canvas** is a framework that helps you turn what you’ve learned about your audience (from data, research and user interviews) into clear and usable direction for message development. It prompts you to go beyond demographic details or surface-level needs and capture the motivations, aspirations, concerns, and barriers that influence your audience’s behavior.
 
-[INSERT FIGURE]
+{% include figure.html %}
 
 This tool helps sharpen focus. It translates insight into action by aligning you around a shared view of what will truly move your audience. Not just what they need, but what they care about.
 
