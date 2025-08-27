@@ -5,7 +5,7 @@ date: 2025-08-27
 author: Katie Fiore, Director, Communication + Engagement Lab
 promoted: 1
 excerpt: Four practical tools aim to help public-service professionals develop smart and clear messaging that resonates with the public and makes an impact.
-image: /assets/images/news/
+image: /assets/images/news/NJ-seal.png
 figure:
   url: /assets/images/news/audience-insight-canvas.pdf
   caption: The Audience Insight Canvas helps uncover emotional truths that drive meaningful messaging.
