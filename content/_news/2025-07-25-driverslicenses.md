@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/whyylogo.png
 title: "COVERAGE: N.J. to put driver licenses on smartphones and mobile devices"
-promoted: 
+promoted: 0
 date: 2025-07-25
 source: NPR WHYY
 cta:
