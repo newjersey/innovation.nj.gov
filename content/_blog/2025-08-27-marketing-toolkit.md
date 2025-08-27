@@ -7,11 +7,11 @@ promoted: 1
 excerpt: Four practical tools aim to help public-service professionals develop smart and clear messaging that resonates with the public and makes an impact.
 image: /assets/images/news/
 figure:
-  url: /assets/images/news/
+  url: /assets/images/news/audience-insight-canvas.pdf
   caption: The Audience Insight Canvas helps uncover emotional truths that drive meaningful messaging.
   alt-text: The one-page document encourages the user to fill in four areas: what the audience hopes for, what drives them, what's in their way, and what makes it possible. Then, in the center, the user can fill in the critical insight, a quote that brings the other insights to life.
 open-graph:
-  image: /assets/images/news/
+  image: /assets/images/news/audience-insight-canvas.pdf
 ---
 
 Government programs are intended to help people, offering vital support, services, and opportunities designed to improve lives and strengthen communities. But too often, they struggle to reach the very people they were created for.
