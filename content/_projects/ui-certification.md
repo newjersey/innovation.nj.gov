@@ -15,7 +15,7 @@ Working with the Department of Labor, OOI conducted user interviews to identify 
 
 ### Impact \+ Metrics
 
-* As of March 2025, adding more accurate and actionable error messages has led to a 80% increase in applicants completing the identity verification process and unlocking their benefit payments.  
+* As of August 2025, adding more accurate and actionable error messages has led to an 80% increase in applicants beginning the identity verification process and unlocking their benefit payments.  
 * The legacy weekly certification site has been completely overhauled with a simplified design that allows workers to apply for benefits from their phones.
 
 ### Status
@@ -27,4 +27,4 @@ Working with the Department of Labor, OOI conducted user interviews to identify 
 * NJ State Department of Labor  
 * United States Digital Response
 
-Last updated on 3/3/25
+Last updated on 8/27/25
