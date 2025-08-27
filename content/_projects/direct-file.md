@@ -15,11 +15,11 @@ OOI set up a unique partnership with Code for America, a civic tech nonprofit, t
 
 ### Impact \+ Metrics
 
-* As of April 2025, about 8,500 New Jersey residents filed both a federal and a state tax return in a single online process using Direct File (roughly totaling about $1.3 million in cost savings for filers).   
-* $3.2 million in refunds were disbursed through New Jersey Direct File.  
+* As of August 2025, more than 8,600 New Jersey residents filed both a federal and a state tax return in a single online process using Direct File (roughly totaling about $1.4 million in cost savings for filers).   
+* $3.8 million in refunds were disbursed through New Jersey Direct File.  
 * Due to the benefit of prepopulated household and income data coming from the federal return, users spent only about 10 minutes completing the New Jersey-specific questions in order to file their state return.  
 * Eligible users automatically claimed tax breaks like the Earned Income Tax Credit, Child Tax Credit, and Child and Dependent Care Credit.  
-* As of April 2025, 97% of users surveyed have said they were “satisfied” or “very satisfied” with their filing experience and 92% prefer Direct File to their previous filing method. 94% thought that the data transfer from federal to state was “seamless and quick.”   
+* As of August 2025, 97% of users surveyed have said they were “satisfied” or “very satisfied” with their filing experience and 92% prefer Direct File to their previous filing method. 94% thought that the data transfer from federal to state was “seamless and quick.”   
 * Nine out of 10 users would recommend Direct File to friends and family.
 
 ### Status
@@ -28,8 +28,9 @@ OOI set up a unique partnership with Code for America, a civic tech nonprofit, t
 
 ### Resources and Additional Information
 
-* [New Jersey Launches Innovative IRS Direct File Program](https://www.nj.gov/governor/news/news/562025/approved/20250128a.shtml)  
-* [New Jersey’s Direct File Program Expands to Include Retirement Income Filers](https://www.nj.gov/governor/news/news/562025/approved/20250311a.shtml)  
+* Federal News Network article: [IRS Direct File sees higher scores among users](https://federalnewsnetwork.com/it-modernization/2025/05/irs-direct-file-sees-higher-scores-among-users-despite-a-push-to-shutter-it/)
+* Release: [New Jersey Launches Innovative IRS Direct File Program](https://www.nj.gov/governor/news/news/562025/approved/20250128a.shtml)  
+* Release: [New Jersey’s Direct File Program Expands to Include Retirement Income Filers](https://www.nj.gov/governor/news/news/562025/approved/20250311a.shtml)  
 * [GitHub repo](https://github.com/codeforamerica/vita-min)
 
 ### Key Partners
@@ -37,4 +38,4 @@ OOI set up a unique partnership with Code for America, a civic tech nonprofit, t
 * NJ State Department of Treasury  
 * Code for America
 
-*Last updated on 4/22/25*
+*Last updated on 8/27/25*
