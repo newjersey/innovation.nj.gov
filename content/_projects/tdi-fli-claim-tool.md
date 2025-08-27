@@ -16,7 +16,7 @@ To ensure the Claim Status Tool was effectively providing applicants with what t
 ### Impact \+ Metrics
 
 * Three months after launching the new TDI/FLI Claim Status Tool in May 2024, there was a 30% increase in satisfaction with the tool based on surveys.  
-* As of April 2025, this tool attracts an average of about 22,000 visitor sessions per week.
+* As of August 2025, this tool attracts an average of about 22,000 visitor sessions per week.
 
 ### Status
 
@@ -26,4 +26,4 @@ To ensure the Claim Status Tool was effectively providing applicants with what t
 
 * NJ State Department of Labor
 
-*Last updated 4/24/25*
+*Last updated 8/27/25*
