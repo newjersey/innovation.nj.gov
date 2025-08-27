@@ -16,9 +16,9 @@ OOI developed a digital tool that can easily be embedded on most State websites 
 ### Impact \+ Metrics
 
 * Shortly after launching a new Unemployment Insurance Claim Status Tool with the Department of Labor in March 2023, in response to user comments on the feedback widget, a new update was quickly released to make 1099 forms from current and previous years available in time for the April tax deadline. Feedback from the tool also drove the team to improve ID verification, which has led to major improvements for residents and staff, and cost savings for the state.  
-* With help from the feedback widget, the [Claims Status Tool](https://www.lwdwebpt.dol.state.nj.us/ClaimStatus/claimStatus.htm) is being made even more effective. When the tool was initially introduced in early 2023, 25% of surveyed residents were able to find what they needed, but as of early 2025, around 65% of those surveyed are able to find what they need.    
+* With help from the feedback widget, the [Claims Status Tool](https://www.lwdwebpt.dol.state.nj.us/ClaimStatus/claimStatus.htm) is being made even more effective. When the tool was initially introduced in early 2023, 25% of surveyed residents were able to find what they needed, but as of August 2025, around 64% of those surveyed are able to find what they need.    
 * Comments made through the COVID-19 Info Hub’s feedback widget directly led to thousands of edits on existing articles and the creation of entirely new articles clarifying testing procedures, testing sites, limits on gatherings, which businesses were open, and more so residents could stay safe and get the help they needed.  
-* As of March 2025, feedback widgets have been deployed on websites across more than a dozen State departments and agencies with residents submitting over 64,000 comments. 
+* As of March 2025, feedback widgets have been deployed on 13 websites across the State with residents submitting over 430,000 ratings and 79,000 comments. 
 
 ### Status
 
@@ -32,4 +32,4 @@ OOI developed a digital tool that can easily be embedded on most State websites 
 
 * NJ State Department of Labor
 
-*Last updated on 4/22/25*
+*Last updated on 8/27/25*
