@@ -18,15 +18,16 @@ In 2024, our data science team developed a process to identify unique eligible s
 ### Impact \+ Metrics
 
 * About 106,000 children on STMF received benefits in 2024 because of our deduplication efforts, about 15% of total benefit recipients. That totals about $12.8 million in additional benefits issued to children identified as eligible by OOI.
-* As of June 2025, about 76,000 children on STMF have been identified to receive benefits, about 11% of total benefit recipients. This totals about $9.1 million in additional benefits to be issued to children identified as eligible by OOI.
+* As of August 2025, over 96,000 children on STMF have been identified to receive benefits, over 13% of total benefit recipients. This totals about $11.5 million in additional benefits to be issued to children identified as eligible by OOI.
 
 ### Status
 
-* The first benefits for Summer 2025 went out in June 2025. 
+* The first benefits for Summer 2025 went out starting in June 2025, with additional eligible children being enrolled each week as they are identified.
 * OOI will support benefit issuance processes and decision-making tools to help NJDA make informed choices related to ongoing deduplication efforts.
 
 ### Resources and Additional Information
 
+* [NJ.com article: How N.J. is using AI to ensure thousands of kids don’t go hungry this summer \- nj.com](https://www.nj.com/mosaic/2025/07/how-nj-is-using-ai-to-ensure-thousands-of-kids-dont-go-hungry-this-summer.html)
 * [Press Release: NJ Distributes Summer EBT Benefits to More Than 693,000 Eligible Children](https://www.nj.gov/agriculture/news/press/2025/press250623a.html)
 * [Summer EBT Program for Kids Official Page](https://www.nj.gov/summerebt/)
 
@@ -36,7 +37,7 @@ In 2024, our data science team developed a process to identify unique eligible s
 * New Jersey Department of Human Services
 * New Jersey Department of Education
 
-*Added 6/25/25*
+*Added 8/27/25*
 
 
 
