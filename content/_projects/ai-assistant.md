@@ -16,9 +16,10 @@ Working with the New Jersey State Office of Information Technology, the Office o
 ### Impact \+ Metrics
 
 * New Jersey is one of the first States in the nation to provide State employees with a safe environment to responsibly leverage AI tools to transform government services.   
-* State departments and agencies have already begun using generative AI in limited cases to improve services. Working with the Department of Labor, OOI has used AI to help rewrite emails in plain language and residents have been responding 35% faster as a result.   
+* State departments and agencies have begun using generative AI in some cases to improve services. For example, working with the Department of Labor, OOI has used AI to help rewrite emails in plain language and residents have been responding 35% faster as a result.   
 * At the ANCHOR property tax program call center, the New Jersey Division of Taxation has been using AI tools to analyze calls to generate better self-service menu options, so residents can find what they need without waiting on hold to speak to an agent, leading to a 50% increase in the number of successfully resolved calls.   
-* Since the July 2024 launch, more than 14,000 \- about 20% \- of State employees are actively using the AI Assistant – including teams at several State agencies that are regularly using it to help draft content and analyze user feedback. Their satisfaction with the tool is over 80%. 
+* Since the July 2024 launch, about 15,000 State employees \- about 20% of the executive branch workforce \- have used the AI Assistant, including teams at several State agencies that are regularly using it to help draft content and analyze user feedback. The tool has been used over half-a-million times as of July 2025. Satisfaction with the tool is over 80%.
+* Since the tool was built in-house, the cost has been only about $1 per user per month, versus about $20 per user per month for off-the-shelf commercial licenses. Savings are estimated at millions of dollars in the first year.
 
 ### Status
 
@@ -27,6 +28,7 @@ Working with the New Jersey State Office of Information Technology, the Office o
 
 ### Resources and Additional Information
 
+* [Route Fifty: How New Jersey’s AI assistant saves the state time and money](https://www.route-fifty.com/artificial-intelligence/2025/08/how-new-jerseys-ai-assistant-saves-state-time-and-money/407538/)
 * [Office of Innovation Blog: On First Anniversary, GenAI Tool is Helping Thousands of Public Sector Professionals](/blog/2025-07-17-aiassistantanniversary/)
 * [Responsible Use of Generative AI in New Jersey State Government Training Course](/skills/ai/)  
 * [GovTech: NJ Unveils AI Training, Tool for State Government Workers](https://www.govtech.com/artificial-intelligence/n-j-unveils-ai-training-tool-for-state-government-workers)  
@@ -39,4 +41,4 @@ Working with the New Jersey State Office of Information Technology, the Office o
 * NJ State Civil Service Commission
 
 
-*Last updated on 4/1/25*
+*Last updated on 8/27/25*
