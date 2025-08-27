@@ -16,7 +16,7 @@ My Career NJ features two digital career tools: the [NJ Training Explorer](https
 ### Impact \+ Metrics
 
 * OOI is providing New Jersey workers with simple, straightforward ways to explore careers, training opportunities, and job openings in a range of industries.  
-* Since the launch of My Career NJ in March 2024, over 262,000 workers have used the resource to get personalized career recommendations and find training programs, online classes, and other upskilling opportunities that fit their unique needs and goals. 
+* Since the launch of My Career NJ in March 2024, the resource has been visited over 1.5 million times by workers to get personalized career recommendations and find training programs, online classes, and other upskilling opportunities that fit their unique needs and goals. 
 
 ### Status
 
@@ -34,4 +34,4 @@ My Career NJ features two digital career tools: the [NJ Training Explorer](https
 * NJ State Department of Labor  
 * Research Improving People’s Lives
 
-*Last updated on 3/3/25*
+*Last updated on 8/27/25*
