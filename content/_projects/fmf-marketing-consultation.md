@@ -16,7 +16,7 @@ To help the DOL program team ensure their product name appealed to their audienc
 ### Impact \+ Metrics
 
 * Research uncovered a clear winning name, Fund My Future, that performed best across key attributes (Clarity, Relevance, Memorable, Believability, and Intent).  
-* The winning name was proven to be clear in conveying its purpose, and created an emotional connection with our audience to the program’s mission.  
+* The winning name was proven to be clear in conveying its purpose, and created an emotional connection with the audience to the program’s mission.  
 * The C+E Lab launched the Fund My Future microsite in April 2024, which aims to support the generation of 700 enrollments in the program.  
 * The C+E Lab developed messaging was deployed to 10,000 people from the State Update list, driving 163 clicks to the three program partner pages.  
 * As of June 2025, relaunch activities (press releases, customized partner flyers, and State list messaging deployment) are helping the program reach its qualified enrollee goals by its November 2025 deadline.
