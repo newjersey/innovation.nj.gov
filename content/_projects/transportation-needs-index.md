@@ -23,7 +23,7 @@ This Transportation Needs Index now serves as a data-driven analysis tool to ide
 ### Impact \+ Metrics
 
 * NJDEP is using the Transportation Needs Index to help inform upcoming public engagements in which local transportation needs are discussed.This Community Transportation Needs Assessment initiative is tapping local leaders to conduct on-the-ground engagements, and the index is a key resource to help guide efforts at the local level.  
-* As of May 2025, the Index and related Story Map and App) have been accessed over 500 times since their launch in March 2025.
+* As of August 2025, the Index and related Story Map and App have been accessed over 2,000 times since their launch in March 2025.
 
 ### Status
 
@@ -31,11 +31,12 @@ This Transportation Needs Index now serves as a data-driven analysis tool to ide
 
 ### Resources and Additional Information
 
-* [Transportation Needs Index](https://experience.arcgis.com/experience/270e8785ee8c432cbd7fbdc195c7b293)  
+* Office of Innovation Blog: [Unlocking New Jersey's Full Transit Potential](https://innovation.nj.gov/blog/2025-06-26-transportation-needs-index/) ([Cross-posted on Technical.ly](https://technical.ly/civics/new-jersey-transportation-needs-index-guest-post/))
+*  [Transportation Needs Index](https://experience.arcgis.com/experience/270e8785ee8c432cbd7fbdc195c7b293)  
 * [StoryMap](https://storymaps.arcgis.com/stories/7e6916e5a99e4eb08ee6c749d5bcf9ce) (provides additional context, visual layers, and detailed insights into the Index) including how demographic and transit access data are combined to identify priority areas across New Jersey).
 
 ### Partners
 
 * New Jersey Department of Environmental Protection
 
-*Added 6/25/25*
+*Added 8/27/25*
