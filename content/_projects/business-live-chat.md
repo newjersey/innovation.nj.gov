@@ -15,8 +15,8 @@ OOI partnered with the Business Action Center and other departments to centraliz
 
 ### Impact \+ Metrics
 
-* Over the past five years, the Live Chat has enabled more than 161,000 virtual replies to businesses by experts at the State’s Business Action Center, the Department of Treasury, the Department of Labor, and the State’s Economic Development Authority.  
-* More than 70% of users report being happy with their conversations.
+* Over the past five years, the Live Chat has enabled more than 183,000 virtual replies to businesses, including from experts at the State’s Business Action Center, the Department of Treasury, the Department of Labor, and the State’s Economic Development Authority.  
+* Nearly 70% of users report being happy with their conversations.
 
 ### Status
 
@@ -31,4 +31,4 @@ OOI partnered with the Business Action Center and other departments to centraliz
 * NJ State Department of Labor  
 * NJ Office of the Attorney General, Division of Consumer Affairs
 
-*Last updated on 2/26/25*
+*Last updated on 8/27/25*

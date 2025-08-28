@@ -16,7 +16,7 @@ OOI partnered with the Office of the Secretary of Higher Education to build the 
 ### Impact \+ Metrics
 
 * For the first time, college students in New Jersey have a government resource dedicated to simplifying critical services and no longer need to spend hours visiting multiple sites.  
-* As of April 2025, BasicNeeds.NJ.gov has been visited more than 75,000 times, providing these visitors with critical information and resources. 
+* As of August 2025, BasicNeeds.NJ.gov has been visited more than 113,000 times, providing these visitors with critical information and resources. 
 
 ### Status
 
@@ -30,4 +30,4 @@ OOI partnered with the Office of the Secretary of Higher Education to build the 
 
 * NJ State Office of the Secretary of Higher Education
 
-*Last updated on 4/1/25*
+*Last updated on 8/27/25*

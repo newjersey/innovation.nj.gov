@@ -16,11 +16,11 @@ To drive awareness for S-EBT and boost enrollment of eligible families, the C+E 
 ### Impact \+ Metrics
 
 * Families can now more easily enroll in the program thanks to a redesigned NJ Summer EBT website that features plain, easy to understand language and simpler navigation.   
-* In 2024, over $70 million in benefits were issued to more than 600,000 families to help buy food for their children in the first year of the program.
+* In 2024, over $70 million in benefits were issued to more than 600,000 eligible children to help buy food for their children in the first year of the program. In 2025, over $90 million was issued to more than 693,000 eligible children.
 
 ### Status
 
-* The Summer EBT program has concluded for 2024, and planning is underway for 2025\. 
+* The C+E Lab’s input was used in 2024 in support of the Summer EBT program.
 
 ### Partners
 
@@ -30,4 +30,4 @@ To drive awareness for S-EBT and boost enrollment of eligible families, the C+E 
 * New Jersey State Department of Human Services  
 * New Jersey State Office of the Food Security Advocate
 
-*Last updated on 4/1/25* 
+*Last updated on 8/27/25* 

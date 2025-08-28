@@ -19,7 +19,7 @@ Project partners interviewed residents at community centers, libraries, and beyo
 
 * In April 2024, a completely redesigned UI application was launched with 20% fewer questions. On average, the previous application took 3 hours and 50 minutes to submit. With the new application, half of applicants submitted theirs in less than 25 minutes.  
 * There was also a 14% reduction in applications that require manual review before entering the system.  
-* As of March 2025, more than 90% of applicants now finish and submit on the same day.  
+* As of August 2025, more than 90% of applicants now finish and submit on the same day.  
 * The application is also fully available in native Spanish, and has been optimized for assistive devices.   
 * This partnership spurred the creation of a new Office of UI Modernization at the NJ State Department of Labor to oversee ongoing efforts to improve the UI system.   
 * Based on its agile approach and the success of its early efforts, New Jersey was selected by the US Department of Labor as one of two states to lead a national pilot to modernize the federal unemployment insurance system by improving the user experience and streamlining the delivery of benefits.   
@@ -50,4 +50,4 @@ Project partners interviewed residents at community centers, libraries, and beyo
 * United States Digital Service  
 * United States Digital Response
 
-*Last updated on 3/4/25*
+*Last updated on 8/27/25*

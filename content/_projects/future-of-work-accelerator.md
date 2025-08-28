@@ -18,7 +18,7 @@ To address such a broad challenge, there was a need to identify innovative solut
 
 ### Status
 
-* The FOW Accelerator has completed.
+* The FOW Accelerator is complete.
 
 ### Resources and Additional Information
 

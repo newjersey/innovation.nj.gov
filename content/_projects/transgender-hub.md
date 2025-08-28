@@ -16,7 +16,7 @@ To ensure the needs of transgender and non-binary New Jerseyans were met, OOI us
 ### Impact \+ Metrics
 
 * For the first time, transgender New Jerseyans have a government resource dedicated to simplifying critical services and no longer need to spend hours visiting multiple sites.  
-* As of March 2025, the Transgender Information Hub has been visited more than 90,000 times and connected these visitors to critical information and services. 
+* As of August 2025, the Transgender Information Hub has been visited more than 118,000 times and connected these visitors to critical information and services. 
 
 ### Status
 
@@ -24,9 +24,9 @@ To ensure the needs of transgender and non-binary New Jerseyans were met, OOI us
 
 ### Resources and Additional Information
 
-* Government Technology: [New Jersey Launches Information Hub for Trans Individuals](https://www.govtech.com/gov-experience/new-jersey-launches-information-hub-for-trans-individuals)  
-* NJ.com: [New N.J. Website Aims to Help Transgender and Non-Binary Residents](https://www.nj.com/politics/2023/04/new-nj-website-aims-to-help-transgender-and-non-binary-residents.html)  
-* Bergen Record: [NJ Launches Online Info Hub For Transgender Residents](https://www.northjersey.com/story/news/2023/03/31/nj-online-hub-transgender-non-binary-residents/70069561007/)
+* Government Technology article: [New Jersey Launches Information Hub for Trans Individuals](https://www.govtech.com/gov-experience/new-jersey-launches-information-hub-for-trans-individuals)  
+* NJ.com article: [New N.J. Website Aims to Help Transgender and Non-Binary Residents](https://www.nj.com/politics/2023/04/new-nj-website-aims-to-help-transgender-and-non-binary-residents.html)  
+* Bergen Record article: [NJ Launches Online Info Hub For Transgender Residents](https://www.northjersey.com/story/news/2023/03/31/nj-online-hub-transgender-non-binary-residents/70069561007/)
 
 ### Partners
 
@@ -34,4 +34,4 @@ To ensure the needs of transgender and non-binary New Jerseyans were met, OOI us
 * NJ State Department of Children and Families  
 * Garden State Equality
 
-*Last updated on 3/12/25*
+*Last updated on 8/27/25*

@@ -15,8 +15,8 @@ OOI and its partners worked with residents and frontline agency staff to uncover
 
 ### Impact \+ Metrics
 
-* As of March 2025, improvements to the identity verification process have led to a 70% decrease in support calls about identity verification and a 20% increase in residents who start verification immediately after submitting their application.   
-* The new identity verification flow, released in late fall 2023, has saved the Department of Labor over $910,000 in operating costs as of March 2025\.  
+* As of August 2025, improvements to the identity verification process have led to a 70% decrease in support calls about identity verification and a 20% increase in residents who start verification immediately after submitting their application.   
+* The new identity verification flow, released in late fall 2023, has saved the Department of Labor over $1.3 million in operating costs as of August 2025\.  
 * OOI built testing and analytics infrastructure into the system to provide valuable data and insights on how to make future updates. 
 
 ### Status
@@ -27,4 +27,4 @@ OOI and its partners worked with residents and frontline agency staff to uncover
 
 * NJ State Department of Labor
 
-*Last updated on 3/3/25*
+*Last updated on 8/27/25*

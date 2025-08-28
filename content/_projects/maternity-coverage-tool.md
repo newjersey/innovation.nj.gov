@@ -15,11 +15,11 @@ Working closely with community partners and expecting parents to understand thei
 
 ### Impact \+ Metrics
 
-* As of April 2025, more than 150,000 New Jerseyans have used the Maternity Coverage Timeline Tool to understand their benefits, and more than 750,000 timelines have been created since the tool launched in May 2022\.
+* Since the tool launched in May 2022, it has been used more than 900,000 times. 
 
 ### Status
 
-* The tool was launched in May 2022, a second iteration was released in July 2022, and the tool continues to undergo iterative improvements based on user feedback and performance on each webpage of the tool.
+* The tool was launched in May 2022, a second iteration was released in July 2022.
 
 ### Resources and Additional Information
 

@@ -20,10 +20,11 @@ Unlike many assistance programs, Fund My Future enables residents to focus resou
 
 ### Status
 
-* The Office of Innovation’s C+E Lab is currently partnering with DOL and its partners to support the relaunch of the program to residents throughout NJ.
+* The Office of Innovation’s C+E Lab recently helped support relaunch activities (customized partner flyers, newsletter deployment, press release) that are helping the program reach its qualified enrollee goals by its November 2025 deadline.
 
 ### Resources and Additional Information
 
+* Office of Innovation Blog: [Why Emotional Connection is Key to Program Uptake](https://innovation.nj.gov/blog/2025-05-15-fundmyfuture/)
 * NJBiz: [NJ Announces $10M Pilot to Help Unemployed, Underemployed Residents](https://njbiz.com/nj-announces-10m-pilot-to-help-unemployed-underemployed-residents/)  
 * Morristown Minute: [New Jersey Launches $10 Million Sustainable Employment Initiative](https://morristownminute.town.news/g/morristown-nj/post/143845/new-jersey-launches-10-million-sustainable-employment-initiative)  
 * ROI-NJ: [NJDOL to Fund 2-Year, $10M Pilot Program to Provide Job Coaching, Training and Support](https://www.roi-nj.com/2023/02/08/finance/njdol-to-fund-2-year-10m-pilot-program-to-provide-job-coaching-training-and-support/)
@@ -33,4 +34,4 @@ Unlike many assistance programs, Fund My Future enables residents to focus resou
 * NJ State Department of Labor  
 * Heldrich Center for Workforce Development at Rutgers University
 
-*Last updated on 3/3/25* 
+*Last updated on 8/27/25* 

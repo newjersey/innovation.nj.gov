@@ -17,13 +17,13 @@ This tool was designed and built in collaboration with the Department of Labor a
 
 ### Impact \+ Metrics
 
-* As of March 2025, over 350 users used the tool nearly 500 times. 
+* As of August 2025, about 4,200 people have used the tool over 5,300 times. 
 
 ### Status
 
 * The first version of the Job Protection Coverage Checker was made widely available in March 2025\.  
 * In April 2025, an update to the tool was released that featured content improvements and a Spanish version.   
-* The tool will continue to go through iterative improvements based on user feedback and analytics.  
+* The tool will continue to go through iterative improvements based on user testing (slated for Fall 2025) feedback and analytics.  
 
 ### Resources and Additional Information
 
@@ -34,4 +34,4 @@ This tool was designed and built in collaboration with the Department of Labor a
 * New Jersey Department of Labor  
 * New Jersey Division on Civil Rights
 
-*Last updated on 4/2/25*
+*Last updated on 8/27/25*

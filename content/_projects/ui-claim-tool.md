@@ -17,8 +17,8 @@ Based on conversations with residents and frontline staff, OOI and the Departmen
 
 * Applicants no longer need to speak with a call center agent to check the status of their application, reducing call center wait times and freeing agents to address other questions.  
 * With the tool, residents can check the status of their claim after they submit an application, see if there are steps needed to advance their claim, and then take action with new self-service features  
-* As of March 2025, the improved claim status tool has been used about 2.5 million times with more than 79% of users resolving issues on their own to advance their unemployment benefits application.   
-* With help from the feedback widget, the Claims Status Tool is being made even more effective. When the tool was initially introduced in early 2023, only 25% of surveyed residents were able to find what they needed, but as of March 2025, about 65% of those surveyed are now able to find what they need.  
+* As of August 2025, the improved claim status tool has been used over 3 million times with more than 79% of users resolving issues on their own to advance their unemployment benefits application.  
+* With help from the Feedback Widget, the Claims Status Tool is being made even more effective. When the tool was initially introduced in early 2023, only 25% of surveyed residents were able to find what they needed, but as of August 2025, about 65% of those surveyed are now able to find what they need.  
 
 ### Status
 
@@ -28,4 +28,4 @@ Based on conversations with residents and frontline staff, OOI and the Departmen
 
 * NJ State Department of Labor
 
-Last updated on 3/3/25  
+Last updated on 8/27/25  

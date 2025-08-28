@@ -15,7 +15,7 @@ To provide the State with another way to proactively communicate with residents,
 
 ### Impact \+ Metrics
 
-* As of March 2025, the Statewide Update has more than 2.1 million subscribers.   
+* As of August 2025, the Statewide Update has more than 2.1 million subscribers.   
 * To help overcome vaccine hesitancy, the Statewide Update sent 8 carefully crafted messages designed to address concerns. These emails resulted in 18.7 million opens, driving more than 132,000 visits to the Vaccine Appointment Finder as well as more than 200,000 additional visits to the COVID-19 Information Hub.
 
 ### Status
@@ -32,4 +32,4 @@ To provide the State with another way to proactively communicate with residents,
 * NJ State Department of Health  
 * Statewide initiative, in partnership with all State entities
 
-*Last updated on 4/22/25*
+*Last updated on 8/27/25*

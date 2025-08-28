@@ -15,17 +15,18 @@ Rather than relying on instincts or assumptions, the C+E Lab used a data-driven 
 
 ### Impact \+ Metrics
 
-* The campaign’s video ad has been viewed more than 7.5 million times since it launched in August 2024\.   
-* The campaign has also helped drive more than 560,000 visits to [CollegeForYou.NJ.gov](https://CollegeForYou.NJ.gov), a newly created resource for the campaign. 
+* The campaign’s video ad has been viewed more than 15 million times as of August 2025\.  
+* The campaign has also helped drive more than 1 million visits to [CollegeForYou.NJ.gov](https://CollegeForYou.NJ.gov), with 4% of traffic moving on to access financial aid information (including accessign the FAFSA/Alt App). 
 
 ### Status
 
 * The campaign went live in August 2024 and will run through September 2025\.   
-* The C+E Lab is currently managing the campaign and optimizing it based on data to maximize performance. 
+* The C+E Lab is currently managing the campaign and optimizing it based on data to maximize performance.   
+* A lean-data survey is being deployed to help validate the impact the paid media campaign is creating with audiences.
 
 ### Partners
 
 * New Jersey State Office of the Secretary of Higher Education  
 * New Jersey State Higher Education Student Assistance Authority
 
-*Last updated on 3/3/25*
+*Last updated on 8/27/25*

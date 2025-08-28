@@ -18,11 +18,11 @@ Using open data, OOI collaborated with the New Jersey Department of Labor and Wo
 * The Training Explorer was the first major update to the State’s training portal in over two decades. Residents now have access to a comprehensive list of workforce trainings in a bilingual, searchable, and mobile-friendly interface.  
 * Residents no longer need to visit multiple websites to learn about NJ DOL-approved trainings, and now get personalized, data-backed recommendations.  
 * In addition to workforce training, residents can also find resources and support to help them with tuition costs, housing, healthcare, and career guidance.  
-* Since the launch of My Career NJ in March 2024 (which incorporated Training Explorer), over 262,000 workers have used the My Career NJ site as of March 2025 to get personalized career recommendations and find training programs, online classes, and/or other upskilling opportunities that fit their unique needs and goals. 
+* Since the launch of My Career NJ in March 2024 (which incorporated Training Explorer), the site has been visited over 1.5 million times as of August 2025 to get personalized career recommendations and find training programs, online classes, and/or other upskilling opportunities that fit their unique needs and goals. 
 
 ### Status
 
-* OOI has built and is building additional features for the Training Explorer including more filters, multi-language support, digital accessibility, and integration with related workforce tools.
+* NJ DOL is working to further build out workforce tools on the site. 
 
 ### Resources and Additional Information
 
@@ -37,4 +37,4 @@ Using open data, OOI collaborated with the New Jersey Department of Labor and Wo
 * Schmidt Futures  
 * Lumina Foundation
 
-*Last updated on 3/12/25*
+*Last updated on 8/27/25*
