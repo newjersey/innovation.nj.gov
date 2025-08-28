@@ -15,17 +15,21 @@ To equip busy government employees with the skills they need to run effective mo
 
 ### Impact \+ Metrics
 
-- OOI launched the Playbook at the Code for America Summit in May 2024 with over 1,000 public servants, technologists, and entrepreneurs in attendance.
-- As of February 2025, nearly 2,500 people have viewed the C+E Lab Playbook and learned from its insights.
+* OOI launched the Playbook at the Code for America Summit in May 2024 with over 1,000 public servants, technologists, and entrepreneurs in attendance.   
+* As of August 2025, over 3,200 people have viewed the C+E Lab Playbook and learned from its insights.  
+* In July 2025, a new People Centered Marketing Toolkit was launched at the State Higher Education Executive Officers Association (SHEEO) conference with hundreds of leaders from state higher education policy agencies, national higher education policy organizations, institutions, and state and federal government in attendance.
 
 ### Status
 
-- An initial beta version of the Playbook was released in May 2024 and additional updates are planned.
+* An initial beta version of the Playbook was released in May 2024\. The Playbook was expanded in July 2025 with new content and frameworks developed to help public servants turn their research insights into messaging that will motivate their audiences.  
+* In July 2025, the new People Centered Marketing Toolkit was launched. The Toolkit makes it easier for public servants to take a people centered approach by providing several key tools they could immediately start using in their work to increase the effectiveness of their messaging.
 
 ### Resources and Additional Information
 
-- [Read the C+E Lab Playbook](/cel/playbook/)
-- [Watch the C+E Lab Playbook launch at Code For America Summit 2024](https://www.youtube.com/watch?v=oVcmgfU6lS4)
-- Beeck Center Case Study: [Human-Centered Communication to Increase Service Uptake in New Jersey](https://beeckcenter.georgetown.edu/wp-content/uploads/2024/09/DSN-Spotlight_NJ-CE_v3.pdf)
+* [Read the C+E Lab Playbook](https://innovation.nj.gov/cel-playbook/) ([including July 2025 expansion](https://innovation.nj.gov/cel-playbook/04-turning-research-into-resonance/))  
+* [Read the C+E Lab People Centered Marketing Toolkit](https://innovation.nj.gov/cel/toolkit/)  
+* Office of Innovation Blog: [A New Marketing Toolkit to Help the Public Sector Connect with the People They Serve](https://innovation.nj.gov/blog/2025-08-27-marketing-toolkit/)  
+* [Watch the C+E Lab Playbook launch at Code For America Summit 2024](https://www.youtube.com/watch?v=oVcmgfU6lS4)  
+* Beeck Center Case Study: [Human-Centered Communication to Increase Service Uptake in New Jersey](https://beeckcenter.georgetown.edu/wp-content/uploads/2024/09/DSN-Spotlight_NJ-CE_v3.pdf)
 
-_Last updated on 3/4/25_
+_Last updated on 8/28/25_
