@@ -24,12 +24,14 @@ OOI set up a unique partnership with Code for America, a civic tech nonprofit, t
 
 ### Status
 
-* Direct File launched in New Jersey in January 2025 and was expanded to include retirement income filers in March 2025\. The tax season ended April 15, and the tool remains open for the extended filing season.
+* Direct File launched in New Jersey in January 2025 and was expanded to include retirement income filers in March 2025\.
+* The tax season ended April 15, and the tool remains open for the extended filing season.
 
 ### Resources and Additional Information
 
 * Federal News Network article: [IRS Direct File sees higher scores among users](https://federalnewsnetwork.com/it-modernization/2025/05/irs-direct-file-sees-higher-scores-among-users-despite-a-push-to-shutter-it/)
-* Release: [New Jersey Launches Innovative IRS Direct File Program](https://www.nj.gov/governor/news/news/562025/approved/20250128a.shtml)  
+* NJ.com article: [400K N.J. retirees can now use this free tax return service](https://www.nj.com/news/2025/03/400k-nj-retirees-can-now-use-this-free-tax-return-service.html)
+* * Release: [New Jersey Launches Innovative IRS Direct File Program](https://www.nj.gov/governor/news/news/562025/approved/20250128a.shtml)  
 * Release: [New Jersey’s Direct File Program Expands to Include Retirement Income Filers](https://www.nj.gov/governor/news/news/562025/approved/20250311a.shtml)  
 * [GitHub repo](https://github.com/codeforamerica/vita-min)
 
