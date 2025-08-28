@@ -16,7 +16,7 @@ Rather than relying on instincts or assumptions, the C+E Lab used a data-driven 
 ### Impact \+ Metrics
 
 * The campaign’s video ad has been viewed more than 15 million times as of August 2025\.  
-* The campaign has also helped drive more than 1 million visits to [CollegeForYou.NJ.gov](http://CollegeForYou.NJ.gov), with 4% of traffic moving on to access financial aid information (including accessign the FAFSA/Alt App). 
+* The campaign has also helped drive more than 1 million visits to [CollegeForYou.NJ.gov](https://CollegeForYou.NJ.gov), with 4% of traffic moving on to access financial aid information (including accessign the FAFSA/Alt App). 
 
 ### Status
 

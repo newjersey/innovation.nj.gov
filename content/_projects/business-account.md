@@ -15,35 +15,35 @@ With the user at the heart of every decision, OOI has transformed how businesses
 
 ### Impact \+ Metrics
 
-* As of July 2025, more than 204,000 accounts have been created on Business.NJ.gov.
-* Entrepreneurs now have personalized Starter Kits specific to over 60 industries for starting their companies in New Jersey. This guide explains what forms and licenses they need, legal requirements, and more.  
-* Through advanced data-sharing, any new company can now legally form their business and check their license application status directly through their Account rather than by visiting multiple agencies.  
-* For the first time, businesses have a personalized calendar for deadlines and filings, as well as personalized funding and certification recommendations from a growing statewide database.  
-* The personalized dashboard was used 500,000 times by more than 362,000 users in 2024\.  
-* More than 15% of businesses formed in New Jersey do so with support from Business.NJ.gov in 2024, with nearly 50,000 formed using the site.   
-* With new features over the past two years, over 2,000 out-of-state businesses have been authorized through the site to do business or invest in New Jersey, as well as more than 600 non-profits.
+- As of July 2025, more than 204,000 accounts have been created on [Business.NJ.gov](https://business.nj.gov).
+- Entrepreneurs now have personalized Starter Kits specific to over 60 industries for starting their companies in New Jersey. This guide explains what forms and licenses they need, legal requirements, and more.
+- Through advanced data-sharing, any new company can now legally form their business and check their license application status directly through their Account rather than by visiting multiple agencies.
+- For the first time, businesses have a personalized calendar for deadlines and filings, as well as personalized funding and certification recommendations from a growing statewide database.
+- The personalized dashboard was used 500,000 times by more than 362,000 users in 2024\.
+- More than 15% of businesses formed in New Jersey do so with support from Business.NJ.gov in 2024, with nearly 50,000 formed using the site.
+- With new features over the past two years, over 2,000 out-of-state businesses have been authorized through the site to do business or invest in New Jersey, as well as more than 600 non-profits.
 
 ### Status
 
-* The Business.NJ.gov Account is continually being updated with additional capabilities and personalized guides based on user testing and surveys.
+- The Business.NJ.gov Account is continually being updated with additional capabilities and personalized guides based on user testing and surveys.
 
 ### Resources and Additional Information
 
-* [GitHub repository](https://github.com/newjersey/navigator.business.nj.gov)
+- [GitHub repository](https://github.com/newjersey/navigator.business.nj.gov)
 
 ### Partners
 
-* Office of the Governor  
-* NJ State Department of State, Business Action Center  
-* NJ Economic Development Authority  
-* NJ State Department of Treasury  
-* NJ State Department of Labor  
-* NJ State Office of the Attorney General, Division of Consumer Affairs  
-* NJ Department of Transportation  
-* NJ Motor Vehicle Commission  
-* Alcoholic Beverage Control  
-* NJ Department of Environmental Protection  
-* NJ Department of Community Affairs  
-* Statewide initiative, in partnership with all relevant State entities
+- Office of the Governor
+- NJ State Department of State, Business Action Center
+- NJ Economic Development Authority
+- NJ State Department of Treasury
+- NJ State Department of Labor
+- NJ State Office of the Attorney General, Division of Consumer Affairs
+- NJ Department of Transportation
+- NJ Motor Vehicle Commission
+- Alcoholic Beverage Control
+- NJ Department of Environmental Protection
+- NJ Department of Community Affairs
+- Statewide initiative, in partnership with all relevant State entities
 
-*Last updated on 8/27/25*
+_Last updated on 8/27/25_
