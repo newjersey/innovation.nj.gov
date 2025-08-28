@@ -18,7 +18,8 @@ Rather than waiting to debut a large-scale solution after a multi-year developme
 ### Impact \+ Metrics
 
 * With Business.NJ.gov, companies can now easily find the answer to any question they have, file critical forms, and get personalized recommendations – all in one convenient place.  
-* With over three million site visits per year, Business.NJ.gov is the definitive starting point for New Jersey entrepreneurs.  
+* With over three million site visits per year, Business.NJ.gov is the definitive starting point for New Jersey entrepreneurs.
+* In May 2025, the governor issued a five-year report on the impact of [business.nj.gov](http://business.nj.gov), showing that over 50,000 businesses have formed using the site. The report also includes survey results showing that users of the site took 30 percent less time (nearly a month less) to start a business. Due to that reduced time, in 2024, the average additional earnings per business was estimated at about $7,440, helping drive about $167.7 million in total additional earnings.
 * With a Business.NJ.gov [account](https://navigator.business.nj.gov/), aspiring entrepreneurs can now develop personalized guides to starting their business, register their business and track their applications, find relevant funding opportunities, and get a personalized tax calendar.
 * By enabling data-sharing between agencies for the first time, OOI consolidated dozens of forms and made them submittable through a single portal on Business.NJ.gov. 
 * Businesses can access a centralized customer service experience in real time using the Business.NJ.Gov live chat \- this allows businesses to get answers from experts and customer service representatives from multiple State agencies, alleviating the need to call several agencies.  
