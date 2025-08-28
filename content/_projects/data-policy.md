@@ -19,7 +19,7 @@ The Data \+ Policy Team uses a variety of tools, strategies, and services to hel
 
 - To inform how more than $100 million annually in funds earmarked for sustainability funding should be allocated, the Team engaged with the public using an innovative survey tool. By the end of the four-week voting period, 6,370 New Jerseyans engaged with the campaign, made selections 24,414 times, and submitted 163 ideas.
 - By supporting upgrades to a key data analytics platform, the Business Experience team was better able to understand how current and aspiring business owners are accessing content and services.
-- OOI helped the Department of Environmental Protection’s Community Investment and Economic Revitalization program improve the grant and resource application process by conducting a personal development workshop to help them better understand their target audience and designing a survey to reach that audience.
+- The team worked closely with the Department of Environmental Protection’s eMobility team to launch a data-driven mapping tool (Transportation Needs Index) that overlays proximity to bus stops and rail stations with key demographic indicators to calculate a composite "need score" for each census tract. This visualization and analysis tool has been accessed thousands of times, empowering decision-makers to strategically target new transportation investments.
 
 ### Status
 
@@ -31,4 +31,4 @@ The Data \+ Policy Team uses a variety of tools, strategies, and services to hel
 - NJ Department of Environmental Protection
 - NJ State Office of the Secretary of Higher Education
 
-_Last updated on 3/4/25_
+_Last updated on 8/27/25_
