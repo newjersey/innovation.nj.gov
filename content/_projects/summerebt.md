@@ -13,7 +13,7 @@ After issuing benefits to school meal recipients, NJDA faced challenges determin
 
 ### Innovation In Action
 
-In 2024, our data science team developed a process to identify unique eligible students, iteratively refining a machine learning model to deduplicate the data in close collaboration with NJDA. In 2025, we built on that successful foundation to identify duplicates and issue all benefits at the beginning of the program season (instead of in stages). We now are building a process to issue benefits on a weekly basis to newly-eligible children throughout the summer.
+In 2024, OOI's data science team developed a process to identify unique eligible students, iteratively refining a machine learning model to deduplicate the data in close collaboration with NJDA. In 2025, OOI built on that successful foundation to identify duplicates and issue all benefits at the beginning of the program season (instead of in stages). The team is now helping issue benefits on a weekly basis to newly-eligible children throughout the summer.
 
 ### Impact \+ Metrics
 
