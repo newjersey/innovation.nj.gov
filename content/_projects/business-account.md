@@ -29,7 +29,6 @@ With the user at the heart of every decision, OOI has transformed how businesses
 
 ### Resources and Additional Information
 
-* [NJ.gov: Here’s how this N.J. state agency is helping legal weed businesses](https://www.nj.gov/governor/news/news/562022/approved/20220127a.shtml)  
 * [GitHub repository](https://github.com/newjersey/navigator.business.nj.gov)
 
 ### Partners
@@ -47,4 +46,4 @@ With the user at the heart of every decision, OOI has transformed how businesses
 * NJ Department of Community Affairs  
 * Statewide initiative, in partnership with all relevant State entities
 
-*Last updated on 2/26/25*
+*Last updated on 8/27/25*
