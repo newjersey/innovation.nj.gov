@@ -1,7 +1,8 @@
 ---
 title: Direct File Uptake Campaign
-initiative: Communication and Engagement Lab
+initiative: Communication + Engagement Lab
 ---
+
 The Communication and Engagement Lab worked with the Resident Experience Initiative team to create awareness of residents’ new ability to file taxes directly \- and for free \- with the government and drive traffic to the new [DirectFile.NJ.gov landing page.](http://DirectFile.NJ.gov)
 
 ### Challenge
