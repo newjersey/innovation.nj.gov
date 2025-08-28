@@ -19,7 +19,8 @@ To help the OSHE project team persuade non-returning students to re-enroll in hi
 * Based on its research, the C+E Lab developed a communication strategy that reframed the State’s narrative and recommended media channels and budgets to meet the audience where they are.  
 * Also based on its research, the C+E Lab developed creative themes that brought the communication strategy to life, and quantitatively validated the content as most effective in creating awareness and intent, and that it was equitable in its appeal.  
 * The multi-channel campaign leveraging digital, social, and traditional media channels garnered 91 million impressions, 5.8 million video views, and connected more than 63,000 people with information about valuable State resources that can help them return to college and complete their degree.   
-* The campaign also generated over 2,000 leads (residents wanting to be connected with State higher education institutions) with 86% of leads from members of underserved communities. 
+* The campaign also generated over 2,000 leads (residents wanting to be connected with State higher education institutions) with 86% of leads from members of underserved communities.
+* The initiative has re-enrolled 11,900 learners since April 2023 with 1,100+ graduating to date.
 
 ### Status
 
@@ -29,4 +30,4 @@ To help the OSHE project team persuade non-returning students to re-enroll in hi
 
 * NJ State Office of the Secretary of Higher Education
 
-*Last updated on 5/2/24*
+*Last updated on 8/27/24*
