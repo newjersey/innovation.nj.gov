@@ -32,4 +32,4 @@ To provide the State with another way to proactively communicate with residents,
 * NJ State Department of Health  
 * Statewide initiative, in partnership with all State entities
 
-*Last updated on 4/22/25*
+*Last updated on 8/27/25*
