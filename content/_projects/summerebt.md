@@ -17,7 +17,7 @@ In 2024, OOI's data science team developed a process to identify unique eligible
 
 ### Impact \+ Metrics
 
-- About 106,000 children on STMF received benefits in 2024 because of our deduplication efforts, about 15% of total benefit recipients. That totals about $12.8 million in additional benefits issued to children identified as eligible by OOI.
+- About 106,000 children on STMF received benefits in 2024 because of the deduplication efforts, about 15% of total benefit recipients. That totals about $12.8 million in additional benefits issued to children identified as eligible by OOI.
 - As of August 2025, over 96,000 children on STMF have been identified to receive benefits, over 13% of total benefit recipients. This totals about $11.5 million in additional benefits to be issued to children identified as eligible by OOI.
 
 ### Status
