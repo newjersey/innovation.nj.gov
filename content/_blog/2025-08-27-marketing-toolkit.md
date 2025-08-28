@@ -74,3 +74,5 @@ With properly tagged URLs, you can monitor traffic sources, understand performan
 People centered marketing is about more than getting the word out. It is about empathy, clarity, and relevance. It is about recognizing that even the most essential programs cannot make a difference if people do not know about them, trust them, or see how they fit into their lives.
 
 We encourage you to use and/or share the **People Centered Marketing Toolkit**, adapt it, and share it with others. Because when we communicate with our audience about the things that matter to them most, we don’t just raise awareness, we build trust, encourage participation, and improve lives.
+
+To learn more about how to use these tools please see the [C+E Lab Playbook](https://innovation.nj.gov/cel/playbook/).
