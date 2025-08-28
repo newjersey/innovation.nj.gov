@@ -15,8 +15,8 @@ To provide the State with the means to more effectively and proactively reach bu
 
 ### Impact \+ Metrics
 
-* In 2024, the number of subscribers more than doubled and now exceeds 270,000.   
-* The Business.NJ.gov Updates program has generated millions of interactions with subscribers, significantly increasing awareness of an array of policy priorities and programs. As of February 2025, the program has generated more than 377,000 engagements with updates on funding programs, regulatory guidance, and other information pertinent to the business community.
+* In 2025, the number of subscribers now exceeds 275,000.   
+* The Business.NJ.gov Updates program has generated millions of interactions with subscribers, significantly increasing awareness of an array of policy priorities and programs. As of August 2025, the program has generated more than 392,000 engagements with updates on funding programs, regulatory guidance, and other information pertinent to the business community.
 
 ### Status
 
@@ -31,14 +31,6 @@ To provide the State with the means to more effectively and proactively reach bu
 * Office of the Governor  
 * NJ State Department of State, Business Action Center  
 * NJ Economic Development Authority  
-* Statewide initiative, in partnership with all relevant State entities
+* Statewide initiative, in partnership with many State entities
 
-*Last updated on 4/3/25*
-
-
--   Office of the Governor
--   NJ State Department of State, Business Action Center
--   NJ Economic Development Authority
--   Statewide initiative, in partnership with all relevant State entities
-
-*Last updated on 9/27/24*
+*Last updated on 8/15/25*
