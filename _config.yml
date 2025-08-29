@@ -84,11 +84,11 @@ collections:
     sort_by: date
     output: true
   team:
-    permalink: about/:collection/:title/
+    permalink: /about/:collection/:title/
     sort_by: title
     output: true
   playbooks:
-    permalink: cel-playbook/:title/
+    permalink: /cel/playbook/:title/
     output: true
     sort_by: name
   impactreport2024:
