@@ -5,7 +5,7 @@ order: 1
 role: New Jersey State Chief Innovation Officer
 ---
 
-Dave Cole serves as the State of New Jersey’s Chief Innovation Officer and a Member of the Governor’s Cabinet. In this capacity, Dave, a native of New Jersey, focuses on enhancing innovation in government and in the Garden State’s economy. Using better data, more collective intelligence, agile technology, and cutting-edge tools such as AI, the Office of Innovation leads projects, designs policies, and advises agencies on innovative strategies to improve the lives of New Jerseyans.
+Dave Cole serves as the State of New Jersey’s Chief Innovation Officer and a member of the Governor’s Cabinet. In this capacity, Dave, a native of New Jersey, focuses on enhancing innovation in government and in the Garden State’s economy. Using better data, more collective intelligence, agile technology, and cutting-edge tools such as AI, the Office of Innovation leads projects, designs policies, and advises agencies on innovative strategies to improve the lives of New Jerseyans.
 
 Dave joined the Office of Innovation in 2020 to help the State respond to the COVID-19
 pandemic, and served as a technology co-lead for the State’s COVID-19 vaccination program. He also co-founded and led the Resident Experience Initiative at the Office of Innovation, collaborating with state agencies to design and implement digital services in support of new policies and programs.
