@@ -18,13 +18,14 @@ All state government employees using Generative AI should review the State’s [
 
 ### State-Approved AI Tools and Approval Process
 
-Updated: 06/19/2025
+Updated: 9/4/2025
 
 State-Approved AI Tools have been approved for use with sensitive and internal data, including PII, at the discretion of your Agency Chief Information Officer (see the [AI Use Guidelines B.4](https://nj.gov/it/docs/ps/25-OIT-001-State-of-New-Jersey-Guidance-on-Responsible-Use-of-Generative-AI.pdf)). The list of State-Approved AI Tools is maintained here and updated regularly. These are the only AI tools in which the use of sensitive data is permitted.
 
 _State-Approved General-Purpose AI Tools:_
 
 - The NJ AI Assistant – a secure internal general purpose chatbot for use by NJ State employees
+- NJ Advanced AI – a secure internal general purpose chatbot available via myNJ for staff who have received access. This tool allows users to select from several AI models and compare outputs.
 
 Additionally, the following APIs from State Enterprise Public Cloud providers are permitted for generative AI access when used in a standalone manner. If these tools are used as part of a broader application, the application must be individually approved via OIT’s SAR process.
 
