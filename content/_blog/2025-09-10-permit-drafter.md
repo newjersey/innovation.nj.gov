@@ -1,1 +1,100 @@
+---
+layout: blog
+title: How New Jersey is using AI to help businesses get permits faster
+date: 2025-09-10
+author: Katherine Nammacher, 
+promoted: 1
+excerpt: "."
+image: /assets/images/news/technically?
+figure:
+  url: /assets/images/news/ADD
+  caption: " "
+  alt-text: " "
+---
+[Business.nj.gov](http://business.nj.gov) provides a single website for business owners to start and run businesses. The site just celebrated 5 years, and our latest data shows that it helps businesses start and grow about [30% faster](https://business.nj.gov/page/impactreport).  
 
+One key reason the site is so helpful is that business owners can use it to understand and manage permits, licenses and registrations (a category I’ll refer to as “permits” for the sake of this blog post). 
+
+Business owners want all of their permit information from across government agencies in one place: required information, a link to complete it, what to expect post-submission, built-in reminders for renewals, etc. 
+
+That’s why we’ve manually added hundreds of New Jersey’s business permits to business.nj.gov. We research the permit, create plain language instructions, have experts review the instructions and publish them on the site. 
+
+However, it takes about eight hours for each permit to be researched and drafted. That’s why we built the Permit Drafter – to accelerate how we create that content to scale this work and get more permits and resources onto the site. The Permit Drafter saves about 3.5 hours per permit.
+
+So how does it work?
+
+## **The Permit Drafter: What we built**
+
+To start, a content strategist on our team researches the permit, including who should obtain it, when it is required, the steps involved, and what to expect.
+
+They go to the Permit Drafter and upload that research into a generative AI tool (using a large language model or LLM). The tool takes the research, with a predetermined prompt sequence (called a “prompt chain”), sends it to the LLM and receives a first draft. The content strategist takes that gen AI draft and edits it into the final permit instructions seen on the website. 
+
+The prompt chain in our Permit Drafter has seven key steps: 
+
+* Introduce the context by defining the overall goal and a persona for the LLM to use  
+* Upload 15 examples of previously-completed permit instructions written in the style and structure used on business.nj.gov    
+* Upload research files and direct the LLM to: review the research files, determine key information from the research, and identify similarities with the examples from \#2   
+* Generate the first draft by providing technical guidance for the output (e.g., “create a long, detailed markdown file that lists out every piece of required info and sources”)   
+* Reprocess the output instructions, revise the draft, and list the changes made   
+* Revise the draft to follow federal plain language guidelines  
+* Revise the draft to follow [business.nj.gov](http://business.nj.gov)’s own editorial guidelines
+
+Then, the content strategist simply uses a checklist to audit the gen AI’s draft (more on this below), and edit it into the final version.  
+
+Our team learned a lot from building a product with gen AI, especially how to build it into existing processes and workflows strategically. Here are three key lessons from this experience: 
+
+## **Make sure non-technical team members can independently experiment with prompts** 
+
+As we were testing and refining the tool, we wanted to ensure that everyone on the team (technical or not) could experiment independently and iterate quickly with the prompts. To do this, we structured the experimentation process around using LLM chatbots.
+
+We defined key features our team would need to experiment with, and our operations team identified two LLM chatbots already used by the State of New Jersey (and both had APIs for building a more extensive tool later). Each person experimented with prompts with the chatbots and brought learnings to the team, similar to doing iterations of a design or idea before sharing.
+
+This structure made it easy for people to test different strategies for prompting by playing with large rewrites, varied prompt ordering, small word changes, and more. Each member found different things to improve, so we learned substantially faster from all the concurrent experimentation. 
+
+## **Audit output from the start, and include end users**
+
+As we experimented, we needed a set of success criteria for the team to drive towards. 
+
+We defined the attributes for a good draft of permit instructions (including components for human-written content and gen AI-created content), and turned that into a detailed rubric and grading matrix. We used it to measure the quality of the LLM’s output, which helped us systematically learn how to improve our prompts. 
+
+We also shared screenshots of our prompt chains on a digital whiteboard with the team, taking notes about any variations in outputs, inaccuracies, hallucinations, and other issues. We would choose a particularly good gen AI draft and fully audit it, over and over. 
+
+At the beginning of the project, we chose a set of simple permits to hone the prompts and gen AI draft, and then added more complex permits over time. Starting with a simple base allowed us to gradually introduce complexity: different file types, longer documents, more disparate information and convoluted resources, more opaque permit requirements, etc. 
+
+As the output became more consistent and reliably good, we shifted our auditing to be lighter weight — going from the intense grading system to a lighter rubric and finally to the audit checklist (shown below). We also learned about the strengths and shortcomings of the LLM. 
+
+Writing a checklist for users was key, as they were the ones working directly with the gen AI draft. We wanted to ensure they were set up for success, and knew exactly how to audit the draft. (We’ve heard from users that this checklist also highlights what they should be thinking about regardless of whether the permit was written manually or using the Permit Drafter.) 
+
+Overall, building and refining an audit process in an intentional way helped us sharpen how we work with LLM-generated content \- giving us a roadmap for how to iterate toward the most helpful resources for business owners. 
+
+## **Uncover strategies that maximize the strengths of both LLMs and humans**
+
+In using the new tech of gen AI, we learned a lot about how to incorporate it appropriately into our work \- especially how we managed around its strengths and shortcomings. 
+
+Here are the strategies we used to build the Permit Drafter into the team’s processes. 
+
+**Optimize prompts for consistency** 
+
+LLMs often give different responses for the same prompt sequence and have occasional hallucinations. To mitigate these, we honed prompts to focus on consistency and to reduce hallucinations (with slightly more weight on consistency), and had users check each permit for any hallucinations (using the audit checklist shared above).
+
+Ensuring a consistent response also increased our confidence that the audit checklist would be relevant and useful for the gen AI drafts because we had a crisp and reliable idea of what to expect in those LLM-created drafts. 
+
+**Use the LLM for turning research materials into the first draft (not the final)** 
+
+During testing, the LLM generated a great first draft in terms of translating raw materials into a structured format and categorizing information correctly. However, it struggled to turn that content into a crisp and focused final draft \- something content strategists excel in doing. 
+
+Given this shortcoming, we designed a process where the content strategist uses the Permit Drafter to generate the first draft. Then the content strategist edits that draft to hone the content into a final version (and has it reviewed by agency partners). 
+
+**Require the LLM to include all relevant information (have a human delete superfluous content)** 
+
+We also learned that LLMs cannot always determine what’s important (and will delete key information), nor can they strategically prioritize content. If the LLM included all possible information, users could easily audit the draft for completeness and accuracy. 
+
+Then, they could quickly edit the content down, prioritize key information, remove redundant instructions, and shape the final draft.
+
+**Test multiple LLM models to identify the right one** 
+
+We had access to two different models, which were configured slightly differently. As the team tested with each, the outputs varied more than we anticipated. With access to both, we were able to choose one that best matched what we needed for the final product. 
+
+The Permit Drafter is just one successful tool for how gen AI can assist state employees in their jobs, and ensure business owners get the key information they need faster. To learn more about the impact of [business.nj.gov](http://business.nj.gov), read the [recent Impact Report](https://business.nj.gov/page/impactreport). To learn more about gen AI, the NJ Office of Innovation has [shared gen AI how-to guides and other gen AI resources](https://innovation.nj.gov/skills/ai-how-tos/). 
+
+*Author’s note: Thank you to amazing project teammates: Dan Hinze, Spencer Wohlers, Regina Lam, Kirsty Carrihill-Knoll and Micah Castelo*
