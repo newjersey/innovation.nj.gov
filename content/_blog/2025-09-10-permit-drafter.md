@@ -158,7 +158,7 @@ Overall, building and refining an audit process in an intentional way helped us 
   </div>
 </div>
 
-## **Uncover strategies that maximize the strengths of both LLMs and humans**
+## Uncover strategies that maximize the strengths of both LLMs and humans
 
 In using the new tech of gen AI, we learned a lot about how to incorporate it appropriately into our work - especially how we managed around its strengths and shortcomings.
 
