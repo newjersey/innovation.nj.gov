@@ -48,7 +48,7 @@ Then, the content strategist simply uses a checklist to audit the gen AI's draft
   <div class="usa-alert__body">
     <p class="usa-alert__text usa-prose">
       <h2> Tips for honing LLM prompts </h2>
-      <p> In honing the prompts ("prompt engineering"), LLMs have their own attributes to test \- which many have written about. Here's what made a big difference for us:</p> 
+      <p> In honing the prompts ("prompt engineering"), LLMs have their own attributes to test - which many have written about. Here's what made a big difference for us:</p> 
       <ul class="usa-list">
         <li>
           The wording of prompts themselves, especially being direct, sharp, and exact (e.g., "list out three" instead of "list a few")
@@ -100,7 +100,7 @@ As the output became more consistent and reliably good, we shifted our auditing 
 
 Writing a checklist for users was key, as they were the ones working directly with the gen AI draft. We wanted to ensure they were set up for success, and knew exactly how to audit the draft. (We've heard from users that this checklist also highlights what they should be thinking about regardless of whether the permit was written manually or using the Permit Drafter.)
 
-Overall, building and refining an audit process in an intentional way helped us sharpen how we work with LLM-generated content \- giving us a roadmap for how to iterate toward the most helpful resources for business owners.
+Overall, building and refining an audit process in an intentional way helped us sharpen how we work with LLM-generated content - giving us a roadmap for how to iterate toward the most helpful resources for business owners.
 
 <div class="usa-alert usa-alert--info usa-alert--no-icon">
   <div class="usa-alert__body">
@@ -118,7 +118,6 @@ Overall, building and refining an audit process in an intentional way helped us 
         Did the Permit Drafter use all uploaded resource materials to generate the draft?
         </li>
       </ul>
-
       <h3> Accuracy and completeness of output </h3>
       <ul>
         <li>
@@ -131,7 +130,6 @@ Overall, building and refining an audit process in an intentional way helped us 
           Is there any information missing from the output?
         </li>
       </ul>
-
       <h3>Information hierarchy and redundancy</h3>
       <ul>
         <li>
@@ -144,7 +142,6 @@ Overall, building and refining an audit process in an intentional way helped us 
           Does the permit draft only include info for that particular use case?
         </li>
       </ul>
-
       <h3>Voice and editorial guidelines </h3>
       <ul>
         <li>
@@ -158,13 +155,12 @@ Overall, building and refining an audit process in an intentional way helped us 
         </li>
       </ul>
     </p>
-
   </div>
 </div>
 
 ## **Uncover strategies that maximize the strengths of both LLMs and humans**
 
-In using the new tech of gen AI, we learned a lot about how to incorporate it appropriately into our work \- especially how we managed around its strengths and shortcomings.
+In using the new tech of gen AI, we learned a lot about how to incorporate it appropriately into our work - especially how we managed around its strengths and shortcomings.
 
 Here are the strategies we used to build the Permit Drafter into the team's processes.
 
@@ -176,7 +172,7 @@ Ensuring a consistent response also increased our confidence that the audit chec
 
 **Use the LLM for turning research materials into the first draft (not the final)**
 
-During testing, the LLM generated a great first draft in terms of translating raw materials into a structured format and categorizing information correctly. However, it struggled to turn that content into a crisp and focused final draft \- something content strategists excel in doing.
+During testing, the LLM generated a great first draft in terms of translating raw materials into a structured format and categorizing information correctly. However, it struggled to turn that content into a crisp and focused final draft - something content strategists excel in doing.
 
 Given this shortcoming, we designed a process where the content strategist uses the Permit Drafter to generate the first draft. Then the content strategist edits that draft to hone the content into a final version (and has it reviewed by agency partners).
 
