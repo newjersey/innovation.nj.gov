@@ -102,8 +102,6 @@ Writing a checklist for users was key, as they were the ones working directly wi
 
 Overall, building and refining an audit process in an intentional way helped us sharpen how we work with LLM-generated content \- giving us a roadmap for how to iterate toward the most helpful resources for business owners.
 
-BREAKOUT BOX:
-
 <div class="usa-alert usa-alert--info usa-alert--no-icon">
   <div class="usa-alert__body">
     <p class="usa-alert__text usa-prose">
