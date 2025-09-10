@@ -26,7 +26,7 @@ However, it takes about eight hours for each permit to be researched and drafted
 
 So how does it work?
 
-## **The Permit Drafter: What we built**
+## The Permit Drafter: What we built
 
 To start, a content strategist on our team researches the permit, including who should obtain it, when it is required, the steps involved, and what to expect.
 
@@ -36,7 +36,7 @@ The prompt chain in our Permit Drafter has seven key steps:
 
 - Introduce the context by defining the overall goal and a persona for the LLM to use
 - Upload 15 examples of previously-completed permit instructions written in the style and structure used on business.nj.gov
-- Upload research files and direct the LLM to: review the research files, determine key information from the research, and identify similarities with the examples from \#2
+- Upload research files and direct the LLM to: review the research files, determine key information from the research, and identify similarities with the examples from #2
 - Generate the first draft by providing technical guidance for the output (e.g., "create a long, detailed markdown file that lists out every piece of required info and sources")
 - Reprocess the output instructions, revise the draft, and list the changes made
 - Revise the draft to follow federal plain language guidelines
@@ -78,7 +78,7 @@ Then, the content strategist simply uses a checklist to audit the gen AI's draft
 
 Our team learned a lot from building a product with gen AI, especially how to build it into existing processes and workflows strategically. Here are three key lessons from this experience:
 
-## **Make sure non-technical team members can independently experiment with prompts**
+## Make sure non-technical team members can independently experiment with prompts
 
 As we were testing and refining the tool, we wanted to ensure that everyone on the team (technical or not) could experiment independently and iterate quickly with the prompts. To do this, we structured the experimentation process around using LLM chatbots.
 
@@ -86,7 +86,7 @@ We defined key features our team would need to experiment with, and our operatio
 
 This structure made it easy for people to test different strategies for prompting by playing with large rewrites, varied prompt ordering, small word changes, and more. Each member found different things to improve, so we learned substantially faster from all the concurrent experimentation.
 
-## **Audit output from the start, and include end users**
+## Audit output from the start, and include end users
 
 As we experimented, we needed a set of success criteria for the team to drive towards.
 
@@ -148,7 +148,7 @@ Overall, building and refining an audit process in an intentional way helped us 
           Does the permit draft follow our voice, tone, and editorial guidelines?
         </li>
         <li>
-          Does the permit draft follow [federal plain language guidelines](https://www.plainlanguage.gov/guidelines/), and adhere to how we typically word specific phrases/terms?
+          Does the permit draft follow <a href="https://www.plainlanguage.gov/guidelines/">federal plain language guidelines</a>, and adhere to how we typically word specific phrases/terms?
         </li>
         <li>
           Is there any biased language included in the draft?
@@ -164,25 +164,25 @@ In using the new tech of gen AI, we learned a lot about how to incorporate it ap
 
 Here are the strategies we used to build the Permit Drafter into the team's processes.
 
-**Optimize prompts for consistency**
+### Optimize prompts for consistency
 
 LLMs often give different responses for the same prompt sequence and have occasional hallucinations. To mitigate these, we honed prompts to focus on consistency and to reduce hallucinations (with slightly more weight on consistency), and had users check each permit for any hallucinations (using the audit checklist shared above).
 
 Ensuring a consistent response also increased our confidence that the audit checklist would be relevant and useful for the gen AI drafts because we had a crisp and reliable idea of what to expect in those LLM-created drafts.
 
-**Use the LLM for turning research materials into the first draft (not the final)**
+### Use the LLM for turning research materials into the first draft (not the final)
 
 During testing, the LLM generated a great first draft in terms of translating raw materials into a structured format and categorizing information correctly. However, it struggled to turn that content into a crisp and focused final draft - something content strategists excel in doing.
 
 Given this shortcoming, we designed a process where the content strategist uses the Permit Drafter to generate the first draft. Then the content strategist edits that draft to hone the content into a final version (and has it reviewed by agency partners).
 
-**Require the LLM to include all relevant information (have a human delete superfluous content)**
+### Require the LLM to include all relevant information (have a human delete superfluous content)
 
 We also learned that LLMs cannot always determine what's important (and will delete key information), nor can they strategically prioritize content. If the LLM included all possible information, users could easily audit the draft for completeness and accuracy.
 
 Then, they could quickly edit the content down, prioritize key information, remove redundant instructions, and shape the final draft.
 
-**Test multiple LLM models to identify the right one**
+### Test multiple LLM models to identify the right one
 
 We had access to two different models, which were configured slightly differently. As the team tested with each, the outputs varied more than we anticipated. With access to both, we were able to choose one that best matched what we needed for the final product.
 
