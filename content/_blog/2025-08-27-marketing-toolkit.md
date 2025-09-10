@@ -3,7 +3,7 @@ layout: blog
 title: A New Marketing Toolkit to Help the Public Sector Connect with the People They Serve
 date: 2025-08-27
 author: Katie Fiore, Director, Communication + Engagement Lab
-promoted: 1
+promoted: 0
 excerpt: "Four practical tools aim to help public-service professionals develop smart and clear messaging that resonates with the public and makes an impact."
 image: /assets/images/news/NJ-seal.png
 figure:
