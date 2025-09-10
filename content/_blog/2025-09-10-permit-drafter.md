@@ -106,7 +106,7 @@ Overall, building and refining an audit process in an intentional way helped us 
   <div class="usa-alert__body">
     <p class="usa-alert__text usa-prose">
       <h2> Audit checklist </h2>
-      <h3> Completeness of research materials </h3> 
+      <p class="text-bold"> Completeness of research materials </p> 
       <ul>
         <li>
         Do the research materials include all the information required for this permit?
@@ -118,7 +118,7 @@ Overall, building and refining an audit process in an intentional way helped us 
         Did the Permit Drafter use all uploaded resource materials to generate the draft?
         </li>
       </ul>
-      <h3> Accuracy and completeness of output </h3>
+      <p class="text-bold"> Accuracy and completeness of output </p>
       <ul>
         <li>
           Does the permit draft include source citations (or notes when it inferred information) from the research materials?
@@ -130,7 +130,7 @@ Overall, building and refining an audit process in an intentional way helped us 
           Is there any information missing from the output?
         </li>
       </ul>
-      <h3>Information hierarchy and redundancy</h3>
+      <p class="text-bold">Information hierarchy and redundancy</p>
       <ul>
         <li>
           Is the permit draft organized correctly and intuitively?
@@ -142,7 +142,7 @@ Overall, building and refining an audit process in an intentional way helped us 
           Does the permit draft only include info for that particular use case?
         </li>
       </ul>
-      <h3>Voice and editorial guidelines </h3>
+      <p class="text-bold">Voice and editorial guidelines </p>
       <ul>
         <li>
           Does the permit draft follow our voice, tone, and editorial guidelines?
