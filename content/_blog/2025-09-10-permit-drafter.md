@@ -43,6 +43,17 @@ The prompt chain in our Permit Drafter has seven key steps:
 
 Then, the content strategist simply uses a checklist to audit the gen AI’s draft (more on this below), and edit it into the final version.  
 
+BREAKOUT BOX: 
+## ***Tips for honing LLM prompts*** 
+*In honing the prompts (“prompt engineering”), LLMs have their own attributes to test \- which many have written about. Here’s what made a big difference for us:* 
+* *The wording of prompts themselves, especially being direct, sharp, and exact (e.g., “list out three” instead of “list a few”)*  
+* *Ask the LLM to articulate what about the prompt is unclear, how you might improve it, or its interpretation of the prompt. This gave us very helpful feedback to hone the prompts*  
+* *Include successful examples of what you want it to generate (even just one will help, though we included 15 for the Permit Drafter)*  
+* *Use a variety of different types of prompts in the same sequence (e.g., persona definition, examples, self-auditing, etc.)*  
+* *Have the LLM review what it wrote and the prompts given, and have it revise the draft again using the original instructions (and list out what changed)*  
+* *Split up long prompt instructions. (For example: We had originally combined our internal editorial guidelines with the plain language guidelines, but it was too much context in one prompt. When separated, the results were substantially better.)*   
+* *Have the LLM list sources cited, including whether the information is directly taken from a source or if it was written information that was inferred from sources*
+
 Our team learned a lot from building a product with gen AI, especially how to build it into existing processes and workflows strategically. Here are three key lessons from this experience: 
 
 ## **Make sure non-technical team members can independently experiment with prompts** 
@@ -68,6 +79,33 @@ As the output became more consistent and reliably good, we shifted our auditing 
 Writing a checklist for users was key, as they were the ones working directly with the gen AI draft. We wanted to ensure they were set up for success, and knew exactly how to audit the draft. (We’ve heard from users that this checklist also highlights what they should be thinking about regardless of whether the permit was written manually or using the Permit Drafter.) 
 
 Overall, building and refining an audit process in an intentional way helped us sharpen how we work with LLM-generated content \- giving us a roadmap for how to iterate toward the most helpful resources for business owners. 
+
+BREAKOUT BOX:
+### ***Audit checklist***
+
+***Completeness of research materials***
+
+* *Do the research materials include all the information required for this permit?*  
+* *Do the resource materials contain accurate and updated information?*   
+* *Did the Permit Drafter use all uploaded resource materials to generate the draft?*
+
+***Accuracy and completeness of output***
+
+* *Does the permit draft include source citations (or notes when it inferred information) from the research materials?*  
+* *Have you compared the output with the uploaded research materials to ensure that all information is accurate?*   
+* *Is there any information missing from the output?*
+
+***Information hierarchy and redundancy***
+
+* *Is the permit draft organized correctly and intuitively?*  
+* *Is information repeated (or redundant) in the draft?*  
+* *Does the permit draft only include info for that particular use case?*
+
+***Voice and editorial guidelines***
+
+* *Does the permit draft follow our voice, tone, and editorial guidelines?*  
+* *Does the permit draft follow [federal plain language guidelines](https://www.plainlanguage.gov/guidelines/), and adhere to how we typically word specific phrases/terms?*  
+* *Is there any biased language included in the draft?*
 
 ## **Uncover strategies that maximize the strengths of both LLMs and humans**
 
