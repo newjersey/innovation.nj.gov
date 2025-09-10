@@ -11,6 +11,8 @@ figure:
   caption: " "
   alt-text: " "
 ---
+_Note: This originally appeared as a guest post on [Technical.ly](https://technical.ly/civic-news/ai-business-permits-new-jersey-guest-post/)_
+
 [Business.nj.gov](http://business.nj.gov) provides a single website for business owners to start and run businesses. The site just celebrated 5 years, and our latest data shows that it helps businesses start and grow about [30% faster](https://business.nj.gov/page/impactreport).  
 
 One key reason the site is so helpful is that business owners can use it to understand and manage permits, licenses and registrations (a category I’ll refer to as “permits” for the sake of this blog post). 
