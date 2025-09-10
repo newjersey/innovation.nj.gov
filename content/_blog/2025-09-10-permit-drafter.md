@@ -4,10 +4,10 @@ title: How New Jersey is using AI to help businesses get permits faster
 date: 2025-09-10
 author: Katherine Nammacher, 
 promoted: 1
-excerpt: "How the Office of Innovation is using AI prompting to make business permits and licenses easier for businesses to understand."
+excerpt: "How the Office of Innovation is using AI prompting to make business permits and licenses easier to understand."
 image: /assets/images/news/technicallylogo.webp
 figure:
-  url: /assets/images/news/ADD
+  url: /assets/images/news/
   caption: " "
   alt-text: " "
 ---
