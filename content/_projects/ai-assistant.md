@@ -23,13 +23,14 @@ Working with the New Jersey State Office of Information Technology, the Office o
 
 ### Status
 
-* The NJ AI Assistant was launched in July 2024, and future updates include potentially supporting different upload and output formats.   
 * In March 2025, new enhancements were made, including allowing multiple simultaneous file uploads, an increase in maximum file sizes, and support for more file types. 
 
 ### Resources and Additional Information
 
+* [Workshop: Beyond Translation: Human-Centered Language Access with AI](https://innovate-us.org/beyond-translation-human-centered-language-access-with-ai)
 * [Route Fifty: How New Jersey’s AI assistant saves the state time and money](https://www.route-fifty.com/artificial-intelligence/2025/08/how-new-jerseys-ai-assistant-saves-state-time-and-money/407538/)
 * [Office of Innovation Blog: On First Anniversary, GenAI Tool is Helping Thousands of Public Sector Professionals](/blog/2025-07-17-aiassistantanniversary/)
+* [Workshop: Accessing AI Safely: Setting up an AI “Sandbox”](https://innovate-us.org/accessing-ai-safely-setting-up-an-ai-sandbox)
 * [Responsible Use of Generative AI in New Jersey State Government Training Course](/skills/ai/)  
 * [GovTech: NJ Unveils AI Training, Tool for State Government Workers](https://www.govtech.com/artificial-intelligence/n-j-unveils-ai-training-tool-for-state-government-workers)  
 * [NJ BIZ: NJ Launches New AI Tool, Training for State Employees](https://njbiz.com/nj-launches-new-ai-tool-training-for-state-employees/)  
@@ -41,4 +42,4 @@ Working with the New Jersey State Office of Information Technology, the Office o
 * NJ State Civil Service Commission
 
 
-*Last updated on 8/27/25*
+*Last updated on 9/11/25*
