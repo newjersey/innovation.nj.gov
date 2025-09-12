@@ -1,11 +1,13 @@
 ---
 layout: blog
 title: How New Jersey Tapped the Public to Help Shape its Climate Future
-date: 2023-03-09
 author: Edward Paulino
+date: 2023-03-09
+excerpt: When COVID-19 hit, we found a new way to engage New Jerseyans and bring
+  out their best ideas for how to invest millions of dollars in reducing
+  greenhouse gases. Delete this.
 image: /assets/images/nj-logo.svg
 promoted: 0
-excerpt: When COVID-19 hit, we found a new way to engage New Jerseyans and bring out their best ideas for how to invest millions of dollars in reducing greenhouse gases.
 ---
 
 Every three years, the State of New Jersey drafts a plan to invest hundreds of millions of dollars to fight climate change. Getting the public’s insight and feedback on the latest plan is critical to the process. To improve the scale and quality of public input, stakeholder agencies worked with the Office of Innovation to employ an innovative survey method to engage thousands of New Jerseyans and gather valuable insights that will help shape future climate change solutions. The following shares how the team accomplished this and what was learned.
