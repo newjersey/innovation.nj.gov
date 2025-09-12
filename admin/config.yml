@@ -24,7 +24,7 @@ collections:
     view_groups:
       - label: Promoted
         field: promoted
-        pattern: ^[1-9][0-9]*$
+        pattern: ^[0-9]*$
     fields:
       # Read-only fields
       - name: layout
@@ -101,7 +101,7 @@ collections:
     view_groups:
       - label: Promoted
         field: promoted
-        pattern: ^[1-9][0-9]*$
+        pattern: ^[0-9]*$
     fields:
       # Required fields
       - name: title
