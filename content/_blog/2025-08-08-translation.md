@@ -6,7 +6,7 @@ date: 2025-08-08
 excerpt: The Office of Innovation is leading with a human-centered approach to
   ensure meaningful translations, even as it uses AI to scale up. delete me.
 image: /assets/images/news/NJ-seal.png
-promoted: 0
+promoted: 1
 figure:
   url: /assets/images/news/JobProtectionCheckerSpanish.png
   caption: The Job Protection Checker was the first tool that the Office of
