@@ -1,15 +1,21 @@
 ---
 layout: blog
 title: Amplifying Human-Centered Language Access in New Jersey
-date: 2025-08-08
 author: Barbara Niveyro, Bilingual Content Design Lead
-promoted: 0
-excerpt: The Office of Innovation is leading with a human-centered approach to ensure meaningful translations, even as it uses AI to scale up.
+date: 2025-08-08
+excerpt: The Office of Innovation is leading with a human-centered approach to
+  ensure meaningful translations, even as it uses AI to scale up. delete me.
 image: /assets/images/news/NJ-seal.png
+promoted: 0
 figure:
   url: /assets/images/news/JobProtectionCheckerSpanish.png
-  caption: The Job Protection Checker was the first tool that the Office of Innovation translated using its Translation Management System.
-  alt-text: This screenshot shows the first question presented when a Spanish-speaker uses New Jersey's Job Protection Tool to understand what kind of job protections they might have. It asks whether their reason for wanting to take leave is for maternity, a recent newborn, caregiving, physical/mental health, or adopting/fostering.
+  caption: The Job Protection Checker was the first tool that the Office of
+    Innovation translated using its Translation Management System.
+  alt-text: This screenshot shows the first question presented when a
+    Spanish-speaker uses New Jersey's Job Protection Tool to understand what
+    kind of job protections they might have. It asks whether their reason for
+    wanting to take leave is for maternity, a recent newborn, caregiving,
+    physical/mental health, or adopting/fostering.
 open-graph:
   image: /assets/images/news/JobProtectionCheckerSpanish.png
 ---
