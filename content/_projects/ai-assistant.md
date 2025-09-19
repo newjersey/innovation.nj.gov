@@ -29,6 +29,7 @@ Working with the New Jersey State Office of Information Technology, the Office o
 
 * [Workshop: Beyond Translation: Human-Centered Language Access with AI](https://innovate-us.org/beyond-translation-human-centered-language-access-with-ai)
 * [Route Fifty: How New Jersey’s AI assistant saves the state time and money](https://www.route-fifty.com/artificial-intelligence/2025/08/how-new-jerseys-ai-assistant-saves-state-time-and-money/407538/)
+* [NJ BIZ: New Jersey Named National Leader in AI Readiness by Code for America](https://njbiz.com/nj-named-national-leader-in-ai-readiness-by-code-for-america/)
 * [Office of Innovation Blog: On First Anniversary, GenAI Tool is Helping Thousands of Public Sector Professionals](/blog/2025-07-17-aiassistantanniversary/)
 * [Workshop: Accessing AI Safely: Setting up an AI “Sandbox”](https://innovate-us.org/accessing-ai-safely-setting-up-an-ai-sandbox)
 * [Responsible Use of Generative AI in New Jersey State Government Training Course](/skills/ai/)  
