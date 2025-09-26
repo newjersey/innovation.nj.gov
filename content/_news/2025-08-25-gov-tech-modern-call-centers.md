@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/govtech.png
 title: "COVERAGE: Modernized State Call Centers Offer More Effective Service"
-promoted: 1
+promoted: 2
 date: 2025-08-25
 source: GOVERNMENT TECHNOLOGY
 cta:
