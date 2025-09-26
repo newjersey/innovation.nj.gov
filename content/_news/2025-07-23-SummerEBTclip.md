@@ -1,7 +1,7 @@
 ---
 image: /assets/images/news/njcomlogo.png
 title: "COVERAGE: How NJ Is Using AI to Ensure Kids Don’t Go Hungry This Summer"
-promoted: 3
+promoted: 0
 date: 2025-07-23
 source: NJ.COM
 cta:
