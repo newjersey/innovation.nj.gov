@@ -186,8 +186,7 @@ defaults:
           collection: playbooks
           group-by: menu-group
   - scope:
-      path: ""
-      type: "impactreports"
+      path: "_impactreports/2024"
     values:
       layout: playbook
       hero:
@@ -199,6 +198,25 @@ defaults:
         - title: Introduction
           url: /impact-report/2024/
           collection: impactreports
+          category: 2024
+          group-by: menu-group
+          sort-by: order
+      open-graph:
+        image: assets/images/impact-report/2024/impact-report-thumbnail.webp
+  - scope:
+      path: "_impactreports/2025"
+    values:
+      layout: playbook
+      hero:
+        image: /assets/images/impact-report/2024/hero.webp
+        title: "Impact Report 2025"
+        alt-text: Collage of images displayed throughout the report depicting New Jerseyans in their daily lives.
+      menu-group: Project Highlights
+      menu:
+        - title: Introduction
+          url: /impact-report/2025/
+          collection: impactreports
+          category: 2025
           group-by: menu-group
           sort-by: order
       open-graph:
