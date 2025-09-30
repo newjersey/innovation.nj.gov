@@ -35,11 +35,31 @@
       <ul class="usa-nav__primary usa-accordion">
         {% for item in site.data.menu %}
         <li class="usa-nav__primary-item">
-          <a
-            class="usa-nav__link {% if item.link == page.url %}usa-current{% endif %}"
-            href="{{item.link}}"
-            ><span>{{item.text}}</span></a
-          >
+          {% if item.items %}
+            <button
+              type="button"
+              class="usa-accordion__button usa-nav__link {% if item.link == page.url %}usa-current{% endif %}"
+              aria-expanded="false"
+              aria-controls="nav-section-{{ forloop.index }}"
+            >
+              <span>{{item.text}}</span>
+            </button>
+            <ul id="nav-section-{{ forloop.index }}" class="usa-nav__submenu">
+              {% for subitem in item.items %}
+              <li class="usa-nav__submenu-item">
+                <a href="{{subitem.link}}"
+                  ><span>{{subitem.text}}</span></a
+                >
+              </li>
+              {% endfor %}
+            </ul>
+          {% else %}
+            <a
+              class="usa-nav__link {% if item.link == page.url %}usa-current{% endif %}"
+              href="{{item.link}}"
+              ><span>{{item.text}}</span></a
+            >
+          {% endif %}
         </li>
         {% endfor %}
       </ul>
