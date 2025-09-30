@@ -118,7 +118,6 @@
         </div>
       </section>
       <div class="pagebreak"></div>
-
       {% assign chapters = site[page.chapters] | sort: 'order' %}
       {% for chapter in chapters %}
         <section class="usa-section {% unless forloop.last %}border-bottom-2px border-base-light {% endunless %}">
