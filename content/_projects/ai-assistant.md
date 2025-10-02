@@ -27,6 +27,7 @@ Working with the New Jersey State Office of Information Technology, the Office o
 
 ### Resources and Additional Information
 
+* [StateTech Magazine: AI Sandboxes Let State Government Employees Experiment Safely](https://statetechmagazine.com/article/2025/10/ai-sandboxes-let-state-government-employees-experiment-safely-perfcon)
 * [Workshop: Beyond Translation: Human-Centered Language Access with AI](https://innovate-us.org/beyond-translation-human-centered-language-access-with-ai)
 * [Route Fifty: How New Jersey’s AI assistant saves the state time and money](https://www.route-fifty.com/artificial-intelligence/2025/08/how-new-jerseys-ai-assistant-saves-state-time-and-money/407538/)
 * [NJ BIZ: New Jersey Named National Leader in AI Readiness by Code for America](https://njbiz.com/nj-named-national-leader-in-ai-readiness-by-code-for-america/)
