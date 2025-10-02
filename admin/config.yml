@@ -6,7 +6,7 @@ backend:
   auth_endpoint: auth
   squash_merges: true
 publish_mode: editorial_workflow
-media_folder: assets/images
+media_folder: /assets/images
 public_folder: /assets/images
 use_graphql: true
 slug:
