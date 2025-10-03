@@ -6,7 +6,7 @@ backend:
   auth_endpoint: auth
   squash_merges: true
 publish_mode: editorial_workflow
-media_folder: /assets/images
+media_folder: assets/images
 public_folder: /assets/images
 use_graphql: true
 slug:
@@ -54,7 +54,6 @@ collections:
       - name: image
         label: Featured Image
         widget: image
-        media_folder: "assets/images"
         allow_multiple: false
         choose_url: false
         required: false
@@ -76,7 +75,6 @@ collections:
           - name: url
             label: Image
             widget: image
-            media_folder: "assets/images"
             allow_multiple: false
             choose_url: false
             required: false
@@ -123,7 +121,6 @@ collections:
       - name: image
         label: Icon Image
         widget: image
-        media_folder: "assets/images"
         allow_multiple: false
         choose_url: false
         required: true
