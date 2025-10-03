@@ -32,21 +32,71 @@ We designed a seamless, secure, and quick tool for 8,600 New Jerseyans to file t
 
 97% of DirectFile users said they were satisfied or very satisfied. 92% preferred this over previous filing methods. Survey respondents said:
 
-"I’ve used tax software for over 20 years now. This was easy and didn’t cost me anything."
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+    <div class="usa-alert__body">
+        <p class="usa-alert__text">
+            "I’ve used tax software for over 20 years now. This was easy and didn’t cost me anything."
+        </p>
+    </div>
+</div>
 
-"It’s perfect. I couldn’t believe how easy it was. You saved me over $200 in fees."
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+    <div class="usa-alert__body">
+        <p class="usa-alert__text">
+           "It's perfect. I couldn’t believe how easy it was. You saved me over $200 in fees."
+        </p>
+    </div>
+</div>
 
-"My favorite thing about this site is that I don’t have to fill in so much info because a large majority of it was filled in automatically from my federal return. It does all of the work."
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+    <div class="usa-alert__body">
+        <p class="usa-alert__text">
+           "My favorite thing about this site is that I don’t have to fill in so much info because a large majority of it was filled in automatically from my federal return. It does all of the work."
+        </p>
+    </div>
+</div>
 
-"Thank you for this wonderful tool. It’s a very simple and easy-to-use tool for someone who doesn’t know much about these processes."
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+    <div class="usa-alert__body">
+        <p class="usa-alert__text">
+           "Thank you for this wonderful tool. It’s a very simple and easy-to-use tool for someone who doesn’t know much about these processes."
+        </p>
+    </div>
+</div>
 
-"It’s a wonderful free application to submit tax returns. I would recommend all to file through this."
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+    <div class="usa-alert__body">
+        <p class="usa-alert__text">
+           "It’s a wonderful free application to submit tax returns. I would recommend all to file through this."
+        </p>
+    </div>
+</div>
 
 ## Telling the Story
 
-In the News: Federal News Network: [IRS Direct File sees higher scores among users](https://federalnewsnetwork.com/it-modernization/2025/05/irs-direct-file-sees-higher-scores-among-users-despite-a-push-to-shutter-it/)
-In the News: NJ.com: [400K N.J. retirees can now use this free tax return service](https://www.nj.com/news/2025/03/400k-nj-retirees-can-now-use-this-free-tax-return-service.html)
-Office of Innovation Blog: [Taxpayers Save Time, Money in First Year of Direct File in New Jersey](https://innovation.nj.gov/blog/2025-05-08-directfile-recap/)
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+    <div class="usa-alert__body">
+        <p class="usa-alert__text">
+           In the News: Federal News Network: <a href="https://federalnewsnetwork.com/it-modernization/2025/05/irs-direct-file-sees-higher-scores-among-users-despite-a-push-to-shutter-it/"> IRS Direct File sees higher scores among users </a>
+        </p>
+    </div>
+</div>
+
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+    <div class="usa-alert__body">
+        <p class="usa-alert__text">
+           In the News: NJ.com: <a href="https://www.nj.com/news/2025/03/400k-nj-retirees-can-now-use-this-free-tax-return-service.html"> 400K N.J. retirees can now use this free tax return service </a>
+        </p>
+    </div>
+</div>
+
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+    <div class="usa-alert__body">
+        <p class="usa-alert__text">
+           Office of Innovation Blog: <a href="https://innovation.nj.gov/blog/2025-05-08-directfile-recap/"> Taxpayers Save Time, Money in First Year of Direct File in New Jersey </a>
+        </p>
+    </div>
+</div>
 
 ## Partners
 
