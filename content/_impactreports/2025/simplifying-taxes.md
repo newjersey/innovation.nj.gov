@@ -74,29 +74,7 @@ We designed a seamless, secure, and quick tool for 8,600 New Jerseyans to file t
 
 ## Telling the Story
 
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text">
-           In the News: Federal News Network: <a href="https://federalnewsnetwork.com/it-modernization/2025/05/irs-direct-file-sees-higher-scores-among-users-despite-a-push-to-shutter-it/"> IRS Direct File sees higher scores among users </a>
-        </p>
-    </div>
-</div>
-
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text">
-           In the News: NJ.com: <a href="https://www.nj.com/news/2025/03/400k-nj-retirees-can-now-use-this-free-tax-return-service.html"> 400K N.J. retirees can now use this free tax return service </a>
-        </p>
-    </div>
-</div>
-
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text">
-           Office of Innovation Blog: <a href="https://innovation.nj.gov/blog/2025-05-08-directfile-recap/"> Taxpayers Save Time, Money in First Year of Direct File in New Jersey </a>
-        </p>
-    </div>
-</div>
+- **In the News:** NJ.com: [How N.J. is using AI to ensure thousands of kids don’t go hungry this summer](https://www.nj.com/mosaic/2025/07/how-nj-is-using-ai-to-ensure-thousands-of-kids-dont-go-hungry-this-summer.html)
 
 ## Partners
 
