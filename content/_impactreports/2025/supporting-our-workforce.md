@@ -16,13 +16,11 @@ link-out:
 order: 9
 ---
 
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text">
-            <strong> Project Highlight</strong>: Job Protect Checker
-        </p>
-    </div>
-</div>
+## Agency Partners
+
+- Labor
+- Attorney General
+- Division on Civil Rights
 
 ## Snapshot
 
@@ -30,23 +28,8 @@ We turned legal language for federal and state leave laws into a simple form tha
 
 ## What They're Saying
 
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text">
-            "I'm proud that New Jersey provides robust job protections for workers who take health-related time off, whether it is to care for themselves or a family member, this tool helps to make sure everyone understands their rights under the law"
-
-            <br />
-            <br />
-            <strong> Attorney General Matthew J. Platkin </strong>
-        </p>
-    </div>
-
-</div>
+{% include blockquote.html quote="I'm proud that New Jersey provides robust job protections for workers who take health-related time off, whether it is to care for themselves or a family member, this tool helps to make sure everyone understands their rights under the law." citation="Attorney General Matthew J. Platkin" %}
 
 ## Telling the Story
 
 - **In the news:** WRNJ radio: [NJ Department of Labor announces new job protection checker to guide workers on family and medical leave laws](https://wrnjradio.com/nj-department-of-labor-announces-new-job-protection-checker-to-guide-workers-on-family-and-medical-leave-laws/)
-
-## Partners
-
-- Labor, Attorney General - Division on Civil Rights

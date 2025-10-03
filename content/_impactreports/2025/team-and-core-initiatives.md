@@ -20,26 +20,18 @@ next-page:
 
 **The Office of Innovation’s work is organized around four core initiatives:**
 
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text"><strong>The Resident Experience Initiative</strong>: streamlining, simplifying, and improving how New Jersey delivers benefits and services to residents</p>
-    </div>
-</div>
+### The Resident Experience Initiative
 
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text"><strong>The Business Experience Initiative</strong>: making it easier to start, operate, and grow a business in New Jersey</p>
-    </div>
-</div>
+Streamlining, simplifying, and improving how New Jersey delivers benefits and services to residents.
 
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text"><strong>The Communication + Engagement Lab</strong>: leveraging modern consumer marketing and communication approaches to better connect New Jersey’s residents and institutions to state programs, resources, and services</p>
-    </div>
-</div>
+### The Business Experience Initiative
 
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text"><strong>Data + Policy</strong>: advancing the use of data, evidence-based research, and performance evaluation to solve complex public challenges in New Jersey State government</p>
-    </div>
-</div>
+Making it easier to start, operate, and grow a business in New Jersey.
+
+### The Communication + Engagement Lab
+
+Leveraging modern consumer marketing and communication approaches to better connect New Jersey’s residents and institutions to state programs, resources, and services.
+
+### Data + Policy
+
+Advancing the use of data, evidence-based research, and performance evaluation to solve complex public challenges in New Jersey State government.

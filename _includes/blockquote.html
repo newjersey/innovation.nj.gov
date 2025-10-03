@@ -1,0 +1,16 @@
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+  <div class="usa-alert__body">
+      {% if include.citation %}
+    <figure>
+      {% endif %}
+      <blockquote style="margin:0;">
+        <p class="usa-alert__text">
+        "{{include.quote}}"
+        </p>
+      </blockquote>
+      {% if include.citation %}
+      <figcaption style="margin-top:1em;"><strong>{{include.citation}}</strong></figcaption>
+    </figure>
+      {% endif %}
+  </div>
+</div>

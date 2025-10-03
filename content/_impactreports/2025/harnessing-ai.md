@@ -16,9 +16,10 @@ link-out:
 order: 10
 ---
 
-## Partners
+## Agency Partners
 
-Office of Information Technology, Civil Service Commission
+- Office of Information Technology
+- Civil Service Commission
 
 ## Snapshot
 
@@ -26,17 +27,7 @@ We built a firewalled GenAI tool (NJ AI Assistant) within the New Jersey governm
 
 ## What They’re Saying
 
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text">
-“As states race to lead the way on adopting artificial intelligence, one state has stood out for its efforts to train its employees, roll out tools and empower executive leaders.”
-
-<p><strong>Chris Teale, Managing Editor, Route Fifty</strong></p>
-
-</p>
-</div>
-
-</div>
+{% include blockquote.html quote="As states race to lead the way on adopting artificial intelligence, one state has stood out for its efforts to train its employees, roll out tools and empower executive leaders." citation="Chris Teale, Managing Editor, Route Fifty" %}
 
 ## Telling the story
 

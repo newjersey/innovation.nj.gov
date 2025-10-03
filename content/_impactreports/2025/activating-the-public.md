@@ -13,9 +13,19 @@ link-out:
 order: 11
 ---
 
-## Partners
+## Agency Partners
 
-Agriculture, Human Services, Labor, State, Higher Education Student Assistance Authority, Library, Food Security Advocate, Office of the Secretary of Higher Education, Cannabis Regulatory Commission, Children and Families, Treasury
+- Agriculture
+- Human Services
+- Labor
+- State
+- Higher Education Student Assistance Authority
+- Library
+- Food Security Advocate
+- Office of the Secretary of Higher Education
+- Cannabis Regulatory Commission
+- Children and Families
+- Treasury
 
 ## Snapshot
 
@@ -27,16 +37,7 @@ Through compelling, user-tested campaign messages, we motivated New Jerseyans to
 
 ## What They’re Saying
 
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text">
-“With the C+E Lab, we continue to move work forward we otherwise couldn’t have. The team works to understand our programs, challenges assumptions, solves problems alongside us, and ultimately helps us motivate residents to discover tools and apply for aid to get their degrees.”
-<p><strong>Stefani Thachik, Senior Advisor, Office of the Secretary for Higher Education</strong></p>
-
-</p>
-</div>
-
-</div>
+{% include blockquote.html quote="With the C+E Lab, we continue to move work forward we otherwise couldn’t have. The team works to understand our programs, challenges assumptions, solves problems alongside us, and ultimately helps us motivate residents to discover tools and apply for aid to get their degrees." citation="Stefani Thachik, Senior Advisor, Office of the Secretary for Higher Education" %}
 
 ## Telling the story
 

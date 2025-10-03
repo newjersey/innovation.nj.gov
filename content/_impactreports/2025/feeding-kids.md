@@ -16,9 +16,12 @@ link-out:
 order: 4
 ---
 
-## Partners
+## Agency Partners
 
-Agriculture, Human Services, Education, Children and Families
+- Agriculture
+- Human Services
+- Education
+- Children and Families
 
 ## Snapshot
 
@@ -26,17 +29,7 @@ Our data scientists harnessed AI to identify 200,000 additional kids across vari
 
 ## What They’re Saying
 
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text">
-“The work being done creates the equity in access we in the social service sector have long advocated for. It could be impactful in critical ways for communities and eventually our society.”
-
-<p><strong>Sarah Geiger, Senior Director, Programs & Services, Food Bank of South Jersey</strong></p>
-
-</p>
-</div>
-
-</div>
+{% include blockquote.html quote="The work being done creates the equity in access we in the social service sector have long advocated for. It could be impactful in critical ways for communities and eventually our society." citation="Sarah Geiger, Senior Director, Programs & Services, Food Bank of South Jersey" %}
 
 ## Telling the story
 

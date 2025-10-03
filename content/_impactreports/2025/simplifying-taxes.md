@@ -16,13 +16,10 @@ link-out:
 order: 5
 ---
 
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text">
-            <strong> Project Highlight</strong>: Direct File
-        </p>
-    </div>
-</div>
+## Agency Partners
+
+- Treasury
+- Code for America
 
 ## Snapshot
 
@@ -32,51 +29,16 @@ We designed a seamless, secure, and quick tool for 8,600 New Jerseyans to file t
 
 97% of DirectFile users said they were satisfied or very satisfied. 92% preferred this over previous filing methods. Survey respondents said:
 
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text">
-            "I’ve used tax software for over 20 years now. This was easy and didn’t cost me anything."
-        </p>
-    </div>
-</div>
+{% include blockquote.html quote="I’ve used tax software for over 20 years now. This was easy and didn’t cost me anything." %}
 
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text">
-           "It's perfect. I couldn’t believe how easy it was. You saved me over $200 in fees."
-        </p>
-    </div>
-</div>
+{% include blockquote.html quote="It's perfect. I couldn’t believe how easy it was. You saved me over $200 in fees." %}
 
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text">
-           "My favorite thing about this site is that I don’t have to fill in so much info because a large majority of it was filled in automatically from my federal return. It does all of the work."
-        </p>
-    </div>
-</div>
+{% include blockquote.html quote="My favorite thing about this site is that I don’t have to fill in so much info because a large majority of it was filled in automatically from my federal return. It does all of the work." %}
 
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text">
-           "Thank you for this wonderful tool. It’s a very simple and easy-to-use tool for someone who doesn’t know much about these processes."
-        </p>
-    </div>
-</div>
+{% include blockquote.html quote="Thank you for this wonderful tool. It’s a very simple and easy-to-use tool for someone who doesn’t know much about these processes." %}
 
-<div class="usa-alert usa-alert--info usa-alert--no-icon">
-    <div class="usa-alert__body">
-        <p class="usa-alert__text">
-           "It’s a wonderful free application to submit tax returns. I would recommend all to file through this."
-        </p>
-    </div>
-</div>
+{% include blockquote.html quote="It’s a wonderful free application to submit tax returns. I would recommend all to file through this." %}
 
 ## Telling the Story
 
 - **In the News:** NJ.com: [How N.J. is using AI to ensure thousands of kids don’t go hungry this summer](https://www.nj.com/mosaic/2025/07/how-nj-is-using-ai-to-ensure-thousands-of-kids-dont-go-hungry-this-summer.html)
-
-## Partners
-
-- Treasury
-- Code for America
