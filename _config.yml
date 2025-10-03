@@ -92,7 +92,7 @@ collections:
     output: true
     sort_by: name
   impactreports:
-    permalink: /impact-report/2024/:title/
+    permalink: /impact-report/:path/
     output: true
     sort_by: order
   comms-engagement-portfolio:
