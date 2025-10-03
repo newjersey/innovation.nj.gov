@@ -5,8 +5,8 @@ title-image:
   image: /assets/images/impact-report/2024/header/callcenters.webp
   alt-text:
 previous-page:
-  title:
-  link: "/impact-report/2025/empowering-job-creators"
+  title: Helping Callers
+  link: "/impact-report/2025/helping-callers"
 next-page:
   title: Empowering Job Creators
   link: "/impact-report/2025/empowering-job-creators"

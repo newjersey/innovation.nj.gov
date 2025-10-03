@@ -6,7 +6,7 @@ title-image:
   alt-text: Two call center agents fist bumping
 previous-page:
   title:
-  link: "/impact-report/2025/feeding-kids"
+  link: "/impact-report/2025/values"
 next-page:
   title:
   link: "/impact-report/2025/simplifying-taxes"

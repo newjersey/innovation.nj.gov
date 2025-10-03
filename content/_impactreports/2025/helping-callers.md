@@ -6,7 +6,7 @@ title-image:
   alt-text:
 previous-page:
   title:
-  link: "/impact-report/2025/simplifying-callers"
+  link: "/impact-report/2025/simplifying-taxes"
 next-page:
   title:
   link: "/impact-report/2025/supporting-local-communities"
