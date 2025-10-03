@@ -8,7 +8,7 @@ open-graph:
 menu-group: Introduction
 next-page:
   title: About the Office of Innovation and Our Work
-  link: "/impact-report/2025/about/"
+  link: "/impact-report/2025/team-and-core-initiatives/"
 order: 0
 pre-title-btn:
   text: Print Version

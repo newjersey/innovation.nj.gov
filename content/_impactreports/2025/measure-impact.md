@@ -5,7 +5,7 @@ menu-group: Introduction
 order: 2
 previous-page:
   title: About
-  link: "/impact-report/2025/about"
+  link: "/impact-report/2025/team-and-core-initiatives"
 next-page:
   title: Our Values
   link: "/impact-report/2025/values"
