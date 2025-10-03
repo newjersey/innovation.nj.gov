@@ -13,7 +13,7 @@ next-page:
 link-out:
   text: Summer EBT
   url: _projects/summerebt.md
-order: 6
+order: 4
 ---
 
 ## Partners
