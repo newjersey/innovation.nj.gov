@@ -17,15 +17,20 @@ order: 6
 ---
 
 ## Agency Partners
-Environmental Protection
+
+- Agriculture
+- Labor
+- Law & Public Safety
+- State (Business Action Center)
+- Treasury (Taxation)
 
 ## Snapshot
 
-Over 2,000 have accessed the interactive map we built to help communities see where high transit needs intersect with low transit access. This is crucial to making smart transportation investments, including eMobility options such as careshares, shuttles, microtransit, bikeshares, and more.
+With four being added over the past year, we’ve now upgraded 13 state agency call centers which have seen a 6 to 15 percent jump in callers who connect with an agent. Caller queues for many centers have dropped from over 30 minutes to about two minutes. We’re cutting costs roughly in half for many centers. We also started using AI to analyze call transcripts so that the caller menus reflect options people need. We launched a pilot of live chat to provide quicker and more convenient help.
 
 ## What They're Saying
 
-{% include blockquote.html quote="This tool came at the perfect time, as we’re studying transit expansion options and trying to predict demand. It’s fantastic to see someone at the State level providing the data we need to do our best possible work." citation="Joseph Hendershot, Principal Analyst, Middlesex County Department of Economic Development" %}
+{% include blockquote.html quote="By modernizing our call centers, we've significantly enhanced our ability to assist New Jersey workers. In unemployment insurance, we were able to connect 15% more callers to agents during peak times. We reduced caller abandonment in temporary disability and family leave insurance from 34% to under 2%. These efforts demonstrate our steadfast commitment to continuing to improve how we serve New Jersey workers in need." citation="Robert Asaro-Angelo, Commissioner of Labor, New Jersey" %}
 
 ## Telling the Story
 
