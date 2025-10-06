@@ -37,6 +37,7 @@ Working with the New Jersey State Office of Information Technology, the Office o
 * [GovTech: NJ Unveils AI Training, Tool for State Government Workers](https://www.govtech.com/artificial-intelligence/n-j-unveils-ai-training-tool-for-state-government-workers)  
 * [NJ BIZ: NJ Launches New AI Tool, Training for State Employees](https://njbiz.com/nj-launches-new-ai-tool-training-for-state-employees/)  
 * [Insider NJ: Governor Murphy Unveils AI Tool For State Employees and Training Course For Responsible Use](https://www.insidernj.com/press-release/governor-murphy-unveils-ai-tool-for-state-employees-and-training-course-for-responsible-use/)
+* [NJ AI Assistant](https://ai-assistant.nj.gov/) - accessible to New Jersey state employees only
 
 ### Key Partners
 
