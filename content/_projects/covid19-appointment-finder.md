@@ -26,7 +26,7 @@ OOI saw the opportunity to streamline a confusing and time-intensive process by 
 ### Resources and Additional Information
 
 * [NJ.com: N.J. launches new tool to help you find COVID vaccination appointments](https://www.nj.com/coronavirus/2021/01/nj-launches-new-tool-to-help-you-find-covid-vaccination-appointments.html)  
-* [StateScoop: To get digital services right, government needs to stay crisis-ready](https://statescoop.com/new-jersey-covid-digital-services-lessons/)
+* [StateScoop: To get digital services right, government needs to stay crisis-ready](https://statescoop.com/usdr-digital-services-crisis-ready/)
 
 ### Key Partners
 
