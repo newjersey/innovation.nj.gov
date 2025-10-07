@@ -3,7 +3,11 @@
     {% if item.sort-by %}
       {% assign sort-by = item.sort-by %}
     {% endif %}
-    {% assign menu-groups = site.[item.collection] | group_by: item.group-by %}
+    {% if item.category %}
+      {% assign menu-groups = site.[item.collection] | where_exp: "i", "i.menu[0].category == item.category" | group_by: item.group-by %}
+    {% else %}
+      {% assign menu-groups = site.[item.collection] | group_by: item.group-by %}
+    {% endif %}
   {% endif %}
 {% endfor %}
 
