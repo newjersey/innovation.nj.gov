@@ -7,7 +7,7 @@ menu-group-parent: true
 
 <div class="usa-alert usa-alert--info usa-alert--no-icon">
     <div class="usa-alert__body">
-        <p class="usa-alert__text">Discover simple step-by-step guides for New Jersey state workers that explain how to use generative AI (genAI) to support your work.</p>
+        <h2 class="usa-alert__text font-sans-md text-normal text-italic">Discover simple step-by-step guides for New Jersey state workers that explain how to use generative AI (genAI) to support your work.</h2>
     </div>
 </div>
 
