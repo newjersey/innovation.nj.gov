@@ -10,7 +10,7 @@ What is the most significant lesson in building with genAI? Building AI products
 
 **Disclaimer:** The products and services mentioned in this guide were available through our state IT contracts and are provided for illustrative purposes only. They do not constitute endorsements. Similar solutions may be available from other providers.
 
-## 1. Responsible AI Products in Government
+## 1. Align On Your Responsible AI Approach
 
 Before diving into the technical tips, it's critical to address the ethical responsibilities that come with using AI in government services.
 
@@ -128,7 +128,7 @@ There are different LLMs, and different ways to connect with an LLM through APIs
 - **Best for:** complex applications that require persistent memory across sessions, or for the LLM to access specialized tools such as web crawling or databases
 - **Current limitation**: System prompts, which apply across all sessions and modify LLM behavior, can be challenging to configure and result in unexpected responses, such as asking too many follow-up questions
 
-## 5. Choosing Your Tech Stack
+## 5. Decide Your Tech Stack
 
 Now that you have proven that AI can help you with your work, consider building a product that can replicate the task multiple times.
 
@@ -152,7 +152,7 @@ Your tech stack will, in part, depend on what LLM you are using.
 
 **Other AWS options** (App Runner, EC2+ECR) - Too much setup overhead for simple internal apps, or had other blocking issues.
 
-## 6. Processing Data
+## 6. Process Data Before Prompting
 
 **The main challenge**: You won't know if an LLM is reading your data or hallucinating without testing. When LLMs can't access file data, they won’t tell you; instead, they make up responses without mentioning the problem. Test by asking for specific information: "reproduce the contents of page 4. Ask the LLM to reference specific content from images to "prove" it can interpret image content.
 
@@ -238,7 +238,7 @@ Once you know what data isn’t being read by an LLM, you will need to preproces
 
 This approach combines the precision of text extraction with the versatility of LLM image processing, giving you the best of both worlds for complex document processing.
 
-## 7. File Upload Integrity
+## 7. Ensure File Upload Integrity
 
 **The main challenge**: Files uploaded through your system can become corrupted or unusably large if not properly configured at each layer of your architecture.
 
@@ -257,7 +257,7 @@ This approach combines the precision of text extraction with the versatility of 
 
 **Key insight**: Proper file handling requires configuration at every layer of your system. Missing configuration at any single layer can corrupt your data, even if everything else is set up correctly.
 
-## 8. Managing Timeouts
+## 8. Manage Timeouts
 
 All LLM-based products have timeout limits. Here's what we experienced and how we resolved common timeout challenges.
 
@@ -315,7 +315,7 @@ All LLM-based products have timeout limits. Here's what we experienced and how w
    - Step Functions
    - Other backend processing services
 
-## 9. Evaluating and Scaling Your Product
+## 9. Evaluate and Scale Your Product
 
 Once you get good results with one example, test with 5-10 more examples.
 
