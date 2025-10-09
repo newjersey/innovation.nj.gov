@@ -3,7 +3,7 @@ title: "COVERAGE: AI Sandboxes Let State Government Employees Experiment Safely"
 date: 2025-10-02
 source: STATE TECH
 image: /assets/images/statetechlogo.webp
-promoted: 1
+promoted: 2
 cta:
   text: Continue Reading
   link: https://statetechmagazine.com/article/2025/10/ai-sandboxes-let-state-government-employees-experiment-safely-perfcon
