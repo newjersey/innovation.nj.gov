@@ -58,121 +58,266 @@ This guide helps flip that dynamic by showing how thoughtful IVR design can:
 
 Drafted by Jennifer Mahlstedt, NJDOL
 
-## Language Selection 
+### Language Selection 
 
-### Menu Prompt
+**Path**: _Language Selection_ → _Main Menu_
 
-Thanks for calling New Jersey’s Temporary Disability and Family Leave Insurance Line.  
-
-- For English, press 1. 
-- Para español, presione 2.
+<figure style="margin:0;margin-block:1.33em">
+  <figcaption><strong>Menu Prompt</strong></figcaption>
+  <div class="usa-alert usa-alert--info usa-alert--no-icon">
+    <div class="usa-alert__body">
+      <blockquote style="margin:0;">
+        <p class="usa-alert__text text-italic">
+          Thanks for calling New Jersey’s Temporary Disability and Family Leave Insurance Line.
+        <ol>
+          <li class="text-italic">
+            For English, press 1.
+          </li>
+          <li class="text-italic">
+            Para español, presione 2.
+          </li>
+        </ol>
+        </p>
+      </blockquote>
+    </div>
+  </div>
+</figure>
 
 ### Main Menu 
 
-#### Path
+**Path**: _Language Selection_ → _Main Menu_
 
-Language Selection --> Main Menu 
-
-#### Menu Prompt
-
-- If you’re a worker applying for benefits, press 1. 
-- For employers and healthcare professionals, press 2.  
-- To hear these options again, press star. 
+<figure style="margin:0;margin-block:1.33em">
+  <figcaption><strong>Menu Prompt</strong></figcaption>
+  <div class="usa-alert usa-alert--info usa-alert--no-icon">
+    <div class="usa-alert__body">
+        <blockquote style="margin:0;">
+          <p class="usa-alert__text text-italic">
+          Thanks for calling New Jersey’s Temporary Disability and Family Leave Insurance Line.
+          <ol>
+            <li class="text-italic">
+              If you’re a worker applying for benefits, press 1.
+            </li>
+            <li class="text-italic">
+              For employers and healthcare professionals, press 2.
+            </li>
+            <li class="text-italic">
+              To hear these options again, press star.
+            </li>
+          </ol>
+        </p>
+      </blockquote>
+    </div>
+  </div>
+</figure>
 
 ### Persona Selection Menu 
 
-#### Path
+**Path**: _Language Selection_ → _Main Menu; Press 1_ → _Persona Selection Menu_
 
-Language Selection --> Main Menu- Press 2 --> Persona Selection Menu 
+<figure style="margin:0;margin-block:1.33em">
+  <figcaption><strong>Menu Prompt</strong></figcaption>
+  <div class="usa-alert usa-alert--info usa-alert--no-icon">
+    <div class="usa-alert__body">
+      <blockquote style="margin:0;">
+        <p class="usa-alert__text text-italic">
+          Choose the option that best describes your leave: 
+          <ol>
+            <li class="text-italic">
+              If you’re pregnant or recently delivered a baby, press 1.
+            </li>
+            <li class="text-italic">
+              All other new parents including fathers, partners, adoptive and foster, press 2
+            </li>
+            <li class="text-italic">
+              If you’re recovering from illness, injury or surgery, press 3.
+            </li>
+            <li class="text-italic">
+              If you’re caring for an ill or injured loved one, press 4.
+            </li>
+            <li class="text-italic">
+              If none of these scenarios fit your current situation, press 5.
+            </li>
+            <li class="text-italic">
+              To hear these options again, press star.
+            </li>
+          </ol>
+        </p>
+      </blockquote>
+    </div>
+  </div>
+</figure>
 
-### Menu Prompt
+### Employer/Provider Selection Menu 
 
-Choose the option that best describes your leave: 
+**Path**: _Language Selection → Main Menu; Press 2 → Employer Provider Menu_
 
-- If you’re pregnant or recently delivered a baby, press 1. 
-- All other new parents including fathers, partners, adoptive and foster, press 2 
-- If you’re recovering from illness, injury or surgery, press 3. 
-- If you’re caring for an ill or injured loved one, press 4. 
-- If none of these scenarios fit your current situation, press 5. 
-- To hear these options again, press star. 
-
-## Employer-Provider Selection Menu 
-
-### Path
-
-Language Selection --> Main Menu- Press 2 -->Employer Provider Menu 
-
-### Menu Prompt
-
-Please select from the following options: 
-
-- For employers, press 1.  
-- For healthcare professionals, press 2. 
-- To hear these options again, press star. 
+<figure style="margin:0;margin-block:1.33em">
+  <figcaption><strong>Menu Prompt</strong></figcaption>
+  <div class="usa-alert usa-alert--info usa-alert--no-icon">
+    <div class="usa-alert__body">
+      <blockquote style="margin:0;">
+        <p class="usa-alert__text text-italic">
+          Please select from the following options: 
+        <ol>
+          <li class="text-italic">
+            For employers, press 1.
+          </li>
+          <li class="text-italic">
+            For healthcare professionals, press 2.
+          </li>
+          <li class="text-italic">
+            To hear these options again, press star.
+          </li>
+        </ol>
+        </p>
+      </blockquote>
+    </div>
+  </div>
+</figure>
 
 ### Claimant Call Reason Menu 
 
-#### Path
+**Path**: _Language Selection → Main Menu; Press 1 → Worker Menu; Press 1 → Persona Selection Menu_
 
-Language Selection --> Main Menu- Press 1 --> Worker Menu- Press 1 --> Worker Call Reason Menu 
-
-### Menu Prompt
-
-Before we connect you to an agent, please choose the reason for your call.
-
-- To check your claim status, press 1. 
-  - While you wait for an agent, would you like to receive a text message with helpful links about claim status? If yes, press 1. Otherwise, stay on the line and you’ll be transferred to an agent. To hear this message again, press star.
-
-- For help with your application, press 2.  
-  - While you wait for an agent, would you like to receive a text message with additional help with your application? If yes, press 1. Otherwise, stay on the line and you’ll be transferred to an agent. To hear this message again, press star.
-
-- For login support, like resetting your password, press 3. 
-  - While you wait for an agent, would you like to receive a text message with a link to reset your password? If yes, press 1. Otherwise, stay on the line and you’ll be transferred to an agent. To hear this message again, press star.
-
-- To extend or end your claim, press 4. 
-- For payment or debit card issues, press 5. 
-- For all other questions, press 6. 
-- To hear these options again, press star.
+<figure style="margin:0;margin-block:1.33em">
+  <figcaption><strong>Menu Prompt</strong></figcaption>
+  <div class="usa-alert usa-alert--info usa-alert--no-icon">
+    <div class="usa-alert__body">
+      <blockquote style="margin:0;">
+        <p class="usa-alert__text text-italic">
+          Before we connect you to an agent, please choose the reason for your call.
+          <ol>
+            <li class="text-italic">
+            To check your claim status, press 1.
+              <ul>
+                <li>While you wait for an agent, would you like to receive a text message with helpful links about claim status? If yes, press 1. Otherwise, stay on the line and you’ll be transferred to an agent. To hear this message again, press star.</li>
+              </ul>
+            </li>
+            <li class="text-italic">
+              For help with your application, press 2.  
+              <ul>
+                <li>While you wait for an agent, would you like to receive a text message with additional help with your application? If yes, press 1. Otherwise, stay on the line and you’ll be transferred to an agent. To hear this message again, press star.</li>
+              </ul>
+            </li>
+            <li class="text-italic">
+              For login support, like resetting your password, press 3. 
+              <ul>
+                <li>While you wait for an agent, would you like to receive a text message with a link to reset your password? If yes, press 1. Otherwise, stay on the line and you’ll be transferred to an agent. To hear this message again, press star.</li>
+              </ul>
+            </li>
+            <li class="text-italic">
+              To extend or end your claim, press 4.
+            </li>
+            <li class="text-italic">
+              For payment or debit card issues, press 5.
+            </li>
+            <li class="text-italic">
+              For all other questions, press 6.
+            </li>
+            <li class="text-italic">
+              To hear these options again, press star.
+            </li>
+          </ol>
+        </p>
+      </blockquote>
+    </div>
+  </div>
+</figure>
 
 ### SMS Message Text
 
-- Claim Status – NJ Dept of Labor: Click the link below to check the status of your claim and what to expect based on your status. [https://www.nj.gov/labor/myleavebenefits/worker/resources/claims-status.shtml#checkStatus](https://www.nj.gov/labor/myleavebenefits/worker/resources/claims-status.shtml#checkStatus)
-- Help with Application – NJ Dept of Labor: Click the link below for a step-by-step walkthrough of the online applications and helpful tips along the way. [https://www.nj.gov/labor/myleavebenefits/worker/resources/applicationvideos.shtml](https://www.nj.gov/labor/myleavebenefits/worker/resources/applicationvideos.shtml)
-- Login Support – NJ Dept of Labor: Click the link below to reset your online password. [https://secure.dol.state.nj.us/sso/XUI/?realm=tdi#passwordReset/](https://secure.dol.state.nj.us/sso/XUI/?realm=tdi#passwordReset/)
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+  <div class="usa-alert__body">
+    <blockquote style="margin:0;">
+      <p class="usa-alert__text text-italic">
+        <ul>
+          <li class="text-italic">
+            Claim Status – NJ Dept of Labor: Click the link below to check the status of your claim and what to expect based on your status. <a href="https://www.nj.gov/labor/myleavebenefits/worker/resources/claims-status.shtml#checkStatus">https://www.nj.gov/labor/myleavebenefits/worker/resources/claims-status.shtml#checkStatus</a>
+          </li>
+          <li class="text-italic">
+            Help with Application – NJ Dept of Labor: Click the link below for a step-by-step walkthrough of the online applications and helpful tips along the way. <a href="https://www.nj.gov/labor/myleavebenefits/worker/resources/applicationvideos.shtml">https://www.nj.gov/labor/myleavebenefits/worker/resources/applicationvideos.shtml</a>
+          </li>
+          <li class="text-italic">
+            Login Support – NJ Dept of Labor: Click the link below to reset your online password. <a href="https://secure.dol.state.nj.us/sso/XUI/?realm=tdi#passwordReset/">https://secure.dol.state.nj.us/sso/XUI/?realm=tdi#passwordReset</a>
+          </li>
+        </ul>
+      </p>
+    </blockquote>
+  </div>
+</div>
 
 ### Employer Call Reason Menu 
 
-#### Path
+**Path**: _Language Selection → Main Menu; Press 1 → Employer/Provider Menu; Press 1 → Employer Call Reason Menu_
 
-Language Selection --> Main Menu- Press 1 --> Employer/Provider Menu- Press 1 --> Employer Call Reason Menu 
-
-### Menu Prompt
-
-For employers, select from the following options: 
-
-- To report fraud or benefits incorrectly paid to your employee, press 1.
-- For questions about a form you received, press 2. 
-- For questions about a private insurance plan, press 3. 
-  - *[Secondary Response] The best way to contact our Private Plan unit is to send an email to ppins@dol.nj.gov. We’ll provide an email response as soon as possible. * 
-- For all other questions, press 4. 
-- To hear these options again, press star. 
+<figure style="margin:0;margin-block:1.33em">
+  <figcaption><strong>Menu Prompt</strong></figcaption>
+  <div class="usa-alert usa-alert--info usa-alert--no-icon">
+    <div class="usa-alert__body">
+      <blockquote style="margin:0;">
+        <p class="usa-alert__text text-italic">
+          For employers, select from the following options
+        <ol>
+          <li class="text-italic">
+            To report fraud or benefits incorrectly paid to your employee, press 1.
+          </li>
+          <li class="text-italic">
+            For questions about a form you received, press 2. 
+          </li>
+          <li class="text-italic">
+            For questions about a private insurance plan, press 3. 
+            <ul>
+              <li>The best way to contact our Private Plan unit is to send an email to ppins@dol.nj.gov. We’ll provide an email response as soon as possible.</li>
+            </ul>
+          </li>
+          <li class="text-italic">
+            For all other questions, press 4. 
+          </li>
+          <li class="text-italic">
+            To hear these options again, press star.
+          </li>
+        </ol>
+        </p>
+      </blockquote>
+    </div>
+  </div>
+</figure>
 
 ### Healthcare Professional Call Reason Menu 
 
-#### Path
+**Path** _Language Selection → Main Menu; Press 1 → Employer/Provider Menu; Press 2 → Healthcare Professional Call Reason Menu_
 
-Language Selection --> Main Menu- Press 1 --> Employer/Provider Menu- Press 2 --> Healthcare Professional Call Reason Menu 
-
-### Menu Prompt
-
- For Healthcare Professionals, select from the following options:  
-
-- For our mailing address and fax number, press 1. 
-  - _Correspondence can be faxed to 609-984-4138, or mailed to the Division of Temporary Disability and Family Leave Insurance PO Box 387 Trenton, New Jersey 08625-0387._
-  - _To hear this message again, press star._
-  - _To return to the previous menu, press 1._
-- For help completing a medical certification, press 2. 
-- For all other questions or issues, press 3. 
-- To hear these options again, press star. 
+<figure style="margin:0;margin-block:1.33em">
+  <figcaption><strong>Menu Prompt</strong></figcaption>
+  <div class="usa-alert usa-alert--info usa-alert--no-icon">
+    <div class="usa-alert__body">
+      <blockquote style="margin:0;">
+        <p class="usa-alert__text text-italic">
+           For Healthcare Professionals, select from the following options.
+          <ol>
+            <li class="text-italic">
+              For our mailing address and fax number, press 1. 
+              <ul>
+                <li>Correspondence can be faxed to 609-984-4138, or mailed to the Division of Temporary Disability and Family Leave Insurance PO Box 387 Trenton, New Jersey 08625-0387.</li>
+                <li>To hear this message again, press star.</li>
+                <li>To return to the previous menu, press 1.</li>
+              </ul>
+            </li>
+            <li class="text-italic">
+              For help completing a medical certification, press 2.
+            </li>
+            <li class="text-italic">
+              For all other questions or issues, press 3.
+            </li>
+            <li class="text-italic">
+              To hear these options again, press star.
+            </li>
+          </ol>
+        </p>
+      </blockquote>
+    </div>
+  </div>
+</figure>
 
 _For questions on this guide, contact [joe@innovation.nj.gov](mailto:joe@innovation.nj.gov)._
