@@ -19,7 +19,7 @@ New Jersey state employees can use our custom and secure [AI Assistant](https://
 
 This guide contains tips to help technical public sector professionals navigate tough decisions, hurdles, and other challenges as they build genAI tools. These tips - which will evolve over time - are derived from lessons learned from real projects and challenges experienced by the New Jersey State Office of Innovation. Overall, this guide aims to help design better and more impactful AI tools that ultimately help government deliver better.
 
-<a class="usa-button" href="/skills/ai-how-tos/public-sector-tips" target="_blank">9 Tips for Building GenAI Tools for Public Sector Professionals</a>
+<a class="usa-button" href="/skills/ai-how-tos/public-sector-tips">9 Tips for Building GenAI Tools for Public Sector Professionals</a>
 
 ## Improving Call Center Menus with GenAI
 
@@ -29,10 +29,10 @@ This guide is designed to empower non-technical leaders with actionable, accessi
 
 Learn about best practices for creating contact center menus, sharing key insights from a team that has modernized more than a dozen government contact centers.
 
-<a class="usa-button" href="/skills/ai-how-tos/ivr-best-practices" target="_blank">Human-Centered IVR Best Practices</a>
+<a class="usa-button" href="/skills/ai-how-tos/ivr-best-practices">Human-Centered IVR Best Practices</a>
 
 ### GenAI Prompt Toolkit for Call Center Menus
 
 Find prompts you can use with NJ AI Assistant or other AI tools to help you start drafting menus.
 
-<a class="usa-button" href="/skills/ai-how-tos/ivr-gen-ai-prompts" target="_blank">GenAI Prompt Toolkit for Call Center Menus</a>
+<a class="usa-button" href="/skills/ai-how-tos/ivr-gen-ai-prompts">GenAI Prompt Toolkit for Call Center Menus</a>
