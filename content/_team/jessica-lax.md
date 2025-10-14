@@ -1,6 +1,6 @@
 ---
 title: Jessica Lax
-image: /assets/images/team/jessicalax.jpeg
+image: /assets/images/team/jessicalax.webp
 ---
 
 Jessica Lax is the Office of Innovation’s first senior advisor for responsible AI.  In this role, Jess leads the design, development, and implementation of projects focused on the scaleable, responsible, and strategic use of generative AI in New Jersey state government to enhance the experience of residents and businesses and achieve cost-savings and efficiency gains for state government.  
