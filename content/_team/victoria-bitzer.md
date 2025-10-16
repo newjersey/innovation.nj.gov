@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/
+image: /assets/images/team/victoria-bitzer-headshot.webp
 title: Victoria Bitzer
 ---
 Victoria Bitzer is a bilingual content design lead at the Office of Innovation, collaborating closely with product and design teams to create engaging and user-friendly experiences across digital products.
