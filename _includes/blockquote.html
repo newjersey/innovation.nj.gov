@@ -3,14 +3,29 @@
       {% if include.citation %}
     <figure>
       {% endif %}
-      <blockquote style="margin:0;">
-        <p class="usa-alert__text">
-        "{{include.quote}}"
-        </p>
-      </blockquote>
-      {% if include.citation %}
-      <figcaption style="margin-top:1em;"><strong>{{include.citation}}</strong></figcaption>
+      <div class="display-flex flex-justify">
+        <div class="display-flex flex-justify flex-column">
+          <blockquote class="margin-0">
+            <p class="usa-alert__text">
+            "{{include.quote}}"
+            </p>
+          </blockquote>
+          {% if include.citation %}
+          <figcaption class="margin-top-2">
+            <strong>{{include.citation}}</strong>
+          </figcaption>
+          {% endif %}
+        </div>
+        {% if include.imgSrc %}
+        <img
+          src="{{include.imgSrc}}"
+          alt="{{inlcude.imgAlt}}"
+          class="margin-left-4"
+        />
+        {% endif %}
+      </div>
+    {% if include.citation %}
     </figure>
-      {% endif %}
+    {% endif %}
   </div>
 </div>
