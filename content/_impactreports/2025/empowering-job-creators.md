@@ -2,8 +2,8 @@
 title: We helped 65,000 businesses launch through Business.NJ.gov.
 menu-title: Empowering Job Creators
 title-image:
-  image: /assets/images/impact-report/2024/header/callcenters.webp
-  alt-text:
+  image: /assets/images/2025-impact-stock-business-meeting.webp
+  alt-text: "Group of people in discussion around a conference table. A whiteboard with notes in the background."
 previous-page:
   title: Supporting Local Communitites
   link: "/impact-report/2025/supporting-local-communities"
@@ -16,18 +16,9 @@ link-out:
 order: 8
 ---
 
-## Agency Partners
-
-- State Business Action Center
-- Economic Development Authority
-- Treasury
-- Labor
-
-And many others!
-
 ## Snapshot
 
-We evaluated the impact of Business.NJ.gov at 5 years, finding that those who used the site started businesses nearly a month sooner than those who didn’t. That translated to about $168 million more in payroll earnings in 2024. As of September, 65,000 businesses (and 200,000 accounts) have formed through Business.NJ.gov, which now features over 60 starter kits and plain-language instructions for over 300 permits and licenses.
+Total users rose 10% in 2025, with usage of the site from underserved communities up 23%. Also, we evaluated the impact of Business.NJ.gov at 5 years, finding that those who used the site started businesses nearly a month sooner than those who didn’t. That translated to about $168 million more in payroll earnings in 2024. As of September, 65,000 businesses (and 204,000 accounts) have formed through Business.NJ.gov, which now features over 60 starter kits and plain-language instructions for over 300 permits and licenses. About 15% of New Jersey businesses now form through this platform.
 
 ## What They’re Saying
 
@@ -44,3 +35,12 @@ We evaluated the impact of Business.NJ.gov at 5 years, finding that those who us
 ## Telling the story
 
 **In the News:** NJBiz: [NJ business portal saves time for new entrepreneurs](https://njbiz.com/nj-business-portal-saves-time/)
+
+## Agency Partners
+
+- State Business Action Center
+- Economic Development Authority
+- Treasury
+- Labor
+
+And many others!
