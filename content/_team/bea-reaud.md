@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/
+image: /assets/images/team/bea-reaud-headshot.webp
 title: Bea Reaud
 ---
 Dr. Beatrice Reaud joins the Office of Innovation as Finance Director, where she oversees the office's financial operations, supports the team, manages relationships with institutional funders, and advises the chief of staff on organizational governance.  She brings over twenty years of experience at federal, state, and local levels, working in academia and with the non-profit community, starting her career as a grant writer for eleven childcare centers in public housing communities in Boston.
