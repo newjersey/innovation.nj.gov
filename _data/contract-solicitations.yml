@@ -17,14 +17,13 @@
   url: "/assets/documents/ResX RFP 05-23-25.zip"
   open: false
   updates:
-    - title: Agile Development Services QBL RFP - Attachment D - Amend 001 - Answers
-      url: "/assets/documents/ads-qbl-rfp-attachment-d-amend-001-answers-06-09-25.xlsx"
-
-    - title: Agile Development Services QBL RFP - Attachment C - Amend 001 - Price Workbook
-      url: "/assets/documents/ads-qbl-rfp-attachment-c-amend-001-price-workbook-06-09-25.xlsx"
-
-    - title: Agile Development Services QBL RFP - Attachment A - Amend 002 - OOI Standardized Terms and Conditions
-      url: "/assets/documents/ads-qbl-rfp-attachment-a-amend-002-ooi-standardized-toc-06-10-25.pdf"
-
+    - title: ResX QBL Announcement
+      url: "/assets/documents/resx-qbl-announcement-10-16-25.pdf"
     - title: Agile Development Services QBL RFP - Attachment F - Amend 003 - Matchmaking
       url: "/assets/documents/ads-qbl-rfp-attachment-f-amend-003-matchmaking-06-10-25.pdf"
+    - title: Agile Development Services QBL RFP - Attachment A - Amend 002 - OOI Standardized Terms and Conditions
+      url: "/assets/documents/ads-qbl-rfp-attachment-a-amend-002-ooi-standardized-toc-06-10-25.pdf"
+    - title: Agile Development Services QBL RFP - Attachment D - Amend 001 - Answers
+      url: "/assets/documents/ads-qbl-rfp-attachment-d-amend-001-answers-06-09-25.xlsx"
+    - title: Agile Development Services QBL RFP - Attachment C - Amend 001 - Price Workbook
+      url: "/assets/documents/ads-qbl-rfp-attachment-c-amend-001-price-workbook-06-09-25.xlsx"
