@@ -1,6 +1,6 @@
 ---
 title: Annaleah Morse
-image: /assets/images/team/
+image: /assets/images/team/annaleah-morse-headshot.webp
 ---
 
 Annaleah Morse is a content design lead for the Business Experience initiative in the Office of Innovation. She works with stakeholders and cross-functional teams to create clear, accessible, and actionable information for New Jersey business owners.
