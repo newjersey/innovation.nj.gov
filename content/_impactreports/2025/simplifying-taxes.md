@@ -1,9 +1,9 @@
 ---
-title: We helped 8,600 New Jerseyans file taxes easily and for free.
+title: We New Jerseyans save on fees and receive millions in refunds while filing taxes.
 menu-title: "Simplifying Taxes"
 title-image:
-  image: /assets/images/impact-report/2024/header/callcenters.webp
-  alt-text:
+  image: /assets/images/2025-impact-stock-man-laptop-landscape.webp
+  alt-text: Man working on laptop in wooded setting.
 previous-page:
   title:
   link: "/impact-report/2025/feeding-kids"
@@ -16,14 +16,9 @@ link-out:
 order: 5
 ---
 
-## Agency Partners
-
-- Treasury
-- Code for America
-
 ## Snapshot
 
-We designed a seamless, secure, and quick tool for 8,600 New Jerseyans to file their federal and state tax returns, saving them $1.4 million in estimated fees and disbursing $3.8 million in refunds. The state filing process only took about 10 minutes because the tool broke down New Jersey’s tax code to a few simple questions, it helped people automatically claim popular tax credits, and it enabled filers to immediately port their household and income information to their state return.
+We designed a seamless, secure, and quick tool for thousands of New Jerseyans to file their federal and state tax returns for free, saving them $1.4 million in estimated fees and disbursing $3.8 million in refunds. The state filing process only took about 10 minutes because the tool broke down New Jersey’s tax code to a few simple questions. It also helped people automatically claim popular tax credits, and it enabled filers to immediately port their household and income information to their state return.
 
 ## What They're Saying
 
@@ -41,4 +36,11 @@ We designed a seamless, secure, and quick tool for 8,600 New Jerseyans to file t
 
 ## Telling the Story
 
-- **In the News:** NJ.com: [How N.J. is using AI to ensure thousands of kids don’t go hungry this summer](https://www.nj.com/mosaic/2025/07/how-nj-is-using-ai-to-ensure-thousands-of-kids-dont-go-hungry-this-summer.html)
+- **In the News:** [Federal News Network: IRS Direct File sees higher scores among users](https://federalnewsnetwork.com/it-modernization/2025/05/irs-direct-file-sees-higher-scores-among-users-despite-a-push-to-shutter-it/)
+- **In the News:** [NJ.com: 400K N.J. retirees can now use this free tax return service](https://www.nj.com/news/2025/03/400k-nj-retirees-can-now-use-this-free-tax-return-service.html)
+- **Office of Innovation Blog:** [Taxpayers Save Time, Money in First Year of Direct File in New Jersey](https://innovation.nj.gov/blog/2025-05-08-directfile-recap/)
+
+## Agency Partners
+
+- Treasury
+- Code for America
