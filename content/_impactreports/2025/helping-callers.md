@@ -22,7 +22,7 @@ With four being added over the past year, we’ve now upgraded 13 state agency c
 
 ## What They're Saying
 
-{% include blockquote.html quote="By modernizing our call centers, we've significantly enhanced our ability to assist New Jersey workers. In unemployment insurance, we were able to connect 15% more callers to agents during peak times. We reduced caller abandonment in temporary disability and family leave insurance from 34% to under 2%. These efforts demonstrate our steadfast commitment to continuing to improve how we serve New Jersey workers in need." citation="Robert Asaro-Angelo, Commissioner of Labor, New Jersey" imgSrc="/assets/images/2025-impact-robert-asaro-angelo.webp" %}
+{% include blockquote.html quote="By modernizing our call centers, we've significantly enhanced our ability to assist New Jersey workers. In unemployment insurance, we were able to connect 15% more callers to agents during peak times. We reduced caller abandonment in temporary disability and family leave insurance from 34% to under 2%. These efforts demonstrate our steadfast commitment to continuing to improve how we serve New Jersey workers in need." citation="Robert Asaro-Angelo, Commissioner of Labor, New Jersey" imgSrc="/assets/images/2025-impact-robert-asaro-angelo.webp" imgAlt="Robert Asaro-Angelo" %}
 
 ## Telling the Story
 
