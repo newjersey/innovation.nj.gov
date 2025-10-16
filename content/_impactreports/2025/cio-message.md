@@ -15,23 +15,24 @@ pre-title-btn:
   url: /impact-report/2025/print
 ---
 
-Over the past year, the New Jersey Office of Innovation has partnered across government to deliver benefits to people when they need it most. We’re using the right technologies in the right ways at the right moments to help New Jerseyans get what they need.
+Over the past year, the New Jersey Office of Innovation has partnered across government to make a real difference in people's lives. We're focused on using technology thoughtfully and strategically to help New Jerseyans get the support they need, exactly when they need it.
 
-That includes the family that needs a little more help to buy healthy groceries for their kids over the summer… the entrepreneur who has a great business idea but dreads having to comb through legal language and red tape… the community member who sees a need for more transit options but doesn’t have access to data… the caller who needs to talk to someone at an agency as quickly as possible… and more that you can see in this year’s report.
-Making government work better for everyone is a commitment shared by the Office of Innovation and its agency partners. New Jersey has made smart, cost-effective investments in a talented innovation team that is laser focused on how we can all work together to truly improve people’s lives.
+That includes families getting help to buy healthy groceries for their kids over the summer through improved Summer EBT access, entrepreneurs navigating business permits and licenses without getting tied up in red tape, community members accessing transit data to advocate for better local services, callers reaching the right person at state agencies faster than ever, and more stories profiled in this report.
 
-That’s why we have taken on major challenges over the years - from overhauling our unemployment insurance application system to piloting our State’s first-ever free income-tax filing tool.
+The progress shown in this and last year's report is made possible by sustained investment in building capacity. Governor Murphy and the New Jersey Legislature have committed to growing a talented innovation team that stays laser-focused on actually improving people's lives. We share this commitment with our agency partners, and it drives everything we do.
 
-It’s great to see the hard work of our team being recognized beyond the state. New Jersey was recognized as the top state (alongside just two others) for AI readiness from Code for America, one of the country’s most respected nonprofits in civic technology. That’s because we have helped create some of the leading AI policies and tools for government and our 9.5 million residents. We will continue to lead and serve as a national model for harnessing responsible AI for good in the months and years ahead.
+It's why we've tackled major challenges over the years — from responding to the COVID-19 pandemic and overhauling the unemployment insurance application to piloting the state's first free income-tax filing tool through Direct File.
 
-We are indeed poised to do even more groundbreaking work, but - as always - we believe in building alongside our partners and the public to make government deliver better for everyone. As you look through this year’s report, maybe you have an idea for what that looks like - drop us a line at [team@innovation.nj.gov](mailto:team@innovation.nj.gov). We look forward to hearing from you.
+New Jersey is leading the nation in service delivery, and our work is getting noticed beyond our borders. For example, nonprofit leader Code for America recently named New Jersey as one of the top states for AI readiness — recognition that reflects our commitment to leading AI policy and deploying responsible AI tools that serve all 9.5 million New Jerseyans. Over 15,000 state workers now use the NJ AI Assistant (a Generative AI tool) we developed, at a fraction of the cost of commercial alternatives. Similarly, our data-driven campaigns to raise awareness of public programs have received recognition ranging from the Drum Awards for Marketing to the Public Relations Society of America’s New Jersey chapter.
 
-<br>
+We appreciate the recognition as a national model, and we strive to share our work broadly, including by releasing tools (like the NJ AI Assistant) as open-source projects and writing freely-available playbooks, like how to run performance-driven marketing campaigns in the public sector.
+
+As we look ahead, we’re focused on even more impactful work. But as always, we believe the best solutions come from building alongside our partners and the public. As you explore this year's report, maybe something sparks an idea for how we can do better together. If so, drop us a line at team@innovation.nj.gov. We genuinely want to hear from you.
+
 Yours in service,
 
 _Dave_
 
-<br>
-Dave Cole<br>
-Chief Innovation Officer<br>
+Dave Cole\
+Chief Innovation Officer\
 State of New Jersey
