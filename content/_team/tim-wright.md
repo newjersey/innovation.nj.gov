@@ -1,5 +1,5 @@
 ---
-image: /assets/images/team/
+image: /assets/images/team/tim-wright-headshot.webp
 title: Tim Wright
 ---
 Tim Wright is an engineering director at the Office of Innovation, where he leads efforts to deliver modern, accessible, and equitable digital services for residents of New Jersey. He is passionate about using technology to make people’s lives easier and believes that thoughtful design, resilient systems, and empathy in leadership are essential to meaningful public service.
