@@ -4,7 +4,7 @@ title: "RELEASE: New Web Portal Streamlines Warranty Process for Home Builders
 date: 2025-10-09
 source: NJGOV
 image: /assets/images/nj-seal.svg
-promoted: 3
+promoted: 0
 cta:
   text: Continue Reading
   link: https://nj.gov/dca/news/news/2025/approved/20251008.shtml
