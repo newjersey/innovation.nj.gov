@@ -3,7 +3,7 @@ title: "COVERAGE: How States Are Making Their Own Rules for AI"
 date: 2025-10-10
 source: AXIOS
 image: /assets/images/axios_logo_rectangle_1_.png
-promoted: 1
+promoted: 2
 cta:
   text: Continue Reading
   link: https://www.axios.com/2025/10/10/states-making-rules-ai
