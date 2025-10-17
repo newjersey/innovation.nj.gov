@@ -14,6 +14,9 @@ link-out:
   text: Job Protect Checker
   url: _projects/job-protect-checker.md
 order: 9
+pre-title-btn:
+  text: View PDF
+  url: /assets/documents/2025-impact-report.pdf
 ---
 
 ## Snapshot

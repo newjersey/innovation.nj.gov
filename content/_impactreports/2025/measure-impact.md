@@ -9,6 +9,9 @@ previous-page:
 next-page:
   title: Our Values
   link: "/impact-report/2025/values"
+pre-title-btn:
+  text: View PDF
+  url: /assets/documents/2025-impact-report.pdf
 ---
 
 The Office of Innovation’s work is guided by a central goal: to meaningfully impact how State government delivers services to improve the lives of New Jerseyans. As we evaluate the outcomes of our work, we look to an array of impact metrics and data - both qualitative and quantitative - to guide our organizational growth, evolution, and decision-making. These include:

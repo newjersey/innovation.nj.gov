@@ -14,6 +14,9 @@ link-out:
   text: Direct File
   url: _projects/direct-file.md
 order: 5
+pre-title-btn:
+  text: View PDF
+  url: /assets/documents/2025-impact-report.pdf
 ---
 
 ## Snapshot

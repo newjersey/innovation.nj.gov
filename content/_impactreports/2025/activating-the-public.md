@@ -11,6 +11,9 @@ link-out:
   text: C+E Lab
   url: _projects/communication-engagement-lab.md
 order: 11
+pre-title-btn:
+  text: View PDF
+  url: /assets/documents/2025-impact-report.pdf
 ---
 
 ## Snapshot

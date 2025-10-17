@@ -13,6 +13,9 @@ previous-page:
 next-page:
   title: How We Measure Impact
   link: "/impact-report/2025/measure-impact/"
+pre-title-btn:
+  text: View PDF
+  url: /assets/documents/2025-impact-report.pdf
 ---
 
 **Our mission** is to improve the lives of New Jerseyans by solving public problems differently. In partnership with State departments and agencies, we help deliver better government products and services, ensuring they are as effective, efficient, and responsive as possible.

@@ -11,6 +11,9 @@ link-out:
   text: NJ AI Assistant
   url: _projects/ai-assistant.md
 order: 10
+pre-title-btn:
+  text: View PDF
+  url: /assets/documents/2025-impact-report.pdf
 ---
 
 ## Snapshot

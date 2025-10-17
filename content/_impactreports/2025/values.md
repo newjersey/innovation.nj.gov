@@ -8,6 +8,9 @@ previous-page:
 next-page:
   title: Reduced the time it takes to apply for Unemployment Insurance from nearly 4 hours to less than 25 minutes
   link: "/impact-report/2025/feeding-kids/"
+pre-title-btn:
+  text: View PDF
+  url: /assets/documents/2025-impact-report.pdf
 ---
 
 - **Problems that matter to real people.** We focus on concrete problems that affect New Jerseyans with a focus on individuals who have historically not had access to services.

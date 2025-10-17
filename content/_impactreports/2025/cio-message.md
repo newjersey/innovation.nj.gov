@@ -11,8 +11,8 @@ next-page:
   link: "/impact-report/2025/team-and-core-initiatives/"
 order: 0
 pre-title-btn:
-  text: Print Version
-  url: /impact-report/2025/print
+  text: View PDF
+  url: /assets/documents/2025-impact-report.pdf
 ---
 
 Over the past year, the New Jersey Office of Innovation has partnered across government to make a real difference in people's lives. We're focused on using technology thoughtfully and strategically to help New Jerseyans get the support they need, exactly when they need it.

@@ -11,8 +11,8 @@ next-page:
   link: "/impact-report/2024/about/"
 order: 0
 pre-title-btn:
-  text: Print Version
-  url: /impact-report/2024/print
+  text: View PDF
+  url: /assets/documents/2024-impact-report.pdf
 ---
 
 Since Governor Murphy established the New Jersey Office of Innovation by appointing the state’s first Chief Innovation Officer six years ago, our team has had the privilege of serving New Jerseyans and working alongside thousands of dedicated, talented public service professionals across all levels of government. Government at its simplest is people serving people.

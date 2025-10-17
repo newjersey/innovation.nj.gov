@@ -14,6 +14,9 @@ link-out:
   text: Business.NJ.Gov
   url: _projects/business-nj-gov.md
 order: 8
+pre-title-btn:
+  text: View PDF
+  url: /assets/documents/2025-impact-report.pdf
 ---
 
 ## Snapshot

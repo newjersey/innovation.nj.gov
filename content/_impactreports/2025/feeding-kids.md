@@ -14,6 +14,9 @@ link-out:
   text: Summer EBT
   url: _projects/summerebt.md
 order: 4
+pre-title-btn:
+  text: View PDF
+  url: /assets/documents/2025-impact-report.pdf
 ---
 
 ## Snapshot
