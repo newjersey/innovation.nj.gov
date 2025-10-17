@@ -1,0 +1,31 @@
+<div class="usa-alert usa-alert--info usa-alert--no-icon">
+  <div class="usa-alert__body">
+      {% if include.citation %}
+    <figure>
+      {% endif %}
+      <div class="display-flex flex-justify">
+        <div class="display-flex flex-justify-center flex-column">
+          <blockquote class="margin-0">
+            <p class="usa-alert__text">
+            "{{include.quote}}"
+            </p>
+          </blockquote>
+          {% if include.citation %}
+          <figcaption class="margin-top-3">
+            <strong>{{include.citation}}</strong>
+          </figcaption>
+          {% endif %}
+        </div>
+        {% if include.imgSrc %}
+        <img
+          src="{{include.imgSrc}}"
+          alt="{{inlcude.imgAlt}}"
+          class="margin-left-4 maxh-card-lg maxw-card"
+        />
+        {% endif %}
+      </div>
+    {% if include.citation %}
+    </figure>
+    {% endif %}
+  </div>
+</div>

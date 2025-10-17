@@ -4,13 +4,10 @@
   {% else %}
     {% assign altText = page.figure.alt-text %}
   {% endif %}
-
   {% if page.figure.title %}
 <h2>{{ page.figure.title }}</h2>
   {% else %}
-<br/>
   {% endif %}
-
 <figure class="figure">
   <div class="position-relative">
     <img src="{{page.figure.url}}" alt="{{altText}}" />
@@ -60,7 +57,6 @@
       </div>
     </div>
   </div>
-
   <figcaption class="font-mono-xs text-italic padding-top-1">
     {{page.figure.caption}}
   </figcaption>

@@ -91,14 +91,12 @@ collections:
     permalink: /cel/playbook/:title/
     output: true
     sort_by: name
-  impactreport2024:
-    permalink: /impact-report/2024/:title/
-    directory: _impactreport2024/2024/
+  impactreports:
+    permalink: /impact-report/:path/
     output: true
     sort_by: order
   comms-engagement-portfolio:
     permalink: /cel/portfolio/:title/
-    directory: _comms-engagement-portfolio
     output: true
     sort_by: order
   skills:
@@ -186,19 +184,37 @@ defaults:
           collection: playbooks
           group-by: menu-group
   - scope:
-      path: ""
-      type: "impactreport2024"
+      path: "_impactreports/2024"
     values:
       layout: playbook
       hero:
         image: /assets/images/impact-report/2024/hero.webp
         title: "Impact Report 2024"
-        alt-text: Collage of images displayed throughout the report depicting various people performing many tasks
+        alt-text: Collage of images displayed throughout the report depicting New Jerseyans in their daily lives.
       menu-group: Project Highlights
       menu:
         - title: Introduction
           url: /impact-report/2024/
-          collection: impactreport2024
+          collection: impactreports
+          category: 2024
+          group-by: menu-group
+          sort-by: order
+      open-graph:
+        image: assets/images/impact-report/2024/impact-report-thumbnail.webp
+  - scope:
+      path: "_impactreports/2025"
+    values:
+      layout: playbook
+      hero:
+        image: /assets/images/2025-impact-hero.webp
+        title: "Impact Report 2025"
+        alt-text: Collage of images displayed throughout the report depicting New Jerseyans in their daily lives.
+      menu-group: Project Highlights
+      menu:
+        - title: Introduction
+          url: /impact-report/2025/
+          collection: impactreports
+          category: 2025
           group-by: menu-group
           sort-by: order
       open-graph:
