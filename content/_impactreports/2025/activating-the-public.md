@@ -26,7 +26,7 @@ Through compelling, user-tested campaign messages, we motivated New Jerseyans to
 
 ## What They’re Saying
 
-{% include blockquote.html quote="With the C+E Lab, we continue to move work forward we otherwise couldn’t have. The team works to understand our programs, challenges assumptions, solves problems alongside us, and ultimately helps us motivate residents to discover tools and apply for aid to get their degrees." citation="Stefani Thachik, Senior Advisor, Office of the Secretary for Higher Education" %}
+{% include blockquote.html quote="With the C+E Lab, we continue to move work forward we otherwise couldn’t have. The team works to understand our programs, challenges assumptions, solves problems alongside us, and ultimately helps us motivate residents to discover tools and apply for aid to get their degrees." citation="Stefani Thachik, Senior Advisor, Office of the Secretary for Higher Education" imgSrc="/assets/images/2025-impact-stefani-thachik.webp" imgAlt="Stefani Thachik" %}
 
 ## Telling the story
 

@@ -25,7 +25,7 @@ Over 2,000 have accessed the interactive map we built to help communities see wh
 
 ## What They’re Saying
 
-{% include blockquote.html quote="This tool came at the perfect time, as we’re studying transit expansion options and trying to predict demand. It’s fantastic to see someone at the State level providing the data we need to do our best possible work." citation="Joseph Hendershot, Principal Analyst, Middlesex County Department of Economic Development" %}
+{% include blockquote.html quote="This tool came at the perfect time, as we’re studying transit expansion options and trying to predict demand. It’s fantastic to see someone at the State level providing the data we need to do our best possible work." citation="Joseph Hendershot, Principal Analyst, Middlesex County Department of Economic Development" imgSrc="/assets/images/2025-impact-joseph-hendershot.webp" imgAlt="Joseph Hendershot" %}
 
 ## Telling the story
 
