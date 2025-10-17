@@ -208,7 +208,7 @@ defaults:
     values:
       layout: playbook
       hero:
-        image: /assets/images/impact-report/2024/hero.webp
+        image: /assets/images/2025-impact-hero.webp
         title: "Impact Report 2025"
         alt-text: Collage of images displayed throughout the report depicting New Jerseyans in their daily lives.
       menu-group: Project Highlights
