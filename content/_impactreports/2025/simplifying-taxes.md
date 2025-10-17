@@ -1,5 +1,5 @@
 ---
-title: We New Jerseyans save on fees and receive millions in refunds while filing taxes.
+title: We helped New Jerseyans save on fees and receive millions in refunds while filing taxes.
 menu-title: "Simplifying Taxes"
 title-image:
   image: /assets/images/2025-impact-stock-man-laptop-landscape.webp
