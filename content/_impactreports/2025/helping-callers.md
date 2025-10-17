@@ -21,7 +21,7 @@ pre-title-btn:
 
 ## Snapshot
 
-With four being added over the past year, we’ve now upgraded 13 state agency call centers which have seen a 6 to 15 percent jump in callers who connect with an agent. Caller queues for many centers have dropped from over 30 minutes to about two minutes. We’re cutting costs roughly in half for many centers, while handling about 10 million calls over the past year. We also started using AI to analyze call transcripts so that the caller menus reflect options people need, and we launched a pilot of live chat to provide quicker and more convenient help.
+With four being added over the past year, we’ve now upgraded 13 state agency call centers which have seen a 6 to 15 percent jump in callers who connect with an agent. Caller queues for many centers have dropped from over 30 minutes to about two minutes in wait time. We’re cutting costs roughly in half for many centers, while handling about 10 million calls over the past year. We also started using AI to analyze call transcripts so that the caller menus reflect options people need, and we launched a pilot of live chat to provide quicker and more convenient help.
 
 ## What They're Saying
 
